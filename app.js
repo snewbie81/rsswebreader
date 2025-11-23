@@ -212,6 +212,21 @@ class RSSReader {
         if (googleSignInBtn) {
             googleSignInBtn.addEventListener('click', () => this.signInWithGoogle());
         }
+        
+        // Add event delegation for article links to ensure they work properly
+        // This prevents any potential interference from parent click handlers
+        // Only add once - check if already added
+        if (!this._articleLinkHandlerAdded) {
+            document.addEventListener('click', (e) => {
+                const articleLink = e.target.closest('a.article-link');
+                if (articleLink && articleLink.hasAttribute('href')) {
+                    // Let the browser handle the link normally (target="_blank" will work)
+                    // We just ensure no parent handlers interfere
+                    e.stopPropagation();
+                }
+            }, true); // Use capture phase to catch it early
+            this._articleLinkHandlerAdded = true;
+        }
     }
 
     loadData() {
@@ -346,14 +361,27 @@ class RSSReader {
             return;
         }
 
+        // Show loading state
+        const addButton = document.getElementById('confirmAddFeedBtn');
+        if (!addButton) {
+            console.error('Add Feed button not found');
+            return;
+        }
+        
+        const originalButtonText = addButton.textContent;
+        addButton.disabled = true;
+        addButton.textContent = 'Adding...';
+
+        // Check if feed already exists before trying to fetch
+        if (this.feeds.some(f => f.url === url)) {
+            addButton.disabled = false;
+            addButton.textContent = originalButtonText;
+            alert('This feed is already added');
+            return;
+        }
+
         try {
             const feed = await this.fetchFeed(url);
-            
-            // Check if feed already exists
-            if (this.feeds.some(f => f.url === url)) {
-                alert('This feed is already added');
-                return;
-            }
 
             this.feeds.push(feed);
 
@@ -370,11 +398,33 @@ class RSSReader {
             this.showNotification('Feed added successfully!', 'success');
         } catch (error) {
             console.error('Error adding feed:', error);
-            alert('Failed to add feed. Please check the URL and try again.');
+            let errorMessage = 'Failed to add feed. ';
+            
+            if (error.message.includes('Invalid feed URL')) {
+                errorMessage += 'Please check the URL format.';
+            } else if (error.name === 'TypeError' || error.message.includes('Failed to fetch')) {
+                errorMessage += 'Unable to connect to the feed. Please check the URL or try again later.';
+            } else if (error.name === 'AbortError') {
+                errorMessage += 'The request timed out. The feed may be too slow or unavailable.';
+            } else if (error.message.includes('Failed to parse feed')) {
+                errorMessage += 'The URL does not appear to be a valid RSS feed.';
+            } else {
+                errorMessage += error.message || 'Please try again.';
+            }
+            
+            alert(errorMessage);
+        } finally {
+            // Restore button state
+            addButton.disabled = false;
+            addButton.textContent = originalButtonText;
         }
     }
 
-    async fetchFeed(url) {
+    async fetchFeed(url, retryCount = 0) {
+        const MAX_RETRIES = 2;
+        const RETRY_DELAY = 1000; // 1 second
+        const REQUEST_TIMEOUT = 15000; // 15 seconds
+        
         // Validate URL before sending to third-party service
         try {
             const parsedUrl = new URL(url);
@@ -395,29 +445,59 @@ class RSSReader {
             throw new Error('Invalid feed URL: ' + error.message);
         }
 
-        // Using RSS2JSON service as a CORS proxy
-        // Note: This sends feed URLs to a third-party service (rss2json.com)
-        // For production use, consider implementing server-side RSS parsing for better privacy
-        const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
-        
-        const response = await fetch(apiUrl);
-        if (!response.ok) {
-            throw new Error('Failed to fetch feed');
-        }
+        // Create AbortController for timeout handling (better browser support)
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
 
-        const data = await response.json();
-        
-        if (data.status !== 'ok') {
-            throw new Error(data.message || 'Failed to parse feed');
-        }
+        try {
+            // Using RSS2JSON service as a CORS proxy
+            // Note: This sends feed URLs to a third-party service (rss2json.com)
+            // For production use, consider implementing server-side RSS parsing for better privacy
+            const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
+            
+            const response = await fetch(apiUrl, {
+                method: 'GET',
+                headers: {
+                    'Accept': 'application/json',
+                },
+                signal: controller.signal
+            });
+            
+            clearTimeout(timeoutId);
+            
+            if (!response.ok) {
+                throw new Error(`Failed to fetch feed: HTTP ${response.status}`);
+            }
 
-        return {
-            url: url,
-            title: data.feed.title || 'Untitled Feed',
-            description: data.feed.description || '',
-            link: data.feed.link || '',
-            items: data.items || []
-        };
+            const data = await response.json();
+            
+            if (data.status !== 'ok') {
+                throw new Error(data.message || 'Failed to parse feed');
+            }
+
+            return {
+                url: url,
+                title: data.feed.title || 'Untitled Feed',
+                description: data.feed.description || '',
+                link: data.feed.link || '',
+                items: data.items || []
+            };
+        } catch (error) {
+            clearTimeout(timeoutId);
+            
+            // Retry logic for transient failures (network errors, temporary unavailability)
+            // Note: We do NOT retry timeout errors (AbortError) as they indicate the server 
+            // is unresponsive or the request is taking too long
+            if (retryCount < MAX_RETRIES && 
+                (error.name === 'TypeError' || error.message.includes('Failed to fetch'))) {
+                console.log(`Retrying feed fetch (attempt ${retryCount + 1}/${MAX_RETRIES})...`);
+                // Exponential backoff: 1s after first failure, 2s after second failure
+                const delay = RETRY_DELAY * Math.pow(2, retryCount);
+                await new Promise(resolve => setTimeout(resolve, delay));
+                return this.fetchFeed(url, retryCount + 1);
+            }
+            throw error;
+        }
     }
 
     async refreshFeed(feedUrl) {
