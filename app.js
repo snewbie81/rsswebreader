@@ -1278,21 +1278,21 @@ class RSSReader {
                 // Merge feeds from both sources to prevent data loss
                 // Keep local feeds and add any feeds from Supabase that aren't already present
                 if (data.feeds && Array.isArray(data.feeds)) {
-                    const localFeedUrls = new Set(this.feeds.map(f => f.url));
-                    const supabaseFeeds = data.feeds.filter(f => !localFeedUrls.has(f.url));
+                    const localFeedUrls = new Set(this.feeds.map(f => f?.url).filter(Boolean));
+                    const supabaseFeeds = data.feeds.filter(f => f?.url && !localFeedUrls.has(f.url));
                     this.feeds = [...this.feeds, ...supabaseFeeds];
                 }
                 
                 // Merge groups from both sources
                 if (data.groups && Array.isArray(data.groups)) {
-                    const localGroupIds = new Set(this.groups.map(g => g.id));
-                    const supabaseGroups = data.groups.filter(g => !localGroupIds.has(g.id));
+                    const localGroupIds = new Set(this.groups.map(g => g?.id).filter(Boolean));
+                    const supabaseGroups = data.groups.filter(g => g?.id && !localGroupIds.has(g.id));
                     this.groups = [...this.groups, ...supabaseGroups];
                 }
                 
                 // Merge read articles (union of both sets)
                 if (data.read_articles && Array.isArray(data.read_articles)) {
-                    data.read_articles.forEach(articleId => this.readArticles.add(articleId));
+                    data.read_articles.filter(id => id != null).forEach(articleId => this.readArticles.add(articleId));
                 }
                 
                 // Keep other settings from Supabase only if not already set locally
