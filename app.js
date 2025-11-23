@@ -11,6 +11,10 @@ class RSSReader {
         this.hideRead = false;
         this.darkMode = false;
         this.sidebarCollapsed = false;
+        this.contentSource = 'feed'; // 'feed', 'webpage', or 'inline'
+        this.user = null;
+        this.syncEnabled = false;
+        this.INLINE_TEXT_MAX_LENGTH = 500; // Maximum length for inline text preview
         this.init();
     }
 
@@ -54,6 +58,31 @@ class RSSReader {
         if (syncAllBtn) {
             syncAllBtn.addEventListener('click', () => this.syncAllFeeds());
         }
+
+        const loginBtn = document.getElementById('loginBtn');
+        if (loginBtn) {
+            loginBtn.addEventListener('click', () => this.showModal('loginModal'));
+        }
+
+        const confirmLoginBtn = document.getElementById('confirmLoginBtn');
+        if (confirmLoginBtn) {
+            confirmLoginBtn.addEventListener('click', () => this.login());
+        }
+
+        const confirmRegisterBtn = document.getElementById('confirmRegisterBtn');
+        if (confirmRegisterBtn) {
+            confirmRegisterBtn.addEventListener('click', () => this.register());
+        }
+
+        const logoutBtn = document.getElementById('logoutBtn');
+        if (logoutBtn) {
+            logoutBtn.addEventListener('click', () => this.logout());
+        }
+
+        const contentSourceSelect = document.getElementById('contentSourceSelect');
+        if (contentSourceSelect) {
+            contentSourceSelect.addEventListener('change', (e) => this.changeContentSource(e.target.value));
+        }
         
         document.getElementById('feedUrlInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') this.addFeed();
@@ -65,6 +94,13 @@ class RSSReader {
                 if (e.key === 'Enter') this.addGroup();
             });
         }
+
+        const loginPasswordInput = document.getElementById('loginPasswordInput');
+        if (loginPasswordInput) {
+            loginPasswordInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') this.login();
+            });
+        }
     }
 
     loadData() {
@@ -74,6 +110,8 @@ class RSSReader {
         const savedHideRead = localStorage.getItem('rss_hide_read');
         const savedDarkMode = localStorage.getItem('rss_dark_mode');
         const savedSidebarCollapsed = localStorage.getItem('rss_sidebar_collapsed');
+        const savedContentSource = localStorage.getItem('rss_content_source');
+        const savedUser = localStorage.getItem('rss_user');
 
         if (savedFeeds) {
             this.feeds = JSON.parse(savedFeeds);
@@ -109,6 +147,19 @@ class RSSReader {
                 document.querySelector('.sidebar')?.classList.add('collapsed');
             }
         }
+
+        if (savedContentSource) {
+            this.contentSource = savedContentSource;
+            const contentSourceSelect = document.getElementById('contentSourceSelect');
+            if (contentSourceSelect) {
+                contentSourceSelect.value = this.contentSource;
+            }
+        }
+
+        if (savedUser) {
+            this.user = JSON.parse(savedUser);
+            this.updateUserUI();
+        }
     }
 
     saveData() {
@@ -118,6 +169,15 @@ class RSSReader {
         localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
         localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
         localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
+        localStorage.setItem('rss_content_source', this.contentSource);
+        if (this.user) {
+            localStorage.setItem('rss_user', JSON.stringify(this.user));
+        }
+        
+        // Sync to server if logged in
+        if (this.user && this.syncEnabled) {
+            this.syncToServer();
+        }
     }
 
     showModal(modalId) {
@@ -551,17 +611,225 @@ class RSSReader {
     }
 
     async extractFullText(url, fallbackContent) {
-        // Full-text extraction placeholder
-        // The RSS feed content/description is used directly
-        // For enhanced full-text extraction, integrate with services like:
-        // - Mercury Parser (https://github.com/postlight/mercury-parser)
-        // - Mozilla Readability (https://github.com/mozilla/readability)
-        // - Diffbot (https://www.diffbot.com/)
-        // - Custom server-side extraction service
+        // Full-text extraction based on content source setting
+        if (this.contentSource === 'inline') {
+            // Use inline text - strip HTML and return plain text summary
+            const stripped = this.stripHtml(fallbackContent);
+            const maxLength = this.INLINE_TEXT_MAX_LENGTH;
+            return stripped.substring(0, maxLength) + (stripped.length > maxLength ? '...' : '');
+        } else if (this.contentSource === 'feed') {
+            // Use feed text (default - full content from RSS feed)
+            return fallbackContent;
+        } else if (this.contentSource === 'webpage') {
+            // Extract from webpage - would require a service or API
+            // For now, indicate this feature and fall back to feed content
+            // In production, integrate with services like:
+            // - Mercury Parser
+            // - Mozilla Readability
+            // - Custom extraction service
+            return '<p><em>Note: Webpage text extraction requires additional service integration. Showing feed content.</em></p>' + fallbackContent;
+        }
         
-        // Basic enhancement: ensure we use the longer content field if available
-        // Many RSS feeds provide both 'content' and 'description' fields
         return fallbackContent;
+    }
+
+    changeContentSource(source) {
+        this.contentSource = source;
+        this.saveData();
+        this.showNotification(`Content source changed to ${source}`, 'success');
+        
+        // Clear cached content so it will be re-extracted with new source
+        this.articles.forEach(article => {
+            delete article._cachedFullContent;
+        });
+    }
+
+    async login() {
+        const emailInput = document.getElementById('loginEmailInput');
+        const passwordInput = document.getElementById('loginPasswordInput');
+        const email = emailInput.value.trim();
+        const password = passwordInput.value;
+
+        if (!email || !password) {
+            alert('Please enter both email and password');
+            return;
+        }
+
+        if (password.length < 6) {
+            alert('Password must be at least 6 characters');
+            return;
+        }
+
+        try {
+            // Simulate login - in production, this would call a real API
+            // For demo purposes, we'll use localStorage as a simple auth mechanism
+            const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
+            
+            if (!storedUsers[email]) {
+                alert('User not found. Please register first.');
+                return;
+            }
+
+            if (storedUsers[email].password !== this.hashPassword(password)) {
+                alert('Invalid password');
+                return;
+            }
+
+            this.user = { email };
+            this.syncEnabled = true;
+            this.saveData();
+            this.updateUserUI();
+            
+            emailInput.value = '';
+            passwordInput.value = '';
+            this.closeModal('loginModal');
+            
+            this.showNotification('Logged in successfully!', 'success');
+            
+            // Sync from server after login
+            await this.syncFromServer();
+        } catch (error) {
+            console.error('Login error:', error);
+            alert('Login failed. Please try again.');
+        }
+    }
+
+    async register() {
+        const emailInput = document.getElementById('loginEmailInput');
+        const passwordInput = document.getElementById('loginPasswordInput');
+        const email = emailInput.value.trim();
+        const password = passwordInput.value;
+
+        if (!email || !password) {
+            alert('Please enter both email and password');
+            return;
+        }
+
+        if (password.length < 6) {
+            alert('Password must be at least 6 characters');
+            return;
+        }
+
+        if (!email.includes('@') || !email.includes('.')) {
+            alert('Please enter a valid email address');
+            return;
+        }
+
+        try {
+            // Simulate registration - in production, this would call a real API
+            const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
+            
+            if (storedUsers[email]) {
+                alert('User already exists. Please login instead.');
+                return;
+            }
+
+            storedUsers[email] = {
+                password: this.hashPassword(password),
+                createdAt: new Date().toISOString()
+            };
+
+            localStorage.setItem('rss_users', JSON.stringify(storedUsers));
+
+            this.user = { email };
+            this.syncEnabled = true;
+            this.saveData();
+            this.updateUserUI();
+            
+            emailInput.value = '';
+            passwordInput.value = '';
+            this.closeModal('loginModal');
+            
+            this.showNotification('Registered successfully!', 'success');
+        } catch (error) {
+            console.error('Registration error:', error);
+            alert('Registration failed. Please try again.');
+        }
+    }
+
+    logout() {
+        if (confirm('Are you sure you want to logout?')) {
+            this.user = null;
+            this.syncEnabled = false;
+            localStorage.removeItem('rss_user');
+            this.updateUserUI();
+            this.showNotification('Logged out successfully', 'success');
+        }
+    }
+
+    updateUserUI() {
+        const loginBtn = document.getElementById('loginBtn');
+        const userInfo = document.getElementById('userInfo');
+        const userEmail = document.getElementById('userEmail');
+
+        if (this.user) {
+            if (loginBtn) loginBtn.style.display = 'none';
+            if (userInfo) userInfo.style.display = 'flex';
+            if (userEmail) userEmail.textContent = this.user.email;
+        } else {
+            if (loginBtn) loginBtn.style.display = 'flex';
+            if (userInfo) userInfo.style.display = 'none';
+        }
+    }
+
+    hashPassword(password) {
+        // WARNING: This is a DEMO implementation only!
+        // DO NOT use in production. Use bcrypt, Argon2, or PBKDF2 with proper salting.
+        // This simple hash is for demonstration purposes to show the concept.
+        let hash = 0;
+        for (let i = 0; i < password.length; i++) {
+            const char = password.charCodeAt(i);
+            hash = ((hash << 5) - hash) + char;
+            hash = hash & hash;
+        }
+        return hash.toString();
+    }
+
+    async syncToServer() {
+        // In production, this would sync to a real server
+        // For demo, we'll store in localStorage with user prefix
+        if (!this.user) return;
+
+        const syncData = {
+            feeds: this.feeds,
+            groups: this.groups,
+            readArticles: [...this.readArticles],
+            hideRead: this.hideRead,
+            darkMode: this.darkMode,
+            contentSource: this.contentSource,
+            lastSync: new Date().toISOString()
+        };
+
+        localStorage.setItem(`rss_sync_${this.user.email}`, JSON.stringify(syncData));
+    }
+
+    async syncFromServer() {
+        // In production, this would sync from a real server
+        // For demo, we'll load from localStorage with user prefix
+        if (!this.user) return;
+
+        try {
+            const syncData = localStorage.getItem(`rss_sync_${this.user.email}`);
+            if (syncData) {
+                const data = JSON.parse(syncData);
+                
+                // Merge data (prefer server data)
+                this.feeds = data.feeds || this.feeds;
+                this.groups = data.groups || this.groups;
+                this.readArticles = new Set(data.readArticles || []);
+                this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
+                this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
+                this.contentSource = data.contentSource || this.contentSource;
+
+                this.saveData();
+                this.renderFeeds();
+                this.renderArticles();
+                
+                this.showNotification('Synced from server!', 'success');
+            }
+        } catch (error) {
+            console.error('Sync error:', error);
+        }
     }
 
     async importOpml() {

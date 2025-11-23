@@ -23,21 +23,36 @@
                 </button>
                 <h1>RSS Web Reader</h1>
             </div>
-            <div class="header-controls">
-                <label class="toggle-container">
-                    <input type="checkbox" id="darkModeToggle">
-                    <span class="toggle-label">Dark Mode</span>
-                </label>
-                <label class="toggle-container">
-                    <input type="checkbox" id="hideReadToggle">
-                    <span class="toggle-label">Hide Read</span>
-                </label>
-            </div>
         </header>
 
         <div class="main-content">
             <aside class="sidebar">
                 <div class="sidebar-controls">
+                    <div class="sidebar-user-section">
+                        <button id="loginBtn" class="btn btn-primary btn-block" title="Login/Register">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                                <circle cx="12" cy="7" r="4"></circle>
+                            </svg>
+                            Login
+                        </button>
+                        <div id="userInfo" class="user-info" style="display: none;">
+                            <div class="user-avatar">
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                                    <circle cx="12" cy="7" r="4"></circle>
+                                </svg>
+                            </div>
+                            <span id="userEmail" class="user-email"></span>
+                            <button id="logoutBtn" class="btn-icon" title="Logout">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+                                    <polyline points="16 17 21 12 16 7"></polyline>
+                                    <line x1="21" y1="12" x2="9" y2="12"></line>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
                     <button id="addFeedBtn" class="btn btn-primary btn-block" title="Add RSS Feed">
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                             <line x1="12" y1="5" x2="12" y2="19"></line>
@@ -76,6 +91,24 @@
                             </svg>
                             Export
                         </button>
+                    </div>
+                    <div class="sidebar-settings">
+                        <label class="toggle-container">
+                            <input type="checkbox" id="darkModeToggle">
+                            <span class="toggle-label">AMOLED Mode</span>
+                        </label>
+                        <label class="toggle-container">
+                            <input type="checkbox" id="hideReadToggle">
+                            <span class="toggle-label">Hide Read</span>
+                        </label>
+                        <div class="content-source-selector">
+                            <label class="toggle-label">Content Source:</label>
+                            <select id="contentSourceSelect" class="input-field">
+                                <option value="feed">Feed Text</option>
+                                <option value="webpage">Webpage Text</option>
+                                <option value="inline">Inline Text</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
                 
@@ -181,6 +214,32 @@
     </div>
 
     <input type="file" id="hiddenOpmlInput" accept=".opml,.xml" style="display: none;">
+
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Login / Register</h3>
+                <button class="btn-close" onclick="closeModal('loginModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="email" id="loginEmailInput" placeholder="Enter your email" class="input-field">
+                <p class="help-text">Enter your email to sync your feeds across devices</p>
+                <input type="password" id="loginPasswordInput" placeholder="Enter your password" class="input-field" style="margin-top: 1rem;">
+                <p class="help-text">Password (min 6 characters)</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('loginModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmLoginBtn">Login</button>
+                <button class="btn btn-secondary" id="confirmRegisterBtn">Register</button>
+            </div>
+        </div>
+    </div>
 
     <script src="app.js"></script>
 </body>
