@@ -395,8 +395,10 @@ class RSSReader {
             
             if (error.message.includes('Invalid feed URL')) {
                 errorMessage += 'Please check the URL format.';
-            } else if (error.message.includes('Failed to fetch')) {
+            } else if (error.message.includes('Failed to fetch') || error.name === 'TypeError') {
                 errorMessage += 'Unable to connect to the feed. Please check the URL or try again later.';
+            } else if (error.name === 'AbortError') {
+                errorMessage += 'The request timed out. The feed may be too slow or unavailable.';
             } else if (error.message.includes('Failed to parse feed')) {
                 errorMessage += 'The URL does not appear to be a valid RSS feed.';
             } else {
@@ -476,13 +478,13 @@ class RSSReader {
         } catch (error) {
             clearTimeout(timeoutId);
             
-            // Retry logic for transient failures
+            // Retry logic for transient failures (network errors, temporary unavailability)
+            // Note: We do NOT retry timeout errors (AbortError) as they indicate the server 
+            // is unresponsive or the request is taking too long
             if (retryCount < MAX_RETRIES && 
-                (error.name === 'TypeError' || 
-                 error.message.includes('Failed to fetch') || 
-                 error.name === 'AbortError')) { // AbortController.abort() throws AbortError
+                (error.name === 'TypeError' || error.message.includes('Failed to fetch'))) {
                 console.log(`Retrying feed fetch (attempt ${retryCount + 1}/${MAX_RETRIES})...`);
-                // Exponential backoff: retry 1 after 1s, retry 2 after 2s
+                // Exponential backoff: 1s after first failure, 2s after second failure
                 const delay = RETRY_DELAY * Math.pow(2, retryCount);
                 await new Promise(resolve => setTimeout(resolve, delay));
                 return this.fetchFeed(url, retryCount + 1);
