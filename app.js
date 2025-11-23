@@ -212,6 +212,36 @@ class RSSReader {
         if (googleSignInBtn) {
             googleSignInBtn.addEventListener('click', () => this.signInWithGoogle());
         }
+
+        // Rename and move feed/group event listeners
+        const confirmRenameFeedBtn = document.getElementById('confirmRenameFeedBtn');
+        if (confirmRenameFeedBtn) {
+            confirmRenameFeedBtn.addEventListener('click', () => this.renameFeed());
+        }
+
+        const confirmRenameGroupBtn = document.getElementById('confirmRenameGroupBtn');
+        if (confirmRenameGroupBtn) {
+            confirmRenameGroupBtn.addEventListener('click', () => this.renameGroup());
+        }
+
+        const confirmMoveFeedBtn = document.getElementById('confirmMoveFeedBtn');
+        if (confirmMoveFeedBtn) {
+            confirmMoveFeedBtn.addEventListener('click', () => this.moveFeed());
+        }
+
+        const renameFeedInput = document.getElementById('renameFeedInput');
+        if (renameFeedInput) {
+            renameFeedInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') this.renameFeed();
+            });
+        }
+
+        const renameGroupInput = document.getElementById('renameGroupInput');
+        if (renameGroupInput) {
+            renameGroupInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') this.renameGroup();
+            });
+        }
         
         // Add event delegation for article links to ensure they work properly
         // This prevents any potential interference from parent click handlers
@@ -574,6 +604,12 @@ class RSSReader {
                             <span class="group-name">${this.escapeHtml(group.name)}</span>
                         </div>
                         ${totalUnread > 0 ? `<span class="feed-unread">${totalUnread}</span>` : ''}
+                        <button class="btn-icon" onclick="event.stopPropagation(); rssReader.showRenameGroupModal('${group.id}')" title="Rename Group">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                                <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                            </svg>
+                        </button>
                         <button class="btn-icon" onclick="event.stopPropagation(); rssReader.deleteGroup('${group.id}')" title="Delete Group">
                             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                 <polyline points="3 6 5 6 21 6"></polyline>
@@ -595,6 +631,17 @@ class RSSReader {
                         </div>
                         ${unreadCount > 0 ? `<span class="feed-unread">${unreadCount}</span>` : ''}
                         <div class="feed-actions">
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.showRenameFeedModal('${feed.url}')" title="Rename">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                                    <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                                </svg>
+                            </button>
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.showMoveFeedModal('${feed.url}')" title="Move to Group">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                                </svg>
+                            </button>
                             <button class="btn-icon" onclick="event.stopPropagation(); rssReader.refreshFeed('${feed.url}')" title="Refresh">
                                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <polyline points="23 4 23 10 17 10"></polyline>
@@ -636,6 +683,17 @@ class RSSReader {
                         </div>
                         ${unreadCount > 0 ? `<span class="feed-unread">${unreadCount}</span>` : ''}
                         <div class="feed-actions">
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.showRenameFeedModal('${feed.url}')" title="Rename">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                                    <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+                                </svg>
+                            </button>
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.showMoveFeedModal('${feed.url}')" title="Move to Group">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                                </svg>
+                            </button>
                             <button class="btn-icon" onclick="event.stopPropagation(); rssReader.refreshFeed('${feed.url}')" title="Refresh">
                                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <polyline points="23 4 23 10 17 10"></polyline>
@@ -1560,6 +1618,114 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             this.renderFeeds();
             this.showNotification('Group deleted', 'success');
         }
+    }
+
+    showRenameFeedModal(feedUrl) {
+        const feed = this.feeds.find(f => f.url === feedUrl);
+        if (!feed) return;
+        
+        const input = document.getElementById('renameFeedInput');
+        if (input) {
+            input.value = feed.title;
+            input.dataset.feedUrl = feedUrl;
+        }
+        this.showModal('renameFeedModal');
+    }
+
+    renameFeed() {
+        const input = document.getElementById('renameFeedInput');
+        const newName = input.value.trim();
+        const feedUrl = input.dataset.feedUrl;
+        
+        if (!newName) {
+            alert('Please enter a feed name');
+            return;
+        }
+        
+        const feed = this.feeds.find(f => f.url === feedUrl);
+        if (feed) {
+            feed.title = newName;
+            this.saveData();
+            this.renderFeeds();
+            this.closeModal('renameFeedModal');
+            this.showNotification('Feed renamed successfully!', 'success');
+        }
+    }
+
+    showRenameGroupModal(groupId) {
+        const group = this.groups.find(g => g.id === groupId);
+        if (!group) return;
+        
+        const input = document.getElementById('renameGroupInput');
+        if (input) {
+            input.value = group.name;
+            input.dataset.groupId = groupId;
+        }
+        this.showModal('renameGroupModal');
+    }
+
+    renameGroup() {
+        const input = document.getElementById('renameGroupInput');
+        const newName = input.value.trim();
+        const groupId = input.dataset.groupId;
+        
+        if (!newName) {
+            alert('Please enter a group name');
+            return;
+        }
+        
+        // Check if another group with this name exists (excluding current group)
+        if (this.groups.some(g => g.name === newName && g.id !== groupId)) {
+            alert('A group with this name already exists');
+            return;
+        }
+        
+        const group = this.groups.find(g => g.id === groupId);
+        if (group) {
+            group.name = newName;
+            this.saveData();
+            this.renderFeeds();
+            this.closeModal('renameGroupModal');
+            this.showNotification('Group renamed successfully!', 'success');
+        }
+    }
+
+    showMoveFeedModal(feedUrl) {
+        const feed = this.feeds.find(f => f.url === feedUrl);
+        if (!feed) return;
+        
+        // Populate the group select dropdown
+        const groupSelect = document.getElementById('moveFeedGroupSelect');
+        if (groupSelect) {
+            groupSelect.innerHTML = '<option value="">No Group</option>' + 
+                this.groups.map(group => 
+                    `<option value="${group.id}">${this.escapeHtml(group.name)}</option>`
+                ).join('');
+            
+            // Set current group as selected
+            const currentGroup = this.groups.find(g => g.feedUrls.includes(feedUrl));
+            if (currentGroup) {
+                groupSelect.value = currentGroup.id;
+            } else {
+                groupSelect.value = '';
+            }
+            
+            groupSelect.dataset.feedUrl = feedUrl;
+        }
+        this.showModal('moveFeedModal');
+    }
+
+    moveFeed() {
+        const groupSelect = document.getElementById('moveFeedGroupSelect');
+        const feedUrl = groupSelect.dataset.feedUrl;
+        const newGroupId = groupSelect.value;
+        
+        this.assignFeedToGroup(feedUrl, newGroupId);
+        this.closeModal('moveFeedModal');
+        
+        const groupName = newGroupId ? 
+            this.groups.find(g => g.id === newGroupId)?.name : 'Ungrouped';
+        this.showNotification(`Feed moved to ${groupName}`, 'success');
     }
 
     assignFeedToGroup(feedUrl, groupId) {
