@@ -1,5 +1,8 @@
 // RSS Web Reader Application
 
+// Default settings constants
+const DEFAULT_HIDE_READ = true; // Default state for hiding read articles
+
 // Supabase error codes
 const SUPABASE_ERROR_CODES = {
     NO_ROWS: 'PGRST116', // No rows returned from query
@@ -17,7 +20,7 @@ class RSSReader {
         this.currentGroup = null;
         this.currentArticle = null;
         this.collapsedGroups = new Set();
-        this.hideRead = true; // Default to hiding read articles
+        this.hideRead = DEFAULT_HIDE_READ; // Default to hiding read articles
         this.darkMode = false;
         this.sidebarCollapsed = false;
         this.contentSource = 'feed'; // 'feed', 'webpage', or 'inline'
@@ -31,6 +34,7 @@ class RSSReader {
         this.INITIAL_SYNC_DELAY = 1000; // Delay before initial feed sync in ms (1 second)
         this.supabaseListenerFirstEvent = true; // Track first event in real-time listener
         this.isSyncing = false; // Flag to prevent concurrent sync operations
+        this.initialSyncTimeout = null; // Store timeout ID for cleanup
         this.init();
     }
 
@@ -45,7 +49,12 @@ class RSSReader {
         // Automatically sync all feeds on initialization if feeds exist
         if (this.feeds.length > 0) {
             // Delay to avoid blocking initial render
-            setTimeout(() => this.syncAllFeeds(), this.INITIAL_SYNC_DELAY);
+            this.initialSyncTimeout = setTimeout(() => {
+                // Check if still valid before syncing
+                if (this.feeds && this.feeds.length > 0) {
+                    this.syncAllFeeds();
+                }
+            }, this.INITIAL_SYNC_DELAY);
         }
     }
 
@@ -231,7 +240,7 @@ class RSSReader {
             this.hideRead = JSON.parse(savedHideRead);
         } else {
             // Default to true if no saved preference exists
-            this.hideRead = true;
+            this.hideRead = DEFAULT_HIDE_READ;
         }
         // Update the checkbox to reflect the current state
         const hideReadToggle = document.getElementById('hideReadToggle');
