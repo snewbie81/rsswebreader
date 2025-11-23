@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Modern RSS Web Reader with full-text extraction - Demo">
+    <meta name="theme-color" content="#1a73e8">
+    <title>RSS Web Reader - Demo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="icon-192.png">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>RSS Web Reader</h1>
+            <div class="header-controls">
+                <button id="addFeedBtn" class="btn btn-primary" title="Add RSS Feed">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="12" y1="5" x2="12" y2="19"></line>
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                    </svg>
+                    Add Feed
+                </button>
+                <button id="importOpmlBtn" class="btn btn-secondary" title="Import OPML">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="7 10 12 15 17 10"></polyline>
+                        <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>
+                    Import
+                </button>
+                <button id="exportOpmlBtn" class="btn btn-secondary" title="Export OPML">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="17 8 12 3 7 8"></polyline>
+                        <line x1="12" y1="3" x2="12" y2="15"></line>
+                    </svg>
+                    Export
+                </button>
+                <label class="toggle-container">
+                    <input type="checkbox" id="hideReadToggle">
+                    <span class="toggle-label">Hide Read</span>
+                </label>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="feeds-section">
+                    <h2>Feeds</h2>
+                    <div id="feedsList" class="feeds-list">
+                        <div class="feed-item active">
+                            <div class="feed-info">
+                                <div class="feed-title">Tech News</div>
+                            </div>
+                            <span class="feed-unread">5</span>
+                        </div>
+                        <div class="feed-item">
+                            <div class="feed-info">
+                                <div class="feed-title">Developer Blog</div>
+                            </div>
+                            <span class="feed-unread">3</span>
+                        </div>
+                        <div class="feed-item">
+                            <div class="feed-info">
+                                <div class="feed-title">Science Daily</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <main class="content-area">
+                <div id="articlesList" class="articles-list">
+                    <div class="article-card">
+                        <div class="article-header">
+                            <h3 class="article-title">New AI Breakthrough Transforms Machine Learning</h3>
+                            <div class="article-meta">
+                                <span class="article-source">Tech News</span>
+                                <span class="article-date">2h ago</span>
+                            </div>
+                        </div>
+                        <div class="article-excerpt">
+                            Researchers have developed a novel approach to machine learning that could revolutionize how AI systems learn and adapt. The new method shows promise in reducing training time...
+                        </div>
+                    </div>
+
+                    <div class="article-card">
+                        <div class="article-header">
+                            <h3 class="article-title">Understanding Modern Web Development in 2024</h3>
+                            <div class="article-meta">
+                                <span class="article-source">Developer Blog</span>
+                                <span class="article-date">5h ago</span>
+                            </div>
+                        </div>
+                        <div class="article-excerpt">
+                            The landscape of web development continues to evolve rapidly. This comprehensive guide explores the latest trends, tools, and best practices that every developer should know...
+                        </div>
+                    </div>
+
+                    <div class="article-card read">
+                        <div class="article-header">
+                            <h3 class="article-title">Space Telescope Discovers Potentially Habitable Exoplanet</h3>
+                            <div class="article-meta">
+                                <span class="article-source">Science Daily</span>
+                                <span class="article-date">1d ago</span>
+                            </div>
+                        </div>
+                        <div class="article-excerpt">
+                            Scientists using advanced space telescopes have identified a new exoplanet in the habitable zone of its star system. The planet shows several characteristics that could support...
+                        </div>
+                    </div>
+
+                    <div class="article-card">
+                        <div class="article-header">
+                            <h3 class="article-title">The Future of Progressive Web Applications</h3>
+                            <div class="article-meta">
+                                <span class="article-source">Tech News</span>
+                                <span class="article-date">1d ago</span>
+                            </div>
+                        </div>
+                        <div class="article-excerpt">
+                            Progressive Web Applications (PWAs) are bridging the gap between web and native apps. Learn how modern PWAs are delivering app-like experiences with the reach of the web...
+                        </div>
+                    </div>
+
+                    <div class="article-card read">
+                        <div class="article-header">
+                            <h3 class="article-title">Building Scalable APIs with Modern Architecture</h3>
+                            <div class="article-meta">
+                                <span class="article-source">Developer Blog</span>
+                                <span class="article-date">2d ago</span>
+                            </div>
+                        </div>
+                        <div class="article-excerpt">
+                            Designing and implementing scalable APIs requires careful consideration of architecture patterns. This article explores microservices, RESTful design, and GraphQL approaches...
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        // Simple demo script - just handle the hide read toggle
+        document.getElementById('hideReadToggle').addEventListener('change', (e) => {
+            const readArticles = document.querySelectorAll('.article-card.read');
+            readArticles.forEach(article => {
+                if (e.target.checked) {
+                    article.classList.add('hidden');
+                } else {
+                    article.classList.remove('hidden');
+                }
+            });
+        });
+
+        // Disable buttons in demo mode
+        ['addFeedBtn', 'importOpmlBtn', 'exportOpmlBtn'].forEach(id => {
+            document.getElementById(id).addEventListener('click', () => {
+                alert('This is a demo page. Please visit index.html for the full application.');
+            });
+        });
+    </script>
+</body>
+</html>
