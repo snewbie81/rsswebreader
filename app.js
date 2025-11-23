@@ -361,17 +361,24 @@ class RSSReader {
             return;
         }
 
-        // Check if feed already exists before trying to fetch
-        if (this.feeds.some(f => f.url === url)) {
-            alert('This feed is already added');
-            return;
-        }
-
         // Show loading state
         const addButton = document.getElementById('confirmAddFeedBtn');
+        if (!addButton) {
+            console.error('Add Feed button not found');
+            return;
+        }
+        
         const originalButtonText = addButton.textContent;
         addButton.disabled = true;
         addButton.textContent = 'Adding...';
+
+        // Check if feed already exists before trying to fetch
+        if (this.feeds.some(f => f.url === url)) {
+            addButton.disabled = false;
+            addButton.textContent = originalButtonText;
+            alert('This feed is already added');
+            return;
+        }
 
         try {
             const feed = await this.fetchFeed(url);
@@ -395,7 +402,7 @@ class RSSReader {
             
             if (error.message.includes('Invalid feed URL')) {
                 errorMessage += 'Please check the URL format.';
-            } else if (error.message.includes('Failed to fetch') || error.name === 'TypeError') {
+            } else if (error.name === 'TypeError' || error.message.includes('Failed to fetch')) {
                 errorMessage += 'Unable to connect to the feed. Please check the URL or try again later.';
             } else if (error.name === 'AbortError') {
                 errorMessage += 'The request timed out. The feed may be too slow or unavailable.';
@@ -404,6 +411,14 @@ class RSSReader {
             } else {
                 errorMessage += error.message || 'Please try again.';
             }
+            
+            alert(errorMessage);
+        } finally {
+            // Restore button state
+            addButton.disabled = false;
+            addButton.textContent = originalButtonText;
+        }
+    }
             
             alert(errorMessage);
         } finally {
