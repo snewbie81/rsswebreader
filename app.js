@@ -14,6 +14,7 @@ class RSSReader {
         this.contentSource = 'feed'; // 'feed', 'webpage', or 'inline'
         this.user = null;
         this.syncEnabled = false;
+        this.INLINE_TEXT_MAX_LENGTH = 500; // Maximum length for inline text preview
         this.init();
     }
 
@@ -614,7 +615,8 @@ class RSSReader {
         if (this.contentSource === 'inline') {
             // Use inline text - strip HTML and return plain text summary
             const stripped = this.stripHtml(fallbackContent);
-            return stripped.substring(0, 500) + (stripped.length > 500 ? '...' : '');
+            const maxLength = this.INLINE_TEXT_MAX_LENGTH;
+            return stripped.substring(0, maxLength) + (stripped.length > maxLength ? '...' : '');
         } else if (this.contentSource === 'feed') {
             // Use feed text (default - full content from RSS feed)
             return fallbackContent;
