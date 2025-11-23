@@ -414,6 +414,7 @@ class RSSReader {
     async fetchFeed(url, retryCount = 0) {
         const MAX_RETRIES = 2;
         const RETRY_DELAY = 1000; // 1 second
+        const REQUEST_TIMEOUT = 15000; // 15 seconds
         
         // Validate URL before sending to third-party service
         try {
@@ -435,6 +436,10 @@ class RSSReader {
             throw new Error('Invalid feed URL: ' + error.message);
         }
 
+        // Create AbortController for timeout handling (better browser support)
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+
         try {
             // Using RSS2JSON service as a CORS proxy
             // Note: This sends feed URLs to a third-party service (rss2json.com)
@@ -446,9 +451,10 @@ class RSSReader {
                 headers: {
                     'Accept': 'application/json',
                 },
-                // Add a timeout to prevent hanging requests
-                signal: AbortSignal.timeout(15000) // 15 second timeout
+                signal: controller.signal
             });
+            
+            clearTimeout(timeoutId);
             
             if (!response.ok) {
                 throw new Error(`Failed to fetch feed: HTTP ${response.status}`);
@@ -468,13 +474,15 @@ class RSSReader {
                 items: data.items || []
             };
         } catch (error) {
+            clearTimeout(timeoutId);
+            
             // Retry logic for transient failures
             if (retryCount < MAX_RETRIES && 
                 (error.name === 'TypeError' || 
                  error.message.includes('Failed to fetch') || 
-                 error.name === 'AbortError')) { // AbortSignal.timeout() throws AbortError
+                 error.name === 'AbortError')) { // AbortController.abort() throws AbortError
                 console.log(`Retrying feed fetch (attempt ${retryCount + 1}/${MAX_RETRIES})...`);
-                // Exponential backoff: 1st retry after 1s, 2nd retry after 2s
+                // Exponential backoff: retry 1 after 1s, retry 2 after 2s
                 const delay = RETRY_DELAY * Math.pow(2, retryCount);
                 await new Promise(resolve => setTimeout(resolve, delay));
                 return this.fetchFeed(url, retryCount + 1);
