@@ -21,6 +21,7 @@ class RSSReader {
         this.firestoreUnsubscribe = null; // Store the unsubscribe function for Firestore listener
         this.syncDebounceTimer = null; // Timer for debouncing Firestore sync
         this.SYNC_DEBOUNCE_DELAY = 1000; // Debounce delay in ms (1 second)
+        this.firestoreListenerFirstSnapshot = true; // Track first snapshot in real-time listener
         this.init();
     }
 
@@ -1008,13 +1009,13 @@ class RSSReader {
             if (docSnap.exists()) {
                 const data = docSnap.data();
                 
-                // Merge data (prefer Firestore data)
-                this.feeds = data.feeds || this.feeds;
-                this.groups = data.groups || this.groups;
-                this.readArticles = new Set(data.readArticles || []);
+                // Merge data (prefer Firestore data, use nullish coalescing for proper array handling)
+                this.feeds = data.feeds ?? this.feeds;
+                this.groups = data.groups ?? this.groups;
+                this.readArticles = new Set(data.readArticles ?? []);
                 this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
                 this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
-                this.contentSource = data.contentSource || this.contentSource;
+                this.contentSource = data.contentSource ?? this.contentSource;
                 this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
 
                 // Update localStorage
@@ -1050,27 +1051,27 @@ class RSSReader {
                 this.firestoreUnsubscribe();
             }
 
-            // Track if this is the first snapshot (to avoid initial update on listener setup)
-            let isFirstSnapshot = true;
+            // Reset first snapshot flag
+            this.firestoreListenerFirstSnapshot = true;
 
             // Listen for real-time updates
             this.firestoreUnsubscribe = window.firebaseModules.onSnapshot(docRef, (doc) => {
                 // Skip the first snapshot (initial data load)
-                if (isFirstSnapshot) {
-                    isFirstSnapshot = false;
+                if (this.firestoreListenerFirstSnapshot) {
+                    this.firestoreListenerFirstSnapshot = false;
                     return;
                 }
                 
                 if (doc.exists()) {
                     const data = doc.data();
                     
-                    // Update local state with Firestore data
-                    this.feeds = data.feeds || this.feeds;
-                    this.groups = data.groups || this.groups;
-                    this.readArticles = new Set(data.readArticles || []);
+                    // Update local state with Firestore data (use nullish coalescing for proper array handling)
+                    this.feeds = data.feeds ?? this.feeds;
+                    this.groups = data.groups ?? this.groups;
+                    this.readArticles = new Set(data.readArticles ?? []);
                     this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
                     this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
-                    this.contentSource = data.contentSource || this.contentSource;
+                    this.contentSource = data.contentSource ?? this.contentSource;
                     this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
 
                     // Update localStorage (without triggering another Firestore sync)
