@@ -2,7 +2,7 @@
     "name": "RSS Web Reader",
     "short_name": "RSS Reader",
     "description": "Modern RSS Web Reader with full-text extraction",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#1a73e8",
