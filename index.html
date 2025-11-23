@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Modern RSS Web Reader with full-text extraction">
+    <meta name="theme-color" content="#1a73e8">
+    <title>RSS Web Reader</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="icon-192.png">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>RSS Web Reader</h1>
+            <div class="header-controls">
+                <button id="addFeedBtn" class="btn btn-primary" title="Add RSS Feed">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="12" y1="5" x2="12" y2="19"></line>
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                    </svg>
+                    Add Feed
+                </button>
+                <button id="importOpmlBtn" class="btn btn-secondary" title="Import OPML">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="7 10 12 15 17 10"></polyline>
+                        <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>
+                    Import
+                </button>
+                <button id="exportOpmlBtn" class="btn btn-secondary" title="Export OPML">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                        <polyline points="17 8 12 3 7 8"></polyline>
+                        <line x1="12" y1="3" x2="12" y2="15"></line>
+                    </svg>
+                    Export
+                </button>
+                <label class="toggle-container">
+                    <input type="checkbox" id="hideReadToggle">
+                    <span class="toggle-label">Hide Read</span>
+                </label>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="feeds-section">
+                    <h2>Feeds</h2>
+                    <div id="feedsList" class="feeds-list">
+                        <p class="empty-state">No feeds added yet. Click "Add Feed" to get started!</p>
+                    </div>
+                </div>
+            </aside>
+
+            <main class="content-area">
+                <div id="articlesList" class="articles-list">
+                    <div class="welcome-message">
+                        <h2>Welcome to RSS Web Reader</h2>
+                        <p>Add your first RSS feed to start reading!</p>
+                        <p>Features:</p>
+                        <ul>
+                            <li>Smart full-text extraction</li>
+                            <li>Clean, ad-free interface</li>
+                            <li>Hide read articles</li>
+                            <li>OPML import/export</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div id="articleView" class="article-view" style="display: none;">
+                    <button id="closeArticleBtn" class="btn-close">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="6" x2="6" y2="18"></line>
+                            <line x1="6" y1="6" x2="18" y2="18"></line>
+                        </svg>
+                    </button>
+                    <article id="articleContent" class="article-content">
+                        <!-- Article content will be loaded here -->
+                    </article>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Add Feed Modal -->
+    <div id="addFeedModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Add RSS Feed</h3>
+                <button class="btn-close" onclick="closeModal('addFeedModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="url" id="feedUrlInput" placeholder="Enter RSS feed URL" class="input-field">
+                <p class="help-text">Example: https://example.com/feed.xml</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('addFeedModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmAddFeedBtn">Add Feed</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Import OPML Modal -->
+    <div id="importOpmlModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Import OPML</h3>
+                <button class="btn-close" onclick="closeModal('importOpmlModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="file" id="opmlFileInput" accept=".opml,.xml" class="input-field">
+                <p class="help-text">Select an OPML file to import your feeds</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('importOpmlModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmImportOpmlBtn">Import</button>
+            </div>
+        </div>
+    </div>
+
+    <input type="file" id="hiddenOpmlInput" accept=".opml,.xml" style="display: none;">
+
+    <script src="app.js"></script>
+</body>
+</html>
