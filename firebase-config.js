@@ -19,7 +19,9 @@
 // IMPORTANT: For production deployment, move these credentials to environment variables
 // and never commit real Firebase credentials to public repositories.
 
-// Your web app's Firebase configuration
+// Configuration constants
+const BASE_RETRY_DELAY = 100; // Base delay in ms for exponential backoff
+const MAX_RETRY_ATTEMPTS = 3; // Maximum number of initialization attempts
 const firebaseConfig = {
     apiKey: "YOUR_API_KEY",
     authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
@@ -60,12 +62,12 @@ function initializeFirebaseWhenReady() {
             window.firebaseAvailable = false;
         }
     } else {
-        // Retry with exponential backoff (max 3 attempts)
+        // Retry with exponential backoff
         if (!window.firebaseInitAttempts) window.firebaseInitAttempts = 0;
         window.firebaseInitAttempts++;
         
-        if (window.firebaseInitAttempts < 3) {
-            const delay = 100 * Math.pow(2, window.firebaseInitAttempts - 1);
+        if (window.firebaseInitAttempts < MAX_RETRY_ATTEMPTS) {
+            const delay = BASE_RETRY_DELAY * Math.pow(2, window.firebaseInitAttempts - 1);
             setTimeout(initializeFirebaseWhenReady, delay);
         } else {
             console.warn('Firebase modules not loaded after multiple attempts. Running in demo mode.');

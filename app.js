@@ -19,6 +19,8 @@ class RSSReader {
         this.INLINE_TEXT_MAX_LENGTH = 500; // Maximum length for inline text preview
         this.firebaseReady = false;
         this.firestoreUnsubscribe = null; // Store the unsubscribe function for Firestore listener
+        this.syncDebounceTimer = null; // Timer for debouncing Firestore sync
+        this.SYNC_DEBOUNCE_DELAY = 1000; // Debounce delay in ms (1 second)
         this.init();
     }
 
@@ -59,8 +61,16 @@ class RSSReader {
                     // First sync from Firestore to get latest data
                     await this.syncFromFirestore();
                     
-                    // Then save to localStorage (without triggering Firestore write)
+                    // Save user and synced data to localStorage
                     localStorage.setItem('rss_user', JSON.stringify(this.user));
+                    localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+                    localStorage.setItem('rss_groups', JSON.stringify(this.groups));
+                    localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
+                    localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+                    localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+                    localStorage.setItem('rss_content_source', this.contentSource);
+                    localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
+                    
                     this.updateUserUI();
                     
                     // Set up real-time sync listener
@@ -241,13 +251,25 @@ class RSSReader {
             localStorage.setItem('rss_user', JSON.stringify(this.user));
         }
         
-        // Sync to Firestore if logged in with Firebase
+        // Debounced sync to Firestore if logged in with Firebase
         if (this.user && this.syncEnabled && this.firebaseReady) {
-            this.syncToFirestore();
+            this.debouncedSyncToFirestore();
         } else if (this.user && this.syncEnabled) {
             // Fallback to localStorage sync (demo mode)
             this.syncToServer();
         }
+    }
+
+    debouncedSyncToFirestore() {
+        // Clear existing timer
+        if (this.syncDebounceTimer) {
+            clearTimeout(this.syncDebounceTimer);
+        }
+        
+        // Set new timer
+        this.syncDebounceTimer = setTimeout(async () => {
+            await this.syncToFirestore();
+        }, this.SYNC_DEBOUNCE_DELAY);
     }
 
     showModal(modalId) {
@@ -1028,45 +1050,43 @@ class RSSReader {
                 this.firestoreUnsubscribe();
             }
 
+            // Track if this is the first snapshot (to avoid initial update on listener setup)
+            let isFirstSnapshot = true;
+
             // Listen for real-time updates
             this.firestoreUnsubscribe = window.firebaseModules.onSnapshot(docRef, (doc) => {
+                // Skip the first snapshot (initial data load)
+                if (isFirstSnapshot) {
+                    isFirstSnapshot = false;
+                    return;
+                }
+                
                 if (doc.exists()) {
                     const data = doc.data();
                     
-                    // Only update if data changed (avoid loops)
-                    const hasChanges = 
-                        JSON.stringify(this.feeds) !== JSON.stringify(data.feeds) ||
-                        JSON.stringify(this.groups) !== JSON.stringify(data.groups) ||
-                        JSON.stringify([...this.readArticles]) !== JSON.stringify(data.readArticles) ||
-                        this.hideRead !== data.hideRead ||
-                        this.darkMode !== data.darkMode ||
-                        this.contentSource !== data.contentSource;
+                    // Update local state with Firestore data
+                    this.feeds = data.feeds || this.feeds;
+                    this.groups = data.groups || this.groups;
+                    this.readArticles = new Set(data.readArticles || []);
+                    this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
+                    this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
+                    this.contentSource = data.contentSource || this.contentSource;
+                    this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
 
-                    if (hasChanges) {
-                        // Update local state with Firestore data
-                        this.feeds = data.feeds || this.feeds;
-                        this.groups = data.groups || this.groups;
-                        this.readArticles = new Set(data.readArticles || []);
-                        this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
-                        this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
-                        this.contentSource = data.contentSource || this.contentSource;
-                        this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
+                    // Update localStorage (without triggering another Firestore sync)
+                    localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+                    localStorage.setItem('rss_groups', JSON.stringify(this.groups));
+                    localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
+                    localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+                    localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+                    localStorage.setItem('rss_content_source', this.contentSource);
+                    localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
 
-                        // Update localStorage
-                        localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
-                        localStorage.setItem('rss_groups', JSON.stringify(this.groups));
-                        localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
-                        localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
-                        localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
-                        localStorage.setItem('rss_content_source', this.contentSource);
-                        localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
-
-                        // Update UI
-                        this.renderFeeds();
-                        this.renderArticles();
-                        
-                        console.log('Real-time update received from Firestore');
-                    }
+                    // Update UI
+                    this.renderFeeds();
+                    this.renderArticles();
+                    
+                    console.log('Real-time update received from Firestore');
                 }
             }, (error) => {
                 console.error('Error listening to Firestore updates:', error);
