@@ -61,6 +61,9 @@ class RSSReader {
         
         // Set up automatic periodic refresh
         this.setupAutoRefresh();
+        
+        // Set up cleanup on page unload
+        window.addEventListener('beforeunload', () => this.cleanup());
     }
 
     initializeSupabase() {
