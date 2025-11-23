@@ -466,13 +466,16 @@ class RSSReader {
                     try {
                         let fullContent = article.content || article.description || '';
                         fullContent = await this.extractFullText(article.link, fullContent);
+                        
+                        // Sanitize the content to prevent XSS
+                        fullContent = this.sanitizeHtml(fullContent);
 
                         const contentHtml = `
                             <div class="article-body">
                                 ${fullContent}
                             </div>
                             <div class="article-footer">
-                                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                                <a href="${this.escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer" class="article-link">
                                     Read original article
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                         <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
@@ -488,12 +491,13 @@ class RSSReader {
                         expandedContent.innerHTML = contentHtml;
                     } catch (error) {
                         console.error('Error loading full content:', error);
+                        const fallbackContent = this.sanitizeHtml(article.content || article.description || 'Failed to load content');
                         const fallbackHtml = `
                             <div class="article-body">
-                                ${article.content || article.description || 'Failed to load content'}
+                                ${fallbackContent}
                             </div>
                             <div class="article-footer">
-                                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                                <a href="${this.escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer" class="article-link">
                                     Read original article
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                         <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
@@ -628,6 +632,88 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         return div.innerHTML;
     }
 
+    sanitizeHtml(html) {
+        // Create a temporary div to parse HTML
+        const temp = document.createElement('div');
+        temp.innerHTML = html;
+        
+        // Define allowed tags and attributes
+        const allowedTags = ['p', 'br', 'strong', 'em', 'u', 'a', 'img', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'ul', 'ol', 'li', 'blockquote', 'code', 'pre', 'span', 'div'];
+        const allowedAttributes = {
+            'a': ['href', 'title', 'target', 'rel'],
+            'img': ['src', 'alt', 'title', 'width', 'height'],
+            '*': ['class']
+        };
+
+        // Recursively clean nodes
+        const cleanNode = (node) => {
+            if (node.nodeType === Node.TEXT_NODE) {
+                return node.cloneNode();
+            }
+            
+            if (node.nodeType !== Node.ELEMENT_NODE) {
+                return null;
+            }
+
+            const tagName = node.tagName.toLowerCase();
+            
+            // Remove disallowed tags
+            if (!allowedTags.includes(tagName)) {
+                // For disallowed tags, keep their text content
+                const textNode = document.createTextNode(node.textContent);
+                return textNode;
+            }
+
+            // Create clean element
+            const cleanElement = document.createElement(tagName);
+            
+            // Copy allowed attributes
+            const tagAttributes = allowedAttributes[tagName] || [];
+            const globalAttributes = allowedAttributes['*'] || [];
+            const allowedAttrs = [...tagAttributes, ...globalAttributes];
+            
+            for (const attr of node.attributes) {
+                if (allowedAttrs.includes(attr.name)) {
+                    // Additional validation for href and src
+                    if (attr.name === 'href' || attr.name === 'src') {
+                        const value = attr.value.trim();
+                        // Only allow http, https, and relative URLs
+                        if (value.match(/^(https?:\/\/|\/)/i)) {
+                            cleanElement.setAttribute(attr.name, value);
+                        }
+                    } else {
+                        cleanElement.setAttribute(attr.name, attr.value);
+                    }
+                }
+            }
+
+            // Add rel="noopener noreferrer" to external links
+            if (tagName === 'a' && !cleanElement.hasAttribute('rel')) {
+                cleanElement.setAttribute('rel', 'noopener noreferrer');
+            }
+
+            // Recursively clean children
+            for (const child of node.childNodes) {
+                const cleanChild = cleanNode(child);
+                if (cleanChild) {
+                    cleanElement.appendChild(cleanChild);
+                }
+            }
+
+            return cleanElement;
+        };
+
+        const cleaned = document.createElement('div');
+        for (const child of temp.childNodes) {
+            const cleanChild = cleanNode(child);
+            if (cleanChild) {
+                cleaned.appendChild(cleanChild);
+            }
+        }
+
+        return cleaned.innerHTML;
+    }
+
     escapeXml(text) {
         return text
             .replace(/&/g, '&amp;')
@@ -717,7 +803,7 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             ].join('-');
         } else {
             // Final fallback for older browsers
-            id = 'group-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
+            id = 'group-' + Date.now() + '-' + Math.random().toString(36).slice(2, 11);
         }
 
         this.groups.push({

@@ -352,7 +352,7 @@ body {
     padding: 1.5rem;
     margin-bottom: 1rem;
     box-shadow: var(--shadow);
-    transition: all 0.2s;
+    transition: box-shadow 0.2s;
 }
 
 .article-card:hover {
