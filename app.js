@@ -28,6 +28,7 @@ class RSSReader {
         this.supabaseSubscription = null; // Store the subscription for real-time sync
         this.syncDebounceTimer = null; // Timer for debouncing sync
         this.SYNC_DEBOUNCE_DELAY = 1000; // Debounce delay in ms (1 second)
+        this.INITIAL_SYNC_DELAY = 1000; // Delay before initial feed sync in ms (1 second)
         this.supabaseListenerFirstEvent = true; // Track first event in real-time listener
         this.init();
     }
@@ -43,7 +44,7 @@ class RSSReader {
         // Automatically sync all feeds on initialization if feeds exist
         if (this.feeds.length > 0) {
             // Delay to avoid blocking initial render
-            setTimeout(() => this.syncAllFeeds(), 1000);
+            setTimeout(() => this.syncAllFeeds(), this.INITIAL_SYNC_DELAY);
         }
     }
 
