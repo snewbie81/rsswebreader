@@ -28,14 +28,15 @@ function validateConfig() {
     // Check for placeholder/example values that indicate configuration is not complete
     const hasPlaceholderUrl = supabaseConfig.url === "YOUR_PROJECT_URL" || 
                                supabaseConfig.url === "https://xxxxxxxxxxxxx.supabase.co" ||
-                               supabaseConfig.url.includes("xxxxxxxxxxxxx") ||
+                               /https?:\/\/x+\.supabase\.co/.test(supabaseConfig.url) ||
                                supabaseConfig.url === "";
     
     const hasPlaceholderKey = supabaseConfig.anonKey === "YOUR_ANON_KEY" || 
                                supabaseConfig.anonKey === "your-anon-key-here" ||
+                               supabaseConfig.anonKey.includes("xxxxxxxxxxxxx") ||
                                supabaseConfig.anonKey === "";
     
-    const hasInvalidUrl = !supabaseConfig.url.startsWith('http');
+    const hasInvalidUrl = !supabaseConfig.url.startsWith('http://') && !supabaseConfig.url.startsWith('https://');
     
     if (hasPlaceholderUrl || hasPlaceholderKey || hasInvalidUrl) {
         console.warn('Supabase configuration contains placeholder values. The app will run in offline mode.');
