@@ -1687,7 +1687,7 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             // Check if it's an image
             const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg'];
             const url = article.enclosure.link.toLowerCase();
-            if (imageExtensions.some(ext => url.includes(ext)) || article.enclosure.type?.startsWith('image/')) {
+            if (imageExtensions.some(ext => url.endsWith(ext)) || article.enclosure.type?.startsWith('image/')) {
                 return article.enclosure.link;
             }
         }
@@ -1696,7 +1696,16 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         const content = article.content || article.description || '';
         const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i);
         if (imgMatch && imgMatch[1]) {
-            return imgMatch[1];
+            // Validate URL is http/https only for security
+            const imageUrl = imgMatch[1];
+            try {
+                const parsedUrl = new URL(imageUrl, window.location.href);
+                if (parsedUrl.protocol === 'http:' || parsedUrl.protocol === 'https:') {
+                    return imageUrl;
+                }
+            } catch (e) {
+                // Invalid URL, skip
+            }
         }
         
         return null;
