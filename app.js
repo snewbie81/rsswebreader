@@ -17,6 +17,8 @@ class RSSReader {
         this.user = null;
         this.syncEnabled = false;
         this.INLINE_TEXT_MAX_LENGTH = 500; // Maximum length for inline text preview
+        this.firebaseReady = false;
+        this.firestoreUnsubscribe = null; // Store the unsubscribe function for Firestore listener
         this.init();
     }
 
@@ -26,6 +28,54 @@ class RSSReader {
         this.renderFeeds();
         this.renderArticles();
         this.registerServiceWorker();
+        this.initializeFirebase();
+    }
+
+    initializeFirebase() {
+        // Wait for Firebase to be ready
+        if (window.firebaseAuth) {
+            this.firebaseReady = true;
+            this.setupFirebaseAuth();
+        } else {
+            window.addEventListener('firebase-ready', () => {
+                this.firebaseReady = true;
+                this.setupFirebaseAuth();
+            });
+        }
+    }
+
+    setupFirebaseAuth() {
+        // Listen for authentication state changes
+        if (window.firebaseModules && window.firebaseAuth) {
+            window.firebaseModules.onAuthStateChanged(window.firebaseAuth, (user) => {
+                if (user) {
+                    // User is signed in
+                    this.user = { 
+                        email: user.email,
+                        uid: user.uid 
+                    };
+                    this.syncEnabled = true;
+                    this.saveData();
+                    this.updateUserUI();
+                    
+                    // Set up real-time sync listener
+                    this.setupFirestoreListener();
+                } else {
+                    // User is signed out
+                    if (this.user) {
+                        this.user = null;
+                        this.syncEnabled = false;
+                        this.updateUserUI();
+                    }
+                    
+                    // Remove Firestore listener if exists
+                    if (this.firestoreUnsubscribe) {
+                        this.firestoreUnsubscribe();
+                        this.firestoreUnsubscribe = null;
+                    }
+                }
+            });
+        }
     }
 
     setupEventListeners() {
@@ -108,6 +158,11 @@ class RSSReader {
                 if (e.key === 'Enter') this.login();
             });
         }
+
+        const googleSignInBtn = document.getElementById('googleSignInBtn');
+        if (googleSignInBtn) {
+            googleSignInBtn.addEventListener('click', () => this.signInWithGoogle());
+        }
     }
 
     loadData() {
@@ -181,8 +236,11 @@ class RSSReader {
             localStorage.setItem('rss_user', JSON.stringify(this.user));
         }
         
-        // Sync to server if logged in
-        if (this.user && this.syncEnabled) {
+        // Sync to Firestore if logged in with Firebase
+        if (this.user && this.syncEnabled && this.firebaseReady) {
+            this.syncToFirestore();
+        } else if (this.user && this.syncEnabled) {
+            // Fallback to localStorage sync (demo mode)
             this.syncToServer();
         }
     }
@@ -634,36 +692,69 @@ class RSSReader {
         }
 
         try {
-            // Simulate login - in production, this would call a real API
-            // For demo purposes, we'll use localStorage as a simple auth mechanism
-            const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
-            
-            if (!storedUsers[email]) {
-                alert('User not found. Please register first.');
-                return;
-            }
+            // Use Firebase Authentication if available
+            if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
+                const userCredential = await window.firebaseModules.signInWithEmailAndPassword(
+                    window.firebaseAuth, 
+                    email, 
+                    password
+                );
+                
+                this.user = { 
+                    email: userCredential.user.email,
+                    uid: userCredential.user.uid
+                };
+                this.syncEnabled = true;
+                this.saveData();
+                this.updateUserUI();
+                
+                emailInput.value = '';
+                passwordInput.value = '';
+                this.closeModal('loginModal');
+                
+                this.showNotification('Logged in successfully!', 'success');
+                
+                // Sync from Firestore after login
+                await this.syncFromFirestore();
+            } else {
+                // Fallback to localStorage-based authentication (demo mode)
+                const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
+                
+                if (!storedUsers[email]) {
+                    alert('User not found. Please register first or configure Firebase.');
+                    return;
+                }
 
-            if (storedUsers[email].password !== this.hashPassword(password)) {
-                alert('Invalid password');
-                return;
-            }
+                if (storedUsers[email].password !== this.hashPassword(password)) {
+                    alert('Invalid password');
+                    return;
+                }
 
-            this.user = { email };
-            this.syncEnabled = true;
-            this.saveData();
-            this.updateUserUI();
-            
-            emailInput.value = '';
-            passwordInput.value = '';
-            this.closeModal('loginModal');
-            
-            this.showNotification('Logged in successfully!', 'success');
-            
-            // Sync from server after login
-            await this.syncFromServer();
+                this.user = { email };
+                this.syncEnabled = true;
+                this.saveData();
+                this.updateUserUI();
+                
+                emailInput.value = '';
+                passwordInput.value = '';
+                this.closeModal('loginModal');
+                
+                this.showNotification('Logged in successfully (offline mode)!', 'success');
+                
+                // Sync from localStorage after login
+                await this.syncFromServer();
+            }
         } catch (error) {
             console.error('Login error:', error);
-            alert('Login failed. Please try again.');
+            if (error.code === 'auth/user-not-found') {
+                alert('User not found. Please register first.');
+            } else if (error.code === 'auth/wrong-password') {
+                alert('Invalid password');
+            } else if (error.code === 'auth/invalid-email') {
+                alert('Invalid email address');
+            } else {
+                alert('Login failed: ' + (error.message || 'Please try again.'));
+            }
         }
     }
 
@@ -689,44 +780,133 @@ class RSSReader {
         }
 
         try {
-            // Simulate registration - in production, this would call a real API
-            const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
-            
-            if (storedUsers[email]) {
-                alert('User already exists. Please login instead.');
-                return;
+            // Use Firebase Authentication if available
+            if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
+                const userCredential = await window.firebaseModules.createUserWithEmailAndPassword(
+                    window.firebaseAuth, 
+                    email, 
+                    password
+                );
+                
+                this.user = { 
+                    email: userCredential.user.email,
+                    uid: userCredential.user.uid
+                };
+                this.syncEnabled = true;
+                this.saveData();
+                this.updateUserUI();
+                
+                emailInput.value = '';
+                passwordInput.value = '';
+                this.closeModal('loginModal');
+                
+                this.showNotification('Registered successfully!', 'success');
+                
+                // Initial sync to Firestore
+                await this.syncToFirestore();
+            } else {
+                // Fallback to localStorage-based registration (demo mode)
+                const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
+                
+                if (storedUsers[email]) {
+                    alert('User already exists. Please login instead or configure Firebase.');
+                    return;
+                }
+
+                storedUsers[email] = {
+                    password: this.hashPassword(password),
+                    createdAt: new Date().toISOString()
+                };
+
+                localStorage.setItem('rss_users', JSON.stringify(storedUsers));
+
+                this.user = { email };
+                this.syncEnabled = true;
+                this.saveData();
+                this.updateUserUI();
+                
+                emailInput.value = '';
+                passwordInput.value = '';
+                this.closeModal('loginModal');
+                
+                this.showNotification('Registered successfully (offline mode)!', 'success');
             }
-
-            storedUsers[email] = {
-                password: this.hashPassword(password),
-                createdAt: new Date().toISOString()
-            };
-
-            localStorage.setItem('rss_users', JSON.stringify(storedUsers));
-
-            this.user = { email };
-            this.syncEnabled = true;
-            this.saveData();
-            this.updateUserUI();
-            
-            emailInput.value = '';
-            passwordInput.value = '';
-            this.closeModal('loginModal');
-            
-            this.showNotification('Registered successfully!', 'success');
         } catch (error) {
             console.error('Registration error:', error);
-            alert('Registration failed. Please try again.');
+            if (error.code === 'auth/email-already-in-use') {
+                alert('User already exists. Please login instead.');
+            } else if (error.code === 'auth/invalid-email') {
+                alert('Invalid email address');
+            } else if (error.code === 'auth/weak-password') {
+                alert('Password is too weak. Please use at least 6 characters.');
+            } else {
+                alert('Registration failed: ' + (error.message || 'Please try again.'));
+            }
         }
     }
 
-    logout() {
+    async signInWithGoogle() {
+        try {
+            // Use Firebase Google Sign-In if available
+            if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
+                const provider = new window.firebaseModules.GoogleAuthProvider();
+                const result = await window.firebaseModules.signInWithPopup(window.firebaseAuth, provider);
+                
+                this.user = { 
+                    email: result.user.email,
+                    uid: result.user.uid,
+                    displayName: result.user.displayName,
+                    photoURL: result.user.photoURL
+                };
+                this.syncEnabled = true;
+                this.saveData();
+                this.updateUserUI();
+                
+                this.closeModal('loginModal');
+                
+                this.showNotification('Signed in with Google!', 'success');
+                
+                // Sync from Firestore after login
+                await this.syncFromFirestore();
+            } else {
+                alert('Firebase is not configured. Please configure Firebase to use Google Sign-In.');
+            }
+        } catch (error) {
+            console.error('Google Sign-In error:', error);
+            if (error.code === 'auth/popup-closed-by-user') {
+                // User closed the popup, do nothing
+            } else if (error.code === 'auth/cancelled-popup-request') {
+                // Another popup request was already made
+            } else {
+                alert('Google Sign-In failed: ' + (error.message || 'Please try again.'));
+            }
+        }
+    }
+
+    async logout() {
         if (confirm('Are you sure you want to logout?')) {
-            this.user = null;
-            this.syncEnabled = false;
-            localStorage.removeItem('rss_user');
-            this.updateUserUI();
-            this.showNotification('Logged out successfully', 'success');
+            try {
+                // Use Firebase signOut if available
+                if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
+                    await window.firebaseModules.signOut(window.firebaseAuth);
+                }
+                
+                this.user = null;
+                this.syncEnabled = false;
+                localStorage.removeItem('rss_user');
+                
+                // Remove Firestore listener if exists
+                if (this.firestoreUnsubscribe) {
+                    this.firestoreUnsubscribe();
+                    this.firestoreUnsubscribe = null;
+                }
+                
+                this.updateUserUI();
+                this.showNotification('Logged out successfully', 'success');
+            } catch (error) {
+                console.error('Logout error:', error);
+                this.showNotification('Logout failed', 'error');
+            }
         }
     }
 
@@ -758,9 +938,141 @@ class RSSReader {
         return hash.toString();
     }
 
+    async syncToFirestore() {
+        // Sync data to Firestore for real-time cross-device sync
+        if (!this.user || !this.user.uid || !window.firebaseDb || !window.firebaseModules) {
+            return;
+        }
+
+        try {
+            const syncData = {
+                feeds: this.feeds,
+                groups: this.groups,
+                readArticles: [...this.readArticles],
+                hideRead: this.hideRead,
+                darkMode: this.darkMode,
+                contentSource: this.contentSource,
+                sidebarCollapsed: this.sidebarCollapsed,
+                lastSync: new Date().toISOString()
+            };
+
+            // Save to Firestore - creates/updates document named after User ID
+            await window.firebaseModules.setDoc(
+                window.firebaseModules.doc(window.firebaseDb, "users", this.user.uid),
+                syncData
+            );
+            
+            console.log('Data synced to Firestore');
+        } catch (error) {
+            console.error('Error syncing to Firestore:', error);
+        }
+    }
+
+    async syncFromFirestore() {
+        // Load data from Firestore
+        if (!this.user || !this.user.uid || !window.firebaseDb || !window.firebaseModules) {
+            return;
+        }
+
+        try {
+            const docRef = window.firebaseModules.doc(window.firebaseDb, "users", this.user.uid);
+            const docSnap = await window.firebaseModules.getDoc(docRef);
+
+            if (docSnap.exists()) {
+                const data = docSnap.data();
+                
+                // Merge data (prefer Firestore data)
+                this.feeds = data.feeds || this.feeds;
+                this.groups = data.groups || this.groups;
+                this.readArticles = new Set(data.readArticles || []);
+                this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
+                this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
+                this.contentSource = data.contentSource || this.contentSource;
+                this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
+
+                // Update localStorage
+                localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+                localStorage.setItem('rss_groups', JSON.stringify(this.groups));
+                localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
+                localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+                localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+                localStorage.setItem('rss_content_source', this.contentSource);
+                localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
+
+                this.renderFeeds();
+                this.renderArticles();
+                
+                this.showNotification('Synced from Firestore!', 'success');
+            }
+        } catch (error) {
+            console.error('Error syncing from Firestore:', error);
+        }
+    }
+
+    setupFirestoreListener() {
+        // Set up real-time listener for instant updates across devices
+        if (!this.user || !this.user.uid || !window.firebaseDb || !window.firebaseModules) {
+            return;
+        }
+
+        try {
+            const docRef = window.firebaseModules.doc(window.firebaseDb, "users", this.user.uid);
+            
+            // Unsubscribe from previous listener if exists
+            if (this.firestoreUnsubscribe) {
+                this.firestoreUnsubscribe();
+            }
+
+            // Listen for real-time updates
+            this.firestoreUnsubscribe = window.firebaseModules.onSnapshot(docRef, (doc) => {
+                if (doc.exists()) {
+                    const data = doc.data();
+                    
+                    // Only update if data changed (avoid loops)
+                    const hasChanges = 
+                        JSON.stringify(this.feeds) !== JSON.stringify(data.feeds) ||
+                        JSON.stringify(this.groups) !== JSON.stringify(data.groups) ||
+                        JSON.stringify([...this.readArticles]) !== JSON.stringify(data.readArticles) ||
+                        this.hideRead !== data.hideRead ||
+                        this.darkMode !== data.darkMode ||
+                        this.contentSource !== data.contentSource;
+
+                    if (hasChanges) {
+                        // Update local state with Firestore data
+                        this.feeds = data.feeds || this.feeds;
+                        this.groups = data.groups || this.groups;
+                        this.readArticles = new Set(data.readArticles || []);
+                        this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
+                        this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
+                        this.contentSource = data.contentSource || this.contentSource;
+                        this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
+
+                        // Update localStorage
+                        localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+                        localStorage.setItem('rss_groups', JSON.stringify(this.groups));
+                        localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
+                        localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+                        localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+                        localStorage.setItem('rss_content_source', this.contentSource);
+                        localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
+
+                        // Update UI
+                        this.renderFeeds();
+                        this.renderArticles();
+                        
+                        console.log('Real-time update received from Firestore');
+                    }
+                }
+            }, (error) => {
+                console.error('Error listening to Firestore updates:', error);
+            });
+        } catch (error) {
+            console.error('Error setting up Firestore listener:', error);
+        }
+    }
+
     async syncToServer() {
-        // In production, this would sync to a real server
-        // For demo, we'll store in localStorage with user prefix
+        // Fallback localStorage-based sync (demo mode)
         if (!this.user) return;
 
         const syncData = {
@@ -777,8 +1089,7 @@ class RSSReader {
     }
 
     async syncFromServer() {
-        // In production, this would sync from a real server
-        // For demo, we'll load from localStorage with user prefix
+        // Fallback localStorage-based sync (demo mode)
         if (!this.user) return;
 
         try {
@@ -798,7 +1109,7 @@ class RSSReader {
                 this.renderFeeds();
                 this.renderArticles();
                 
-                this.showNotification('Synced from server!', 'success');
+                this.showNotification('Synced from local storage!', 'success');
             }
         } catch (error) {
             console.error('Sync error:', error);
