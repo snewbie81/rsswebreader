@@ -30,6 +30,7 @@ class RSSReader {
         this.SYNC_DEBOUNCE_DELAY = 1000; // Debounce delay in ms (1 second)
         this.INITIAL_SYNC_DELAY = 1000; // Delay before initial feed sync in ms (1 second)
         this.supabaseListenerFirstEvent = true; // Track first event in real-time listener
+        this.isSyncing = false; // Flag to prevent concurrent sync operations
         this.init();
     }
 
@@ -114,7 +115,11 @@ class RSSReader {
         document.getElementById('importOpmlBtn').addEventListener('click', () => this.showModal('importOpmlModal'));
         document.getElementById('confirmImportOpmlBtn').addEventListener('click', () => this.importOpml());
         document.getElementById('exportOpmlBtn').addEventListener('click', () => this.exportOpml());
-        document.getElementById('hideReadToggle').addEventListener('change', (e) => this.toggleHideRead(e.target.checked));
+        
+        const hideReadToggle = document.getElementById('hideReadToggle');
+        if (hideReadToggle) {
+            hideReadToggle.addEventListener('change', (e) => this.toggleHideRead(e.target.checked));
+        }
         
         const darkModeToggle = document.getElementById('darkModeToggle');
         if (darkModeToggle) {
@@ -1536,6 +1541,14 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             this.showNotification('No feeds to sync', 'error');
             return;
         }
+        
+        // Prevent concurrent sync operations
+        if (this.isSyncing) {
+            console.log('Sync already in progress, skipping...');
+            return;
+        }
+        
+        this.isSyncing = true;
 
         const syncButton = document.getElementById('syncAllBtn');
         if (syncButton) {
@@ -1594,6 +1607,8 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
                 Sync All
             `;
         }
+        
+        this.isSyncing = false; // Reset sync flag
 
         if (errorCount === 0) {
             this.showNotification(`Successfully synced ${successCount} feeds!`, 'success');
