@@ -8,6 +8,8 @@ class RSSReader {
         this.readArticles = new Set();
         this.currentFeed = null;
         this.currentGroup = null;
+        this.currentArticle = null;
+        this.collapsedGroups = new Set();
         this.hideRead = false;
         this.darkMode = false;
         this.sidebarCollapsed = false;
@@ -42,6 +44,11 @@ class RSSReader {
         const sidebarToggle = document.getElementById('sidebarToggle');
         if (sidebarToggle) {
             sidebarToggle.addEventListener('click', () => this.toggleSidebar());
+        }
+
+        const settingsToggle = document.getElementById('settingsToggle');
+        if (settingsToggle) {
+            settingsToggle.addEventListener('click', () => this.toggleSettings());
         }
 
         const addGroupBtn = document.getElementById('addGroupBtn');
@@ -344,10 +351,11 @@ class RSSReader {
                 return sum + feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
             }, 0);
             const isGroupActive = this.currentGroup === group.id;
+            const isCollapsed = this.collapsedGroups.has(group.id);
 
             html += `
                 <div class="feed-group">
-                    <div class="group-header ${isGroupActive ? 'active' : ''}" onclick="rssReader.loadGroupArticles('${group.id}')">
+                    <div class="group-header ${isGroupActive ? 'active' : ''} ${isCollapsed ? '' : 'expanded'}" onclick="rssReader.toggleGroup('${group.id}')">
                         <div class="group-info">
                             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
@@ -362,7 +370,7 @@ class RSSReader {
                             </svg>
                         </button>
                     </div>
-                    <div class="group-feeds">
+                    <div class="group-feeds ${isCollapsed ? 'collapsed' : ''}">
             `;
 
             groupFeeds.forEach(feed => {
@@ -442,6 +450,7 @@ class RSSReader {
     loadFeedArticles(feedUrl) {
         this.currentFeed = feedUrl;
         this.currentGroup = null;
+        this.currentArticle = null;
         const feed = this.feeds.find(f => f.url === feedUrl);
         
         if (feed) {
@@ -450,67 +459,31 @@ class RSSReader {
                 feedTitle: feed.title,
                 feedUrl: feed.url
             }));
-            this.renderArticles();
+            this.renderArticlesListPanel();
+            
+            // Reset content viewer
+            const contentViewer = document.getElementById('contentViewer');
+            contentViewer.innerHTML = `
+                <div class="no-selection">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                    <p>No selection</p>
+                    <span>Select an article to read</span>
+                </div>
+            `;
         }
         
         this.renderFeeds(); // Re-render to update active state
     }
 
     renderArticles() {
-        const articlesList = document.getElementById('articlesList');
-        
-        if (this.feeds.length === 0) {
-            articlesList.innerHTML = `
-                <div class="welcome-message">
-                    <h2>Welcome to RSS Web Reader</h2>
-                    <p>Add your first RSS feed to start reading!</p>
-                    <p>Features:</p>
-                    <ul>
-                        <li>Smart full-text extraction</li>
-                        <li>Clean, ad-free interface</li>
-                        <li>Hide read articles</li>
-                        <li>OPML import/export</li>
-                        <li>Group organization</li>
-                        <li>Dark mode</li>
-                    </ul>
-                </div>
-            `;
-            return;
-        }
-
-        if (this.articles.length === 0) {
-            articlesList.innerHTML = '<p class="empty-state">Select a feed to view articles</p>';
-            return;
-        }
-
-        articlesList.innerHTML = this.articles.map(article => {
-            const articleId = article.guid || article.link;
-            const isRead = this.readArticles.has(articleId);
-            const shouldHide = this.hideRead && isRead;
-            
-            return `
-                <div class="article-card ${isRead ? 'read' : ''} ${shouldHide ? 'hidden' : ''}" data-article-id="${articleId}">
-                    <div class="article-card-header" onclick="rssReader.toggleArticle('${articleId}')">
-                        <div class="article-header">
-                            <h3 class="article-title">${this.escapeHtml(article.title)}</h3>
-                            <div class="article-meta">
-                                <span class="article-source">${this.escapeHtml(article.feedTitle)}</span>
-                                <span class="article-date">${this.formatDate(article.pubDate)}</span>
-                            </div>
-                        </div>
-                        <svg class="expand-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <polyline points="6 9 12 15 18 9"></polyline>
-                        </svg>
-                    </div>
-                    <div class="article-excerpt">
-                        ${this.stripHtml(article.description || '').substring(0, 200)}...
-                    </div>
-                    <div class="article-expanded-content" style="display: none;">
-                        <div class="loading">Loading full article...</div>
-                    </div>
-                </div>
-            `;
-        }).join('');
+        // This method is now replaced by renderArticlesListPanel for compatibility
+        this.renderArticlesListPanel();
     }
 
     async toggleArticle(articleId) {
@@ -1123,6 +1096,7 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
     loadGroupArticles(groupId) {
         this.currentGroup = groupId;
         this.currentFeed = null;
+        this.currentArticle = null;
         
         const group = this.groups.find(g => g.id === groupId);
         if (group) {
@@ -1142,7 +1116,23 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
 
             // Sort by date
             this.articles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-            this.renderArticles();
+            this.renderArticlesListPanel();
+            
+            // Reset content viewer
+            const contentViewer = document.getElementById('contentViewer');
+            contentViewer.innerHTML = `
+                <div class="no-selection">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                    <p>No selection</p>
+                    <span>Select an article to read</span>
+                </div>
+            `;
         }
         
         this.renderFeeds(); // Re-render to update active state
@@ -1227,6 +1217,154 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             } catch (error) {
                 console.error('Service Worker registration failed:', error);
             }
+        }
+    }
+
+    toggleGroup(groupId) {
+        if (this.collapsedGroups.has(groupId)) {
+            this.collapsedGroups.delete(groupId);
+        } else {
+            this.collapsedGroups.add(groupId);
+        }
+        this.renderFeeds();
+    }
+
+    toggleSettings() {
+        const settingsPanel = document.getElementById('settingsPanel');
+        if (settingsPanel) {
+            settingsPanel.style.display = settingsPanel.style.display === 'none' ? 'block' : 'none';
+        }
+    }
+
+    renderArticlesListPanel() {
+        const articlesList = document.getElementById('articlesList');
+        const articlesTitle = document.getElementById('articlesPanelTitle');
+        
+        if (this.feeds.length === 0) {
+            articlesList.innerHTML = '<div class="welcome-message-compact"><p>Add feeds to get started</p></div>';
+            articlesTitle.textContent = 'Select a feed';
+            return;
+        }
+
+        if (this.articles.length === 0) {
+            articlesList.innerHTML = '<div class="welcome-message-compact"><p>Select a feed to view articles</p></div>';
+            articlesTitle.textContent = 'Select a feed';
+            return;
+        }
+
+        // Update title
+        if (this.currentFeed) {
+            const feed = this.feeds.find(f => f.url === this.currentFeed);
+            articlesTitle.textContent = feed ? feed.title : 'Articles';
+        } else if (this.currentGroup) {
+            const group = this.groups.find(g => g.id === this.currentGroup);
+            articlesTitle.textContent = group ? group.name : 'Articles';
+        } else {
+            articlesTitle.textContent = 'Articles';
+        }
+
+        // Render article items
+        articlesList.innerHTML = this.articles.map(article => {
+            const articleId = article.guid || article.link;
+            const isRead = this.readArticles.has(articleId);
+            const shouldHide = this.hideRead && isRead;
+            const isActive = this.currentArticle === articleId;
+            
+            if (shouldHide) return '';
+
+            return `
+                <div class="article-item ${isRead ? 'read' : 'unread'} ${isActive ? 'active' : ''}" onclick="rssReader.displayArticle('${this.escapeHtml(articleId).replace(/'/g, "\\'")}')">
+                    <div class="article-item-title">${this.escapeHtml(article.title)}</div>
+                    <div class="article-item-meta">
+                        <span class="article-item-source">${this.escapeHtml(article.feedTitle || '')}</span>
+                        <span class="article-item-date">${this.formatDate(article.pubDate)}</span>
+                    </div>
+                    <div class="article-item-excerpt">${this.stripHtml(article.description || '').substring(0, 100)}...</div>
+                </div>
+            `;
+        }).join('');
+    }
+
+    async displayArticle(articleId) {
+        const article = this.articles.find(a => (a.guid || a.link) === articleId);
+        if (!article) return;
+
+        this.currentArticle = articleId;
+        
+        // Mark as read
+        this.readArticles.add(articleId);
+        this.saveData();
+        
+        // Update UI
+        this.renderArticlesListPanel();
+        this.renderFeeds();
+
+        // Display content
+        const contentViewer = document.getElementById('contentViewer');
+        
+        // Show loading state
+        contentViewer.innerHTML = '<div class="loading">Loading article...</div>';
+
+        try {
+            let fullContent = article.content || article.description || '';
+            fullContent = await this.extractFullText(article.link, fullContent);
+            
+            // Sanitize the content to prevent XSS
+            fullContent = this.sanitizeHtml(fullContent);
+
+            const contentHtml = `
+                <div class="article-content">
+                    <div class="article-content-header">
+                        <h1 class="article-content-title">${this.escapeHtml(article.title)}</h1>
+                        <div class="article-content-meta">
+                            <span class="article-content-source">${this.escapeHtml(article.feedTitle)}</span>
+                            <span class="article-content-date">${this.formatDate(article.pubDate)}</span>
+                        </div>
+                    </div>
+                    <div class="article-body">
+                        ${fullContent}
+                    </div>
+                    <div class="article-footer">
+                        <a href="${this.escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer" class="article-link">
+                            Read original article
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                <polyline points="15 3 21 3 21 9"></polyline>
+                                <line x1="10" y1="14" x2="21" y2="3"></line>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            `;
+
+            contentViewer.innerHTML = contentHtml;
+        } catch (error) {
+            console.error('Error loading article:', error);
+            const fallbackContent = this.sanitizeHtml(article.content || article.description || 'Failed to load content');
+            contentViewer.innerHTML = `
+                <div class="article-content">
+                    <div class="article-content-header">
+                        <h1 class="article-content-title">${this.escapeHtml(article.title)}</h1>
+                        <div class="article-content-meta">
+                            <span class="article-content-source">${this.escapeHtml(article.feedTitle)}</span>
+                            <span class="article-content-date">${this.formatDate(article.pubDate)}</span>
+                        </div>
+                    </div>
+                    <div class="article-body">
+                        ${fallbackContent}
+                    </div>
+                    <div class="article-footer">
+                        <a href="${this.escapeHtml(article.link)}" target="_blank" rel="noopener noreferrer" class="article-link">
+                            Read original article
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                <polyline points="15 3 21 3 21 9"></polyline>
+                                <line x1="10" y1="14" x2="21" y2="3"></line>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            `;
         }
     }
 }
