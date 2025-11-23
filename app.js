@@ -49,6 +49,11 @@ class RSSReader {
         if (confirmAddGroupBtn) {
             confirmAddGroupBtn.addEventListener('click', () => this.addGroup());
         }
+
+        const syncAllBtn = document.getElementById('syncAllBtn');
+        if (syncAllBtn) {
+            syncAllBtn.addEventListener('click', () => this.syncAllFeeds());
+        }
         
         document.getElementById('feedUrlInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') this.addFeed();
@@ -747,6 +752,65 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         }
         
         this.renderFeeds(); // Re-render to update active state
+    }
+
+    async syncAllFeeds() {
+        if (this.feeds.length === 0) {
+            this.showNotification('No feeds to sync', 'error');
+            return;
+        }
+
+        const syncButton = document.getElementById('syncAllBtn');
+        if (syncButton) {
+            syncButton.disabled = true;
+            syncButton.textContent = 'Syncing...';
+        }
+
+        let successCount = 0;
+        let errorCount = 0;
+
+        for (const feed of this.feeds) {
+            try {
+                const updatedFeed = await this.fetchFeed(feed.url);
+                const feedIndex = this.feeds.findIndex(f => f.url === feed.url);
+                
+                if (feedIndex !== -1) {
+                    this.feeds[feedIndex] = updatedFeed;
+                    successCount++;
+                }
+            } catch (error) {
+                console.error(`Failed to sync feed: ${feed.url}`, error);
+                errorCount++;
+            }
+        }
+
+        this.saveData();
+        this.renderFeeds();
+        
+        // Refresh current view if needed
+        if (this.currentFeed) {
+            this.loadFeedArticles(this.currentFeed);
+        } else if (this.currentGroup) {
+            this.loadGroupArticles(this.currentGroup);
+        }
+
+        if (syncButton) {
+            syncButton.disabled = false;
+            syncButton.innerHTML = `
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="23 4 23 10 17 10"></polyline>
+                    <polyline points="1 20 1 14 7 14"></polyline>
+                    <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                </svg>
+                Sync All
+            `;
+        }
+
+        if (errorCount === 0) {
+            this.showNotification(`Successfully synced ${successCount} feeds!`, 'success');
+        } else {
+            this.showNotification(`Synced ${successCount} feeds, ${errorCount} failed`, 'error');
+        }
     }
 
     async registerServiceWorker() {
