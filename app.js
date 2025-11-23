@@ -1277,6 +1277,7 @@ class RSSReader {
             if (data) {
                 // Merge feeds from both sources to prevent data loss
                 // Keep local feeds and add any feeds from Supabase that aren't already present
+                // Note: When URLs match, local version takes precedence to preserve recent changes
                 if (data.feeds && Array.isArray(data.feeds)) {
                     const localFeedUrls = new Set(this.feeds.map(f => f?.url).filter(Boolean));
                     const supabaseFeeds = data.feeds.filter(f => f?.url && !localFeedUrls.has(f.url));
@@ -1292,7 +1293,7 @@ class RSSReader {
                 
                 // Merge read articles (union of both sets)
                 if (data.read_articles && Array.isArray(data.read_articles)) {
-                    data.read_articles.filter(id => id != null).forEach(articleId => this.readArticles.add(articleId));
+                    data.read_articles.forEach(id => id != null && this.readArticles.add(id));
                 }
                 
                 // Keep other settings from Supabase only if not already set locally
