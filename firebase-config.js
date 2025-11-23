@@ -14,7 +14,7 @@
 // 7. Enable Firestore: Go to Build > Firestore Database > Create Database
 //    - Start in production mode
 //    - Choose a location close to your users
-// 8. Set up Security Rules (see SECURITY_RULES.md or README)
+// 8. Set up Security Rules (see FIRESTORE_SECURITY_RULES.md or README)
 
 // IMPORTANT: For production deployment, move these credentials to environment variables
 // and never commit real Firebase credentials to public repositories.
@@ -33,36 +33,49 @@ const firebaseConfig = {
 let app, auth, db;
 
 // Wait for Firebase modules to be loaded
-window.addEventListener('DOMContentLoaded', () => {
-    // Small delay to ensure Firebase modules are loaded
-    setTimeout(() => {
-        if (window.firebaseModules && window.firebaseModules.initializeApp) {
-            try {
-                // Initialize Firebase
-                app = window.firebaseModules.initializeApp(firebaseConfig);
-                auth = window.firebaseModules.getAuth(app);
-                db = window.firebaseModules.getFirestore(app);
-                
-                // Make Firebase instances available globally
-                window.firebaseApp = app;
-                window.firebaseAuth = auth;
-                window.firebaseDb = db;
-                
-                console.log('Firebase initialized successfully');
-                
-                // Notify app that Firebase is ready
-                window.dispatchEvent(new Event('firebase-ready'));
-            } catch (error) {
-                console.error('Firebase initialization error:', error);
-                console.warn('Firebase is not configured. Please update firebase-config.js with your Firebase credentials.');
-                console.warn('The app will work in offline mode without sync capabilities.');
-                
-                // Set flag to indicate Firebase is not available
-                window.firebaseAvailable = false;
-            }
+function initializeFirebaseWhenReady() {
+    // Check if modules are available
+    if (window.firebaseModules && window.firebaseModules.initializeApp) {
+        try {
+            // Initialize Firebase
+            app = window.firebaseModules.initializeApp(firebaseConfig);
+            auth = window.firebaseModules.getAuth(app);
+            db = window.firebaseModules.getFirestore(app);
+            
+            // Make Firebase instances available globally
+            window.firebaseApp = app;
+            window.firebaseAuth = auth;
+            window.firebaseDb = db;
+            
+            console.log('Firebase initialized successfully');
+            
+            // Notify app that Firebase is ready
+            window.dispatchEvent(new Event('firebase-ready'));
+        } catch (error) {
+            console.error('Firebase initialization error:', error);
+            console.warn('Firebase is not configured. Please update firebase-config.js with your Firebase credentials.');
+            console.warn('The app will work in offline mode without sync capabilities.');
+            
+            // Set flag to indicate Firebase is not available
+            window.firebaseAvailable = false;
         }
-    }, 100);
-});
+    } else {
+        // Retry with exponential backoff (max 3 attempts)
+        if (!window.firebaseInitAttempts) window.firebaseInitAttempts = 0;
+        window.firebaseInitAttempts++;
+        
+        if (window.firebaseInitAttempts < 3) {
+            const delay = 100 * Math.pow(2, window.firebaseInitAttempts - 1);
+            setTimeout(initializeFirebaseWhenReady, delay);
+        } else {
+            console.warn('Firebase modules not loaded after multiple attempts. Running in demo mode.');
+            window.firebaseAvailable = false;
+        }
+    }
+}
+
+// Start initialization when DOM is ready
+window.addEventListener('DOMContentLoaded', initializeFirebaseWhenReady);
 
 // Export for module usage (if needed)
 if (typeof module !== 'undefined' && module.exports) {

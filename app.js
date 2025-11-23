@@ -47,7 +47,7 @@ class RSSReader {
     setupFirebaseAuth() {
         // Listen for authentication state changes
         if (window.firebaseModules && window.firebaseAuth) {
-            window.firebaseModules.onAuthStateChanged(window.firebaseAuth, (user) => {
+            window.firebaseModules.onAuthStateChanged(window.firebaseAuth, async (user) => {
                 if (user) {
                     // User is signed in
                     this.user = { 
@@ -55,7 +55,12 @@ class RSSReader {
                         uid: user.uid 
                     };
                     this.syncEnabled = true;
-                    this.saveData();
+                    
+                    // First sync from Firestore to get latest data
+                    await this.syncFromFirestore();
+                    
+                    // Then save to localStorage (without triggering Firestore write)
+                    localStorage.setItem('rss_user', JSON.stringify(this.user));
                     this.updateUserUI();
                     
                     // Set up real-time sync listener
