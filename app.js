@@ -17,11 +17,11 @@ class RSSReader {
         this.user = null;
         this.syncEnabled = false;
         this.INLINE_TEXT_MAX_LENGTH = 500; // Maximum length for inline text preview
-        this.firebaseReady = false;
-        this.firestoreUnsubscribe = null; // Store the unsubscribe function for Firestore listener
-        this.syncDebounceTimer = null; // Timer for debouncing Firestore sync
+        this.supabaseReady = false;
+        this.supabaseSubscription = null; // Store the subscription for real-time sync
+        this.syncDebounceTimer = null; // Timer for debouncing sync
         this.SYNC_DEBOUNCE_DELAY = 1000; // Debounce delay in ms (1 second)
-        this.firestoreListenerFirstSnapshot = true; // Track first snapshot in real-time listener
+        this.supabaseListenerFirstEvent = true; // Track first event in real-time listener
         this.init();
     }
 
@@ -31,36 +31,36 @@ class RSSReader {
         this.renderFeeds();
         this.renderArticles();
         this.registerServiceWorker();
-        this.initializeFirebase();
+        this.initializeSupabase();
     }
 
-    initializeFirebase() {
-        // Wait for Firebase to be ready
-        if (window.firebaseAuth) {
-            this.firebaseReady = true;
-            this.setupFirebaseAuth();
+    initializeSupabase() {
+        // Wait for Supabase to be ready
+        if (window.supabaseClient) {
+            this.supabaseReady = true;
+            this.setupSupabaseAuth();
         } else {
-            window.addEventListener('firebase-ready', () => {
-                this.firebaseReady = true;
-                this.setupFirebaseAuth();
+            window.addEventListener('supabase-ready', () => {
+                this.supabaseReady = true;
+                this.setupSupabaseAuth();
             });
         }
     }
 
-    setupFirebaseAuth() {
+    setupSupabaseAuth() {
         // Listen for authentication state changes
-        if (window.firebaseModules && window.firebaseAuth) {
-            window.firebaseModules.onAuthStateChanged(window.firebaseAuth, async (user) => {
-                if (user) {
+        if (window.supabaseClient) {
+            window.supabaseClient.auth.onAuthStateChange(async (event, session) => {
+                if (session && session.user) {
                     // User is signed in
                     this.user = { 
-                        email: user.email,
-                        uid: user.uid 
+                        email: session.user.email,
+                        uid: session.user.id 
                     };
                     this.syncEnabled = true;
                     
-                    // First sync from Firestore to get latest data
-                    await this.syncFromFirestore();
+                    // First sync from Supabase to get latest data
+                    await this.syncFromSupabase();
                     
                     // Save user and synced data to localStorage
                     localStorage.setItem('rss_user', JSON.stringify(this.user));
@@ -75,7 +75,7 @@ class RSSReader {
                     this.updateUserUI();
                     
                     // Set up real-time sync listener
-                    this.setupFirestoreListener();
+                    this.setupSupabaseListener();
                 } else {
                     // User is signed out
                     if (this.user) {
@@ -84,10 +84,10 @@ class RSSReader {
                         this.updateUserUI();
                     }
                     
-                    // Remove Firestore listener if exists
-                    if (this.firestoreUnsubscribe) {
-                        this.firestoreUnsubscribe();
-                        this.firestoreUnsubscribe = null;
+                    // Remove Supabase subscription if exists
+                    if (this.supabaseSubscription) {
+                        this.supabaseSubscription.unsubscribe();
+                        this.supabaseSubscription = null;
                     }
                 }
             });
@@ -262,16 +262,16 @@ class RSSReader {
             localStorage.setItem('rss_user', JSON.stringify(this.user));
         }
         
-        // Debounced sync to Firestore if logged in with Firebase
-        if (this.user && this.syncEnabled && this.firebaseReady) {
-            this.debouncedSyncToFirestore();
+        // Debounced sync to Supabase if logged in
+        if (this.user && this.syncEnabled && this.supabaseReady) {
+            this.debouncedSyncToSupabase();
         } else if (this.user && this.syncEnabled) {
             // Fallback to localStorage sync (demo mode)
             this.syncToServer();
         }
     }
 
-    debouncedSyncToFirestore() {
+    debouncedSyncToSupabase() {
         // Clear existing timer
         if (this.syncDebounceTimer) {
             clearTimeout(this.syncDebounceTimer);
@@ -279,7 +279,7 @@ class RSSReader {
         
         // Set new timer
         this.syncDebounceTimer = setTimeout(async () => {
-            await this.syncToFirestore();
+            await this.syncToSupabase();
         }, this.SYNC_DEBOUNCE_DELAY);
     }
 
@@ -730,17 +730,18 @@ class RSSReader {
         }
 
         try {
-            // Use Firebase Authentication if available
-            if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
-                const userCredential = await window.firebaseModules.signInWithEmailAndPassword(
-                    window.firebaseAuth, 
-                    email, 
-                    password
-                );
+            // Use Supabase Authentication if available
+            if (this.supabaseReady && window.supabaseClient) {
+                const { data, error } = await window.supabaseClient.auth.signInWithPassword({
+                    email: email,
+                    password: password
+                });
+                
+                if (error) throw error;
                 
                 this.user = { 
-                    email: userCredential.user.email,
-                    uid: userCredential.user.uid
+                    email: data.user.email,
+                    uid: data.user.id
                 };
                 this.syncEnabled = true;
                 this.saveData();
@@ -752,14 +753,14 @@ class RSSReader {
                 
                 this.showNotification('Logged in successfully!', 'success');
                 
-                // Sync from Firestore after login
-                await this.syncFromFirestore();
+                // Sync from Supabase after login
+                await this.syncFromSupabase();
             } else {
                 // Fallback to localStorage-based authentication (demo mode)
                 const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
                 
                 if (!storedUsers[email]) {
-                    alert('User not found. Please register first or configure Firebase.');
+                    alert('User not found. Please register first or configure Supabase.');
                     return;
                 }
 
@@ -784,12 +785,10 @@ class RSSReader {
             }
         } catch (error) {
             console.error('Login error:', error);
-            if (error.code === 'auth/user-not-found') {
-                alert('User not found. Please register first.');
-            } else if (error.code === 'auth/wrong-password') {
-                alert('Invalid password');
-            } else if (error.code === 'auth/invalid-email') {
-                alert('Invalid email address');
+            if (error.message && error.message.includes('Invalid login credentials')) {
+                alert('Invalid email or password');
+            } else if (error.message && error.message.includes('Email not confirmed')) {
+                alert('Please confirm your email address before logging in');
             } else {
                 alert('Login failed: ' + (error.message || 'Please try again.'));
             }
@@ -818,17 +817,18 @@ class RSSReader {
         }
 
         try {
-            // Use Firebase Authentication if available
-            if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
-                const userCredential = await window.firebaseModules.createUserWithEmailAndPassword(
-                    window.firebaseAuth, 
-                    email, 
-                    password
-                );
+            // Use Supabase Authentication if available
+            if (this.supabaseReady && window.supabaseClient) {
+                const { data, error } = await window.supabaseClient.auth.signUp({
+                    email: email,
+                    password: password
+                });
+                
+                if (error) throw error;
                 
                 this.user = { 
-                    email: userCredential.user.email,
-                    uid: userCredential.user.uid
+                    email: data.user.email,
+                    uid: data.user.id
                 };
                 this.syncEnabled = true;
                 this.saveData();
@@ -838,16 +838,16 @@ class RSSReader {
                 passwordInput.value = '';
                 this.closeModal('loginModal');
                 
-                this.showNotification('Registered successfully!', 'success');
+                this.showNotification('Registered successfully! Please check your email to confirm.', 'success');
                 
-                // Initial sync to Firestore
-                await this.syncToFirestore();
+                // Initial sync to Supabase
+                await this.syncToSupabase();
             } else {
                 // Fallback to localStorage-based registration (demo mode)
                 const storedUsers = JSON.parse(localStorage.getItem('rss_users') || '{}');
                 
                 if (storedUsers[email]) {
-                    alert('User already exists. Please login instead or configure Firebase.');
+                    alert('User already exists. Please login instead or configure Supabase.');
                     return;
                 }
 
@@ -871,12 +871,10 @@ class RSSReader {
             }
         } catch (error) {
             console.error('Registration error:', error);
-            if (error.code === 'auth/email-already-in-use') {
+            if (error.message && error.message.includes('already registered')) {
                 alert('User already exists. Please login instead.');
-            } else if (error.code === 'auth/invalid-email') {
+            } else if (error.message && error.message.includes('invalid email')) {
                 alert('Invalid email address');
-            } else if (error.code === 'auth/weak-password') {
-                alert('Password is too weak. Please use at least 6 characters.');
             } else {
                 alert('Registration failed: ' + (error.message || 'Please try again.'));
             }
@@ -885,58 +883,46 @@ class RSSReader {
 
     async signInWithGoogle() {
         try {
-            // Use Firebase Google Sign-In if available
-            if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
-                const provider = new window.firebaseModules.GoogleAuthProvider();
-                const result = await window.firebaseModules.signInWithPopup(window.firebaseAuth, provider);
+            // Use Supabase Google Sign-In if available
+            if (this.supabaseReady && window.supabaseClient) {
+                const { data, error } = await window.supabaseClient.auth.signInWithOAuth({
+                    provider: 'google',
+                    options: {
+                        redirectTo: window.location.origin
+                    }
+                });
                 
-                this.user = { 
-                    email: result.user.email,
-                    uid: result.user.uid,
-                    displayName: result.user.displayName,
-                    photoURL: result.user.photoURL
-                };
-                this.syncEnabled = true;
-                this.saveData();
-                this.updateUserUI();
+                if (error) throw error;
                 
-                this.closeModal('loginModal');
-                
-                this.showNotification('Signed in with Google!', 'success');
-                
-                // Sync from Firestore after login
-                await this.syncFromFirestore();
+                // The user will be redirected to Google for authentication
+                // After authentication, they'll be redirected back to the app
+                // The onAuthStateChange listener will handle the rest
+                this.showNotification('Redirecting to Google...', 'success');
             } else {
-                alert('Firebase is not configured. Please configure Firebase to use Google Sign-In.');
+                alert('Supabase is not configured. Please configure Supabase to use Google Sign-In.');
             }
         } catch (error) {
             console.error('Google Sign-In error:', error);
-            if (error.code === 'auth/popup-closed-by-user') {
-                // User closed the popup, do nothing
-            } else if (error.code === 'auth/cancelled-popup-request') {
-                // Another popup request was already made
-            } else {
-                alert('Google Sign-In failed: ' + (error.message || 'Please try again.'));
-            }
+            alert('Google Sign-In failed: ' + (error.message || 'Please try again.'));
         }
     }
 
     async logout() {
         if (confirm('Are you sure you want to logout?')) {
             try {
-                // Use Firebase signOut if available
-                if (this.firebaseReady && window.firebaseModules && window.firebaseAuth) {
-                    await window.firebaseModules.signOut(window.firebaseAuth);
+                // Use Supabase signOut if available
+                if (this.supabaseReady && window.supabaseClient) {
+                    await window.supabaseClient.auth.signOut();
                 }
                 
                 this.user = null;
                 this.syncEnabled = false;
                 localStorage.removeItem('rss_user');
                 
-                // Remove Firestore listener if exists
-                if (this.firestoreUnsubscribe) {
-                    this.firestoreUnsubscribe();
-                    this.firestoreUnsubscribe = null;
+                // Remove Supabase subscription if exists
+                if (this.supabaseSubscription) {
+                    this.supabaseSubscription.unsubscribe();
+                    this.supabaseSubscription = null;
                 }
                 
                 this.updateUserUI();
@@ -976,57 +962,64 @@ class RSSReader {
         return hash.toString();
     }
 
-    async syncToFirestore() {
-        // Sync data to Firestore for real-time cross-device sync
-        if (!this.user || !this.user.uid || !window.firebaseDb || !window.firebaseModules) {
+    async syncToSupabase() {
+        // Sync data to Supabase for real-time cross-device sync
+        if (!this.user || !this.user.uid || !window.supabaseClient) {
             return;
         }
 
         try {
             const syncData = {
+                user_id: this.user.uid,
                 feeds: this.feeds,
                 groups: this.groups,
-                readArticles: [...this.readArticles],
-                hideRead: this.hideRead,
-                darkMode: this.darkMode,
-                contentSource: this.contentSource,
-                sidebarCollapsed: this.sidebarCollapsed,
-                lastSync: new Date().toISOString()
+                read_articles: [...this.readArticles],
+                hide_read: this.hideRead,
+                dark_mode: this.darkMode,
+                content_source: this.contentSource,
+                sidebar_collapsed: this.sidebarCollapsed,
+                last_sync: new Date().toISOString()
             };
 
-            // Save to Firestore - creates/updates document named after User ID
-            await window.firebaseModules.setDoc(
-                window.firebaseModules.doc(window.firebaseDb, "users", this.user.uid),
-                syncData
-            );
+            // Upsert to Supabase - creates/updates row for the user
+            const { error } = await window.supabaseClient
+                .from('user_settings')
+                .upsert(syncData, { onConflict: 'user_id' });
             
-            console.log('Data synced to Firestore');
+            if (error) throw error;
+            
+            console.log('Data synced to Supabase');
         } catch (error) {
-            console.error('Error syncing to Firestore:', error);
+            console.error('Error syncing to Supabase:', error);
         }
     }
 
-    async syncFromFirestore() {
-        // Load data from Firestore
-        if (!this.user || !this.user.uid || !window.firebaseDb || !window.firebaseModules) {
+    async syncFromSupabase() {
+        // Load data from Supabase
+        if (!this.user || !this.user.uid || !window.supabaseClient) {
             return;
         }
 
         try {
-            const docRef = window.firebaseModules.doc(window.firebaseDb, "users", this.user.uid);
-            const docSnap = await window.firebaseModules.getDoc(docRef);
+            const { data, error } = await window.supabaseClient
+                .from('user_settings')
+                .select('*')
+                .eq('user_id', this.user.uid)
+                .single();
 
-            if (docSnap.exists()) {
-                const data = docSnap.data();
-                
-                // Merge data (prefer Firestore data, use nullish coalescing for proper array handling)
+            if (error && error.code !== 'PGRST116') { // PGRST116 = no rows returned
+                throw error;
+            }
+
+            if (data) {
+                // Merge data (prefer Supabase data, use nullish coalescing for proper array handling)
                 this.feeds = data.feeds ?? this.feeds;
                 this.groups = data.groups ?? this.groups;
-                this.readArticles = new Set(data.readArticles ?? []);
-                this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
-                this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
-                this.contentSource = data.contentSource ?? this.contentSource;
-                this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
+                this.readArticles = new Set(data.read_articles ?? []);
+                this.hideRead = data.hide_read !== undefined ? data.hide_read : this.hideRead;
+                this.darkMode = data.dark_mode !== undefined ? data.dark_mode : this.darkMode;
+                this.contentSource = data.content_source ?? this.contentSource;
+                this.sidebarCollapsed = data.sidebar_collapsed !== undefined ? data.sidebar_collapsed : this.sidebarCollapsed;
 
                 // Update localStorage
                 localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
@@ -1040,70 +1033,77 @@ class RSSReader {
                 this.renderFeeds();
                 this.renderArticles();
                 
-                this.showNotification('Synced from Firestore!', 'success');
+                this.showNotification('Synced from Supabase!', 'success');
             }
         } catch (error) {
-            console.error('Error syncing from Firestore:', error);
+            console.error('Error syncing from Supabase:', error);
         }
     }
 
-    setupFirestoreListener() {
+    setupSupabaseListener() {
         // Set up real-time listener for instant updates across devices
-        if (!this.user || !this.user.uid || !window.firebaseDb || !window.firebaseModules) {
+        if (!this.user || !this.user.uid || !window.supabaseClient) {
             return;
         }
 
         try {
-            const docRef = window.firebaseModules.doc(window.firebaseDb, "users", this.user.uid);
-            
             // Unsubscribe from previous listener if exists
-            if (this.firestoreUnsubscribe) {
-                this.firestoreUnsubscribe();
+            if (this.supabaseSubscription) {
+                this.supabaseSubscription.unsubscribe();
             }
 
-            // Reset first snapshot flag
-            this.firestoreListenerFirstSnapshot = true;
+            // Reset first event flag
+            this.supabaseListenerFirstEvent = true;
 
             // Listen for real-time updates
-            this.firestoreUnsubscribe = window.firebaseModules.onSnapshot(docRef, (doc) => {
-                // Skip the first snapshot (initial data load)
-                if (this.firestoreListenerFirstSnapshot) {
-                    this.firestoreListenerFirstSnapshot = false;
-                    return;
-                }
-                
-                if (doc.exists()) {
-                    const data = doc.data();
-                    
-                    // Update local state with Firestore data (use nullish coalescing for proper array handling)
-                    this.feeds = data.feeds ?? this.feeds;
-                    this.groups = data.groups ?? this.groups;
-                    this.readArticles = new Set(data.readArticles ?? []);
-                    this.hideRead = data.hideRead !== undefined ? data.hideRead : this.hideRead;
-                    this.darkMode = data.darkMode !== undefined ? data.darkMode : this.darkMode;
-                    this.contentSource = data.contentSource ?? this.contentSource;
-                    this.sidebarCollapsed = data.sidebarCollapsed !== undefined ? data.sidebarCollapsed : this.sidebarCollapsed;
+            this.supabaseSubscription = window.supabaseClient
+                .channel('user_settings_changes')
+                .on('postgres_changes', 
+                    { 
+                        event: '*', 
+                        schema: 'public', 
+                        table: 'user_settings',
+                        filter: `user_id=eq.${this.user.uid}`
+                    }, 
+                    (payload) => {
+                        // Skip the first event (initial data load)
+                        if (this.supabaseListenerFirstEvent) {
+                            this.supabaseListenerFirstEvent = false;
+                            return;
+                        }
+                        
+                        if (payload.new) {
+                            const data = payload.new;
+                            
+                            // Update local state with Supabase data
+                            this.feeds = data.feeds ?? this.feeds;
+                            this.groups = data.groups ?? this.groups;
+                            this.readArticles = new Set(data.read_articles ?? []);
+                            this.hideRead = data.hide_read !== undefined ? data.hide_read : this.hideRead;
+                            this.darkMode = data.dark_mode !== undefined ? data.dark_mode : this.darkMode;
+                            this.contentSource = data.content_source ?? this.contentSource;
+                            this.sidebarCollapsed = data.sidebar_collapsed !== undefined ? data.sidebar_collapsed : this.sidebarCollapsed;
 
-                    // Update localStorage (without triggering another Firestore sync)
-                    localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
-                    localStorage.setItem('rss_groups', JSON.stringify(this.groups));
-                    localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
-                    localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
-                    localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
-                    localStorage.setItem('rss_content_source', this.contentSource);
-                    localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
+                            // Update localStorage (without triggering another Supabase sync)
+                            localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+                            localStorage.setItem('rss_groups', JSON.stringify(this.groups));
+                            localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
+                            localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+                            localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+                            localStorage.setItem('rss_content_source', this.contentSource);
+                            localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
 
-                    // Update UI
-                    this.renderFeeds();
-                    this.renderArticles();
-                    
-                    console.log('Real-time update received from Firestore');
-                }
-            }, (error) => {
-                console.error('Error listening to Firestore updates:', error);
-            });
+                            // Update UI
+                            this.renderFeeds();
+                            this.renderArticles();
+                            
+                            console.log('Real-time update received from Supabase');
+                        }
+                    }
+                )
+                .subscribe();
         } catch (error) {
-            console.error('Error setting up Firestore listener:', error);
+            console.error('Error setting up Supabase listener:', error);
         }
     }
 
