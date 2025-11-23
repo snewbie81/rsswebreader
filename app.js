@@ -3,10 +3,14 @@
 class RSSReader {
     constructor() {
         this.feeds = [];
+        this.groups = [];
         this.articles = [];
         this.readArticles = new Set();
         this.currentFeed = null;
+        this.currentGroup = null;
         this.hideRead = false;
+        this.darkMode = false;
+        this.sidebarCollapsed = false;
         this.init();
     }
 
@@ -25,20 +29,53 @@ class RSSReader {
         document.getElementById('confirmImportOpmlBtn').addEventListener('click', () => this.importOpml());
         document.getElementById('exportOpmlBtn').addEventListener('click', () => this.exportOpml());
         document.getElementById('hideReadToggle').addEventListener('change', (e) => this.toggleHideRead(e.target.checked));
-        document.getElementById('closeArticleBtn').addEventListener('click', () => this.closeArticleView());
+        
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        if (darkModeToggle) {
+            darkModeToggle.addEventListener('change', (e) => this.toggleDarkMode(e.target.checked));
+        }
+
+        const sidebarToggle = document.getElementById('sidebarToggle');
+        if (sidebarToggle) {
+            sidebarToggle.addEventListener('click', () => this.toggleSidebar());
+        }
+
+        const addGroupBtn = document.getElementById('addGroupBtn');
+        if (addGroupBtn) {
+            addGroupBtn.addEventListener('click', () => this.showModal('addGroupModal'));
+        }
+
+        const confirmAddGroupBtn = document.getElementById('confirmAddGroupBtn');
+        if (confirmAddGroupBtn) {
+            confirmAddGroupBtn.addEventListener('click', () => this.addGroup());
+        }
         
         document.getElementById('feedUrlInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') this.addFeed();
         });
+
+        const groupNameInput = document.getElementById('groupNameInput');
+        if (groupNameInput) {
+            groupNameInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') this.addGroup();
+            });
+        }
     }
 
     loadData() {
         const savedFeeds = localStorage.getItem('rss_feeds');
+        const savedGroups = localStorage.getItem('rss_groups');
         const savedReadArticles = localStorage.getItem('rss_read_articles');
         const savedHideRead = localStorage.getItem('rss_hide_read');
+        const savedDarkMode = localStorage.getItem('rss_dark_mode');
+        const savedSidebarCollapsed = localStorage.getItem('rss_sidebar_collapsed');
 
         if (savedFeeds) {
             this.feeds = JSON.parse(savedFeeds);
+        }
+
+        if (savedGroups) {
+            this.groups = JSON.parse(savedGroups);
         }
 
         if (savedReadArticles) {
@@ -49,15 +86,46 @@ class RSSReader {
             this.hideRead = JSON.parse(savedHideRead);
             document.getElementById('hideReadToggle').checked = this.hideRead;
         }
+
+        if (savedDarkMode) {
+            this.darkMode = JSON.parse(savedDarkMode);
+            if (this.darkMode) {
+                document.body.classList.add('dark-mode');
+            }
+            const darkModeToggle = document.getElementById('darkModeToggle');
+            if (darkModeToggle) {
+                darkModeToggle.checked = this.darkMode;
+            }
+        }
+
+        if (savedSidebarCollapsed) {
+            this.sidebarCollapsed = JSON.parse(savedSidebarCollapsed);
+            if (this.sidebarCollapsed) {
+                document.querySelector('.sidebar')?.classList.add('collapsed');
+            }
+        }
     }
 
     saveData() {
         localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+        localStorage.setItem('rss_groups', JSON.stringify(this.groups));
         localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
         localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+        localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+        localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
     }
 
     showModal(modalId) {
+        // Populate group select dropdown if it's the add feed modal
+        if (modalId === 'addFeedModal') {
+            const groupSelect = document.getElementById('feedGroupSelect');
+            if (groupSelect) {
+                groupSelect.innerHTML = '<option value="">No Group</option>' + 
+                    this.groups.map(group => 
+                        `<option value="${group.id}">${this.escapeHtml(group.name)}</option>`
+                    ).join('');
+            }
+        }
         document.getElementById(modalId).style.display = 'flex';
     }
 
@@ -68,6 +136,7 @@ class RSSReader {
     async addFeed() {
         const input = document.getElementById('feedUrlInput');
         const url = input.value.trim();
+        const groupSelect = document.getElementById('feedGroupSelect');
 
         if (!url) {
             alert('Please enter a feed URL');
@@ -84,9 +153,16 @@ class RSSReader {
             }
 
             this.feeds.push(feed);
+
+            // Assign to group if selected
+            if (groupSelect && groupSelect.value) {
+                this.assignFeedToGroup(url, groupSelect.value);
+            }
+
             this.saveData();
             this.renderFeeds();
             input.value = '';
+            if (groupSelect) groupSelect.value = '';
             this.closeModal('addFeedModal');
             this.showNotification('Feed added successfully!', 'success');
         } catch (error) {
@@ -166,38 +242,121 @@ class RSSReader {
             return;
         }
 
-        feedsList.innerHTML = this.feeds.map(feed => {
-            const unreadCount = feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
-            const isActive = this.currentFeed === feed.url;
-            
-            return `
-                <div class="feed-item ${isActive ? 'active' : ''}" onclick="rssReader.loadFeedArticles('${feed.url}')">
-                    <div class="feed-info">
-                        <div class="feed-title">${this.escapeHtml(feed.title)}</div>
-                    </div>
-                    ${unreadCount > 0 ? `<span class="feed-unread">${unreadCount}</span>` : ''}
-                    <div class="feed-actions">
-                        <button class="btn-icon" onclick="event.stopPropagation(); rssReader.refreshFeed('${feed.url}')" title="Refresh">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <polyline points="23 4 23 10 17 10"></polyline>
-                                <polyline points="1 20 1 14 7 14"></polyline>
-                                <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+        let html = '';
+
+        // Get feeds that are not in any group
+        const feedsInGroups = new Set();
+        this.groups.forEach(group => {
+            group.feedUrls.forEach(url => feedsInGroups.add(url));
+        });
+
+        const ungroupedFeeds = this.feeds.filter(feed => !feedsInGroups.has(feed.url));
+
+        // Render groups
+        this.groups.forEach(group => {
+            const groupFeeds = this.feeds.filter(f => group.feedUrls.includes(f.url));
+            const totalUnread = groupFeeds.reduce((sum, feed) => {
+                return sum + feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
+            }, 0);
+            const isGroupActive = this.currentGroup === group.id;
+
+            html += `
+                <div class="feed-group">
+                    <div class="group-header ${isGroupActive ? 'active' : ''}" onclick="rssReader.loadGroupArticles('${group.id}')">
+                        <div class="group-info">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
                             </svg>
-                        </button>
-                        <button class="btn-icon" onclick="event.stopPropagation(); rssReader.deleteFeed('${feed.url}')" title="Delete">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <span class="group-name">${this.escapeHtml(group.name)}</span>
+                        </div>
+                        ${totalUnread > 0 ? `<span class="feed-unread">${totalUnread}</span>` : ''}
+                        <button class="btn-icon" onclick="event.stopPropagation(); rssReader.deleteGroup('${group.id}')" title="Delete Group">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                 <polyline points="3 6 5 6 21 6"></polyline>
                                 <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
                             </svg>
                         </button>
                     </div>
+                    <div class="group-feeds">
+            `;
+
+            groupFeeds.forEach(feed => {
+                const unreadCount = feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
+                const isActive = this.currentFeed === feed.url;
+                
+                html += `
+                    <div class="feed-item ${isActive ? 'active' : ''}" onclick="rssReader.loadFeedArticles('${feed.url}')">
+                        <div class="feed-info">
+                            <div class="feed-title">${this.escapeHtml(feed.title)}</div>
+                        </div>
+                        ${unreadCount > 0 ? `<span class="feed-unread">${unreadCount}</span>` : ''}
+                        <div class="feed-actions">
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.refreshFeed('${feed.url}')" title="Refresh">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="23 4 23 10 17 10"></polyline>
+                                    <polyline points="1 20 1 14 7 14"></polyline>
+                                    <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                                </svg>
+                            </button>
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.deleteFeed('${feed.url}')" title="Delete">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="3 6 5 6 21 6"></polyline>
+                                    <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                `;
+            });
+
+            html += `
+                    </div>
                 </div>
             `;
-        }).join('');
+        });
+
+        // Render ungrouped feeds
+        if (ungroupedFeeds.length > 0) {
+            if (this.groups.length > 0) {
+                html += '<div class="feeds-divider">Ungrouped</div>';
+            }
+            
+            ungroupedFeeds.forEach(feed => {
+                const unreadCount = feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
+                const isActive = this.currentFeed === feed.url;
+                
+                html += `
+                    <div class="feed-item ${isActive ? 'active' : ''}" onclick="rssReader.loadFeedArticles('${feed.url}')">
+                        <div class="feed-info">
+                            <div class="feed-title">${this.escapeHtml(feed.title)}</div>
+                        </div>
+                        ${unreadCount > 0 ? `<span class="feed-unread">${unreadCount}</span>` : ''}
+                        <div class="feed-actions">
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.refreshFeed('${feed.url}')" title="Refresh">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="23 4 23 10 17 10"></polyline>
+                                    <polyline points="1 20 1 14 7 14"></polyline>
+                                    <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+                                </svg>
+                            </button>
+                            <button class="btn-icon" onclick="event.stopPropagation(); rssReader.deleteFeed('${feed.url}')" title="Delete">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="3 6 5 6 21 6"></polyline>
+                                    <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+
+        feedsList.innerHTML = html;
     }
 
     loadFeedArticles(feedUrl) {
         this.currentFeed = feedUrl;
+        this.currentGroup = null;
         const feed = this.feeds.find(f => f.url === feedUrl);
         
         if (feed) {
@@ -226,6 +385,8 @@ class RSSReader {
                         <li>Clean, ad-free interface</li>
                         <li>Hide read articles</li>
                         <li>OPML import/export</li>
+                        <li>Group organization</li>
+                        <li>Dark mode</li>
                     </ul>
                 </div>
             `;
@@ -243,72 +404,110 @@ class RSSReader {
             const shouldHide = this.hideRead && isRead;
             
             return `
-                <div class="article-card ${isRead ? 'read' : ''} ${shouldHide ? 'hidden' : ''}" 
-                     onclick="rssReader.openArticle('${articleId}')">
-                    <div class="article-header">
-                        <h3 class="article-title">${this.escapeHtml(article.title)}</h3>
-                        <div class="article-meta">
-                            <span class="article-source">${this.escapeHtml(article.feedTitle)}</span>
-                            <span class="article-date">${this.formatDate(article.pubDate)}</span>
+                <div class="article-card ${isRead ? 'read' : ''} ${shouldHide ? 'hidden' : ''}" data-article-id="${articleId}">
+                    <div class="article-card-header" onclick="rssReader.toggleArticle('${articleId}')">
+                        <div class="article-header">
+                            <h3 class="article-title">${this.escapeHtml(article.title)}</h3>
+                            <div class="article-meta">
+                                <span class="article-source">${this.escapeHtml(article.feedTitle)}</span>
+                                <span class="article-date">${this.formatDate(article.pubDate)}</span>
+                            </div>
                         </div>
+                        <svg class="expand-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="6 9 12 15 18 9"></polyline>
+                        </svg>
                     </div>
                     <div class="article-excerpt">
                         ${this.stripHtml(article.description || '').substring(0, 200)}...
+                    </div>
+                    <div class="article-expanded-content" style="display: none;">
+                        <div class="loading">Loading full article...</div>
                     </div>
                 </div>
             `;
         }).join('');
     }
 
-    async openArticle(articleId) {
+    async toggleArticle(articleId) {
         const article = this.articles.find(a => (a.guid || a.link) === articleId);
-        
         if (!article) return;
+
+        const articleCard = document.querySelector(`.article-card[data-article-id="${articleId}"]`);
+        if (!articleCard) return;
+
+        const expandedContent = articleCard.querySelector('.article-expanded-content');
+        const expandIcon = articleCard.querySelector('.expand-icon');
+        const excerpt = articleCard.querySelector('.article-excerpt');
 
         // Mark as read
         this.readArticles.add(articleId);
         this.saveData();
-        
-        // Try to fetch full text
-        let fullContent = article.content || article.description || '';
-        
-        try {
-            // Attempt to extract full text from the article link
-            fullContent = await this.extractFullText(article.link, fullContent);
-        } catch (error) {
-            console.error('Error extracting full text:', error);
-            // Fall back to original content
+        articleCard.classList.add('read');
+
+        // Toggle expansion
+        if (expandedContent.style.display === 'none') {
+            // Expand
+            expandedContent.style.display = 'block';
+            excerpt.style.display = 'none';
+            articleCard.classList.add('expanded');
+            expandIcon.style.transform = 'rotate(180deg)';
+
+            // Load full content if not already loaded
+            if (expandedContent.querySelector('.loading')) {
+                try {
+                    let fullContent = article.content || article.description || '';
+                    fullContent = await this.extractFullText(article.link, fullContent);
+
+                    expandedContent.innerHTML = `
+                        <div class="article-body">
+                            ${fullContent}
+                        </div>
+                        <div class="article-footer">
+                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                                Read original article
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                    <polyline points="15 3 21 3 21 9"></polyline>
+                                    <line x1="10" y1="14" x2="21" y2="3"></line>
+                                </svg>
+                            </a>
+                        </div>
+                    `;
+                } catch (error) {
+                    console.error('Error loading full content:', error);
+                    expandedContent.innerHTML = `
+                        <div class="article-body">
+                            ${article.content || article.description || 'Failed to load content'}
+                        </div>
+                        <div class="article-footer">
+                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                                Read original article
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                    <polyline points="15 3 21 3 21 9"></polyline>
+                                    <line x1="10" y1="14" x2="21" y2="3"></line>
+                                </svg>
+                            </a>
+                        </div>
+                    `;
+                }
+            }
+        } else {
+            // Collapse
+            expandedContent.style.display = 'none';
+            excerpt.style.display = 'block';
+            articleCard.classList.remove('expanded');
+            expandIcon.style.transform = 'rotate(0deg)';
         }
 
-        // Render article
-        const articleContent = document.getElementById('articleContent');
-        articleContent.innerHTML = `
-            <h1>${this.escapeHtml(article.title)}</h1>
-            <div class="article-meta">
-                <span class="article-source">${this.escapeHtml(article.feedTitle)}</span>
-                <span class="article-date">${this.formatDate(article.pubDate)}</span>
-            </div>
-            <div class="article-body">
-                ${fullContent}
-            </div>
-            <div class="article-footer">
-                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
-                    Read original article
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                        <polyline points="15 3 21 3 21 9"></polyline>
-                        <line x1="10" y1="14" x2="21" y2="3"></line>
-                    </svg>
-                </a>
-            </div>
-        `;
+        // Update feed list to reflect read status
+        this.renderFeeds();
+    }
 
-        document.getElementById('articleView').style.display = 'block';
-        document.getElementById('articlesList').style.display = 'none';
-        
-        // Update the articles list to reflect read status
+    toggleHideRead(hide) {
+        this.hideRead = hide;
+        this.saveData();
         this.renderArticles();
-        this.renderFeeds(); // Update unread counts
     }
 
     async extractFullText(url, fallbackContent) {
@@ -323,17 +522,6 @@ class RSSReader {
         // Basic enhancement: ensure we use the longer content field if available
         // Many RSS feeds provide both 'content' and 'description' fields
         return fallbackContent;
-    }
-
-    closeArticleView() {
-        document.getElementById('articleView').style.display = 'none';
-        document.getElementById('articlesList').style.display = 'block';
-    }
-
-    toggleHideRead(hide) {
-        this.hideRead = hide;
-        this.saveData();
-        this.renderArticles();
     }
 
     async importOpml() {
@@ -457,6 +645,108 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         } else {
             return date.toLocaleDateString();
         }
+    }
+
+    toggleDarkMode(enabled) {
+        this.darkMode = enabled;
+        if (enabled) {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.remove('dark-mode');
+        }
+        this.saveData();
+    }
+
+    toggleSidebar() {
+        this.sidebarCollapsed = !this.sidebarCollapsed;
+        const sidebar = document.querySelector('.sidebar');
+        if (sidebar) {
+            sidebar.classList.toggle('collapsed');
+        }
+        this.saveData();
+    }
+
+    addGroup() {
+        const input = document.getElementById('groupNameInput');
+        const name = input?.value.trim();
+
+        if (!name) {
+            alert('Please enter a group name');
+            return;
+        }
+
+        // Check if group already exists
+        if (this.groups.some(g => g.name === name)) {
+            alert('A group with this name already exists');
+            return;
+        }
+
+        this.groups.push({
+            id: Date.now().toString(),
+            name: name,
+            feedUrls: []
+        });
+
+        this.saveData();
+        this.renderFeeds();
+        input.value = '';
+        this.closeModal('addGroupModal');
+        this.showNotification('Group created successfully!', 'success');
+    }
+
+    deleteGroup(groupId) {
+        if (confirm('Are you sure you want to delete this group? Feeds in this group will not be deleted.')) {
+            this.groups = this.groups.filter(g => g.id !== groupId);
+            this.saveData();
+            this.renderFeeds();
+            this.showNotification('Group deleted', 'success');
+        }
+    }
+
+    assignFeedToGroup(feedUrl, groupId) {
+        // Remove feed from all groups first
+        this.groups.forEach(group => {
+            group.feedUrls = group.feedUrls.filter(url => url !== feedUrl);
+        });
+
+        // Add to new group if specified
+        if (groupId) {
+            const group = this.groups.find(g => g.id === groupId);
+            if (group && !group.feedUrls.includes(feedUrl)) {
+                group.feedUrls.push(feedUrl);
+            }
+        }
+
+        this.saveData();
+        this.renderFeeds();
+    }
+
+    loadGroupArticles(groupId) {
+        this.currentGroup = groupId;
+        this.currentFeed = null;
+        
+        const group = this.groups.find(g => g.id === groupId);
+        if (group) {
+            // Collect all articles from feeds in this group
+            this.articles = [];
+            group.feedUrls.forEach(feedUrl => {
+                const feed = this.feeds.find(f => f.url === feedUrl);
+                if (feed) {
+                    const feedArticles = feed.items.map(item => ({
+                        ...item,
+                        feedTitle: feed.title,
+                        feedUrl: feed.url
+                    }));
+                    this.articles.push(...feedArticles);
+                }
+            });
+
+            // Sort by date
+            this.articles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+            this.renderArticles();
+        }
+        
+        this.renderFeeds(); // Re-render to update active state
     }
 
     async registerServiceWorker() {
