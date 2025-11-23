@@ -189,7 +189,7 @@ class RSSReader {
             if (hostname === 'localhost' || 
                 hostname === '127.0.0.1' ||
                 hostname.match(/^192\.168\./) ||
-                hostname.match(/^10\./)||
+                hostname.match(/^10\./) ||
                 hostname.match(/^172\.(1[6-9]|2[0-9]|3[0-1])\./)) {
                 throw new Error('Private network addresses are not allowed');
             }
@@ -808,27 +808,9 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         }
 
         // Generate robust UUID with fallback
-        let id;
-        if (crypto.randomUUID) {
-            id = crypto.randomUUID();
-        } else if (crypto.getRandomValues) {
-            // Fallback using crypto.getRandomValues
-            const bytes = new Uint8Array(16);
-            crypto.getRandomValues(bytes);
-            bytes[6] = (bytes[6] & 0x0f) | 0x40; // Version 4
-            bytes[8] = (bytes[8] & 0x3f) | 0x80; // Variant
-            const hexArray = Array.from(bytes, b => b.toString(16).padStart(2, '0'));
-            id = [
-                hexArray.slice(0, 4).join(''),
-                hexArray.slice(4, 6).join(''),
-                hexArray.slice(6, 8).join(''),
-                hexArray.slice(8, 10).join(''),
-                hexArray.slice(10, 16).join('')
-            ].join('-');
-        } else {
-            // Final fallback for older browsers
-            id = 'group-' + Date.now() + '-' + Math.random().toString(36).slice(2, 11);
-        }
+        const id = crypto.randomUUID ? 
+            crypto.randomUUID() : 
+            'group-' + Date.now() + '-' + Math.random().toString(36).slice(2, 11);
 
         this.groups.push({
             id: id,
@@ -910,9 +892,22 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             syncButton.textContent = 'Syncing...';
         }
 
-        // Fetch all feeds concurrently with Promise.allSettled
-        const syncPromises = this.feeds.map(feed => this.fetchFeed(feed.url));
-        const results = await Promise.allSettled(syncPromises);
+        // Add rate limiting: batch feeds into groups of 5 with 1 second delay between batches
+        const batchSize = 5;
+        const batchDelay = 1000; // 1 second between batches
+        const results = [];
+
+        for (let i = 0; i < this.feeds.length; i += batchSize) {
+            const batch = this.feeds.slice(i, i + batchSize);
+            const batchPromises = batch.map(feed => this.fetchFeed(feed.url));
+            const batchResults = await Promise.allSettled(batchPromises);
+            results.push(...batchResults);
+
+            // Add delay between batches (except for the last batch)
+            if (i + batchSize < this.feeds.length) {
+                await new Promise(resolve => setTimeout(resolve, batchDelay));
+            }
+        }
 
         let successCount = 0;
         let errorCount = 0;
