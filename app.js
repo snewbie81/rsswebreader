@@ -436,11 +436,20 @@ class RSSReader {
                 errorMessage += 'Unable to connect to the feed. Please check the URL or try again later.';
             } else if (error.name === 'AbortError') {
                 errorMessage += 'The request timed out. The feed may be too slow or unavailable.';
-            } else if (error.message.includes('Failed to parse feed')) {
-                errorMessage += 'The URL does not appear to be a valid RSS feed.';
+            } else if (error.message.includes('Failed to parse feed') || error.message.includes('Invalid feed data')) {
+                errorMessage += 'The URL does not appear to be a valid RSS feed, or the RSS parser service is having trouble processing it. ';
+                errorMessage += 'This can happen with complex feeds that use multiple XML namespaces (xmlns:content, xmlns:dc, etc.). ';
+                errorMessage += 'If this is a valid RSS feed, it may work after retrying.';
             } else {
                 errorMessage += error.message || 'Please try again.';
             }
+            
+            // Show error in console for debugging
+            console.error('Feed addition error details:', {
+                url,
+                error: error.message,
+                fullError: error
+            });
             
             alert(errorMessage);
         } finally {
@@ -501,8 +510,19 @@ class RSSReader {
 
             const data = await response.json();
             
+            // Log the API response for debugging
+            console.log('RSS2JSON API response:', data);
+            
             if (data.status !== 'ok') {
-                throw new Error(data.message || 'Failed to parse feed');
+                // Provide more detailed error message
+                const errorDetail = data.message || 'Failed to parse feed';
+                console.error('RSS2JSON error:', errorDetail);
+                throw new Error(errorDetail);
+            }
+
+            // Validate that we have feed data
+            if (!data.feed) {
+                throw new Error('Invalid feed data received from RSS parser');
             }
 
             return {
