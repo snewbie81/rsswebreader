@@ -612,19 +612,20 @@ class RSSReader {
     async extractFullText(url, fallbackContent) {
         // Full-text extraction based on content source setting
         if (this.contentSource === 'inline') {
-            // Use inline text (what's provided in the feed)
-            return fallbackContent;
+            // Use inline text - strip HTML and return plain text summary
+            const stripped = this.stripHtml(fallbackContent);
+            return stripped.substring(0, 500) + (stripped.length > 500 ? '...' : '');
         } else if (this.contentSource === 'feed') {
-            // Use feed text (default - what's in the RSS feed)
+            // Use feed text (default - full content from RSS feed)
             return fallbackContent;
         } else if (this.contentSource === 'webpage') {
             // Extract from webpage - would require a service or API
-            // For now, fall back to feed content
+            // For now, indicate this feature and fall back to feed content
             // In production, integrate with services like:
             // - Mercury Parser
             // - Mozilla Readability
             // - Custom extraction service
-            return fallbackContent;
+            return '<p><em>Note: Webpage text extraction requires additional service integration. Showing feed content.</em></p>' + fallbackContent;
         }
         
         return fallbackContent;
@@ -707,7 +708,7 @@ class RSSReader {
             return;
         }
 
-        if (!email.includes('@')) {
+        if (!email.includes('@') || !email.includes('.')) {
             alert('Please enter a valid email address');
             return;
         }
@@ -770,7 +771,9 @@ class RSSReader {
     }
 
     hashPassword(password) {
-        // Simple hash for demo - in production use bcrypt or similar
+        // WARNING: This is a DEMO implementation only!
+        // DO NOT use in production. Use bcrypt, Argon2, or PBKDF2 with proper salting.
+        // This simple hash is for demonstration purposes to show the concept.
         let hash = 0;
         for (let i = 0; i < password.length; i++) {
             const char = password.charCodeAt(i);
