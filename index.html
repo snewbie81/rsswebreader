@@ -239,6 +239,77 @@
 
     <input type="file" id="hiddenOpmlInput" accept=".opml,.xml" style="display: none;">
 
+    <!-- Rename Feed Modal -->
+    <div id="renameFeedModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Rename Feed</h3>
+                <button class="btn-close" onclick="closeModal('renameFeedModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="renameFeedInput" placeholder="Enter new feed name" class="input-field">
+                <p class="help-text">Enter a new name for this feed</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('renameFeedModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmRenameFeedBtn">Rename</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rename Group Modal -->
+    <div id="renameGroupModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Rename Group</h3>
+                <button class="btn-close" onclick="closeModal('renameGroupModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="renameGroupInput" placeholder="Enter new group name" class="input-field">
+                <p class="help-text">Enter a new name for this group</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('renameGroupModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmRenameGroupBtn">Rename</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Move Feed Modal -->
+    <div id="moveFeedModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Move Feed</h3>
+                <button class="btn-close" onclick="closeModal('moveFeedModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <select id="moveFeedGroupSelect" class="input-field">
+                    <option value="">No Group</option>
+                </select>
+                <p class="help-text">Select a group to move this feed to</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('moveFeedModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmMoveFeedBtn">Move</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Login Modal -->
     <div id="loginModal" class="modal" style="display: none;">
         <div class="modal-content">
