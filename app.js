@@ -1293,6 +1293,7 @@ class RSSReader {
                 
                 // Merge read articles (union of both sets)
                 if (data.read_articles && Array.isArray(data.read_articles)) {
+                    // Use loose equality (id != null) to filter both null and undefined
                     data.read_articles.forEach(id => id != null && this.readArticles.add(id));
                 }
                 
