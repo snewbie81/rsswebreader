@@ -697,8 +697,31 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             return;
         }
 
+        // Generate robust UUID with fallback
+        let id;
+        if (crypto.randomUUID) {
+            id = crypto.randomUUID();
+        } else if (crypto.getRandomValues) {
+            // Fallback using crypto.getRandomValues
+            const bytes = new Uint8Array(16);
+            crypto.getRandomValues(bytes);
+            bytes[6] = (bytes[6] & 0x0f) | 0x40; // Version 4
+            bytes[8] = (bytes[8] & 0x3f) | 0x80; // Variant
+            const hexArray = Array.from(bytes, b => b.toString(16).padStart(2, '0'));
+            id = [
+                hexArray.slice(0, 4).join(''),
+                hexArray.slice(4, 6).join(''),
+                hexArray.slice(6, 8).join(''),
+                hexArray.slice(8, 10).join(''),
+                hexArray.slice(10, 16).join('')
+            ].join('-');
+        } else {
+            // Final fallback for older browsers
+            id = 'group-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
+        }
+
         this.groups.push({
-            id: crypto.randomUUID ? crypto.randomUUID() : Date.now().toString() + Math.random(),
+            id: id,
             name: name,
             feedUrls: []
         });
@@ -778,26 +801,18 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         }
 
         // Fetch all feeds concurrently with Promise.allSettled
-        const syncPromises = this.feeds.map(feed => 
-            this.fetchFeed(feed.url)
-                .then(updatedFeed => ({ status: 'fulfilled', feed: updatedFeed, url: feed.url }))
-                .catch(error => ({ status: 'rejected', error, url: feed.url }))
-        );
-
-        const results = await Promise.all(syncPromises);
+        const syncPromises = this.feeds.map(feed => this.fetchFeed(feed.url));
+        const results = await Promise.allSettled(syncPromises);
 
         let successCount = 0;
         let errorCount = 0;
 
-        results.forEach(result => {
+        results.forEach((result, index) => {
             if (result.status === 'fulfilled') {
-                const feedIndex = this.feeds.findIndex(f => f.url === result.url);
-                if (feedIndex !== -1) {
-                    this.feeds[feedIndex] = result.feed;
-                    successCount++;
-                }
+                this.feeds[index] = result.value;
+                successCount++;
             } else {
-                console.error(`Failed to sync feed: ${result.url}`, result.error);
+                console.error(`Failed to sync feed: ${this.feeds[index].url}`, result.reason);
                 errorCount++;
             }
         });
