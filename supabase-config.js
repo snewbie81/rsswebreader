@@ -19,14 +19,14 @@
 
 // Configuration constants
 const supabaseConfig = {
-    url: "YOUR_SUPABASE_URL", // e.g., https://xxxxxxxxxxxxx.supabase.co
-    anonKey: "YOUR_SUPABASE_ANON_KEY" // Your public anon key
+    url: "https://jkvzsclozkkqrmmdjnll.supabase.co", // e.g., https://xxxxxxxxxxxxx.supabase.co
+    anonKey: "sb_publishable_y5i0Tduz8iHuvYdmzzgoNQ_xuHAqTj9" // Your public anon key
 };
 
 // Validate configuration to prevent accidental deployment with placeholder values
 function validateConfig() {
-    if (supabaseConfig.url === "YOUR_SUPABASE_URL" || 
-        supabaseConfig.anonKey === "YOUR_SUPABASE_ANON_KEY" ||
+    if (supabaseConfig.url === "https://jkvzsclozkkqrmmdjnll.supabase.co" || 
+        supabaseConfig.anonKey === "sb_publishable_y5i0Tduz8iHuvYdmzzgoNQ_xuHAqTj9" ||
         !supabaseConfig.url.startsWith('http')) {
         console.warn('Supabase configuration contains placeholder values. The app will run in offline mode.');
         return false;
