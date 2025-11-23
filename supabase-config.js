@@ -25,16 +25,20 @@ const supabaseConfig = {
 
 // Validate configuration to prevent accidental deployment with placeholder values
 function validateConfig() {
+    // Check if config values exist
+    if (!supabaseConfig.url || !supabaseConfig.anonKey) {
+        console.warn('Supabase configuration is missing or empty. The app will run in offline mode.');
+        return false;
+    }
+    
     // Check for placeholder/example values that indicate configuration is not complete
     const hasPlaceholderUrl = supabaseConfig.url === "YOUR_PROJECT_URL" || 
                                supabaseConfig.url === "https://xxxxxxxxxxxxx.supabase.co" ||
-                               /https?:\/\/x+\.supabase\.co/.test(supabaseConfig.url) ||
-                               supabaseConfig.url === "";
+                               /https?:\/\/x+\.supabase\.co/.test(supabaseConfig.url);
     
     const hasPlaceholderKey = supabaseConfig.anonKey === "YOUR_ANON_KEY" || 
                                supabaseConfig.anonKey === "your-anon-key-here" ||
-                               supabaseConfig.anonKey.includes("xxxxxxxxxxxxx") ||
-                               supabaseConfig.anonKey === "";
+                               supabaseConfig.anonKey.includes("xxxxxxxxxxxxx");
     
     const hasInvalidUrl = !supabaseConfig.url.startsWith('http://') && !supabaseConfig.url.startsWith('https://');
     
