@@ -13,30 +13,19 @@
 <body>
     <div class="app-container">
         <header class="app-header">
+            <button id="toggleSidebarBtn" class="btn-icon" title="Toggle Sidebar">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="3" y1="12" x2="21" y2="12"></line>
+                    <line x1="3" y1="6" x2="21" y2="6"></line>
+                    <line x1="3" y1="18" x2="21" y2="18"></line>
+                </svg>
+            </button>
             <h1>RSS Web Reader</h1>
             <div class="header-controls">
-                <button id="addFeedBtn" class="btn btn-primary" title="Add RSS Feed">
+                <button id="darkModeToggle" class="btn-icon" title="Toggle Dark Mode">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <line x1="12" y1="5" x2="12" y2="19"></line>
-                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
-                    Add Feed
-                </button>
-                <button id="importOpmlBtn" class="btn btn-secondary" title="Import OPML">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                        <polyline points="7 10 12 15 17 10"></polyline>
-                        <line x1="12" y1="15" x2="12" y2="3"></line>
-                    </svg>
-                    Import
-                </button>
-                <button id="exportOpmlBtn" class="btn btn-secondary" title="Export OPML">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                        <polyline points="17 8 12 3 7 8"></polyline>
-                        <line x1="12" y1="3" x2="12" y2="15"></line>
-                    </svg>
-                    Export
                 </button>
                 <label class="toggle-container">
                     <input type="checkbox" id="hideReadToggle">
@@ -46,7 +35,42 @@
         </header>
 
         <div class="main-content">
-            <aside class="sidebar">
+            <aside class="sidebar" id="sidebar">
+                <div class="sidebar-header">
+                    <button id="addGroupBtn" class="btn btn-primary btn-full-width" title="Add Group">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                            <line x1="12" y1="8" x2="12" y2="16"></line>
+                            <line x1="8" y1="12" x2="16" y2="12"></line>
+                        </svg>
+                        Add Group
+                    </button>
+                    <button id="addFeedBtn" class="btn btn-primary btn-full-width" title="Add RSS Feed">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="12" y1="5" x2="12" y2="19"></line>
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                        </svg>
+                        Add Feed
+                    </button>
+                    <div class="sidebar-actions">
+                        <button id="importOpmlBtn" class="btn btn-secondary btn-full-width" title="Import OPML">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="7 10 12 15 17 10"></polyline>
+                                <line x1="12" y1="15" x2="12" y2="3"></line>
+                            </svg>
+                            Import
+                        </button>
+                        <button id="exportOpmlBtn" class="btn btn-secondary btn-full-width" title="Export OPML">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="17 8 12 3 7 8"></polyline>
+                                <line x1="12" y1="3" x2="12" y2="15"></line>
+                            </svg>
+                            Export
+                        </button>
+                    </div>
+                </div>
                 <div class="feeds-section">
                     <h2>Feeds</h2>
                     <div id="feedsList" class="feeds-list">
@@ -66,20 +90,11 @@
                             <li>Clean, ad-free interface</li>
                             <li>Hide read articles</li>
                             <li>OPML import/export</li>
+                            <li>Group feeds by category</li>
+                            <li>Dark mode support</li>
+                            <li>Collapsible sidebar</li>
                         </ul>
                     </div>
-                </div>
-
-                <div id="articleView" class="article-view" style="display: none;">
-                    <button id="closeArticleBtn" class="btn-close">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <line x1="18" y1="6" x2="6" y2="18"></line>
-                            <line x1="6" y1="6" x2="18" y2="18"></line>
-                        </svg>
-                    </button>
-                    <article id="articleContent" class="article-content">
-                        <!-- Article content will be loaded here -->
-                    </article>
                 </div>
             </main>
         </div>
@@ -100,10 +115,37 @@
             <div class="modal-body">
                 <input type="url" id="feedUrlInput" placeholder="Enter RSS feed URL" class="input-field">
                 <p class="help-text">Example: https://example.com/feed.xml</p>
+                <label for="feedGroupSelect" class="input-label">Group (optional):</label>
+                <select id="feedGroupSelect" class="input-field">
+                    <option value="">No Group</option>
+                </select>
             </div>
             <div class="modal-footer">
                 <button class="btn btn-secondary" onclick="closeModal('addFeedModal')">Cancel</button>
                 <button class="btn btn-primary" id="confirmAddFeedBtn">Add Feed</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add Group Modal -->
+    <div id="addGroupModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Add Group</h3>
+                <button class="btn-close" onclick="closeModal('addGroupModal')">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="text" id="groupNameInput" placeholder="Enter group name" class="input-field">
+                <p class="help-text">Example: Tech News, Blogs, Science</p>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeModal('addGroupModal')">Cancel</button>
+                <button class="btn btn-primary" id="confirmAddGroupBtn">Add Group</button>
             </div>
         </div>
     </div>

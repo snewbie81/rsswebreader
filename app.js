@@ -3,42 +3,63 @@
 class RSSReader {
     constructor() {
         this.feeds = [];
+        this.groups = [];
         this.articles = [];
         this.readArticles = new Set();
         this.currentFeed = null;
         this.hideRead = false;
+        this.darkMode = false;
+        this.sidebarCollapsed = false;
+        this.expandedArticle = null;
         this.init();
     }
 
     init() {
         this.loadData();
         this.setupEventListeners();
+        this.renderGroups();
         this.renderFeeds();
         this.renderArticles();
         this.registerServiceWorker();
+        this.applyDarkMode();
+        this.applySidebarState();
     }
 
     setupEventListeners() {
-        document.getElementById('addFeedBtn').addEventListener('click', () => this.showModal('addFeedModal'));
+        document.getElementById('addFeedBtn').addEventListener('click', () => this.showAddFeedModal());
+        document.getElementById('addGroupBtn').addEventListener('click', () => this.showModal('addGroupModal'));
         document.getElementById('confirmAddFeedBtn').addEventListener('click', () => this.addFeed());
+        document.getElementById('confirmAddGroupBtn').addEventListener('click', () => this.addGroup());
         document.getElementById('importOpmlBtn').addEventListener('click', () => this.showModal('importOpmlModal'));
         document.getElementById('confirmImportOpmlBtn').addEventListener('click', () => this.importOpml());
         document.getElementById('exportOpmlBtn').addEventListener('click', () => this.exportOpml());
         document.getElementById('hideReadToggle').addEventListener('change', (e) => this.toggleHideRead(e.target.checked));
-        document.getElementById('closeArticleBtn').addEventListener('click', () => this.closeArticleView());
+        document.getElementById('darkModeToggle').addEventListener('click', () => this.toggleDarkMode());
+        document.getElementById('toggleSidebarBtn').addEventListener('click', () => this.toggleSidebar());
         
         document.getElementById('feedUrlInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') this.addFeed();
+        });
+        
+        document.getElementById('groupNameInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') this.addGroup();
         });
     }
 
     loadData() {
         const savedFeeds = localStorage.getItem('rss_feeds');
+        const savedGroups = localStorage.getItem('rss_groups');
         const savedReadArticles = localStorage.getItem('rss_read_articles');
         const savedHideRead = localStorage.getItem('rss_hide_read');
+        const savedDarkMode = localStorage.getItem('rss_dark_mode');
+        const savedSidebarCollapsed = localStorage.getItem('rss_sidebar_collapsed');
 
         if (savedFeeds) {
             this.feeds = JSON.parse(savedFeeds);
+        }
+
+        if (savedGroups) {
+            this.groups = JSON.parse(savedGroups);
         }
 
         if (savedReadArticles) {
@@ -49,16 +70,46 @@ class RSSReader {
             this.hideRead = JSON.parse(savedHideRead);
             document.getElementById('hideReadToggle').checked = this.hideRead;
         }
+
+        if (savedDarkMode) {
+            this.darkMode = JSON.parse(savedDarkMode);
+        }
+
+        if (savedSidebarCollapsed) {
+            this.sidebarCollapsed = JSON.parse(savedSidebarCollapsed);
+        }
     }
 
     saveData() {
         localStorage.setItem('rss_feeds', JSON.stringify(this.feeds));
+        localStorage.setItem('rss_groups', JSON.stringify(this.groups));
         localStorage.setItem('rss_read_articles', JSON.stringify([...this.readArticles]));
         localStorage.setItem('rss_hide_read', JSON.stringify(this.hideRead));
+        localStorage.setItem('rss_dark_mode', JSON.stringify(this.darkMode));
+        localStorage.setItem('rss_sidebar_collapsed', JSON.stringify(this.sidebarCollapsed));
     }
 
     showModal(modalId) {
+        if (modalId === 'addFeedModal') {
+            this.updateGroupSelect();
+        }
         document.getElementById(modalId).style.display = 'flex';
+    }
+
+    showAddFeedModal() {
+        this.updateGroupSelect();
+        this.showModal('addFeedModal');
+    }
+
+    updateGroupSelect() {
+        const select = document.getElementById('feedGroupSelect');
+        select.innerHTML = '<option value="">No Group</option>';
+        this.groups.forEach(group => {
+            const option = document.createElement('option');
+            option.value = group.id;
+            option.textContent = group.name;
+            select.appendChild(option);
+        });
     }
 
     closeModal(modalId) {
@@ -67,7 +118,9 @@ class RSSReader {
 
     async addFeed() {
         const input = document.getElementById('feedUrlInput');
+        const groupSelect = document.getElementById('feedGroupSelect');
         const url = input.value.trim();
+        const groupId = groupSelect.value;
 
         if (!url) {
             alert('Please enter a feed URL');
@@ -83,16 +136,48 @@ class RSSReader {
                 return;
             }
 
+            feed.groupId = groupId || null;
             this.feeds.push(feed);
             this.saveData();
+            this.renderGroups();
             this.renderFeeds();
             input.value = '';
+            groupSelect.value = '';
             this.closeModal('addFeedModal');
             this.showNotification('Feed added successfully!', 'success');
         } catch (error) {
             console.error('Error adding feed:', error);
             alert('Failed to add feed. Please check the URL and try again.');
         }
+    }
+
+    addGroup() {
+        const input = document.getElementById('groupNameInput');
+        const name = input.value.trim();
+
+        if (!name) {
+            alert('Please enter a group name');
+            return;
+        }
+
+        if (this.groups.some(g => g.name === name)) {
+            alert('A group with this name already exists');
+            return;
+        }
+
+        const group = {
+            id: Date.now().toString(),
+            name: name,
+            collapsed: false
+        };
+
+        this.groups.push(group);
+        this.saveData();
+        this.renderGroups();
+        this.renderFeeds();
+        input.value = '';
+        this.closeModal('addGroupModal');
+        this.showNotification('Group added successfully!', 'success');
     }
 
     async fetchFeed(url) {
@@ -127,8 +212,11 @@ class RSSReader {
             const feedIndex = this.feeds.findIndex(f => f.url === feedUrl);
             
             if (feedIndex !== -1) {
+                // Preserve group assignment
+                updatedFeed.groupId = this.feeds[feedIndex].groupId;
                 this.feeds[feedIndex] = updatedFeed;
                 this.saveData();
+                this.renderGroups();
                 this.renderFeeds();
                 
                 if (this.currentFeed === feedUrl) {
@@ -147,6 +235,7 @@ class RSSReader {
         if (confirm('Are you sure you want to delete this feed?')) {
             this.feeds = this.feeds.filter(f => f.url !== feedUrl);
             this.saveData();
+            this.renderGroups();
             this.renderFeeds();
             
             if (this.currentFeed === feedUrl) {
@@ -158,6 +247,36 @@ class RSSReader {
         }
     }
 
+    deleteGroup(groupId) {
+        if (confirm('Are you sure you want to delete this group? Feeds in this group will not be deleted.')) {
+            this.groups = this.groups.filter(g => g.id !== groupId);
+            // Remove group assignment from feeds
+            this.feeds.forEach(feed => {
+                if (feed.groupId === groupId) {
+                    feed.groupId = null;
+                }
+            });
+            this.saveData();
+            this.renderGroups();
+            this.renderFeeds();
+            this.showNotification('Group deleted', 'success');
+        }
+    }
+
+    toggleGroup(groupId) {
+        const group = this.groups.find(g => g.id === groupId);
+        if (group) {
+            group.collapsed = !group.collapsed;
+            this.saveData();
+            this.renderGroups();
+            this.renderFeeds();
+        }
+    }
+
+    renderGroups() {
+        // This is called before renderFeeds to prepare group structure
+    }
+
     renderFeeds() {
         const feedsList = document.getElementById('feedsList');
         
@@ -166,7 +285,56 @@ class RSSReader {
             return;
         }
 
-        feedsList.innerHTML = this.feeds.map(feed => {
+        let html = '';
+
+        // Render grouped feeds
+        this.groups.forEach(group => {
+            const groupFeeds = this.feeds.filter(f => f.groupId === group.id);
+            if (groupFeeds.length > 0) {
+                const totalUnread = groupFeeds.reduce((sum, feed) => {
+                    return sum + feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
+                }, 0);
+
+                html += `
+                    <div class="feed-group">
+                        <div class="group-header ${group.collapsed ? 'collapsed' : ''}" onclick="rssReader.toggleGroup('${group.id}')">
+                            <div class="group-header-left">
+                                <div class="group-toggle">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="6 9 12 15 18 9"></polyline>
+                                    </svg>
+                                </div>
+                                <span class="group-title">${this.escapeHtml(group.name)}</span>
+                                ${totalUnread > 0 ? `<span class="feed-unread">${totalUnread}</span>` : ''}
+                            </div>
+                            <div class="group-actions">
+                                <button class="btn-icon" onclick="event.stopPropagation(); rssReader.deleteGroup('${group.id}')" title="Delete Group">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polyline points="3 6 5 6 21 6"></polyline>
+                                        <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="group-feeds ${group.collapsed ? 'collapsed' : ''}">
+                            ${this.renderFeedItems(groupFeeds)}
+                        </div>
+                    </div>
+                `;
+            }
+        });
+
+        // Render ungrouped feeds
+        const ungroupedFeeds = this.feeds.filter(f => !f.groupId);
+        if (ungroupedFeeds.length > 0) {
+            html += this.renderFeedItems(ungroupedFeeds);
+        }
+
+        feedsList.innerHTML = html;
+    }
+
+    renderFeedItems(feeds) {
+        return feeds.map(feed => {
             const unreadCount = feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
             const isActive = this.currentFeed === feed.url;
             
@@ -198,6 +366,7 @@ class RSSReader {
 
     loadFeedArticles(feedUrl) {
         this.currentFeed = feedUrl;
+        this.expandedArticle = null; // Close any expanded article
         const feed = this.feeds.find(f => f.url === feedUrl);
         
         if (feed) {
@@ -209,6 +378,7 @@ class RSSReader {
             this.renderArticles();
         }
         
+        this.renderGroups();
         this.renderFeeds(); // Re-render to update active state
     }
 
@@ -226,6 +396,9 @@ class RSSReader {
                         <li>Clean, ad-free interface</li>
                         <li>Hide read articles</li>
                         <li>OPML import/export</li>
+                        <li>Group feeds by category</li>
+                        <li>Dark mode support</li>
+                        <li>Collapsible sidebar</li>
                     </ul>
                 </div>
             `;
@@ -241,10 +414,11 @@ class RSSReader {
             const articleId = article.guid || article.link;
             const isRead = this.readArticles.has(articleId);
             const shouldHide = this.hideRead && isRead;
+            const isExpanded = this.expandedArticle === articleId;
             
             return `
-                <div class="article-card ${isRead ? 'read' : ''} ${shouldHide ? 'hidden' : ''}" 
-                     onclick="rssReader.openArticle('${articleId}')">
+                <div class="article-card ${isRead ? 'read' : ''} ${shouldHide ? 'hidden' : ''} ${isExpanded ? 'expanded' : ''}" 
+                     onclick="${isExpanded ? '' : `rssReader.toggleArticle('${articleId}')`}">
                     <div class="article-header">
                         <h3 class="article-title">${this.escapeHtml(article.title)}</h3>
                         <div class="article-meta">
@@ -255,19 +429,45 @@ class RSSReader {
                     <div class="article-excerpt">
                         ${this.stripHtml(article.description || '').substring(0, 200)}...
                     </div>
+                    <div class="article-full-content" id="content-${articleId}">
+                        ${article.content || article.description || ''}
+                    </div>
+                    <div class="article-actions">
+                        <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                            Read original article
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                <polyline points="15 3 21 3 21 9"></polyline>
+                                <line x1="10" y1="14" x2="21" y2="3"></line>
+                            </svg>
+                        </a>
+                        <button class="btn btn-secondary btn-close" onclick="event.stopPropagation(); rssReader.toggleArticle('${articleId}')">Close</button>
+                    </div>
                 </div>
             `;
         }).join('');
     }
 
-    async openArticle(articleId) {
+    async toggleArticle(articleId) {
         const article = this.articles.find(a => (a.guid || a.link) === articleId);
         
         if (!article) return;
 
+        // If clicking on already expanded article, collapse it
+        if (this.expandedArticle === articleId) {
+            this.expandedArticle = null;
+            this.renderArticles();
+            this.renderGroups();
+            this.renderFeeds();
+            return;
+        }
+
         // Mark as read
         this.readArticles.add(articleId);
         this.saveData();
+        
+        // Expand this article
+        this.expandedArticle = articleId;
         
         // Try to fetch full text
         let fullContent = article.content || article.description || '';
@@ -280,35 +480,24 @@ class RSSReader {
             // Fall back to original content
         }
 
-        // Render article
-        const articleContent = document.getElementById('articleContent');
-        articleContent.innerHTML = `
-            <h1>${this.escapeHtml(article.title)}</h1>
-            <div class="article-meta">
-                <span class="article-source">${this.escapeHtml(article.feedTitle)}</span>
-                <span class="article-date">${this.formatDate(article.pubDate)}</span>
-            </div>
-            <div class="article-body">
-                ${fullContent}
-            </div>
-            <div class="article-footer">
-                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
-                    Read original article
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                        <polyline points="15 3 21 3 21 9"></polyline>
-                        <line x1="10" y1="14" x2="21" y2="3"></line>
-                    </svg>
-                </a>
-            </div>
-        `;
-
-        document.getElementById('articleView').style.display = 'block';
-        document.getElementById('articlesList').style.display = 'none';
-        
-        // Update the articles list to reflect read status
+        // Re-render to show expanded state
         this.renderArticles();
-        this.renderFeeds(); // Update unread counts
+        
+        // Update the content after render
+        const contentDiv = document.getElementById(`content-${articleId}`);
+        if (contentDiv) {
+            contentDiv.innerHTML = fullContent;
+        }
+        
+        // Update the articles list and feeds to reflect read status
+        this.renderGroups();
+        this.renderFeeds();
+        
+        // Scroll to article
+        const articleCard = contentDiv?.closest('.article-card');
+        if (articleCard) {
+            articleCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
     }
 
     async extractFullText(url, fallbackContent) {
@@ -325,9 +514,33 @@ class RSSReader {
         return fallbackContent;
     }
 
-    closeArticleView() {
-        document.getElementById('articleView').style.display = 'none';
-        document.getElementById('articlesList').style.display = 'block';
+    toggleDarkMode() {
+        this.darkMode = !this.darkMode;
+        this.saveData();
+        this.applyDarkMode();
+    }
+
+    applyDarkMode() {
+        if (this.darkMode) {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.remove('dark-mode');
+        }
+    }
+
+    toggleSidebar() {
+        this.sidebarCollapsed = !this.sidebarCollapsed;
+        this.saveData();
+        this.applySidebarState();
+    }
+
+    applySidebarState() {
+        const sidebar = document.getElementById('sidebar');
+        if (this.sidebarCollapsed) {
+            sidebar.classList.add('collapsed');
+        } else {
+            sidebar.classList.remove('collapsed');
+        }
     }
 
     toggleHideRead(hide) {
