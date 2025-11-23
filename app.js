@@ -351,10 +351,11 @@ class RSSReader {
                 return sum + feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
             }, 0);
             const isGroupActive = this.currentGroup === group.id;
+            const isCollapsed = this.collapsedGroups.has(group.id);
 
             html += `
                 <div class="feed-group">
-                    <div class="group-header ${isGroupActive ? 'active' : ''}" onclick="rssReader.loadGroupArticles('${group.id}')">
+                    <div class="group-header ${isGroupActive ? 'active' : ''} ${isCollapsed ? '' : 'expanded'}" onclick="rssReader.toggleGroup('${group.id}')">
                         <div class="group-info">
                             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
@@ -369,7 +370,7 @@ class RSSReader {
                             </svg>
                         </button>
                     </div>
-                    <div class="group-feeds">
+                    <div class="group-feeds ${isCollapsed ? 'collapsed' : ''}">
             `;
 
             groupFeeds.forEach(feed => {
