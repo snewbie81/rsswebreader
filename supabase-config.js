@@ -25,9 +25,24 @@ const supabaseConfig = {
 
 // Validate configuration to prevent accidental deployment with placeholder values
 function validateConfig() {
-    if (supabaseConfig.url === "https://jkvzsclozkkqrmmdjnll.supabase.co" || 
-        supabaseConfig.anonKey === "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImprdnpzY2xvemtrcXJtbWRqbmxsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM4OTcwMDYsImV4cCI6MjA3OTQ3MzAwNn0.Su-w_N2clSpy7LIXuYNpPxa8olDvYTJBX096rjPTflc" ||
-        !supabaseConfig.url.startsWith('http')) {
+    // Check if config values exist
+    if (!supabaseConfig.url || !supabaseConfig.anonKey) {
+        console.warn('Supabase configuration is missing or empty. The app will run in offline mode.');
+        return false;
+    }
+    
+    // Check for placeholder/example values that indicate configuration is not complete
+    const hasPlaceholderUrl = supabaseConfig.url === "YOUR_PROJECT_URL" || 
+                               supabaseConfig.url === "https://xxxxxxxxxxxxx.supabase.co" ||
+                               /https?:\/\/x+\.supabase\.co/.test(supabaseConfig.url);
+    
+    const hasPlaceholderKey = supabaseConfig.anonKey === "YOUR_ANON_KEY" || 
+                               supabaseConfig.anonKey === "your-anon-key-here" ||
+                               supabaseConfig.anonKey.includes("xxxxxxxxxxxxx");
+    
+    const hasInvalidUrl = !supabaseConfig.url.startsWith('http://') && !supabaseConfig.url.startsWith('https://');
+    
+    if (hasPlaceholderUrl || hasPlaceholderKey || hasInvalidUrl) {
         console.warn('Supabase configuration contains placeholder values. The app will run in offline mode.');
         return false;
     }
