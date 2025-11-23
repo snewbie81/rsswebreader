@@ -20,13 +20,13 @@
 // Configuration constants
 const supabaseConfig = {
     url: "https://jkvzsclozkkqrmmdjnll.supabase.co", // e.g., https://xxxxxxxxxxxxx.supabase.co
-    anonKey: "sb_publishable_y5i0Tduz8iHuvYdmzzgoNQ_xuHAqTj9" // Your public anon key
+    anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImprdnpzY2xvemtrcXJtbWRqbmxsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM4OTcwMDYsImV4cCI6MjA3OTQ3MzAwNn0.Su-w_N2clSpy7LIXuYNpPxa8olDvYTJBX096rjPTflc" // Your public anon key
 };
 
 // Validate configuration to prevent accidental deployment with placeholder values
 function validateConfig() {
     if (supabaseConfig.url === "https://jkvzsclozkkqrmmdjnll.supabase.co" || 
-        supabaseConfig.anonKey === "sb_secret_VdYDVu0Za5iv2G2cpw1sLg_M0kpKCug" ||
+        supabaseConfig.anonKey === "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImprdnpzY2xvemtrcXJtbWRqbmxsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM4OTcwMDYsImV4cCI6MjA3OTQ3MzAwNn0.Su-w_N2clSpy7LIXuYNpPxa8olDvYTJBX096rjPTflc" ||
         !supabaseConfig.url.startsWith('http')) {
         console.warn('Supabase configuration contains placeholder values. The app will run in offline mode.');
         return false;
