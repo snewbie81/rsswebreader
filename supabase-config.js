@@ -23,13 +23,30 @@ const supabaseConfig = {
     anonKey: "YOUR_SUPABASE_ANON_KEY" // Your public anon key
 };
 
+// Validate configuration to prevent accidental deployment with placeholder values
+function validateConfig() {
+    if (supabaseConfig.url === "YOUR_SUPABASE_URL" || 
+        supabaseConfig.anonKey === "YOUR_SUPABASE_ANON_KEY" ||
+        !supabaseConfig.url.startsWith('http')) {
+        console.warn('Supabase configuration contains placeholder values. The app will run in offline mode.');
+        return false;
+    }
+    return true;
+}
+
 // Initialize Supabase client
 let supabaseClient = null;
 
 // Wait for Supabase modules to be loaded
 function initializeSupabaseWhenReady() {
+    // Validate configuration first
+    if (!validateConfig()) {
+        window.supabaseAvailable = false;
+        return;
+    }
+    
     // Check if the Supabase client library is loaded
-    if (window.supabase && window.supabase.createClient) {
+    if (window.supabase && typeof window.supabase.createClient === 'function') {
         try {
             // Initialize Supabase client
             supabaseClient = window.supabase.createClient(

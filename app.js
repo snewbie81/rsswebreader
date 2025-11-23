@@ -1,5 +1,12 @@
 // RSS Web Reader Application
 
+// Supabase error codes
+const SUPABASE_ERROR_CODES = {
+    NO_ROWS: 'PGRST116', // No rows returned from query
+    INVALID_CREDENTIALS: 'invalid_grant',
+    EMAIL_NOT_CONFIRMED: 'email_not_confirmed'
+};
+
 class RSSReader {
     constructor() {
         this.feeds = [];
@@ -785,12 +792,19 @@ class RSSReader {
             }
         } catch (error) {
             console.error('Login error:', error);
-            if (error.message && error.message.includes('Invalid login credentials')) {
+            // Use error codes or status when available, fallback to message matching
+            const errorMsg = error.message || '';
+            const errorCode = error.code || error.status;
+            
+            if (errorCode === SUPABASE_ERROR_CODES.INVALID_CREDENTIALS || 
+                errorMsg.toLowerCase().includes('invalid login') || 
+                errorMsg.toLowerCase().includes('invalid credentials')) {
                 alert('Invalid email or password');
-            } else if (error.message && error.message.includes('Email not confirmed')) {
+            } else if (errorCode === SUPABASE_ERROR_CODES.EMAIL_NOT_CONFIRMED || 
+                       errorMsg.toLowerCase().includes('email not confirmed')) {
                 alert('Please confirm your email address before logging in');
             } else {
-                alert('Login failed: ' + (error.message || 'Please try again.'));
+                alert('Login failed: ' + (errorMsg || 'Please try again.'));
             }
         }
     }
@@ -871,12 +885,18 @@ class RSSReader {
             }
         } catch (error) {
             console.error('Registration error:', error);
-            if (error.message && error.message.includes('already registered')) {
+            // Use error codes or status when available, fallback to message matching
+            const errorMsg = error.message || '';
+            const errorCode = error.code || error.status;
+            
+            if (errorMsg.toLowerCase().includes('already registered') || 
+                errorMsg.toLowerCase().includes('already exists') ||
+                errorCode === '23505') { // Postgres unique constraint violation
                 alert('User already exists. Please login instead.');
-            } else if (error.message && error.message.includes('invalid email')) {
+            } else if (errorMsg.toLowerCase().includes('invalid email')) {
                 alert('Invalid email address');
             } else {
-                alert('Registration failed: ' + (error.message || 'Please try again.'));
+                alert('Registration failed: ' + (errorMsg || 'Please try again.'));
             }
         }
     }
@@ -1007,7 +1027,7 @@ class RSSReader {
                 .eq('user_id', this.user.uid)
                 .single();
 
-            if (error && error.code !== 'PGRST116') { // PGRST116 = no rows returned
+            if (error && error.code !== SUPABASE_ERROR_CODES.NO_ROWS) {
                 throw error;
             }
 
