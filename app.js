@@ -17,7 +17,7 @@ class RSSReader {
         this.currentGroup = null;
         this.currentArticle = null;
         this.collapsedGroups = new Set();
-        this.hideRead = false;
+        this.hideRead = true; // Default to hiding read articles
         this.darkMode = false;
         this.sidebarCollapsed = false;
         this.contentSource = 'feed'; // 'feed', 'webpage', or 'inline'
@@ -39,6 +39,12 @@ class RSSReader {
         this.renderArticles();
         this.registerServiceWorker();
         this.initializeSupabase();
+        
+        // Automatically sync all feeds on initialization if feeds exist
+        if (this.feeds.length > 0) {
+            // Delay to avoid blocking initial render
+            setTimeout(() => this.syncAllFeeds(), 1000);
+        }
     }
 
     initializeSupabase() {
@@ -217,7 +223,14 @@ class RSSReader {
 
         if (savedHideRead) {
             this.hideRead = JSON.parse(savedHideRead);
-            document.getElementById('hideReadToggle').checked = this.hideRead;
+        } else {
+            // Default to true if no saved preference exists
+            this.hideRead = true;
+        }
+        // Update the checkbox to reflect the current state
+        const hideReadToggle = document.getElementById('hideReadToggle');
+        if (hideReadToggle) {
+            hideReadToggle.checked = this.hideRead;
         }
 
         if (savedDarkMode) {
