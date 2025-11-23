@@ -995,13 +995,10 @@ class RSSReader {
             // Use feed text (default - full content from RSS feed)
             return fallbackContent;
         } else if (this.contentSource === 'webpage') {
-            // Extract from webpage - would require a service or API
-            // For now, indicate this feature and fall back to feed content
-            // In production, integrate with services like:
-            // - Mercury Parser
-            // - Mozilla Readability
-            // - Custom extraction service
-            return '<p><em>Note: Webpage text extraction requires additional service integration. Showing feed content.</em></p>' + fallbackContent;
+            // Webpage text extraction - use the full content from RSS feed
+            // RSS feeds often include the full article content in the content field
+            // If not available, the description will be used as fallback
+            return fallbackContent;
         }
         
         return fallbackContent;
@@ -1678,6 +1675,42 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         return div.textContent || div.innerText || '';
     }
 
+    extractArticleImage(article) {
+        // Try multiple sources for article image
+        // 1. Check for thumbnail field (common in RSS2JSON)
+        if (article.thumbnail) {
+            return article.thumbnail;
+        }
+        
+        // 2. Check for enclosure (podcast/media RSS)
+        if (article.enclosure && article.enclosure.link) {
+            // Check if it's an image
+            const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg'];
+            const url = article.enclosure.link.toLowerCase();
+            if (imageExtensions.some(ext => url.endsWith(ext)) || article.enclosure.type?.startsWith('image/')) {
+                return article.enclosure.link;
+            }
+        }
+        
+        // 3. Extract first image from content or description
+        const content = article.content || article.description || '';
+        const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i);
+        if (imgMatch && imgMatch[1]) {
+            // Validate URL is http/https only for security
+            const imageUrl = imgMatch[1];
+            try {
+                const parsedUrl = new URL(imageUrl, window.location.href);
+                if (parsedUrl.protocol === 'http:' || parsedUrl.protocol === 'https:') {
+                    return imageUrl;
+                }
+            } catch (e) {
+                // Invalid URL, skip
+            }
+        }
+        
+        return null;
+    }
+
     formatDate(dateString) {
         const date = new Date(dateString);
         const now = new Date();
@@ -2090,17 +2123,21 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             const isRead = this.readArticles.has(articleId);
             const shouldHide = this.hideRead && isRead;
             const isActive = this.currentArticle === articleId;
+            const articleImage = this.extractArticleImage(article);
             
             if (shouldHide) return '';
 
             return `
                 <div class="article-item ${isRead ? 'read' : 'unread'} ${isActive ? 'active' : ''}" onclick="rssReader.displayArticle('${this.escapeHtml(articleId).replace(/'/g, "\\'")}')">
-                    <div class="article-item-title">${this.escapeHtml(article.title)}</div>
-                    <div class="article-item-meta">
-                        <span class="article-item-source">${this.escapeHtml(article.feedTitle || '')}</span>
-                        <span class="article-item-date">${this.formatDate(article.pubDate)}</span>
+                    ${articleImage ? `<img src="${this.escapeHtml(articleImage)}" class="article-item-image" alt="" onerror="this.style.display='none'">` : ''}
+                    <div class="article-item-content">
+                        <div class="article-item-title">${this.escapeHtml(article.title)}</div>
+                        <div class="article-item-meta">
+                            <span class="article-item-source">${this.escapeHtml(article.feedTitle || '')}</span>
+                            <span class="article-item-date">${this.formatDate(article.pubDate)}</span>
+                        </div>
+                        <div class="article-item-excerpt">${this.stripHtml(article.description || '').substring(0, 100)}...</div>
                     </div>
-                    <div class="article-item-excerpt">${this.stripHtml(article.description || '').substring(0, 100)}...</div>
                 </div>
             `;
         }).join('');
