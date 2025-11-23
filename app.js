@@ -466,9 +466,13 @@ class RSSReader {
         } catch (error) {
             // Retry logic for transient failures
             if (retryCount < MAX_RETRIES && 
-                (error.name === 'TypeError' || error.message.includes('Failed to fetch') || error.name === 'TimeoutError')) {
+                (error.name === 'TypeError' || 
+                 error.message.includes('Failed to fetch') || 
+                 error.name === 'TimeoutError' || 
+                 error.name === 'AbortError')) {
                 console.log(`Retrying feed fetch (attempt ${retryCount + 1}/${MAX_RETRIES})...`);
-                await new Promise(resolve => setTimeout(resolve, RETRY_DELAY * (retryCount + 1)));
+                // Exponential backoff: 1000ms, 2000ms, 4000ms
+                await new Promise(resolve => setTimeout(resolve, RETRY_DELAY * Math.pow(2, retryCount)));
                 return this.fetchFeed(url, retryCount + 1);
             }
             throw error;
