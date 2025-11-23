@@ -86,15 +86,20 @@ class RSSReader {
             clearInterval(this.autoRefreshInterval);
         }
         
-        this.autoRefreshInterval = setInterval(() => {
+        this.autoRefreshInterval = setInterval(async () => {
             // Only auto-refresh if there are feeds to refresh
             if (this.feeds && this.feeds.length > 0 && !this.isSyncing) {
-                console.log('Auto-refreshing feeds...');
-                this.syncAllFeeds(true); // Pass true for silent mode
+                try {
+                    console.log('Auto-refreshing feeds...');
+                    await this.syncAllFeeds(true); // Pass true for silent mode
+                } catch (error) {
+                    console.error('Auto-refresh failed:', error);
+                    // Continue running - don't crash the interval
+                }
             }
         }, this.AUTO_REFRESH_INTERVAL);
         
-        console.log(`Auto-refresh enabled: feeds will refresh every ${this.AUTO_REFRESH_INTERVAL / 1000 / 60} minutes`);
+        console.log(`Auto-refresh enabled: feeds will refresh every ${this.AUTO_REFRESH_INTERVAL / (1000 * 60)} minutes`);
     }
 
     cleanup() {
