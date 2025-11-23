@@ -215,14 +215,18 @@ class RSSReader {
         
         // Add event delegation for article links to ensure they work properly
         // This prevents any potential interference from parent click handlers
-        document.addEventListener('click', (e) => {
-            const articleLink = e.target.closest('a.article-link');
-            if (articleLink && articleLink.hasAttribute('href')) {
-                // Let the browser handle the link normally (target="_blank" will work)
-                // We just ensure no parent handlers interfere
-                e.stopPropagation();
-            }
-        }, true); // Use capture phase to catch it early
+        // Only add once - check if already added
+        if (!this._articleLinkHandlerAdded) {
+            document.addEventListener('click', (e) => {
+                const articleLink = e.target.closest('a.article-link');
+                if (articleLink && articleLink.hasAttribute('href')) {
+                    // Let the browser handle the link normally (target="_blank" will work)
+                    // We just ensure no parent handlers interfere
+                    e.stopPropagation();
+                }
+            }, true); // Use capture phase to catch it early
+            this._articleLinkHandlerAdded = true;
+        }
     }
 
     loadData() {
@@ -468,11 +472,11 @@ class RSSReader {
             if (retryCount < MAX_RETRIES && 
                 (error.name === 'TypeError' || 
                  error.message.includes('Failed to fetch') || 
-                 error.name === 'TimeoutError' || 
-                 error.name === 'AbortError')) {
+                 error.name === 'AbortError')) { // AbortSignal.timeout() throws AbortError
                 console.log(`Retrying feed fetch (attempt ${retryCount + 1}/${MAX_RETRIES})...`);
-                // Exponential backoff: 1000ms, 2000ms, 4000ms
-                await new Promise(resolve => setTimeout(resolve, RETRY_DELAY * Math.pow(2, retryCount)));
+                // Exponential backoff: 1st retry after 1s, 2nd retry after 2s
+                const delay = RETRY_DELAY * Math.pow(2, retryCount);
+                await new Promise(resolve => setTimeout(resolve, delay));
                 return this.fetchFeed(url, retryCount + 1);
             }
             throw error;
