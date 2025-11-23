@@ -4,9 +4,7 @@ const urlsToCache = [
     '/index.html',
     '/styles.css',
     '/app.js',
-    '/manifest.json',
-    '/icon-192.png',
-    '/icon-512.png'
+    '/manifest.json'
 ];
 
 // Install service worker and cache assets
@@ -14,7 +12,7 @@ self.addEventListener('install', (event) => {
     event.waitUntil(
         caches.open(CACHE_NAME)
             .then((cache) => {
-                return cache.addAll(urlsToCache.filter(url => url !== '/icon-192.png' && url !== '/icon-512.png'));
+                return cache.addAll(urlsToCache);
             })
             .catch((error) => {
                 console.error('Cache installation failed:', error);
@@ -33,7 +31,7 @@ self.addEventListener('fetch', (event) => {
                 
                 return fetch(event.request).then((response) => {
                     // Don't cache non-successful responses
-                    if (!response || response.status !== 200 || response.type === 'error') {
+                    if (!response || response.status !== 200) {
                         return response;
                     }
 

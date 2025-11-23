@@ -94,6 +94,8 @@ No data is sent to external servers except:
 - All data stored locally in your browser
 - You can export your data anytime via OPML
 
+**Important Privacy Note**: This application uses the RSS2JSON API (a third-party service) to fetch and parse RSS feeds due to browser CORS restrictions. Your feed URLs are sent to rss2json.com for processing. For enhanced privacy in production deployments, consider implementing server-side RSS parsing or using a self-hosted CORS proxy.
+
 ## Sample RSS Feeds to Try
 
 - NPR News: `https://feeds.npr.org/1001/rss.xml`

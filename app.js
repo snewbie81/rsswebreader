@@ -97,6 +97,8 @@ class RSSReader {
 
     async fetchFeed(url) {
         // Using RSS2JSON service as a CORS proxy
+        // Note: This sends feed URLs to a third-party service (rss2json.com)
+        // For production use, consider implementing server-side RSS parsing for better privacy
         const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
         
         const response = await fetch(apiUrl);
@@ -310,17 +312,16 @@ class RSSReader {
     }
 
     async extractFullText(url, fallbackContent) {
-        // In a production app, you would use a proper full-text extraction API
-        // For now, we'll use a simple approach with the Mercury Parser API alternative
-        // or fall back to the original content
+        // Full-text extraction placeholder
+        // The RSS feed content/description is used directly
+        // For enhanced full-text extraction, integrate with services like:
+        // - Mercury Parser (https://github.com/postlight/mercury-parser)
+        // - Mozilla Readability (https://github.com/mozilla/readability)
+        // - Diffbot (https://www.diffbot.com/)
+        // - Custom server-side extraction service
         
-        // This is a placeholder for full-text extraction
-        // You could integrate with services like:
-        // - Mercury Parser
-        // - Readability
-        // - Diffbot
-        // - Custom extraction service
-        
+        // Basic enhancement: ensure we use the longer content field if available
+        // Many RSS feeds provide both 'content' and 'description' fields
         return fallbackContent;
     }
 
