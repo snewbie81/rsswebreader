@@ -112,6 +112,11 @@ class RSSReader {
             sidebarToggle.addEventListener('click', () => this.toggleSidebar());
         }
 
+        const floatingMenuToggle = document.getElementById('floatingMenuToggle');
+        if (floatingMenuToggle) {
+            floatingMenuToggle.addEventListener('click', () => this.toggleSidebar());
+        }
+
         const settingsToggle = document.getElementById('settingsToggle');
         if (settingsToggle) {
             settingsToggle.addEventListener('click', () => this.toggleSettings());
@@ -223,6 +228,11 @@ class RSSReader {
             this.sidebarCollapsed = JSON.parse(savedSidebarCollapsed);
             if (this.sidebarCollapsed) {
                 document.querySelector('.sidebar')?.classList.add('collapsed');
+                // Show floating menu toggle if sidebar is collapsed on load
+                const floatingToggle = document.getElementById('floatingMenuToggle');
+                if (floatingToggle) {
+                    floatingToggle.style.display = 'flex';
+                }
             }
         }
 
@@ -1364,9 +1374,21 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
     toggleSidebar() {
         this.sidebarCollapsed = !this.sidebarCollapsed;
         const sidebar = document.querySelector('.sidebar');
+        const floatingToggle = document.getElementById('floatingMenuToggle');
+        
         if (sidebar) {
             sidebar.classList.toggle('collapsed');
         }
+        
+        // Show/hide floating menu toggle based on sidebar state
+        if (floatingToggle) {
+            if (this.sidebarCollapsed) {
+                floatingToggle.style.display = 'flex';
+            } else {
+                floatingToggle.style.display = 'none';
+            }
+        }
+        
         this.saveData();
     }
 
