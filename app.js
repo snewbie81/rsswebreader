@@ -1,5 +1,8 @@
 // RSS Web Reader Application
 
+// Default settings constants
+const DEFAULT_HIDE_READ = true; // Default state for hiding read articles
+
 // Supabase error codes
 const SUPABASE_ERROR_CODES = {
     NO_ROWS: 'PGRST116', // No rows returned from query
@@ -17,7 +20,7 @@ class RSSReader {
         this.currentGroup = null;
         this.currentArticle = null;
         this.collapsedGroups = new Set();
-        this.hideRead = false;
+        this.hideRead = DEFAULT_HIDE_READ; // Default to hiding read articles
         this.darkMode = false;
         this.sidebarCollapsed = false;
         this.contentSource = 'feed'; // 'feed', 'webpage', or 'inline'
@@ -28,7 +31,10 @@ class RSSReader {
         this.supabaseSubscription = null; // Store the subscription for real-time sync
         this.syncDebounceTimer = null; // Timer for debouncing sync
         this.SYNC_DEBOUNCE_DELAY = 1000; // Debounce delay in ms (1 second)
+        this.INITIAL_SYNC_DELAY = 1000; // Delay before initial feed sync in ms (1 second)
         this.supabaseListenerFirstEvent = true; // Track first event in real-time listener
+        this.isSyncing = false; // Flag to prevent concurrent sync operations
+        this.initialSyncTimeout = null; // Store timeout ID for cleanup
         this.init();
     }
 
@@ -39,6 +45,17 @@ class RSSReader {
         this.renderArticles();
         this.registerServiceWorker();
         this.initializeSupabase();
+        
+        // Automatically sync all feeds on initialization if feeds exist
+        if (this.feeds.length > 0) {
+            // Delay to avoid blocking initial render
+            this.initialSyncTimeout = setTimeout(() => {
+                // Check if still valid before syncing
+                if (this.feeds && this.feeds.length > 0) {
+                    this.syncAllFeeds();
+                }
+            }, this.INITIAL_SYNC_DELAY);
+        }
     }
 
     initializeSupabase() {
@@ -107,7 +124,11 @@ class RSSReader {
         document.getElementById('importOpmlBtn').addEventListener('click', () => this.showModal('importOpmlModal'));
         document.getElementById('confirmImportOpmlBtn').addEventListener('click', () => this.importOpml());
         document.getElementById('exportOpmlBtn').addEventListener('click', () => this.exportOpml());
-        document.getElementById('hideReadToggle').addEventListener('change', (e) => this.toggleHideRead(e.target.checked));
+        
+        const hideReadToggle = document.getElementById('hideReadToggle');
+        if (hideReadToggle) {
+            hideReadToggle.addEventListener('change', (e) => this.toggleHideRead(e.target.checked));
+        }
         
         const darkModeToggle = document.getElementById('darkModeToggle');
         if (darkModeToggle) {
@@ -217,7 +238,14 @@ class RSSReader {
 
         if (savedHideRead) {
             this.hideRead = JSON.parse(savedHideRead);
-            document.getElementById('hideReadToggle').checked = this.hideRead;
+        } else {
+            // Default to true if no saved preference exists
+            this.hideRead = DEFAULT_HIDE_READ;
+        }
+        // Update the checkbox to reflect the current state
+        const hideReadToggle = document.getElementById('hideReadToggle');
+        if (hideReadToggle) {
+            hideReadToggle.checked = this.hideRead;
         }
 
         if (savedDarkMode) {
@@ -1522,6 +1550,14 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             this.showNotification('No feeds to sync', 'error');
             return;
         }
+        
+        // Prevent concurrent sync operations
+        if (this.isSyncing) {
+            console.log('Sync already in progress, skipping...');
+            return;
+        }
+        
+        this.isSyncing = true;
 
         const syncButton = document.getElementById('syncAllBtn');
         if (syncButton) {
@@ -1580,6 +1616,8 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
                 Sync All
             `;
         }
+        
+        this.isSyncing = false; // Reset sync flag
 
         if (errorCount === 0) {
             this.showNotification(`Successfully synced ${successCount} feeds!`, 'success');
