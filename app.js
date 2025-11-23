@@ -177,6 +177,26 @@ class RSSReader {
     }
 
     async fetchFeed(url) {
+        // Validate URL before sending to third-party service
+        try {
+            const parsedUrl = new URL(url);
+            // Only allow http and https protocols
+            if (!['http:', 'https:'].includes(parsedUrl.protocol)) {
+                throw new Error('Only HTTP and HTTPS URLs are allowed');
+            }
+            // Block private IP ranges and localhost to prevent SSRF
+            const hostname = parsedUrl.hostname.toLowerCase();
+            if (hostname === 'localhost' || 
+                hostname === '127.0.0.1' ||
+                hostname.match(/^192\.168\./) ||
+                hostname.match(/^10\./)||
+                hostname.match(/^172\.(1[6-9]|2[0-9]|3[0-1])\./)) {
+                throw new Error('Private network addresses are not allowed');
+            }
+        } catch (error) {
+            throw new Error('Invalid feed URL: ' + error.message);
+        }
+
         // Using RSS2JSON service as a CORS proxy
         // Note: This sends feed URLs to a third-party service (rss2json.com)
         // For production use, consider implementing server-side RSS parsing for better privacy
@@ -677,8 +697,8 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
                     // Additional validation for href and src
                     if (attr.name === 'href' || attr.name === 'src') {
                         const value = attr.value.trim();
-                        // Only allow http, https, and relative URLs
-                        if (value.match(/^(https?:\/\/|\/)/i)) {
+                        // Only allow http and https URLs (no relative URLs for security)
+                        if (value.match(/^https?:\/\//i)) {
                             cleanElement.setAttribute(attr.name, value);
                         }
                     } else {
@@ -687,9 +707,13 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
                 }
             }
 
-            // Add rel="noopener noreferrer" to external links
-            if (tagName === 'a' && !cleanElement.hasAttribute('rel')) {
-                cleanElement.setAttribute('rel', 'noopener noreferrer');
+            // Ensure rel="noopener noreferrer" on external links
+            if (tagName === 'a') {
+                const existingRel = cleanElement.getAttribute('rel') || '';
+                const relValues = new Set(existingRel.split(/\s+/).filter(v => v));
+                relValues.add('noopener');
+                relValues.add('noreferrer');
+                cleanElement.setAttribute('rel', Array.from(relValues).join(' '));
             }
 
             // Recursively clean children
