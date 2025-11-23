@@ -36,7 +36,7 @@ class RSSReader {
         this.isSyncing = false; // Flag to prevent concurrent sync operations
         this.initialSyncTimeout = null; // Store timeout ID for cleanup
         this.autoRefreshInterval = null; // Store interval ID for cleanup
-        this.AUTO_REFRESH_INTERVAL = 15 * 60 * 1000; // Auto-refresh every 15 minutes (in milliseconds)
+        this.AUTO_REFRESH_INTERVAL = 1 * 60 * 1000; // Auto-refresh every 15 minutes (in milliseconds)
         this.init();
     }
 
