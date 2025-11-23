@@ -35,6 +35,8 @@ class RSSReader {
         this.supabaseListenerFirstEvent = true; // Track first event in real-time listener
         this.isSyncing = false; // Flag to prevent concurrent sync operations
         this.initialSyncTimeout = null; // Store timeout ID for cleanup
+        this.autoRefreshInterval = null; // Store interval ID for cleanup
+        this.AUTO_REFRESH_INTERVAL = 15 * 60 * 1000; // Auto-refresh every 15 minutes (in milliseconds)
         this.init();
     }
 
@@ -56,6 +58,12 @@ class RSSReader {
                 }
             }, this.INITIAL_SYNC_DELAY);
         }
+        
+        // Set up automatic periodic refresh
+        this.setupAutoRefresh();
+        
+        // Set up cleanup on page unload
+        window.addEventListener('beforeunload', () => this.cleanup());
     }
 
     initializeSupabase() {
@@ -68,6 +76,53 @@ class RSSReader {
                 this.supabaseReady = true;
                 this.setupSupabaseAuth();
             });
+        }
+    }
+
+    setupAutoRefresh() {
+        // Set up automatic periodic refresh for feeds
+        // This will refresh all feeds at a regular interval
+        if (this.autoRefreshInterval) {
+            clearInterval(this.autoRefreshInterval);
+        }
+        
+        this.autoRefreshInterval = setInterval(async () => {
+            // Only auto-refresh if there are feeds to refresh
+            if (this.feeds && this.feeds.length > 0 && !this.isSyncing) {
+                try {
+                    console.log('Auto-refreshing feeds...');
+                    await this.syncAllFeeds(true); // Pass true for silent mode
+                } catch (error) {
+                    console.error('Auto-refresh failed:', error);
+                    // Continue running - don't crash the interval
+                }
+            }
+        }, this.AUTO_REFRESH_INTERVAL);
+        
+        console.log(`Auto-refresh enabled: feeds will refresh every ${this.AUTO_REFRESH_INTERVAL / (1000 * 60)} minutes`);
+    }
+
+    cleanup() {
+        // Clean up timers and intervals when app is destroyed
+        if (this.initialSyncTimeout) {
+            clearTimeout(this.initialSyncTimeout);
+            this.initialSyncTimeout = null;
+        }
+        
+        if (this.syncDebounceTimer) {
+            clearTimeout(this.syncDebounceTimer);
+            this.syncDebounceTimer = null;
+        }
+        
+        if (this.autoRefreshInterval) {
+            clearInterval(this.autoRefreshInterval);
+            this.autoRefreshInterval = null;
+        }
+        
+        // Unsubscribe from Supabase if exists
+        if (this.supabaseSubscription) {
+            this.supabaseSubscription.unsubscribe();
+            this.supabaseSubscription = null;
         }
     }
 
@@ -1887,9 +1942,11 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         this.renderFeeds(); // Re-render to update active state
     }
 
-    async syncAllFeeds() {
+    async syncAllFeeds(silent = false) {
         if (this.feeds.length === 0) {
-            this.showNotification('No feeds to sync', 'error');
+            if (!silent) {
+                this.showNotification('No feeds to sync', 'error');
+            }
             return;
         }
         
@@ -1902,7 +1959,7 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         this.isSyncing = true;
 
         const syncButton = document.getElementById('syncAllBtn');
-        if (syncButton) {
+        if (syncButton && !silent) {
             syncButton.disabled = true;
             syncButton.textContent = 'Syncing...';
         }
@@ -1947,7 +2004,7 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             this.loadGroupArticles(this.currentGroup);
         }
 
-        if (syncButton) {
+        if (syncButton && !silent) {
             syncButton.disabled = false;
             syncButton.innerHTML = `
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -1961,10 +2018,15 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         
         this.isSyncing = false; // Reset sync flag
 
-        if (errorCount === 0) {
-            this.showNotification(`Successfully synced ${successCount} feeds!`, 'success');
+        if (!silent) {
+            if (errorCount === 0) {
+                this.showNotification(`Successfully synced ${successCount} feeds!`, 'success');
+            } else {
+                this.showNotification(`Synced ${successCount} feeds, ${errorCount} failed`, 'error');
+            }
         } else {
-            this.showNotification(`Synced ${successCount} feeds, ${errorCount} failed`, 'error');
+            // For silent auto-refresh, log to console
+            console.log(`Auto-refresh completed: ${successCount} feeds synced successfully${errorCount > 0 ? `, ${errorCount} failed` : ''}`);
         }
     }
 
