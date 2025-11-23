@@ -14,16 +14,16 @@
     --shadow-lg: 0 4px 6px rgba(60, 64, 67, 0.3);
 }
 
-/* Dark mode variables */
+/* Dark mode variables - AMOLED Black Mode */
 body.dark-mode {
-    --background-color: #202124;
-    --surface-color: #292a2d;
+    --background-color: #000000;
+    --surface-color: #0a0a0a;
     --text-primary: #e8eaed;
     --text-secondary: #9aa0a6;
-    --border-color: #3c4043;
-    --hover-background: #3c4043;
-    --shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-    --shadow-lg: 0 4px 6px rgba(0, 0, 0, 0.3);
+    --border-color: #1a1a1a;
+    --hover-background: #1a1a1a;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+    --shadow-lg: 0 4px 6px rgba(0, 0, 0, 0.8);
 }
 
 * {
@@ -71,6 +71,55 @@ body {
     display: flex;
     gap: 0.75rem;
     align-items: center;
+}
+
+.sidebar-user-section {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 1rem;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    background-color: var(--hover-background);
+    border-radius: 4px;
+}
+
+.user-avatar {
+    flex-shrink: 0;
+}
+
+.user-email {
+    flex: 1;
+    font-size: 0.875rem;
+    color: var(--text-primary);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.sidebar-settings {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.content-source-selector {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.content-source-selector .toggle-label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-secondary);
 }
 
 .btn {
