@@ -419,14 +419,6 @@ class RSSReader {
             addButton.textContent = originalButtonText;
         }
     }
-            
-            alert(errorMessage);
-        } finally {
-            // Restore button state
-            addButton.disabled = false;
-            addButton.textContent = originalButtonText;
-        }
-    }
 
     async fetchFeed(url, retryCount = 0) {
         const MAX_RETRIES = 2;
