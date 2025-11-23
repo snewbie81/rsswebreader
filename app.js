@@ -457,44 +457,55 @@ class RSSReader {
             articleCard.classList.add('expanded');
             expandIcon.style.transform = 'rotate(180deg)';
 
-            // Load full content if not already loaded
+            // Load full content if not already loaded or cached
             if (expandedContent.querySelector('.loading')) {
-                try {
-                    let fullContent = article.content || article.description || '';
-                    fullContent = await this.extractFullText(article.link, fullContent);
+                // Check if we have cached content
+                if (article._cachedFullContent) {
+                    expandedContent.innerHTML = article._cachedFullContent;
+                } else {
+                    try {
+                        let fullContent = article.content || article.description || '';
+                        fullContent = await this.extractFullText(article.link, fullContent);
 
-                    expandedContent.innerHTML = `
-                        <div class="article-body">
-                            ${fullContent}
-                        </div>
-                        <div class="article-footer">
-                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
-                                Read original article
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                                    <polyline points="15 3 21 3 21 9"></polyline>
-                                    <line x1="10" y1="14" x2="21" y2="3"></line>
-                                </svg>
-                            </a>
-                        </div>
-                    `;
-                } catch (error) {
-                    console.error('Error loading full content:', error);
-                    expandedContent.innerHTML = `
-                        <div class="article-body">
-                            ${article.content || article.description || 'Failed to load content'}
-                        </div>
-                        <div class="article-footer">
-                            <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
-                                Read original article
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                                    <polyline points="15 3 21 3 21 9"></polyline>
-                                    <line x1="10" y1="14" x2="21" y2="3"></line>
-                                </svg>
-                            </a>
-                        </div>
-                    `;
+                        const contentHtml = `
+                            <div class="article-body">
+                                ${fullContent}
+                            </div>
+                            <div class="article-footer">
+                                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                                    Read original article
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                        <polyline points="15 3 21 3 21 9"></polyline>
+                                        <line x1="10" y1="14" x2="21" y2="3"></line>
+                                    </svg>
+                                </a>
+                            </div>
+                        `;
+
+                        // Cache the content
+                        article._cachedFullContent = contentHtml;
+                        expandedContent.innerHTML = contentHtml;
+                    } catch (error) {
+                        console.error('Error loading full content:', error);
+                        const fallbackHtml = `
+                            <div class="article-body">
+                                ${article.content || article.description || 'Failed to load content'}
+                            </div>
+                            <div class="article-footer">
+                                <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-link">
+                                    Read original article
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                        <polyline points="15 3 21 3 21 9"></polyline>
+                                        <line x1="10" y1="14" x2="21" y2="3"></line>
+                                    </svg>
+                                </a>
+                            </div>
+                        `;
+                        article._cachedFullContent = fallbackHtml;
+                        expandedContent.innerHTML = fallbackHtml;
+                    }
                 }
             }
         } else {
@@ -687,7 +698,7 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         }
 
         this.groups.push({
-            id: Date.now().toString(),
+            id: crypto.randomUUID ? crypto.randomUUID() : Date.now().toString() + Math.random(),
             name: name,
             feedUrls: []
         });
@@ -766,23 +777,30 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
             syncButton.textContent = 'Syncing...';
         }
 
+        // Fetch all feeds concurrently with Promise.allSettled
+        const syncPromises = this.feeds.map(feed => 
+            this.fetchFeed(feed.url)
+                .then(updatedFeed => ({ status: 'fulfilled', feed: updatedFeed, url: feed.url }))
+                .catch(error => ({ status: 'rejected', error, url: feed.url }))
+        );
+
+        const results = await Promise.all(syncPromises);
+
         let successCount = 0;
         let errorCount = 0;
 
-        for (const feed of this.feeds) {
-            try {
-                const updatedFeed = await this.fetchFeed(feed.url);
-                const feedIndex = this.feeds.findIndex(f => f.url === feed.url);
-                
+        results.forEach(result => {
+            if (result.status === 'fulfilled') {
+                const feedIndex = this.feeds.findIndex(f => f.url === result.url);
                 if (feedIndex !== -1) {
-                    this.feeds[feedIndex] = updatedFeed;
+                    this.feeds[feedIndex] = result.feed;
                     successCount++;
                 }
-            } catch (error) {
-                console.error(`Failed to sync feed: ${feed.url}`, error);
+            } else {
+                console.error(`Failed to sync feed: ${result.url}`, result.error);
                 errorCount++;
             }
-        }
+        });
 
         this.saveData();
         this.renderFeeds();
