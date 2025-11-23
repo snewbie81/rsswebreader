@@ -716,6 +716,60 @@ class RSSReader {
         feedsList.innerHTML = html;
     }
 
+    updateFeedUnreadCounts() {
+        // Efficiently update unread counts without full re-render
+        // Update group unread counts
+        this.groups.forEach(group => {
+            const groupFeeds = this.feeds.filter(f => group.feedUrls.includes(f.url));
+            const totalUnread = groupFeeds.reduce((sum, feed) => {
+                return sum + feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
+            }, 0);
+            
+            // Find and update the group header unread badge
+            const groupHeader = document.querySelector(`.group-header[onclick*="'${group.id}'"]`);
+            if (groupHeader) {
+                const existingBadge = groupHeader.querySelector('.feed-unread');
+                if (totalUnread > 0) {
+                    if (existingBadge) {
+                        existingBadge.textContent = totalUnread;
+                    } else {
+                        // Insert badge after group-info
+                        const groupInfo = groupHeader.querySelector('.group-info');
+                        if (groupInfo) {
+                            groupInfo.insertAdjacentHTML('afterend', `<span class="feed-unread">${totalUnread}</span>`);
+                        }
+                    }
+                } else if (existingBadge) {
+                    existingBadge.remove();
+                }
+            }
+        });
+        
+        // Update individual feed unread counts
+        this.feeds.forEach(feed => {
+            const unreadCount = feed.items.filter(item => !this.readArticles.has(item.guid || item.link)).length;
+            
+            // Find all feed items with this URL (could be in groups or ungrouped)
+            const feedItems = document.querySelectorAll(`.feed-item[onclick*="'${feed.url}'"]`);
+            feedItems.forEach(feedItem => {
+                const existingBadge = feedItem.querySelector('.feed-unread');
+                if (unreadCount > 0) {
+                    if (existingBadge) {
+                        existingBadge.textContent = unreadCount;
+                    } else {
+                        // Insert badge after feed-info
+                        const feedInfo = feedItem.querySelector('.feed-info');
+                        if (feedInfo) {
+                            feedInfo.insertAdjacentHTML('afterend', `<span class="feed-unread">${unreadCount}</span>`);
+                        }
+                    }
+                } else if (existingBadge) {
+                    existingBadge.remove();
+                }
+            });
+        });
+    }
+
     loadFeedArticles(feedUrl) {
         this.currentFeed = feedUrl;
         this.currentGroup = null;
@@ -842,8 +896,8 @@ class RSSReader {
             expandIcon.style.transform = 'rotate(0deg)';
         }
 
-        // Update feed list to reflect read status
-        this.renderFeeds();
+        // Update feed list unread counts more efficiently without full re-render
+        this.updateFeedUnreadCounts();
     }
 
     toggleHideRead(hide) {
@@ -1958,9 +2012,20 @@ ${this.feeds.map(feed => `        <outline type="rss" text="${this.escapeXml(fee
         this.readArticles.add(articleId);
         this.saveData();
         
-        // Update UI
-        this.renderArticlesListPanel();
-        this.renderFeeds();
+        // Update UI more efficiently - only update the specific article item and unread counts
+        const articleItems = document.querySelectorAll('.article-item');
+        articleItems.forEach(item => {
+            const itemArticleId = item.getAttribute('onclick')?.match(/'([^']+)'/)?.[1];
+            if (itemArticleId === articleId) {
+                item.classList.add('read');
+                item.classList.add('active');
+            } else {
+                item.classList.remove('active');
+            }
+        });
+        
+        // Update unread counts efficiently
+        this.updateFeedUnreadCounts();
 
         // Display content
         const contentViewer = document.getElementById('contentViewer');
