@@ -26,7 +26,7 @@ const supabaseConfig = {
 // Validate configuration to prevent accidental deployment with placeholder values
 function validateConfig() {
     if (supabaseConfig.url === "https://jkvzsclozkkqrmmdjnll.supabase.co" || 
-        supabaseConfig.anonKey === "sb_publishable_y5i0Tduz8iHuvYdmzzgoNQ_xuHAqTj9" ||
+        supabaseConfig.anonKey === "sb_secret_VdYDVu0Za5iv2G2cpw1sLg_M0kpKCug" ||
         !supabaseConfig.url.startsWith('http')) {
         console.warn('Supabase configuration contains placeholder values. The app will run in offline mode.');
         return false;
