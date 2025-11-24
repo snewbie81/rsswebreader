@@ -291,7 +291,10 @@ async function loadFeedArticles(feedUrl) {
         
         // If all methods failed, throw error
         if (!xmlDoc) {
-            throw new Error(lastError?.message || 'Failed to fetch valid feed from all sources');
+            const errorMessage = lastError 
+                ? (lastError.message || lastError.toString() || 'Unknown error')
+                : 'Failed to fetch valid feed from all sources';
+            throw new Error(errorMessage);
         }
         
         // Detect feed type (RSS or Atom)
@@ -368,10 +371,21 @@ function getTextContent(parent, selector) {
 
 function getTextContentWithNamespace(parent, tagName) {
     // Handle namespaced elements like content:encoded, dc:date, dc:creator
-    const elements = parent.getElementsByTagName(tagName);
+    // Try getElementsByTagName first (works in most browsers)
+    let elements = parent.getElementsByTagName(tagName);
     if (elements.length > 0) {
         return elements[0].textContent.trim();
     }
+    
+    // Fallback: try without namespace prefix
+    const parts = tagName.split(':');
+    if (parts.length === 2) {
+        elements = parent.getElementsByTagName(parts[1]);
+        if (elements.length > 0) {
+            return elements[0].textContent.trim();
+        }
+    }
+    
     return '';
 }
 
