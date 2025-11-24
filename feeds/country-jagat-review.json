@@ -1,0 +1,19 @@
+{
+  "title": "Jagat Review",
+  "description": "Indonesian tech news",
+  "link": "https://www.jagatreview.com",
+  "items": [
+    {
+      "title": "Sample Tech News 1",
+      "link": "https://example.com/tech1",
+      "guid": "tech1",
+      "pubDate": "2024-11-24T07:00:00.000Z",
+      "description": "Sample tech news description",
+      "content": "<p>Sample tech news content</p>",
+      "thumbnail": null
+    }
+  ],
+  "group": "country",
+  "url": "https://www.jagatreview.com/feed/",
+  "lastFetched": "2024-11-24T07:00:00.000Z"
+}
