@@ -1,7 +1,7 @@
 name: Fetch RSS Feeds
 
 on:
-  # Run every 6 hours
+  # Run every 5 minutes (for testing - adjust to less frequent in production)
   schedule:
     - cron: '*/5 * * * *'
   
@@ -15,6 +15,7 @@ on:
     paths:
       - '.github/workflows/fetch-rss.yml'
       - 'scripts/fetch-feeds.js'
+      - 'scripts/package.json'
 
 permissions:
   contents: write
