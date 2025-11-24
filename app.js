@@ -244,21 +244,24 @@ async function loadFeedArticles(feedUrl) {
         try {
             const { controller, timeoutId } = createTimeoutController(10000);
             
-            const directResponse = await fetch(feedUrl, {
-                signal: controller.signal
-            });
-            clearTimeout(timeoutId);
-            
-            if (directResponse.ok) {
-                const xmlText = await directResponse.text();
-                const testDoc = parser.parseFromString(xmlText, 'text/xml');
-                const parserError = testDoc.querySelector('parsererror');
-                if (!parserError) {
-                    xmlDoc = testDoc;
-                    console.log('✓ Direct fetch successful');
-                } else {
-                    console.log('✗ Direct fetch returned invalid XML, trying proxies...');
+            try {
+                const directResponse = await fetch(feedUrl, {
+                    signal: controller.signal
+                });
+                
+                if (directResponse.ok) {
+                    const xmlText = await directResponse.text();
+                    const testDoc = parser.parseFromString(xmlText, 'text/xml');
+                    const parserError = testDoc.querySelector('parsererror');
+                    if (!parserError) {
+                        xmlDoc = testDoc;
+                        console.log('✓ Direct fetch successful');
+                    } else {
+                        console.log('✗ Direct fetch returned invalid XML, trying proxies...');
+                    }
                 }
+            } finally {
+                clearTimeout(timeoutId);
             }
         } catch (error) {
             console.log('✗ Direct fetch failed:', error.message);
@@ -280,22 +283,25 @@ async function loadFeedArticles(feedUrl) {
                 try {
                     const { controller, timeoutId } = createTimeoutController(10000);
                     
-                    const response = await fetch(proxyUrl + encodeURIComponent(feedUrl), {
-                        signal: controller.signal
-                    });
-                    clearTimeout(timeoutId);
-                    
-                    if (response.ok) {
-                        const xmlText = await response.text();
-                        const testDoc = parser.parseFromString(xmlText, 'text/xml');
-                        const parserError = testDoc.querySelector('parsererror');
-                        if (!parserError) {
-                            xmlDoc = testDoc;
-                            console.log(`✓ Attempt ${attemptNum} successful`);
-                            break;
-                        } else {
-                            console.log(`✗ Attempt ${attemptNum} returned invalid XML`);
+                    try {
+                        const response = await fetch(proxyUrl + encodeURIComponent(feedUrl), {
+                            signal: controller.signal
+                        });
+                        
+                        if (response.ok) {
+                            const xmlText = await response.text();
+                            const testDoc = parser.parseFromString(xmlText, 'text/xml');
+                            const parserError = testDoc.querySelector('parsererror');
+                            if (!parserError) {
+                                xmlDoc = testDoc;
+                                console.log(`✓ Attempt ${attemptNum} successful`);
+                                break;
+                            } else {
+                                console.log(`✗ Attempt ${attemptNum} returned invalid XML`);
+                            }
                         }
+                    } finally {
+                        clearTimeout(timeoutId);
                     }
                 } catch (error) {
                     console.log(`✗ Attempt ${attemptNum} failed:`, error.message);
