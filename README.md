@@ -6,7 +6,8 @@ A privacy-focused, lightweight RSS feed reader built as a Progressive Web App (P
 
 ### Core Functionality
 - **IndexedDB Storage**: All data stored locally (feeds, articles, groups, settings, read status)
-- **Smart RSS Fetching**: Direct fetch with automatic RSS2JSON API fallback for CORS issues
+- **Pre-fetched RSS Feeds**: GitHub Actions automatically fetch default feeds every 6 hours (eliminates CORS issues)
+- **Smart RSS Fetching**: Pre-fetched JSON files first, then direct fetch with automatic RSS2JSON API fallback for CORS issues
 - **Article Management**: Keeps last 50 unread articles per feed automatically
 - **Manual Refresh**: Refresh all feeds on startup, manual refresh only (no auto-refresh)
 - **Offline Support**: Service Worker for offline caching of application files
@@ -29,6 +30,7 @@ A privacy-focused, lightweight RSS feed reader built as a Progressive Web App (P
 - **Thumbnail Support**: Extract and display article thumbnails
 
 ### Performance Optimizations
+- **Pre-fetched Feeds**: Default feeds fetched by GitHub Actions to reduce client-side requests
 - **Lazy Loading Images**: Intersection Observer for efficient image loading
 - **Targeted Updates**: Minimal DOM manipulation when marking articles as read
 - **Event Delegation**: Reduced memory footprint with delegated event handlers
@@ -71,13 +73,43 @@ Simply upload all files to your hosting service. No build process required.
 ## File Structure
 
 ```
-├── index.html          # Main HTML structure
-├── app.js              # Core application logic (~1,200 LOC)
-├── styles.css          # CSS with theming variables (~930 LOC)
-├── sw.js               # Service worker for offline caching
-├── manifest.json       # PWA manifest configuration
-└── README.md           # This file
+├── .github/
+│   └── workflows/
+│       ├── static.yml      # GitHub Pages deployment
+│       └── fetch-rss.yml   # RSS feed fetcher (runs every 6 hours)
+├── feeds/                  # Pre-fetched RSS feeds as JSON
+│   ├── tech-reddit-gadgets.json
+│   ├── country-jagat-review.json
+│   └── news-merged.json
+├── scripts/
+│   ├── fetch-feeds.js      # Node.js script to fetch RSS feeds
+│   └── package.json        # Dependencies for fetch script
+├── index.html              # Main HTML structure
+├── app.js                  # Core application logic (~1,200 LOC)
+├── styles.css              # CSS with theming variables (~930 LOC)
+├── sw.js                   # Service worker for offline caching
+├── manifest.json           # PWA manifest configuration
+└── README.md               # This file
 ```
+
+## GitHub Actions Automation
+
+This project uses GitHub Actions to periodically fetch RSS feeds and commit them as JSON files, eliminating CORS issues and improving performance.
+
+### How It Works
+1. **Scheduled Fetching**: GitHub Action runs every 6 hours (can also be triggered manually)
+2. **Feed Processing**: Node.js script fetches default feeds and parses them to JSON
+3. **Automatic Commit**: Updated JSON files are committed to the `feeds/` directory
+4. **Client Loading**: The web app loads pre-fetched JSON files first, falling back to live fetching if needed
+
+### Benefits
+- **No CORS Issues**: Default feeds are pre-fetched server-side
+- **Improved Performance**: Reduces client-side network requests
+- **Better Reliability**: Cached feeds available even if source is temporarily down
+- **Bandwidth Savings**: Users download JSON instead of full RSS XML
+
+### Manual Trigger
+You can manually trigger the RSS feed fetch workflow from the GitHub Actions tab.
 
 ## Default Feeds
 
@@ -176,7 +208,7 @@ Currently, keyboard shortcuts are not implemented but can be added as a future e
 
 ## Known Limitations
 
-1. **CORS Restrictions**: Some RSS feeds may not work with direct fetch due to CORS policies. The app automatically falls back to RSS2JSON API.
+1. **CORS Restrictions**: Some RSS feeds may not work with direct fetch due to CORS policies. Default feeds use pre-fetched JSON files to avoid this issue. Custom feeds automatically fall back to RSS2JSON API.
 2. **Article Limit**: Only keeps last 50 unread articles per feed to manage storage.
 3. **No Full-Text Search**: Search functionality not yet implemented.
 4. **No Feed Discovery**: Cannot auto-discover feeds from websites.
