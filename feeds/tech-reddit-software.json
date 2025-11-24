@@ -34,6 +34,21 @@
       }
     },
     {
+      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
+      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I'll use Libre if there's no other alternative, but i'd love to know if there's a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n",
+        "textLength": 520,
+        "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative? - r/software",
+        "images": []
+      }
+    },
+    {
       "title": "What are some great apps you love that are expensive, abandoned, or closed-source?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/",
@@ -60,21 +75,6 @@
         "content": "<p>Question: Title </p>\n\n<p>The Internet download manager is the GOAT software that i have been using since my childhood. I think it's  extension is its greatest feature, along with the ability to resume and parallel download. </p>\n\n<p>What do you guys think?</p>\n",
         "textLength": 242,
         "title": "What are the top 3 features of IDM that you like which you think other download managers don't have as good as IDM? - r/software",
-        "images": []
-      }
-    },
-    {
-      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I'll use Libre if there's no other alternative, but i'd love to know if there's a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n",
-        "textLength": 520,
-        "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative? - r/software",
         "images": []
       }
     },
@@ -291,5 +291,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-24T19:03:52.472Z"
+  "lastFetched": "2025-11-24T19:34:53.413Z"
 }
