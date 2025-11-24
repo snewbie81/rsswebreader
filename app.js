@@ -153,7 +153,7 @@ const GROUPS = ['country', 'finance', 'news', 'others', 'tech']; // Alphabetical
 
 // Try multiple fetch strategies: CORS proxy, direct fetch, then RSS2JSON
 async function fetchFeed(url) {
-  // Strategy 1: Try CORS Anywhere proxy
+  // Strategy 1: Try CORS proxy
   try {
     const corsProxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
     const response = await fetch(corsProxyUrl);
@@ -163,7 +163,7 @@ async function fetchFeed(url) {
       return parseFeed(text, url);
     }
   } catch (error) {
-    console.log('CORS proxy failed, trying direct fetch:', error);
+    console.error('CORS proxy failed, trying direct fetch:', error);
   }
 
   // Strategy 2: Try direct fetch
@@ -179,12 +179,12 @@ async function fetchFeed(url) {
       return parseFeed(text, url);
     }
   } catch (error) {
-    console.log('Direct fetch failed, trying RSS2JSON:', error);
+    console.error('Direct fetch failed, trying RSS2JSON:', error);
   }
 
   // Strategy 3: Fallback to RSS2JSON (without api_key parameter)
   try {
-    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`;
+    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=50`;
     const response = await fetch(rss2jsonUrl);
     
     if (!response.ok) {
