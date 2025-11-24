@@ -695,6 +695,10 @@ let isFetchingContent = false;
 const FETCH_DELAY_MS = 1000; // 1 second between requests
 const FETCH_TIMEOUT_MS = 10000; // 10 second timeout
 
+// Content extraction thresholds
+const MIN_CONTENT_LENGTH = 200; // Minimum characters for valid content
+const MAX_LINK_DENSITY = 0.5; // Maximum ratio of link text to total text
+
 // Simple readability-style content extraction
 function extractMainContent(html, url) {
   if (!html) return null;
@@ -748,7 +752,7 @@ function extractMainContent(html, url) {
         const linkDensity = calculateLinkDensity(el);
         
         // Score based on text length and link density
-        if (textLength > 200 && linkDensity < 0.5) {
+        if (textLength > MIN_CONTENT_LENGTH && linkDensity < MAX_LINK_DENSITY) {
           candidates.push({
             element: el,
             score: textLength * (1 - linkDensity),
@@ -773,7 +777,7 @@ function extractMainContent(html, url) {
       }
     });
 
-    if (contentDiv.textContent.trim().length > 200) {
+    if (contentDiv.textContent.trim().length > MIN_CONTENT_LENGTH) {
       return {
         content: contentDiv.innerHTML,
         textLength: contentDiv.textContent.trim().length,
@@ -1290,11 +1294,11 @@ function setupEventListeners() {
   });
 
   // Fetch full content toggle
-  document.getElementById('fetch-full-content-toggle').addEventListener('change', (e) => {
+  document.getElementById('fetch-full-content-toggle').addEventListener('change', async (e) => {
     saveSetting('fetchFullContent', e.target.checked);
     // Re-render current article if one is selected
     if (appState.selectedArticleId) {
-      renderArticleContent(appState.selectedArticleId);
+      await renderArticleContent(appState.selectedArticleId);
     }
   });
 
