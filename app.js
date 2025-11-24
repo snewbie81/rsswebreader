@@ -151,10 +151,23 @@ const GROUPS = ['country', 'finance', 'news', 'others', 'tech']; // Alphabetical
 // RSS Fetching
 // =============================================================================
 
-// Try direct fetch first, fallback to RSS2JSON
+// Try multiple fetch strategies: CORS proxy, direct fetch, then RSS2JSON
 async function fetchFeed(url) {
+  // Strategy 1: Try CORS proxy
   try {
-    // Try direct fetch
+    const corsProxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
+    const response = await fetch(corsProxyUrl);
+
+    if (response.ok) {
+      const text = await response.text();
+      return parseFeed(text, url);
+    }
+  } catch (error) {
+    console.error('CORS proxy failed, trying direct fetch:', error);
+  }
+
+  // Strategy 2: Try direct fetch
+  try {
     const response = await fetch(url, {
       headers: {
         'Accept': 'application/rss+xml, application/xml, text/xml'
@@ -166,12 +179,12 @@ async function fetchFeed(url) {
       return parseFeed(text, url);
     }
   } catch (error) {
-    console.log('Direct fetch failed, trying RSS2JSON:', error);
+    console.error('Direct fetch failed, trying RSS2JSON:', error);
   }
 
-  // Fallback to RSS2JSON
+  // Strategy 3: Fallback to RSS2JSON (without api_key parameter)
   try {
-    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&api_key=public&count=50`;
+    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=50`;
     const response = await fetch(rss2jsonUrl);
     
     if (!response.ok) {
@@ -199,7 +212,7 @@ async function fetchFeed(url) {
       }))
     };
   } catch (error) {
-    console.error('RSS2JSON fetch failed:', error);
+    console.error('All fetch strategies failed:', error);
     throw new Error(`Failed to fetch feed: ${error.message}`);
   }
 }
@@ -1153,7 +1166,7 @@ async function init() {
 // Register service worker
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js')
+    navigator.serviceWorker.register('./sw.js')
       .then(registration => {
         console.log('Service Worker registered:', registration);
       })
