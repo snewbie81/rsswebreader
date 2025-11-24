@@ -226,6 +226,13 @@ async function loadFeedArticles(feedUrl) {
     console.log('Loading articles from feed:', feedUrl);
     showLoading(true);
     
+    // Helper function to create abort controller with timeout
+    function createTimeoutController(timeoutMs) {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+        return { controller, timeoutId };
+    }
+    
     try {
         // Try multiple methods to fetch the feed
         let xmlDoc = null;
@@ -235,9 +242,7 @@ async function loadFeedArticles(feedUrl) {
         // Method 1: Try direct fetch first (many modern RSS feeds support CORS)
         console.log('Attempt 1: Direct fetch from source...');
         try {
-            // Create abort controller with timeout (compatible across browsers)
-            const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 10000);
+            const { controller, timeoutId } = createTimeoutController(10000);
             
             const directResponse = await fetch(feedUrl, {
                 signal: controller.signal
@@ -273,9 +278,7 @@ async function loadFeedArticles(feedUrl) {
                 const attemptNum = i + 2; // Direct fetch is attempt 1, proxies are 2, 3, 4
                 console.log(`Attempt ${attemptNum}: Trying proxy ${proxyUrl}...`);
                 try {
-                    // Create abort controller with timeout (compatible across browsers)
-                    const controller = new AbortController();
-                    const timeoutId = setTimeout(() => controller.abort(), 10000);
+                    const { controller, timeoutId } = createTimeoutController(10000);
                     
                     const response = await fetch(proxyUrl + encodeURIComponent(feedUrl), {
                         signal: controller.signal
@@ -304,7 +307,7 @@ async function loadFeedArticles(feedUrl) {
         // If all methods failed, throw error
         if (!xmlDoc) {
             const errorMessage = lastError 
-                ? (lastError.message || lastError.toString() || 'Unknown error')
+                ? (lastError.message || lastError.toString())
                 : 'Failed to fetch valid feed from all sources';
             throw new Error(errorMessage);
         }
