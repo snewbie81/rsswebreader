@@ -272,10 +272,10 @@ async function loadFeedArticles(feedUrl) {
                     feedUrl: feedUrl,
                     title: getTextContent(item, 'title'),
                     link: getTextContent(item, 'link'),
-                    content: getTextContent(item, 'content\\:encoded') || 
+                    content: getTextContent(item, 'content\\encoded') || 
                              getTextContent(item, 'description'),
-                    pubDate: getTextContent(item, 'pubDate') || getTextContent(item, 'dc\\:date'),
-                    author: getTextContent(item, 'author') || getTextContent(item, 'dc\\:creator'),
+                    pubDate: getTextContent(item, 'pubDate') || getTextContent(item, 'dc\\date'),
+                    author: getTextContent(item, 'author') || getTextContent(item, 'dc\\creator'),
                     read: false,
                     source: 'feed'
                 };
