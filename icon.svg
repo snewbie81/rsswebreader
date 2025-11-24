@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" fill="#4a90e2" rx="80"/>
-  <g fill="white">
-    <!-- RSS icon waves -->
-    <circle cx="128" cy="384" r="48"/>
-    <path d="M 128 256 A 128 128 0 0 1 256 384 L 256 448 A 192 192 0 0 0 128 256" fill="none" stroke="white" stroke-width="48"/>
-    <path d="M 128 128 A 256 256 0 0 1 384 384 L 384 448 A 320 320 0 0 0 128 128" fill="none" stroke="white" stroke-width="48"/>
-  </g>
-</svg>
