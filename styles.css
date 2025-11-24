@@ -13,6 +13,7 @@
   --unread-indicator: #a855f7;
   --success-color: #22c55e;
   --error-color: #ef4444;
+  --error-hover: #dc2626;
   --sidebar-width: 280px;
   --article-list-width: 400px;
 }
@@ -772,7 +773,7 @@ input:checked + .toggle-slider:before {
 }
 
 .btn-danger:hover {
-  background-color: #dc2626;
+  background-color: var(--error-hover);
 }
 
 /* Hidden file input */

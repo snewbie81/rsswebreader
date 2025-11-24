@@ -626,10 +626,15 @@ function sanitizeHTML(html) {
       // Remove dangerous URL schemes (case-insensitive)
       if (attr.name === 'href' || attr.name === 'src') {
         const lowerValue = attr.value.toLowerCase().trim();
-        if (lowerValue.startsWith('javascript:') || 
-            lowerValue.startsWith('data:') || 
-            lowerValue.startsWith('vbscript:')) {
+        // Block javascript: and vbscript: completely
+        if (lowerValue.startsWith('javascript:') || lowerValue.startsWith('vbscript:')) {
           el.removeAttribute(attr.name);
+        }
+        // For data: URLs, only allow safe image types
+        if (lowerValue.startsWith('data:')) {
+          if (!lowerValue.startsWith('data:image/')) {
+            el.removeAttribute(attr.name);
+          }
         }
       }
     });
