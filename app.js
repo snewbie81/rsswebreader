@@ -226,20 +226,96 @@ async function loadFeedArticles(feedUrl) {
     console.log('Loading articles from feed:', feedUrl);
     showLoading(true);
     
+    // Helper function to create abort controller with timeout
+    function createTimeoutController(timeoutMs) {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+        return { controller, timeoutId };
+    }
+    
     try {
-        // Use a CORS proxy for fetching RSS feeds
-        const proxyUrl = 'https://api.allorigins.win/raw?url=';
-        const response = await fetch(proxyUrl + encodeURIComponent(feedUrl));
-        const xmlText = await response.text();
-        
-        // Parse the RSS/Atom feed
+        // Try multiple methods to fetch the feed
+        let xmlDoc = null;
+        let lastError = null;
         const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
         
-        // Check for parsing errors
-        const parserError = xmlDoc.querySelector('parsererror');
-        if (parserError) {
-            throw new Error('Invalid feed format');
+        // Method 1: Try direct fetch first (many modern RSS feeds support CORS)
+        console.log('Attempt 1: Direct fetch from source...');
+        try {
+            const { controller, timeoutId } = createTimeoutController(10000);
+            
+            try {
+                const directResponse = await fetch(feedUrl, {
+                    signal: controller.signal
+                });
+                
+                if (directResponse.ok) {
+                    const xmlText = await directResponse.text();
+                    const testDoc = parser.parseFromString(xmlText, 'text/xml');
+                    const parserError = testDoc.querySelector('parsererror');
+                    if (!parserError) {
+                        xmlDoc = testDoc;
+                        console.log('✓ Direct fetch successful');
+                    } else {
+                        console.log('✗ Direct fetch returned invalid XML, trying proxies...');
+                    }
+                }
+            } finally {
+                clearTimeout(timeoutId);
+            }
+        } catch (error) {
+            console.log('✗ Direct fetch failed:', error.message);
+            lastError = error;
+        }
+        
+        // Method 2-4: Try multiple CORS proxies as fallbacks
+        if (!xmlDoc) {
+            const proxies = [
+                'https://api.allorigins.win/raw?url=',
+                'https://corsproxy.io/?',
+                'https://api.codetabs.com/v1/proxy?quest='
+            ];
+            
+            for (let i = 0; i < proxies.length; i++) {
+                const proxyUrl = proxies[i];
+                const attemptNum = i + 2; // Direct fetch is attempt 1, proxies are 2, 3, 4
+                console.log(`Attempt ${attemptNum}: Trying proxy ${proxyUrl}...`);
+                try {
+                    const { controller, timeoutId } = createTimeoutController(10000);
+                    
+                    try {
+                        const response = await fetch(proxyUrl + encodeURIComponent(feedUrl), {
+                            signal: controller.signal
+                        });
+                        
+                        if (response.ok) {
+                            const xmlText = await response.text();
+                            const testDoc = parser.parseFromString(xmlText, 'text/xml');
+                            const parserError = testDoc.querySelector('parsererror');
+                            if (!parserError) {
+                                xmlDoc = testDoc;
+                                console.log(`✓ Attempt ${attemptNum} successful`);
+                                break;
+                            } else {
+                                console.log(`✗ Attempt ${attemptNum} returned invalid XML`);
+                            }
+                        }
+                    } finally {
+                        clearTimeout(timeoutId);
+                    }
+                } catch (error) {
+                    console.log(`✗ Attempt ${attemptNum} failed:`, error.message);
+                    lastError = error;
+                }
+            }
+        }
+        
+        // If all methods failed, throw error
+        if (!xmlDoc) {
+            const errorMessage = lastError 
+                ? (lastError.message || lastError.toString())
+                : 'Failed to fetch valid feed from all sources';
+            throw new Error(errorMessage);
         }
         
         // Detect feed type (RSS or Atom)
@@ -272,16 +348,18 @@ async function loadFeedArticles(feedUrl) {
                     feedUrl: feedUrl,
                     title: getTextContent(item, 'title'),
                     link: getTextContent(item, 'link'),
-                    content: getTextContent(item, 'content\\encoded') || 
+                    content: getTextContentWithNamespace(item, 'content:encoded') || 
                              getTextContent(item, 'description'),
-                    pubDate: getTextContent(item, 'pubDate') || getTextContent(item, 'dc\\date'),
-                    author: getTextContent(item, 'author') || getTextContent(item, 'dc\\creator'),
+                    pubDate: getTextContent(item, 'pubDate') || getTextContentWithNamespace(item, 'dc:date'),
+                    author: getTextContent(item, 'author') || getTextContentWithNamespace(item, 'dc:creator'),
                     read: false,
                     source: 'feed'
                 };
                 articles.push(article);
             });
         }
+        
+        console.log(`Successfully parsed ${articles.length} articles from feed`);
         
         // Store articles in IndexedDB
         await storeArticles(articles);
@@ -312,6 +390,26 @@ function getTextContent(parent, selector) {
     return element ? element.textContent.trim() : '';
 }
 
+function getTextContentWithNamespace(parent, tagName) {
+    // Handle namespaced elements like content:encoded, dc:date, dc:creator
+    // Try getElementsByTagName first (works in most browsers)
+    let elements = parent.getElementsByTagName(tagName);
+    if (elements.length > 0) {
+        return elements[0].textContent.trim();
+    }
+    
+    // Fallback: try without namespace prefix
+    const parts = tagName.split(':');
+    if (parts.length === 2) {
+        elements = parent.getElementsByTagName(parts[1]);
+        if (elements.length > 0) {
+            return elements[0].textContent.trim();
+        }
+    }
+    
+    return '';
+}
+
 function generateId(feedUrl, index) {
     return btoa(feedUrl + '_' + index).replace(/[^a-zA-Z0-9]/g, '');
 }
@@ -334,12 +432,10 @@ async function addFeed() {
         // Try to load articles to verify feed is valid
         const articles = await loadFeedArticles(feedUrl);
         
-        if (articles.length === 0) {
-            throw new Error('No articles found in feed');
-        }
-        
         // Extract feed title from first article or use URL
-        const feedTitle = articles[0]?.title?.split('-')[0]?.trim() || new URL(feedUrl).hostname;
+        const feedTitle = articles.length > 0 
+            ? (articles[0]?.title?.split('-')[0]?.trim() || new URL(feedUrl).hostname)
+            : new URL(feedUrl).hostname;
         
         const feed = {
             url: feedUrl,
@@ -356,7 +452,12 @@ async function addFeed() {
         closeModal('addFeedModal');
         document.getElementById('feedUrl').value = '';
         
-        alert('Feed added successfully!');
+        // Provide user feedback based on the result
+        if (articles.length > 0) {
+            alert(`Feed added successfully! Found ${articles.length} article${articles.length === 1 ? '' : 's'}.`);
+        } else {
+            alert('Feed added successfully! No articles found currently, but you can refresh later to check for new content.');
+        }
     } catch (error) {
         console.error('Error adding feed:', error);
         alert('Failed to add feed: ' + error.message);
