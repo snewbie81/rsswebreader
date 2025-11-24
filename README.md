@@ -113,11 +113,24 @@ You can manually trigger the RSS feed fetch workflow from the GitHub Actions tab
 
 ## Default Feeds
 
-The application comes pre-configured with these feeds:
+The application comes pre-configured with these feeds organized by group:
 
-- **Tech**: Reddit Gadgets - `https://redlib.perennialte.ch/r/gadgets.rss`
-- **Country**: Jagat Review - `https://www.jagatreview.com/feed/`
-- **News**: Merged News Sources - Multiple news feeds combined
+### Country
+- Reddit - Indonesia, Ask Singapore, Finansial, Indonesia Bebas, Jual Beli Indonesia, Indo Tech, Judi Saham, Perempuan, Pria, Jakarta
+- Mothership SG - Singapore news
+- Jagat Review - Indonesian tech news
+
+### Finance
+- Reddit - Business
+
+### Others
+- Reddit - FOSS, FOSS Droid, FREE, Free Software
+- Science News
+
+### Tech
+- Reddit - Gadgets, Microsoft Edge, Browsers, Software, Tech News
+
+All feeds include automatic error handling that skips any feeds that fail to load.
 
 ## Browser Compatibility
 
