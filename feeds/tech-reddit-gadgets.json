@@ -1,0 +1,28 @@
+{
+  "title": "Reddit - Gadgets",
+  "description": "Tech gadgets news from Reddit",
+  "link": "https://reddit.com/r/gadgets",
+  "items": [
+    {
+      "title": "Sample Article 1",
+      "link": "https://example.com/article1",
+      "guid": "article1",
+      "pubDate": "2024-11-24T07:00:00.000Z",
+      "description": "This is a sample article description",
+      "content": "<p>This is the sample article content</p>",
+      "thumbnail": null
+    },
+    {
+      "title": "Sample Article 2",
+      "link": "https://example.com/article2",
+      "guid": "article2",
+      "pubDate": "2024-11-24T06:00:00.000Z",
+      "description": "This is another sample article description",
+      "content": "<p>This is another sample article content</p>",
+      "thumbnail": null
+    }
+  ],
+  "group": "tech",
+  "url": "https://redlib.perennialte.ch/r/gadgets.rss",
+  "lastFetched": "2024-11-24T07:00:00.000Z"
+}

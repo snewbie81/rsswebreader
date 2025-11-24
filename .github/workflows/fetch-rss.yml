@@ -1,0 +1,53 @@
+name: Fetch RSS Feeds
+
+on:
+  # Run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Run on push to main for testing
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/fetch-rss.yml'
+      - 'scripts/fetch-feeds.js'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: |
+          cd scripts
+          npm install
+      
+      - name: Fetch RSS feeds
+        run: |
+          cd scripts
+          node fetch-feeds.js
+      
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add feeds/*.json
+          git diff --staged --quiet || git commit -m "Update RSS feeds [skip ci]"
+          git push

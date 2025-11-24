@@ -147,12 +147,32 @@ const DEFAULT_FEEDS = [
 
 const GROUPS = ['country', 'finance', 'news', 'others', 'tech']; // Alphabetical order
 
+// Mapping of feed URLs to pre-fetched JSON filenames
+const PREFETCHED_FEEDS = {
+  'https://redlib.perennialte.ch/r/gadgets.rss': 'feeds/tech-reddit-gadgets.json',
+  'https://www.jagatreview.com/feed/': 'feeds/country-jagat-review.json',
+  'https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6R0A2BLAdgawHQENMBPAMwFMyATMgJ1wGMB7AW0QnWbJABpwo4kKDDgLFyVWgxaIARjPqyArrCxlYsEAF0gA': 'feeds/news-merged.json'
+};
+
 // =============================================================================
 // RSS Fetching
 // =============================================================================
 
-// Try multiple fetch strategies: CORS proxy, direct fetch, then RSS2JSON
+// Try to load pre-fetched feed from JSON, fall back to live fetching
 async function fetchFeed(url) {
+  // Strategy 0: Try pre-fetched JSON file first
+  if (PREFETCHED_FEEDS[url]) {
+    try {
+      const response = await fetch(PREFETCHED_FEEDS[url]);
+      if (response.ok) {
+        const data = await response.json();
+        console.log(`Loaded pre-fetched feed from ${PREFETCHED_FEEDS[url]}`);
+        return data;
+      }
+    } catch (error) {
+      console.log('Pre-fetched feed not available, falling back to live fetch:', error);
+    }
+  }
   // Strategy 1: Try CORS proxy
   try {
     const corsProxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
