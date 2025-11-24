@@ -3,7 +3,7 @@ name: Fetch RSS Feeds
 on:
   # Run every 5 minutes (for testing - adjust to less frequent in production)
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 * * * *'
   
   # Allow manual trigger
   workflow_dispatch:
