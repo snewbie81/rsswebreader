@@ -22,11 +22,6 @@ const DEFAULT_FEEDS = [
     url: 'https://www.jagatreview.com/feed/',
     group: 'country',
     filename: 'country-jagat-review.json'
-  },
-  {
-    url: 'https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6R0A2BLAdgawHQENMBPAMwFMyATMgJ1wGMB7AW0QnWbJABpwo4kKDDgLFyVWgxaIARjPqyArrCxlYsEAF0gA',
-    group: 'news',
-    filename: 'news-merged.json'
   }
 ];
 
