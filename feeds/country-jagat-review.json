@@ -1,19 +1,100 @@
 {
   "title": "Jagat Review",
-  "description": "Indonesian tech news",
+  "description": "We Review, You Decide",
   "link": "https://www.jagatreview.com",
   "items": [
     {
-      "title": "Sample Tech News 1",
-      "link": "https://example.com/tech1",
-      "guid": "tech1",
-      "pubDate": "2024-11-24T07:00:00.000Z",
-      "description": "Sample tech news description",
-      "content": "<p>Sample tech news content</p>",
+      "title": "Sengketa Paten Apple Vs Masimo Masih Berlanjut, Apple Kena Denda USD 634 juta",
+      "link": "https://gadget.jagatreview.com/2025/11/paten-apple-vs-masimo-berlanjut/",
+      "guid": "https://gadget.jagatreview.com/?p=90336",
+      "pubDate": "Mon, 24 Nov 2025 02:00:53 +0000",
+      "description": "Masalah Apple dengan Masimo kembali memanas, dan semuanya bermula dari satu paten teknologi pembacaan oksigen darah. Paten yang awalnya terlihat sederhana itu justru memicu rangkaian tuduhan baru dan menyeret fitur lain di Apple Watch. Sengketa Lama Terus Berlanjut Sengketa lama ini sudah terjadi sejak 2019 dimana Masimo menuduh Apple mengambil teknologi pulse oximetry setelah merekrut […]",
+      "content": "Masalah Apple dengan Masimo kembali memanas, dan semuanya bermula dari satu paten teknologi pembacaan oksigen darah. Paten yang awalnya terlihat sederhana itu justru memicu rangkaian tuduhan baru dan menyeret fitur lain di Apple Watch. Sengketa Lama Terus Berlanjut Sengketa lama ini sudah terjadi sejak 2019 dimana Masimo menuduh Apple mengambil teknologi pulse oximetry setelah merekrut […]",
+      "thumbnail": null
+    },
+    {
+      "title": "Bocoran Benchmark Intel Arc B390, iGPU “Panther Lake” Beredar",
+      "link": "https://www.jagatreview.com/2025/11/benchmark-igpu-intel-arc-b390/",
+      "guid": "https://www.jagatreview.com/?p=822799",
+      "pubDate": "Mon, 24 Nov 2025 00:30:20 +0000",
+      "description": "Bocoran pengujian Intel Arc B390 “Panther Lake” iGPU baru-baru ini beredar, dan sepertinya menampilkan performa yang cukup meyakinkan. Skor yang muncul di 3DMark menempatkannya jauh di atas pesaing sekelas. Arsitektur Xe3 yang dipakai disebut membawa peningkatan besar. Intel menjanjikan arsitektur Xe3 di Arc B390 akan 50% lebih cepat dari Lunar Lake dan 40% lebih efisien [&#8230;]",
+      "content": "Bocoran pengujian Intel Arc B390 “Panther Lake” iGPU baru-baru ini beredar, dan sepertinya menampilkan performa yang cukup meyakinkan. Skor yang muncul di 3DMark menempatkannya jauh di atas pesaing sekelas. Arsitektur Xe3 yang dipakai disebut membawa peningkatan besar. Intel menjanjikan arsitektur Xe3 di Arc B390 akan 50% lebih cepat dari Lunar Lake dan 40% lebih efisien [&#8230;]",
+      "thumbnail": null
+    },
+    {
+      "title": "AI Mode di Google Search Bakal Tampilkan Iklan, Tengah Diuji Coba",
+      "link": "https://www.jagatreview.com/2025/11/google-uji-coba-iklan-ai-mode/",
+      "guid": "https://www.jagatreview.com/?p=822795",
+      "pubDate": "Sun, 23 Nov 2025 14:15:07 +0000",
+      "description": "AI Mode merupakan format baru di Google Search yang memungkinkan kita melakukan pencarian dengan tampilan ala chatbot. Sejauh ini interface-nya masih murni dan tidak ada iklan sama sekali. Eh, mungkin kata lebih tepatnya adalah “belum”. Ya, baru-baru ini Google ketahuan tengah menguji coba iklan dalam pencarian di AI Mode. Eksperimen tersebut tampaknya masih dilakukan dalam [&#8230;]",
+      "content": "AI Mode merupakan format baru di Google Search yang memungkinkan kita melakukan pencarian dengan tampilan ala chatbot. Sejauh ini interface-nya masih murni dan tidak ada iklan sama sekali. Eh, mungkin kata lebih tepatnya adalah “belum”. Ya, baru-baru ini Google ketahuan tengah menguji coba iklan dalam pencarian di AI Mode. Eksperimen tersebut tampaknya masih dilakukan dalam [&#8230;]",
+      "thumbnail": null
+    },
+    {
+      "title": "Oura Gugat Empat Brand Cincin Pintar Termasuk Samsung",
+      "link": "https://gadget.jagatreview.com/2025/11/oura-gugat-samsung-cincin-pintar/",
+      "guid": "https://gadget.jagatreview.com/?p=90333",
+      "pubDate": "Sun, 23 Nov 2025 13:41:12 +0000",
+      "description": "Gugat menggugat Oura kembali diramaikan. Setelah sebelumnya sukses menang atas Ultrahuman dan Ringconn, kini Oura melayangkan gugatan kepada empat brand cincin pintar lainnya termasuk Samsung. Tuduhannya pun sama yakni perusahaan-perusahaan tadi telah melanggar sejumlah hak paten milik Oura. Oura menganggap bahwa penempatan komponen elektronik seperti baterai, sensor dan FPCB di antara lapisan cincin bagian dalam […]",
+      "content": "Gugat menggugat Oura kembali diramaikan. Setelah sebelumnya sukses menang atas Ultrahuman dan Ringconn, kini Oura melayangkan gugatan kepada empat brand cincin pintar lainnya termasuk Samsung. Tuduhannya pun sama yakni perusahaan-perusahaan tadi telah melanggar sejumlah hak paten milik Oura. Oura menganggap bahwa penempatan komponen elektronik seperti baterai, sensor dan FPCB di antara lapisan cincin bagian dalam […]",
+      "thumbnail": null
+    },
+    {
+      "title": "Xiaomi Sound Pocket Dirilis, Speaker Portabel Mirip JBL Go 4",
+      "link": "https://gadget.jagatreview.com/2025/11/xiaomi-sound-pocket-dirilis/",
+      "guid": "https://gadget.jagatreview.com/?p=90329",
+      "pubDate": "Sun, 23 Nov 2025 12:03:45 +0000",
+      "description": "Xiaomi Sound Pocket diluncurkan, hadir sebagai speaker portabel dengan desain yang sangat ringkas. Xiaomi tampaknya mengambil inspirasi dari JBL GO 4 karena desainnya bisa dibilang cukup mirip. Bagaimana dengan spesifikasinya? Xiaomi membekalinya dengan speaker 5W yang ditemani mikrofon untuk panggilan telepon. Speaker kecil ini juga mendukung pairing stereo jika kalian punya dua unit sekaligus. Jadi […]",
+      "content": "Xiaomi Sound Pocket diluncurkan, hadir sebagai speaker portabel dengan desain yang sangat ringkas. Xiaomi tampaknya mengambil inspirasi dari JBL GO 4 karena desainnya bisa dibilang cukup mirip. Bagaimana dengan spesifikasinya? Xiaomi membekalinya dengan speaker 5W yang ditemani mikrofon untuk panggilan telepon. Speaker kecil ini juga mendukung pairing stereo jika kalian punya dua unit sekaligus. Jadi […]",
+      "thumbnail": null
+    },
+    {
+      "title": "MyRepublic Luncurkan Paket ”MyGamer” Hingga 1 Gbps!",
+      "link": "https://www.jagatreview.com/2025/11/myrepublic-luncurkan-paket-mygamer/",
+      "guid": "https://www.jagatreview.com/?p=822758",
+      "pubDate": "Sun, 23 Nov 2025 11:00:38 +0000",
+      "description": "MyRepublic resmi memperkenalkan paket internet terbarunya bernama MyGamer yang ditujukan khusus untuk gamer, kreator konten, dan streamer yang butuh koneksi kencang dan stabil. Layanan ini hadir di ajang MyRepublic Rocket Week 2025 yang digelar beberapa hari lalu. MyGamer hadir untuk menjawab kebutuhan koneksi cepat dan konsisten yang terus meningkat seiring pesatnya industri gaming maupun konten [&#8230;]",
+      "content": "MyRepublic resmi memperkenalkan paket internet terbarunya bernama MyGamer yang ditujukan khusus untuk gamer, kreator konten, dan streamer yang butuh koneksi kencang dan stabil. Layanan ini hadir di ajang MyRepublic Rocket Week 2025 yang digelar beberapa hari lalu. MyGamer hadir untuk menjawab kebutuhan koneksi cepat dan konsisten yang terus meningkat seiring pesatnya industri gaming maupun konten [&#8230;]",
+      "thumbnail": null
+    },
+    {
+      "title": "POCO Pad X1 dan Pad M1 Bakal Ikut Debut di Bali",
+      "link": "https://gadget.jagatreview.com/2025/11/poco-pad-x1-pad-m1-segera-debut/",
+      "guid": "https://gadget.jagatreview.com/?p=90326",
+      "pubDate": "Sun, 23 Nov 2025 10:00:43 +0000",
+      "description": "POCO F8 Series bakal diluncurkan secara global pada 26 November 2025 mendatang di Bali. Namun, baru-baru ini POCO mengonfirmasi bahwa duo tablet POCO Pad X1 dan POCO Pad M1 juga bakal ikut debut di ajang tersebut. Seperti apa bocoran spesifikasinya? POCO Pad X1 diyakini merupakan rebranding dari Xiaomi Pad 7, yang hadir dengan SoC Qualcomm […]",
+      "content": "POCO F8 Series bakal diluncurkan secara global pada 26 November 2025 mendatang di Bali. Namun, baru-baru ini POCO mengonfirmasi bahwa duo tablet POCO Pad X1 dan POCO Pad M1 juga bakal ikut debut di ajang tersebut. Seperti apa bocoran spesifikasinya? POCO Pad X1 diyakini merupakan rebranding dari Xiaomi Pad 7, yang hadir dengan SoC Qualcomm […]",
+      "thumbnail": null
+    },
+    {
+      "title": "FUJIFILM X-T30 III: Pakai Sensor X Trans CMOS 4 dan Dukung 20 Film Simulation",
+      "link": "https://www.jagatreview.com/2025/11/hands-on-fujifilm-x-t30-iii/",
+      "guid": "https://www.jagatreview.com/?p=822719",
+      "pubDate": "Sun, 23 Nov 2025 03:41:27 +0000",
+      "description": "FUJIFIirrorless terbarunya di Indonesia, yakni X-T30 III. Berikut adalah beberapa nilai jual utama dari kamera ini. Secara desain, X-T30 III hadir dengan form factor yang ringkas. Kamera ini memiliki dimensi 118.4 x 82.6 x 46.8 mm. Lalu kamera ini punya bobot 378 g atau 503 g dengan lensa kit. Untuk spesifikasi, X-T30 III pakai sensor [&#8230;]",
+      "content": "FUJIFIirrorless terbarunya di Indonesia, yakni X-T30 III. Berikut adalah beberapa nilai jual utama dari kamera ini. Secara desain, X-T30 III hadir dengan form factor yang ringkas. Kamera ini memiliki dimensi 118.4 x 82.6 x 46.8 mm. Lalu kamera ini punya bobot 378 g atau 503 g dengan lensa kit. Untuk spesifikasi, X-T30 III pakai sensor [&#8230;]",
+      "thumbnail": null
+    },
+    {
+      "title": "Sempat Dihapus, YouTube Mau Kembalikan Fitur Pesan Bawaan",
+      "link": "https://www.jagatreview.com/2025/11/youtube-fitur-pesan-bawaan/",
+      "guid": "https://www.jagatreview.com/?p=822725",
+      "pubDate": "Sat, 22 Nov 2025 14:00:53 +0000",
+      "description": "YouTube sempat memiliki fitur untuk mengirim pesan antar pengguna atau biasa disebut direct message (DM), sebelum akhirnya dihapus pada 2019 silam. Namun, platform berbagi video milik Google itu tampaknya ingin menghadirkan kembali fitur tersebut. youtub YouTube baru-baru ini mengungkapkan bahwa mereka tengah menguji coba fitur pesan bawaan secara terbatas untuk pengguna di Irlandia dan Polandia. [&#8230;]",
+      "content": "YouTube sempat memiliki fitur untuk mengirim pesan antar pengguna atau biasa disebut direct message (DM), sebelum akhirnya dihapus pada 2019 silam. Namun, platform berbagi video milik Google itu tampaknya ingin menghadirkan kembali fitur tersebut. youtub YouTube baru-baru ini mengungkapkan bahwa mereka tengah menguji coba fitur pesan bawaan secara terbatas untuk pengguna di Irlandia dan Polandia. [&#8230;]",
+      "thumbnail": null
+    },
+    {
+      "title": "FUJIFILM X-T30 III Resmi Rilis di Indonesia, Kamera Mirrorless dengan Beragam Fitur Profesional",
+      "link": "https://www.jagatreview.com/2025/11/fujifilm-x-t30-iii-indonesia/",
+      "guid": "https://www.jagatreview.com/?p=822707",
+      "pubDate": "Sat, 22 Nov 2025 13:30:23 +0000",
+      "description": "Jakarta, 22 November 2025 &#8211; FUJIFILM baru saja merilis kamera mirrorless terbarunya di Indonesia, FUJIFILM X-T30 III. Kamera ini unggulkan desain compact nan klasik dengan fitur kamera profesional. X-T30 III disebut hadir sebagai jawaban dari kebutuhan fotografer muda yang ingin mengekspresikan diri melalui jepretan foto. Disebut kalau kamera ini dirancang untuk memenuhi kebutuhan seluruh pengguna [&#8230;]",
+      "content": "Jakarta, 22 November 2025 &#8211; FUJIFILM baru saja merilis kamera mirrorless terbarunya di Indonesia, FUJIFILM X-T30 III. Kamera ini unggulkan desain compact nan klasik dengan fitur kamera profesional. X-T30 III disebut hadir sebagai jawaban dari kebutuhan fotografer muda yang ingin mengekspresikan diri melalui jepretan foto. Disebut kalau kamera ini dirancang untuk memenuhi kebutuhan seluruh pengguna [&#8230;]",
       "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://www.jagatreview.com/feed/",
-  "lastFetched": "2024-11-24T07:00:00.000Z"
+  "lastFetched": "2025-11-24T08:20:45.444Z"
 }

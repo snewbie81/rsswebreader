@@ -1,28 +1,235 @@
 {
-  "title": "Reddit - Gadgets",
-  "description": "Tech gadgets news from Reddit",
-  "link": "https://reddit.com/r/gadgets",
+  "title": "gadgets",
+  "description": "Gadgets",
+  "link": "",
   "items": [
     {
-      "title": "Sample Article 1",
-      "link": "https://example.com/article1",
-      "guid": "article1",
-      "pubDate": "2024-11-24T07:00:00.000Z",
-      "description": "This is a sample article description",
-      "content": "<p>This is the sample article content</p>",
+      "title": "[Giveaway] Luckeep x r/Gadgets: Win a Brand-New M5!",
+      "link": "https://redlib.perennialte.ch//r/gadgets/comments/1npgxnn/giveaway_luckeep_x_rgadgets_win_a_brandnew_m5/",
+      "guid": "https://redlib.perennialte.ch//r/gadgets/comments/1npgxnn/giveaway_luckeep_x_rgadgets_win_a_brandnew_m5/",
+      "pubDate": "Wed, 24 Sep 2025 16:33:02 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1npgxnn/giveaway_luckeep_x_rgadgets_win_a_brandnew_m5/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><h1>Luckeep x <a href=\"/r/Gadgets\">r/Gadgets</a> Giveaway</h1>\n\n<p>Hey Reddit Gadgets Community,  </p>\n\n<p>Exciting news! We are thrilled to announce a special giveaway exclusively for the Reddit Gadgets community. Luckeep and <a href=\"/r/Gadgets\">r/Gadgets</a> are giving away a brand new <strong>Luckeep C27</strong> — a lightweight step-thru city e-bike!  </p>\n\n<p>We had the chance to test one of their larger moped-style e-bikes, and you can <a href=\"/r/noeatnosleep/comments/1npgsw2/luckeep_m5_max_moped_ebike_review/?\">read about that review here.</a></p>\n\n<p>The C27 is built for city life: commute to work, drop off the kids, pick up groceries, or carry light cargo — and it’s easy to bring into the workplace or apartment.  </p>\n\n<hr/>\n\n<h2>Learn More</h2>\n\n<ul>\n<li><a href=\"https://lvnta.com/lv_ymLDPVilP5Q8VzA9nw\">Product link</a></li>\n<li><a href=\"https://www.amazon.com/stores/page/C74994A5-29B6-4593-A0C8-AA8BF6310592?maas=maas_adg_api_582205754730499234_static_9_129&amp;ref_=aa_maas&amp;tag=maas&amp;aa_campaignid=lv_dbZfBDyTeITXXNmpZX&amp;aa_adgroupid=lv_aD6w72JHMHx8shwnd8&amp;aa_creativeid=lv_Cir3hcxVIBpfL7QODP&amp;m=A1X7NZOLBUNVSY\">Amazon store</a></li>\n<li><a href=\"https://luckeepbike.com\">Official Luckeep website</a></li>\n<li>Website  code for Prime Big Deal Days: LKRD14</li>\n<li>Amazon code for  Prime Big Deal Days: ISAACAMZ</li>\n</ul>\n\n<hr/>\n\n<h2>How to Enter</h2>\n\n<ul>\n<li>Drop a comment below starting with <strong>I want a Luckeep + model...</strong><br/></li>\n<li>Share which Luckeep e-bike model interests you most and why.<br/></li>\n<li>Whether it’s for convenience, advanced features, or an extra-long commute, we want to hear from you!<br/></li>\n</ul>\n\n<hr/>\n\n<h2>Spread the Word</h2>\n\n<ul>\n<li>Share this giveaway with friends and family who would love a practical and fun e-bike.<br/></li>\n<li>Stay tuned here for updates and the winner announcement.<br/></li>\n</ul>\n\n<hr/>\n\n<h2>Prize Details</h2>\n\n<p>The <strong>Luckeep C27 Step-Thru E-Bike</strong> is a versatile 2-seater designed for modern commuters and families:</p>\n\n<ul>\n<li><strong>Lightweight City Commuter</strong>: Easy to carry upstairs or into apartments, perfect for urban riders.<br/></li>\n<li><strong>Family-Friendly</strong>: Rear seat and footrests make it safe for kids.<br/></li>\n<li><strong>Multi-Purpose Daily Use</strong>: Add child accessories, a basket, or pannier bags for grocery runs or school pickups.<br/></li>\n<li><strong>Comfort and Safety</strong>: Step-thru frame for easy on/off, hydraulic disc brakes, front suspension, and integrated lighting for safe rides day or night.<br/></li>\n<li><strong>Stylish and Practical</strong>: Bright, modern design that turns heads while keeping you moving.<br/></li>\n</ul>\n\n<p>The Luckeep C27 is a beginner-friendly, lightweight city e-bike that blends affordability, versatility, and safety. Ideal for commuters, families, and anyone looking for a practical daily transport solution.  </p>\n\n<hr/>\n\n<h2>Giveaway Rules</h2>\n\n<ul>\n<li>Open to U.S. residents only<br/></li>\n<li>One entry per person<br/></li>\n<li>Giveaway ends: <strong>[11/31/25]</strong><br/></li>\n<li>Winner will be randomly selected and announced in this thread<br/></li>\n<li>Prize fulfillment will be coordinated via private message<br/></li>\n</ul>\n\n<hr/>\n\n<p><strong>Don’t miss this chance to win a Luckeep C27 lightweight city e-bike — the ultimate value-for-money ride for family, commuting, and travel!</strong>  </p>\n\n<p>Good luck to all participants!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
-      "title": "Sample Article 2",
-      "link": "https://example.com/article2",
-      "guid": "article2",
-      "pubDate": "2024-11-24T06:00:00.000Z",
-      "description": "This is another sample article description",
-      "content": "<p>This is another sample article content</p>",
+      "title": "Sony patent shows how DualSense PS5 haptic feedback could become more immersive in new controllers",
+      "link": "https://www.notebookcheck.net/Sony-patent-shows-how-DualSense-PS5-haptic-feedback-could-become-more-immersive-in-new-controllers.1169230.0.html",
+      "guid": "https://www.notebookcheck.net/Sony-patent-shows-how-DualSense-PS5-haptic-feedback-could-become-more-immersive-in-new-controllers.1169230.0.html",
+      "pubDate": "Mon, 24 Nov 2025 02:31:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p55ata/sony_patent_shows_how_dualsense_ps5_haptic/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p55ata/sony_patent_shows_how_dualsense_ps5_haptic/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Google Nest Doorbell Cam (2025) Review: I'm So Tired of Subscriptions",
+      "link": "https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300#comments",
+      "guid": "https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300#comments",
+      "pubDate": "Sun, 23 Nov 2025 15:22:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4pb72/google_nest_doorbell_cam_2025_review_im_so_tired/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4pb72/google_nest_doorbell_cam_2025_review_im_so_tired/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Older Asus routers compromised - check if you're affected",
+      "link": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/",
+      "guid": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/",
+      "pubDate": "Mon, 24 Nov 2025 02:49:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p55ol1/older_asus_routers_compromised_check_if_youre/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p55ol1/older_asus_routers_compromised_check_if_youre/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "DJI Avata 360 rears its head in new leaks with launch pricing and release date rumoured",
+      "link": "https://www.notebookcheck.net/DJI-Avata-360-rears-its-head-in-new-leaks-with-launch-pricing-and-release-date-rumoured.1168881.0.html",
+      "guid": "https://www.notebookcheck.net/DJI-Avata-360-rears-its-head-in-new-leaks-with-launch-pricing-and-release-date-rumoured.1168881.0.html",
+      "pubDate": "Sun, 23 Nov 2025 03:49:11 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4cs3x/dji_avata_360_rears_its_head_in_new_leaks_with/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4cs3x/dji_avata_360_rears_its_head_in_new_leaks_with/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Ooni Volt 2 review: A strong case for an indoor pizza oven",
+      "link": "https://www.engadget.com/home/kitchen-tech/ooni-volt-2-review-a-strong-case-for-an-indoor-pizza-oven-193000311.html",
+      "guid": "https://www.engadget.com/home/kitchen-tech/ooni-volt-2-review-a-strong-case-for-an-indoor-pizza-oven-193000311.html",
+      "pubDate": "Sun, 23 Nov 2025 01:47:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4adj5/ooni_volt_2_review_a_strong_case_for_an_indoor/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4adj5/ooni_volt_2_review_a_strong_case_for_an_indoor/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Real-world Nausicaa Ghibli anime glider completes its final flight in Japan【Video】",
+      "link": "https://soranews24.com/2025/11/20/real-world-nausicaa-ghibli-anime-glider-completes-its-final-flight-in-japan%e3%80%90video%e3%80%91/",
+      "guid": "https://soranews24.com/2025/11/20/real-world-nausicaa-ghibli-anime-glider-completes-its-final-flight-in-japan%e3%80%90video%e3%80%91/",
+      "pubDate": "Sat, 22 Nov 2025 10:12:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p3prh7/realworld_nausicaa_ghibli_anime_glider_completes/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p3prh7/realworld_nausicaa_ghibli_anime_glider_completes/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Boox Palma 2 Pro review: one step forward, one step back",
+      "link": "https://www.theverge.com/tech/823873/boox-palma-2-pro-review",
+      "guid": "https://www.theverge.com/tech/823873/boox-palma-2-pro-review",
+      "pubDate": "Sat, 22 Nov 2025 10:37:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p3q5t9/boox_palma_2_pro_review_one_step_forward_one_step/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p3q5t9/boox_palma_2_pro_review_one_step_forward_one_step/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Starlink rolls more affordable 200 Mbps Internet plan across the US",
+      "link": "https://www.notebookcheck.net/Starlink-rolls-more-affordable-200-Mbps-Internet-plan-across-the-US.1169223.0.html",
+      "guid": "https://www.notebookcheck.net/Starlink-rolls-more-affordable-200-Mbps-Internet-plan-across-the-US.1169223.0.html",
+      "pubDate": "Sun, 23 Nov 2025 19:15:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4v8n8/starlink_rolls_more_affordable_200_mbps_internet/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4v8n8/starlink_rolls_more_affordable_200_mbps_internet/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "DJI Osmo Action 6 review: An action camera that excels in low light",
+      "link": "https://www.engadget.com/cameras/dji-osmo-action-6-review-an-action-camera-that-excels-in-low-light-143027343.html",
+      "guid": "https://www.engadget.com/cameras/dji-osmo-action-6-review-an-action-camera-that-excels-in-low-light-143027343.html",
+      "pubDate": "Fri, 21 Nov 2025 23:32:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p3dxmf/dji_osmo_action_6_review_an_action_camera_that/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p3dxmf/dji_osmo_action_6_review_an_action_camera_that/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Fingertip wearable lets you feel virtual textures on touchscreens",
+      "link": "https://newatlas.com/wearables/bandage-fingertip-wearable-feel-virtual-textures-touchscreens/",
+      "guid": "https://newatlas.com/wearables/bandage-fingertip-wearable-feel-virtual-textures-touchscreens/",
+      "pubDate": "Fri, 21 Nov 2025 09:31:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p2ua78/fingertip_wearable_lets_you_feel_virtual_textures/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p2ua78/fingertip_wearable_lets_you_feel_virtual_textures/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Xiaomi launches cheaper new smart door lock with facial recognition",
+      "link": "https://www.notebookcheck.net/Xiaomi-launches-cheaper-new-smart-door-lock-with-facial-recognition.1168751.0.html",
+      "guid": "https://www.notebookcheck.net/Xiaomi-launches-cheaper-new-smart-door-lock-with-facial-recognition.1168751.0.html",
+      "pubDate": "Sun, 23 Nov 2025 09:57:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4izdq/xiaomi_launches_cheaper_new_smart_door_lock_with/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p4izdq/xiaomi_launches_cheaper_new_smart_door_lock_with/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "The Phone-Sized Boox Palma 2 Pro Made Me a Color E-Reader Convert",
+      "link": "https://gizmodo.com/boox-palma-2-pro-review-phone-size-color-e-reader-2000688398#comments",
+      "guid": "https://gizmodo.com/boox-palma-2-pro-review-phone-size-color-e-reader-2000688398#comments",
+      "pubDate": "Sat, 22 Nov 2025 19:24:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p41tqg/the_phonesized_boox_palma_2_pro_made_me_a_color/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p41tqg/the_phonesized_boox_palma_2_pro_made_me_a_color/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Samsung's Beverage Center is the best fridge feature competitors can't copy",
+      "link": "https://www.engadget.com/home/smart-home/samsungs-beverage-center-is-the-best-fridge-feature-competitors-cant-copy-130000113.html",
+      "guid": "https://www.engadget.com/home/smart-home/samsungs-beverage-center-is-the-best-fridge-feature-competitors-cant-copy-130000113.html",
+      "pubDate": "Sat, 22 Nov 2025 20:46:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p43r7x/samsungs_beverage_center_is_the_best_fridge/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p43r7x/samsungs_beverage_center_is_the_best_fridge/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Matter 1.5 adds security cameras and much more for the first time",
+      "link": "https://9to5mac.com/2025/11/20/matter-1-5-adds-security-cameras-and-much-more-for-the-first-time/",
+      "guid": "https://9to5mac.com/2025/11/20/matter-1-5-adds-security-cameras-and-much-more-for-the-first-time/",
+      "pubDate": "Thu, 20 Nov 2025 14:46:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p24zze/matter_15_adds_security_cameras_and_much_more_for/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p24zze/matter_15_adds_security_cameras_and_much_more_for/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Steam Frame's Modular Design: \"I Don't Think It's Been Done Before\"",
+      "link": "https://www.uploadvr.com/steam-frame-modular-design/?utm_medium=social&amp;utm_source=x",
+      "guid": "https://www.uploadvr.com/steam-frame-modular-design/?utm_medium=social&amp;utm_source=x",
+      "pubDate": "Thu, 20 Nov 2025 16:58:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p28fgj/steam_frames_modular_design_i_dont_think_its_been/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p28fgj/steam_frames_modular_design_i_dont_think_its_been/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Huawei MatePad Edge reveals itself as new Apple iPad Pro and Surface Pro competitor in early previews",
+      "link": "https://www.notebookcheck.net/Huawei-MatePad-Edge-reveals-itself-as-new-Apple-iPad-Pro-and-Surface-Pro-competitor-in-early-previews.1167276.0.html",
+      "guid": "https://www.notebookcheck.net/Huawei-MatePad-Edge-reveals-itself-as-new-Apple-iPad-Pro-and-Surface-Pro-competitor-in-early-previews.1167276.0.html",
+      "pubDate": "Thu, 20 Nov 2025 11:54:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p218am/huawei_matepad_edge_reveals_itself_as_new_apple/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p218am/huawei_matepad_edge_reveals_itself_as_new_apple/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "I tried to trick the Steam Frame's clever eye tracking and failed, miserably",
+      "link": "https://www.pcgamer.com/hardware/vr-hardware/foveated-streaming-genius-tech/",
+      "guid": "https://www.pcgamer.com/hardware/vr-hardware/foveated-streaming-genius-tech/",
+      "pubDate": "Thu, 20 Nov 2025 00:08:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p1odg0/i_tried_to_trick_the_steam_frames_clever_eye/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p1odg0/i_tried_to_trick_the_steam_frames_clever_eye/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Analogue 3D Review: The Console Your N64 Games Deserve",
+      "link": "https://gizmodo.com/analogue-3d-review-console-your-n64-games-deserve-2000687239",
+      "guid": "https://gizmodo.com/analogue-3d-review-console-your-n64-games-deserve-2000687239",
+      "pubDate": "Wed, 19 Nov 2025 10:00:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p13lf1/analogue_3d_review_the_console_your_n64_games/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p13lf1/analogue_3d_review_the_console_your_n64_games/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Future Google TV devices might come with a solar-powered remote",
+      "link": "https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics",
+      "guid": "https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics",
+      "pubDate": "Wed, 19 Nov 2025 23:32:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p1njvm/future_google_tv_devices_might_come_with_a/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p1njvm/future_google_tv_devices_might_come_with_a/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Even Realities Even G2 Review: Anti-Meta Smart Glasses With Real Potential",
+      "link": "https://gizmodo.com/even-realities-even-g2-review-2000687632",
+      "guid": "https://gizmodo.com/even-realities-even-g2-review-2000687632",
+      "pubDate": "Thu, 20 Nov 2025 23:41:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p2j0mv/even_realities_even_g2_review_antimeta_smart/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p2j0mv/even_realities_even_g2_review_antimeta_smart/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Master System at 40: the truth about Sega’s most underrated console",
+      "link": "https://www.theguardian.com/games/2025/nov/18/sega-master-system-nintendo-entertainment-system",
+      "guid": "https://www.theguardian.com/games/2025/nov/18/sega-master-system-nintendo-entertainment-system",
+      "pubDate": "Tue, 18 Nov 2025 19:54:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p0m1gj/master_system_at_40_the_truth_about_segas_most/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p0m1gj/master_system_at_40_the_truth_about_segas_most/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Samsung Galaxy Buds4 Pro reveals itself with new stem design and head gesture support ahead of time",
+      "link": "https://www.notebookcheck.net/Samsung-Galaxy-Buds4-Pro-reveals-itself-with-new-stem-design-and-head-gesture-support-ahead-of-time.1164477.0.html",
+      "guid": "https://www.notebookcheck.net/Samsung-Galaxy-Buds4-Pro-reveals-itself-with-new-stem-design-and-head-gesture-support-ahead-of-time.1164477.0.html",
+      "pubDate": "Tue, 18 Nov 2025 10:59:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p08zz8/samsung_galaxy_buds4_pro_reveals_itself_with_new/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p08zz8/samsung_galaxy_buds4_pro_reveals_itself_with_new/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "5 Years Later, the PS5 Has Beaten Xbox. But the PS6 Faces a Bigger Threat",
+      "link": "https://gizmodo.com/5-years-later-ps5-has-destroyed-xbox-but-ps6-faces-bigger-threat-2000685720",
+      "guid": "https://gizmodo.com/5-years-later-ps5-has-destroyed-xbox-but-ps6-faces-bigger-threat-2000685720",
+      "pubDate": "Thu, 20 Nov 2025 02:59:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p1s4op/5_years_later_the_ps5_has_beaten_xbox_but_the_ps6/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1p1s4op/5_years_later_the_ps5_has_beaten_xbox_but_the_ps6/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "For the Steam Machine to change PC gaming, Valve must solve Linux's anti-cheat problem",
+      "link": "https://www.engadget.com/gaming/pc/for-the-steam-machine-to-change-pc-gaming-valve-must-solve-linuxs-anti-cheat-problem-130000088.html",
+      "guid": "https://www.engadget.com/gaming/pc/for-the-steam-machine-to-change-pc-gaming-valve-must-solve-linuxs-anti-cheat-problem-130000088.html",
+      "pubDate": "Mon, 17 Nov 2025 14:01:33 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1ozh1yd/for_the_steam_machine_to_change_pc_gaming_valve/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1ozh1yd/for_the_steam_machine_to_change_pc_gaming_valve/'>Comments</a>",
       "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/gadgets.rss",
-  "lastFetched": "2024-11-24T07:00:00.000Z"
+  "lastFetched": "2025-11-24T08:20:42.179Z"
 }
