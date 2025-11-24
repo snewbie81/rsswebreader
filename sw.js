@@ -42,12 +42,13 @@ self.addEventListener('activate', (event) => {
 
 // Fetch event - serve from cache, fallback to network
 self.addEventListener('fetch', (event) => {
-  // Skip caching for RSS feeds and external APIs
+  // Skip caching for RSS feeds and external APIs - let them pass through
   if (event.request.url.includes('rss') || 
       event.request.url.includes('api.rss2json.com') ||
       event.request.url.includes('redlib.') ||
       event.request.url.includes('jagatreview.com') ||
       event.request.url.includes('rssrssrssrss.com')) {
+    event.respondWith(fetch(event.request));
     return;
   }
 

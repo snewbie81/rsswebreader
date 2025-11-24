@@ -717,28 +717,9 @@ function getFeedUnreadCount(feedId) {
 }
 
 function updateFeedUnreadCounts() {
-  // Update unread counts without full re-render
-  for (const groupName of GROUPS) {
-    const groupFeeds = appState.feeds.filter(f => f.group === groupName);
-    if (groupFeeds.length === 0) continue;
-
-    const unreadCount = getGroupUnreadCount(groupName);
-    const groupBadge = document.querySelector(`.group-header h3:contains("${groupName}") + .group-unread-count`);
-    if (groupBadge) {
-      groupBadge.textContent = unreadCount;
-      if (unreadCount > 0) {
-        groupBadge.classList.add('has-unread');
-      } else {
-        groupBadge.classList.remove('has-unread');
-      }
-    }
-
-    for (const feed of groupFeeds) {
-      const feedUnreadCount = getFeedUnreadCount(feed.id);
-      const feedBadges = document.querySelectorAll('.feed-item .feed-unread-count');
-      // This is simplified - in production, would need better selector
-    }
-  }
+  // Simply re-render groups to update counts
+  // This is more reliable than trying to update individual elements
+  renderGroups();
 }
 
 function renderArticles(feedId = null) {
@@ -890,12 +871,7 @@ function selectArticle(articleId) {
   // Mark as read
   markAsRead(articleId);
   
-  // Update UI
-  const articleItem = document.querySelector(`.article-item[onclick*="${articleId}"]`);
-  if (articleItem) {
-    articleItem.classList.remove('unread');
-  }
-
+  // Re-render articles to update unread status
   renderArticles(appState.selectedFeedId);
 }
 
