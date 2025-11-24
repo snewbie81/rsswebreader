@@ -264,7 +264,8 @@ async function loadFeedArticles(feedUrl) {
             
             for (let i = 0; i < proxies.length; i++) {
                 const proxyUrl = proxies[i];
-                console.log(`Attempt ${i + 2}: Trying proxy ${proxyUrl}...`);
+                const attemptNum = i + 2; // Direct fetch is attempt 1, proxies are 2, 3, 4
+                console.log(`Attempt ${attemptNum}: Trying proxy ${proxyUrl}...`);
                 try {
                     const response = await fetch(proxyUrl + encodeURIComponent(feedUrl), {
                         signal: AbortSignal.timeout(10000)
@@ -275,14 +276,14 @@ async function loadFeedArticles(feedUrl) {
                         const parserError = testDoc.querySelector('parsererror');
                         if (!parserError) {
                             xmlDoc = testDoc;
-                            console.log(`✓ Proxy ${i + 1} successful`);
+                            console.log(`✓ Attempt ${attemptNum} successful`);
                             break;
                         } else {
-                            console.log(`✗ Proxy ${i + 1} returned invalid XML`);
+                            console.log(`✗ Attempt ${attemptNum} returned invalid XML`);
                         }
                     }
                 } catch (error) {
-                    console.log(`✗ Proxy ${i + 1} failed:`, error.message);
+                    console.log(`✗ Attempt ${attemptNum} failed:`, error.message);
                     lastError = error;
                 }
             }
