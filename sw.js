@@ -43,11 +43,25 @@ self.addEventListener('activate', (event) => {
 // Fetch event - serve from cache, fallback to network
 self.addEventListener('fetch', (event) => {
   // Skip caching for RSS feeds and external APIs - let them pass through
-  if (event.request.url.includes('rss') || 
-      event.request.url.includes('api.rss2json.com') ||
-      event.request.url.includes('redlib.') ||
-      event.request.url.includes('jagatreview.com') ||
-      event.request.url.includes('rssrssrssrss.com')) {
+  // Parse URL to check hostname properly
+  let shouldSkipCache = false;
+  try {
+    const url = new URL(event.request.url);
+    // Check if it's an external API or RSS feed
+    shouldSkipCache = 
+      url.pathname.includes('.rss') ||
+      url.pathname.includes('.xml') ||
+      url.hostname === 'api.rss2json.com' ||
+      url.hostname.includes('redlib.') ||
+      url.hostname === 'www.jagatreview.com' ||
+      url.hostname === 'jagatreview.com' ||
+      url.hostname === 'www.rssrssrssrss.com' ||
+      url.hostname === 'rssrssrssrss.com';
+  } catch (e) {
+    // Invalid URL, don't skip cache
+  }
+  
+  if (shouldSkipCache) {
     event.respondWith(fetch(event.request));
     return;
   }

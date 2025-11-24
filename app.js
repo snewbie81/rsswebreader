@@ -599,12 +599,16 @@ function escapeXml(str) {
 function sanitizeHTML(html) {
   if (!html) return '';
 
+  // First, normalize incomplete tags to prevent injection
+  // Replace any incomplete opening tags at the end
+  html = html.replace(/<[^>]*$/, '');
+  
   // Create a temporary div to parse HTML
   const temp = document.createElement('div');
   temp.innerHTML = html;
 
   // Remove dangerous elements
-  const dangerousTags = ['script', 'iframe', 'object', 'embed', 'form', 'input', 'button'];
+  const dangerousTags = ['script', 'iframe', 'object', 'embed', 'form', 'input', 'button', 'link', 'style', 'base'];
   dangerousTags.forEach(tag => {
     const elements = temp.querySelectorAll(tag);
     elements.forEach(el => el.remove());
@@ -615,7 +619,7 @@ function sanitizeHTML(html) {
   allElements.forEach(el => {
     const attributes = Array.from(el.attributes);
     attributes.forEach(attr => {
-      if (attr.name.startsWith('on')) {
+      if (attr.name.startsWith('on') || attr.name === 'href' && attr.value.startsWith('javascript:')) {
         el.removeAttribute(attr.name);
       }
     });
@@ -782,7 +786,10 @@ function renderArticles(feedId = null) {
     if (article.description) {
       const excerpt = document.createElement('div');
       excerpt.className = 'article-excerpt';
-      const plainText = article.description.replace(/<[^>]*>/g, '');
+      // Use textContent extraction from DOM to safely strip HTML
+      const tempDiv = document.createElement('div');
+      tempDiv.innerHTML = article.description;
+      const plainText = tempDiv.textContent || tempDiv.innerText || '';
       excerpt.textContent = plainText;
       articleItem.appendChild(excerpt);
     }
