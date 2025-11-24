@@ -49,5 +49,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add feeds/*.json
-          git diff --staged --quiet || git commit -m "Update RSS feeds [skip ci]"
+          git diff --staged --quiet || git commit -m "Update RSS feeds"
           git push
