@@ -52,6 +52,23 @@
       "thumbnail": null
     },
     {
+      "title": "Gabut Deadline: Penjelasan Orderbook &amp; Cara HAKA/HAKI buat Penjudi Pemula",
+      "link": "https://redlib.perennialte.ch//r/JudiSaham/comments/1p5tgns/gabut_deadline_penjelasan_orderbook_cara_hakahaki/",
+      "guid": "https://redlib.perennialte.ch//r/JudiSaham/comments/1p5tgns/gabut_deadline_penjelasan_orderbook_cara_hakahaki/",
+      "pubDate": "Mon, 24 Nov 2025 21:17:11 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p5tgns/gabut_deadline_penjelasan_orderbook_cara_hakahaki/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada beberapa komentar yang nanya kalau beli ribuan lot gimana caranya dan beberapa pertanyaan sejenis.</p>\n\n<p>Karena ada deadline kerjaan yang mepet tapi aku masih mau <em>procrastinate</em> sebentar, aku bikin penjelasan sederhana istilah-istilah umum untuk penjudi pemula.</p>\n\n<p>Untuk penjudi paus, bandar, sultan, atau yang sudah paham, boleh skip saja. Atau kalau mau baca juga boleh, bebas. Begitu juga kalau penjelasan ini nggak akurat atau terlalu ribet, silakan skip, umpatin OP, atau kasih koreksi di komentar.</p>\n\n<p>Sekian dan terima kasih.</p>\n\n<p><strong>Ilustrasi:</strong> Di bawah ini pakai <strong>$BUKA</strong> biar cepat naik, soalnya aku nyangkut di situ. </p>\n\n<p><em>(PS: Coba lihat lapkeunya $BUKA, oke banget dan valuasi rendah, tinggal nunggu digoreng saja)</em>.</p>\n\n<h1>1. Orderbook</h1>\n\n<p><a href=\"/preview/pre/vxent62bo93g1.png?width=356&amp;format=png&amp;auto=webp&amp;s=1f52bec32bdaf120b7573cdfa335eddd10e2cfb4\">/preview/pre/vxent62bo93g1.png?width=356&amp;format=png&amp;auto=webp&amp;s=1f52bec32bdaf120b7573cdfa335eddd10e2cfb4</a></p>\n\n<ul>\n<li><strong>Kolom Kiri (BID):</strong> Barisan yang mau serok bawah. Berharap dapat barang murah.</li>\n<li><strong>Kolom Kanan (OFFER):</strong> Barisan yang mau jualan (<em>exit</em>). Menunggu ada yang beli dagangan mereka.</li>\n</ul>\n\n<h1>2. Istilah &amp; Cara Eksekusi</h1>\n\n<p>Ingat, untuk pemula, pastikan fitur Limit Order dipakai untuk semua aksi ini agar aman dan terkontrol.</p>\n\n<p>A. Nawar (Antri Beli) Kalau yakin harga bakal turun lagi atau market lagi sideways jadi malas beli mahal.</p>\n\n<ul>\n<li>Target: Masuk antrian di Kiri (Bid).</li>\n<li>Cara: Input Limit Order BUY di harga 168 (atau 167, 166, dst kalau mau makin aman).</li>\n<li>Hasil: Bisa dapat bisa nggak. Cuma match kalau ada yang guyur/jual di harga antrianmu.</li>\n</ul>\n\n<p>B. Jemur (Antri Jual) Kalau yakin harga bakal naik lagi atau malas jual terlalu murah.</p>\n\n<ul>\n<li>Target: Masuk antrian di Kanan (Offer).</li>\n<li>Cara: Input Limit Order SELL di harga 169 (atau 170 ke atas).</li>\n<li>Hasil: Barang baru laku kalau ada yang HAKA di hargamu.</li>\n</ul>\n\n<p>C. HAKA (Hajar Kanan) - Mode FOMO/Optimis 🚀 Kalian lihat volume naik, takut ketinggalan kereta. Harus masuk sekarang juga.</p>\n\n<ul>\n<li>Target: Makan barang yang tersedia di Kanan (Offer).</li>\n<li>Cara Standard: Input Limit Order BUY di harga 169.</li>\n<li>Cara Agresif (Tips): Kalau ada bandar yang lagi ngumpulin secara ganas, bisa saja pasang di 169 nggak dapat karena barang habis duluan. Kalau yakin banget dan jiwa judi membara, pasang Limit Order beberapa tick di atasnya, misal 173.</li>\n<li>Hasil: Transaksi akan dieksekusi di harga berapapun yang tersedia (169, 170, dst) sampai order terpenuhi, TAPI tidak akan lebih mahal dari 173.</li>\n</ul>\n\n<p>D. HAKI (Hajar Kiri) - Mode Panik/Cut Loss 📉 Isu jelek keluar, takut harga longsor ke gocap. Harus kabur sekarang.</p>\n\n<ul>\n<li>Target: Buang barang ke pembeli di Kiri (Bid).</li>\n<li>Cara Standard: Input Limit Order SELL di harga 168.</li>\n<li>Cara Agresif (Tips): Kalau bandar lagi guyur sadis, jangan harap pasang di 168 bakal match (keburu bid-nya dicabut/habis). Pasang Limit Order jual di beberapa tick di bawahnya, misal 165. Sistem akan mencarikan harga terbaik yang tersedia saat itu juga.</li>\n</ul>\n\n<h1>3. Market Order: Fitur Sultan &amp; Pro ⚠️</h1>\n\n<p>Tombol Market Order bukan tombol sembarangan. Fitur ini didesain untuk kecepatan mutlak tanpa peduli harga.</p>\n\n<p>Kapan Digunakan? Hanya oleh trader berpengalaman yang butuh masuk/keluar posisi dalam hitungan milidetik saat chaos atau panic selling/buying.</p>\n\n<p>Skenario Horor 1 (HAKA Pake Market Order): Kamu HAKA 500 ribu lot $BUKA pakai Market Order.</p>\n\n<ul>\n<li>Barang di harga 169 cuma ada 29 ribu lot.</li>\n<li>Di 170 ada 205 ribu lot.</li>\n<li>Akibat: Order beli akan otomatis menyapu barang di harga 169, 170, 171, bahkan sampai 175 kalau perlu. Harga rata-rata (average) bengkak parah. Begitu harga kalem lagi di 169, kamu langsung floating loss dalam.</li>\n</ul>\n\n<p>Skenario Horor 2 (HAKI/Cut Loss Pake Market Order): Kamu buang 500 ribu lot $BUKA pakai Market Order.</p>\n\n<ul>\n<li>Bid di 168 cuma 29 ribu lot.</li>\n<li>Akibat: Order jual akan otomatis menyapu/menghabisi bid di 168, 167, 166, bahkan longsor sampai 165 atau kurang.</li>\n<li>Efek Domino: Ini yang sering dilakukan bandar kalau mau guyur. Sekali klik Market Order volume besar, harga langsung terjun bebas (longsor).</li>\n</ul>\n\n<p>Semoga bermanfaat sambil nunggu $BUKA ke 200 (amin).</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Ada beberapa komentar yang nanya kalau beli ribuan lot gimana caranya dan beberapa pertanyaan sejenis.</p>\n\n<p>Karena ada deadline kerjaan yang mepet tapi aku masih mau <em>procrastinate</em> sebentar, aku bikin penjelasan sederhana istilah-istilah umum untuk penjudi pemula.</p>\n\n<p>Untuk penjudi paus, bandar, sultan, atau yang sudah paham, boleh skip saja. Atau kalau mau baca juga boleh, bebas. Begitu juga kalau penjelasan ini nggak akurat atau terlalu ribet, silakan skip, umpatin OP, atau kasih koreksi di komentar.</p>\n\n<p>Sekian dan terima kasih.</p>\n\n<p><strong>Ilustrasi:</strong> Di bawah ini pakai <strong>$BUKA</strong> biar cepat naik, soalnya aku nyangkut di situ. </p>\n\n<p><em>(PS: Coba lihat lapkeunya $BUKA, oke banget dan valuasi rendah, tinggal nunggu digoreng saja)</em>.</p>\n\n<h1>1. Orderbook</h1>\n\n<figure><a href=\"/preview/pre/vxent62bo93g1.png?width=356&amp;format=png&amp;auto=webp&amp;s=1f52bec32bdaf120b7573cdfa335eddd10e2cfb4\"><img loading=\"lazy\" src=\"/preview/pre/vxent62bo93g1.png?width=356&amp;format=png&amp;auto=webp&amp;s=1f52bec32bdaf120b7573cdfa335eddd10e2cfb4\"></a></figure>\n\n<ul>\n<li><strong>Kolom Kiri (BID):</strong> Barisan yang mau serok bawah. Berharap dapat barang murah.</li>\n<li><strong>Kolom Kanan (OFFER):</strong> Barisan yang mau jualan (<em>exit</em>). Menunggu ada yang beli dagangan mereka.</li>\n</ul>\n\n<h1>2. Istilah &amp; Cara Eksekusi</h1>\n\n<p>Ingat, untuk pemula, pastikan fitur Limit Order dipakai untuk semua aksi ini agar aman dan terkontrol.</p>\n\n<p>A. Nawar (Antri Beli) Kalau yakin harga bakal turun lagi atau market lagi sideways jadi malas beli mahal.</p>\n\n<ul>\n<li>Target: Masuk antrian di Kiri (Bid).</li>\n<li>Cara: Input Limit Order BUY di harga 168 (atau 167, 166, dst kalau mau makin aman).</li>\n<li>Hasil: Bisa dapat bisa nggak. Cuma match kalau ada yang guyur/jual di harga antrianmu.</li>\n</ul>\n\n<p>B. Jemur (Antri Jual) Kalau yakin harga bakal naik lagi atau malas jual terlalu murah.</p>\n\n<ul>\n<li>Target: Masuk antrian di Kanan (Offer).</li>\n<li>Cara: Input Limit Order SELL di harga 169 (atau 170 ke atas).</li>\n<li>Hasil: Barang baru laku kalau ada yang HAKA di hargamu.</li>\n</ul>\n\n<p>C. HAKA (Hajar Kanan) - Mode FOMO/Optimis 🚀 Kalian lihat volume naik, takut ketinggalan kereta. Harus masuk sekarang juga.</p>\n\n<ul>\n<li>Target: Makan barang yang tersedia di Kanan (Offer).</li>\n<li>Cara Standard: Input Limit Order BUY di harga 169.</li>\n<li>Cara Agresif (Tips): Kalau ada bandar yang lagi ngumpulin secara ganas, bisa saja pasang di 169 nggak dapat karena barang habis duluan. Kalau yakin banget dan jiwa judi membara, pasang Limit Order beberapa tick di atasnya, misal 173.</li>\n<li>Hasil: Transaksi akan dieksekusi di harga berapapun yang tersedia (169, 170, dst) sampai order terpenuhi, TAPI tidak akan lebih mahal dari 173.</li>\n</ul>\n\n<p>D. HAKI (Hajar Kiri) - Mode Panik/Cut Loss 📉 Isu jelek keluar, takut harga longsor ke gocap. Harus kabur sekarang.</p>\n\n<ul>\n<li>Target: Buang barang ke pembeli di Kiri (Bid).</li>\n<li>Cara Standard: Input Limit Order SELL di harga 168.</li>\n<li>Cara Agresif (Tips): Kalau bandar lagi guyur sadis, jangan harap pasang di 168 bakal match (keburu bid-nya dicabut/habis). Pasang Limit Order jual di beberapa tick di bawahnya, misal 165. Sistem akan mencarikan harga terbaik yang tersedia saat itu juga.</li>\n</ul>\n\n<h1>3. Market Order: Fitur Sultan &amp; Pro ⚠️</h1>\n\n<p>Tombol Market Order bukan tombol sembarangan. Fitur ini didesain untuk kecepatan mutlak tanpa peduli harga.</p>\n\n<p>Kapan Digunakan? Hanya oleh trader berpengalaman yang butuh masuk/keluar posisi dalam hitungan milidetik saat chaos atau panic selling/buying.</p>\n\n<p>Skenario Horor 1 (HAKA Pake Market Order): Kamu HAKA 500 ribu lot $BUKA pakai Market Order.</p>\n\n<ul>\n<li>Barang di harga 169 cuma ada 29 ribu lot.</li>\n<li>Di 170 ada 205 ribu lot.</li>\n<li>Akibat: Order beli akan otomatis menyapu barang di harga 169, 170, 171, bahkan sampai 175 kalau perlu. Harga rata-rata (average) bengkak parah. Begitu harga kalem lagi di 169, kamu langsung floating loss dalam.</li>\n</ul>\n\n<p>Skenario Horor 2 (HAKI/Cut Loss Pake Market Order): Kamu buang 500 ribu lot $BUKA pakai Market Order.</p>\n\n<ul>\n<li>Bid di 168 cuma 29 ribu lot.</li>\n<li>Akibat: Order jual akan otomatis menyapu/menghabisi bid di 168, 167, 166, bahkan longsor sampai 165 atau kurang.</li>\n<li>Efek Domino: Ini yang sering dilakukan bandar kalau mau guyur. Sekali klik Market Order volume besar, harga langsung terjun bebas (longsor).</li>\n</ul>\n\n<p>Semoga bermanfaat sambil nunggu $BUKA ke 200 (amin).</p>\n",
+        "textLength": 3787,
+        "title": "Gabut Deadline: Penjelasan Orderbook & Cara HAKA/HAKI buat Penjudi Pemula - r/JudiSaham",
+        "images": [
+          "/preview/pre/vxent62bo93g1.png?width=356&format=png&auto=webp&s=1f52bec32bdaf120b7573cdfa335eddd10e2cfb4"
+        ]
+      }
+    },
+    {
       "title": "FLY ME TO THE MOON",
       "link": "/img/54477pwg453g1.jpeg",
       "guid": "/img/54477pwg453g1.jpeg",
@@ -87,15 +104,6 @@
       "thumbnail": null
     },
     {
-      "title": "Moga2 disini ga ada yg judi di DADA",
-      "link": "",
-      "guid": "",
-      "pubDate": "Mon, 24 Nov 2025 07:49:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p5b4s7/moga2_disini_ga_ada_yg_judi_di_dada/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p5b4s7/moga2_disini_ga_ada_yg_judi_di_dada/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Jadi apa alasannya papa mw akuisisi BUVA?",
       "link": "https://redlib.perennialte.ch//r/JudiSaham/comments/1p5ltig/jadi_apa_alasannya_papa_mw_akuisisi_buva/",
       "guid": "https://redlib.perennialte.ch//r/JudiSaham/comments/1p5ltig/jadi_apa_alasannya_papa_mw_akuisisi_buva/",
@@ -111,19 +119,22 @@
       }
     },
     {
+      "title": "Moga2 disini ga ada yg judi di DADA",
+      "link": "",
+      "guid": "",
+      "pubDate": "Mon, 24 Nov 2025 07:49:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p5b4s7/moga2_disini_ga_ada_yg_judi_di_dada/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p5b4s7/moga2_disini_ga_ada_yg_judi_di_dada/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Rumor $BUMI",
       "link": "https://redlib.perennialte.ch//r/JudiSaham/comments/1p5okwj/rumor_bumi/",
       "guid": "https://redlib.perennialte.ch//r/JudiSaham/comments/1p5okwj/rumor_bumi/",
       "pubDate": "Mon, 24 Nov 2025 18:15:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p5okwj/rumor_bumi/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada rumor kalau grup Salim mau menambah kepemilikan $BUMI dengan mengambil alih saham yang dipegang Chengdong (anak CIC - China Investment Corporation).</p>\n\n<p><a href=\"https://market.bisnis.com/read/20251123/7/1930976/saat-bumi-resources-bumi-perlahan-ditinggal-investor-china\">Chengdong terus mengurangi kepemilikan saham di $BUMI</a>.</p>\n\n<p><a href=\"https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/832d6d0964_caeb8f5778.pdf\">Di laporan perubahan pengurus,</a> ada dua nama perwakilan Chengdong yang sudah mundur dari jabatan Direktur (Yingbin He) dan Komisaris (Jiang Ma), apakah ini artinya transaksi nego akan segera menyusul?</p>\n\n<p>Oh iya, ada beberapa berita mulai dari yang <a href=\"https://www.cnbcindonesia.com/market/20251124090610-17-687880/raksasa-china-ini-jual-saham-bumi-di-harga-rp-174-raup-duit-rp-646-m\">netral</a> sampai yang <a href=\"https://market.bisnis.com/read/20251124/7/1931077/chengdong-lepas-989-miliar-saham-bumi-net-sell-asing-tembus-rp149-triliun\">cenderung</a> <a href=\"https://market.bisnis.com/read/20251123/7/1930976/saat-bumi-resources-bumi-perlahan-ditinggal-investor-china\">negatif.</a></p>\n\n<p>Saatnya masuk $BUMI? Untuk yang belum mengikuti, $BUMI ini sudah naik tinggi, ytd 95%, dan jumlah lotnya jumbo, jadi tidak mungkin digoreng oleh pemain kecil. Volume transaksi di Oktober dan November juga sudah melonjak tinggi.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Ada rumor kalau grup Salim mau menambah kepemilikan $BUMI dengan mengambil alih saham yang dipegang Chengdong (anak CIC - China Investment Corporation).</p>\n\n<p><a href=\"https://market.bisnis.com/read/20251123/7/1930976/saat-bumi-resources-bumi-perlahan-ditinggal-investor-china\">Chengdong terus mengurangi kepemilikan saham di $BUMI</a>.</p>\n\n<p><a href=\"https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/832d6d0964_caeb8f5778.pdf\">Di laporan perubahan pengurus,</a> ada dua nama perwakilan Chengdong yang sudah mundur dari jabatan Direktur (Yingbin He) dan Komisaris (Jiang Ma), apakah ini artinya transaksi nego akan segera menyusul?</p>\n\n<p>Oh iya, ada beberapa berita mulai dari yang <a href=\"https://www.cnbcindonesia.com/market/20251124090610-17-687880/raksasa-china-ini-jual-saham-bumi-di-harga-rp-174-raup-duit-rp-646-m\">netral</a> sampai yang <a href=\"https://market.bisnis.com/read/20251124/7/1931077/chengdong-lepas-989-miliar-saham-bumi-net-sell-asing-tembus-rp149-triliun\">cenderung</a> <a href=\"https://market.bisnis.com/read/20251123/7/1930976/saat-bumi-resources-bumi-perlahan-ditinggal-investor-china\">negatif.</a></p>\n\n<p>Saatnya masuk $BUMI? Untuk yang belum mengikuti, $BUMI ini sudah naik tinggi, ytd 95%, dan jumlah lotnya jumbo, jadi tidak mungkin digoreng oleh pemain kecil. Volume transaksi di Oktober dan November juga sudah melonjak tinggi.</p>\n",
-        "textLength": 721,
-        "title": "Rumor $BUMI - r/JudiSaham",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "HIT: $CSIS target 500+ //ATH 540",
@@ -250,18 +261,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p4huiy/got_banned_from_rfinansial_i_consider_this_a/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p4huiy/got_banned_from_rfinansial_i_consider_this_a/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Ada versi saham nya ga?👇Klo org yg kita benci minta rekomendasi saham. Apa yang loe bakal rekomendasi?",
-      "link": "https://redlib.perennialte.ch//r/AskNYC/comments/wd0jf5/looking_for_a_poor_quality_yet_expensive/",
-      "guid": "https://redlib.perennialte.ch//r/AskNYC/comments/wd0jf5/looking_for_a_poor_quality_yet_expensive/",
-      "pubDate": "Sun, 23 Nov 2025 10:17:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p4jb51/ada_versi_saham_nya_gaklo_org_yg_kita_benci_minta/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/JudiSaham/comments/1p4jb51/ada_versi_saham_nya_gaklo_org_yg_kita_benci_minta/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/judisaham.rss",
-  "lastFetched": "2025-11-24T20:41:10.533Z"
+  "lastFetched": "2025-11-24T21:36:03.777Z"
 }
