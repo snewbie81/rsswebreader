@@ -187,12 +187,43 @@ function extractThumbnail(item) {
 // =============================================================================
 
 // Extract main content from HTML using JSDOM
+// Extract main content from HTML using JSDOM
 function extractMainContent(html) {
   if (!html) return null;
 
   try {
     const dom = new JSDOM(html);
     const doc = dom.window.document;
+
+    // **NEW: Special handling for Redlib content**
+    // Look for the specific div with class "md" that contains the actual article
+    const redlibContent = doc.querySelector('.md');
+    if (redlibContent) {
+      console.log('  ✓ Found Redlib content (.md class)');
+      
+      // Remove unwanted elements from Redlib content
+      const unwantedSelectors = [
+        'script', 'style', '.advertisement', '.ads'
+      ];
+      
+      unwantedSelectors.forEach(selector => {
+        try {
+          redlibContent.querySelectorAll(selector).forEach(el => el.remove());
+        } catch (e) {
+          console.error(`  Warning: Failed to remove elements with selector '${selector}': ${e.message}`);
+        }
+      });
+
+      const textLength = redlibContent.textContent.trim().length;
+      if (textLength > MIN_CONTENT_LENGTH) {
+        return {
+          content: redlibContent.innerHTML,
+          textLength: textLength,
+          title: extractTitleFromDoc(doc),
+          images: extractImages(redlibContent)
+        };
+      }
+    }
 
     // Remove unwanted elements
     const unwantedSelectors = [
@@ -201,7 +232,12 @@ function extractMainContent(html) {
       '.advertisement', '.ads', '.sidebar', '.menu', '.nav',
       '.social', '.share', '.comments', '.related', '.footer',
       '#sidebar', '#nav', '#header', '#footer', '#comments',
-      '.cookie-banner', '.newsletter', '.popup', '.modal'
+      '.cookie-banner', '.newsletter', '.popup', '.modal',
+      // **NEW: Add Redlib-specific unwanted elements**
+      '#nbc_intro', '#nbc_topb', '#nbc_skys', '#nbc_leftb',
+      '#nbc_breadcrumb', '.tx-nbc2fe-incontent-column',
+      '.tx-nbc2fe-intro', '#nbc_forum_comments', '.prev_next_news',
+      '.journalist_bottom', '.socialarea', '#nbc_belowcontent'
     ];
 
     unwantedSelectors.forEach(selector => {
@@ -217,6 +253,7 @@ function extractMainContent(html) {
 
     // Look for common article containers
     const articleSelectors = [
+      '.md',  // **NEW: Add Redlib's markdown content class first**
       'article',
       '[role="main"]',
       'main',
@@ -228,7 +265,11 @@ function extractMainContent(html) {
       '.article-content',
       '#content',
       '#article',
-      '#main'
+      '#main',
+      // **NEW: Add other common content selectors**
+      '.bodytext',
+      '.post-body',
+      '.article-body'
     ];
 
     for (const selector of articleSelectors) {
