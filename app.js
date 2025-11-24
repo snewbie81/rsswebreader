@@ -47,7 +47,8 @@ async function initDB() {
         readStore.createIndex('feedId', 'feedId', { unique: false });
       }
 
-      // Migration from version 2: Remove fullContent object store
+      // Migration to version 3: Removed Fetch Full Content feature
+      // This removes the fullContent object store that was used in version 2
       if (oldVersion < 3 && db.objectStoreNames.contains('fullContent')) {
         db.deleteObjectStore('fullContent');
       }
