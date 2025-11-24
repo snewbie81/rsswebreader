@@ -91,13 +91,16 @@
 
         <!-- Content Viewer Panel -->
         <main id="content-viewer">
+            <button id="mobile-back-btn" class="mobile-back-btn" aria-label="Back to article list">← Back</button>
             <div class="content-placeholder" id="content-placeholder">
                 <div class="placeholder-icon">📄</div>
                 <div class="placeholder-text">Select an article to read</div>
             </div>
             <div class="article-content-wrapper" id="article-content-wrapper">
                 <div class="article-header" id="article-header">
-                    <h1 class="article-header-title" id="article-header-title"></h1>
+                    <a href="#" class="article-header-title-link" id="article-header-title-link" target="_blank" rel="noopener noreferrer">
+                        <h1 class="article-header-title" id="article-header-title"></h1>
+                    </a>
                     <div class="article-header-meta">
                         <span class="article-header-source" id="article-header-source"></span>
                         <span>•</span>
@@ -106,11 +109,6 @@
                 </div>
                 <div class="article-body" id="article-body">
                     <div class="article-body-content" id="article-body-content"></div>
-                </div>
-                <div class="article-footer">
-                    <a href="#" class="article-link" id="article-link" target="_blank" rel="noopener noreferrer">
-                        Read Original Article →
-                    </a>
                 </div>
             </div>
         </main>

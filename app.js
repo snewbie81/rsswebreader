@@ -1249,6 +1249,7 @@ async function renderArticleContent(articleId) {
 
   // Set header
   document.getElementById('article-header-title').textContent = article.title;
+  document.getElementById('article-header-title-link').href = article.link;
   document.getElementById('article-header-source').textContent = feed ? feed.title : 'Unknown';
   document.getElementById('article-header-date').textContent = new Date(article.pubDate).toLocaleDateString('en-US', {
     year: 'numeric',
@@ -1285,42 +1286,10 @@ async function renderArticleContent(articleId) {
     contentDiv.innerHTML = sanitizeHTML(article.content || article.description);
   }
 
-  // Setup lazy loading for images
-  setupLazyLoading(contentDiv);
-
-  // Set link
-  const link = document.getElementById('article-link');
-  link.href = article.link;
-
   // Show on mobile if needed
   if (window.innerWidth <= 768) {
     document.getElementById('content-viewer').classList.add('mobile-visible');
   }
-}
-
-function setupLazyLoading(container) {
-  const images = container.querySelectorAll('img');
-  
-  const imageObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        if (img.dataset.src) {
-          img.src = img.dataset.src;
-          delete img.dataset.src;
-        }
-        observer.unobserve(img);
-      }
-    });
-  });
-
-  images.forEach(img => {
-    if (img.src) {
-      img.dataset.src = img.src;
-      img.src = '';
-    }
-    imageObserver.observe(img);
-  });
 }
 
 function selectFeed(feedId) {
@@ -1375,6 +1344,11 @@ function setupEventListeners() {
     const sidebar = document.getElementById('sidebar');
     sidebar.classList.toggle('collapsed');
     appState.isSidebarCollapsed = !appState.isSidebarCollapsed;
+  });
+
+  // Mobile back button
+  document.getElementById('mobile-back-btn').addEventListener('click', () => {
+    document.getElementById('content-viewer').classList.remove('mobile-visible');
   });
 
   // Settings toggle
@@ -1476,15 +1450,6 @@ function setupEventListeners() {
   document.getElementById('close-add-feed-modal').addEventListener('click', hideAddFeedModal);
   document.getElementById('cancel-add-feed').addEventListener('click', hideAddFeedModal);
   document.getElementById('submit-add-feed').addEventListener('click', handleAddFeed);
-
-  // Article link click handler with capture phase
-  document.addEventListener('click', (e) => {
-    if (e.target.closest('.article-link')) {
-      // Link clicks will open in new tab (handled by HTML target="_blank")
-      // Just ensure it happens in background
-      e.target.closest('.article-link').rel = 'noopener noreferrer';
-    }
-  }, true);
 
   // Page Visibility API - pause when not visible
   document.addEventListener('visibilitychange', () => {

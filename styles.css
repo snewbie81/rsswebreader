@@ -467,6 +467,30 @@ input:checked + .toggle-slider:before {
   overflow-y: auto;
   display: flex;
   flex-direction: column;
+  position: relative;
+}
+
+.mobile-back-btn {
+  display: none;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: var(--bg-secondary);
+  border: none;
+  border-bottom: 1px solid var(--border-color);
+  padding: 16px 20px;
+  cursor: pointer;
+  color: var(--text-primary);
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
+  width: 100%;
+  transition: background-color 0.2s;
+}
+
+.mobile-back-btn:hover {
+  background-color: var(--bg-hover);
 }
 
 .content-placeholder {
@@ -505,12 +529,24 @@ input:checked + .toggle-slider:before {
   border-bottom: 1px solid var(--border-color);
 }
 
+.article-header-title-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  margin-bottom: 16px;
+  transition: color 0.2s;
+}
+
+.article-header-title-link:hover {
+  color: var(--accent-primary);
+}
+
 .article-header-title {
   font-size: 28px;
   font-weight: 700;
   line-height: 1.3;
-  margin-bottom: 16px;
   color: var(--text-primary);
+  margin: 0;
 }
 
 .article-header-meta {
@@ -606,29 +642,6 @@ input:checked + .toggle-slider:before {
 .article-body-content pre code {
   background-color: transparent;
   padding: 0;
-}
-
-.article-footer {
-  padding: 32px;
-  border-top: 1px solid var(--border-color);
-  text-align: center;
-}
-
-.article-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 12px 24px;
-  background-color: var(--accent-primary);
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: 600;
-  transition: background-color 0.2s;
-}
-
-.article-link:hover {
-  background-color: var(--accent-hover);
 }
 
 /* Modal */
@@ -798,12 +811,6 @@ input:checked + .toggle-slider:before {
   }
 }
 
-/* Lazy Loading Image Placeholder */
-img[data-src] {
-  background-color: var(--bg-tertiary);
-  min-height: 200px;
-}
-
 /* Scrollbar Styles */
 ::-webkit-scrollbar {
   width: 8px;
@@ -862,8 +869,16 @@ img[data-src] {
     display: flex;
   }
 
+  #content-viewer.mobile-visible .mobile-back-btn {
+    display: block;
+  }
+
   .article-list-header {
     padding-left: 60px;
+  }
+
+  .article-list-controls {
+    display: none;
   }
 }
 
