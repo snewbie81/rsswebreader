@@ -117,8 +117,8 @@ let appState = {
   readStatus: new Set(),
   settings: {
     amoledMode: true,
-    hideRead: false,
-    fetchFullContent: false // New setting for full content fetching
+    hideRead: true,
+    fetchFullContent: true // New setting for full content fetching
   },
   selectedFeedId: null,
   selectedArticleId: null,
@@ -530,8 +530,8 @@ async function loadSettings() {
   const fetchFullContentSetting = await dbGet('settings', 'fetchFullContent');
 
   appState.settings.amoledMode = amoledSetting ? amoledSetting.value : true;
-  appState.settings.hideRead = hideReadSetting ? hideReadSetting.value : false;
-  appState.settings.fetchFullContent = fetchFullContentSetting ? fetchFullContentSetting.value : false;
+  appState.settings.hideRead = hideReadSetting ? hideReadSetting.value : true;
+  appState.settings.fetchFullContent = fetchFullContentSetting ? fetchFullContentSetting.value : true;
 }
 
 async function saveSetting(key, value) {
