@@ -132,11 +132,72 @@ let appState = {
 // =============================================================================
 
 const DEFAULT_FEEDS = [
+  // Country group
   {
-    url: 'https://redlib.perennialte.ch/r/gadgets.rss',
-    group: 'tech',
-    title: 'Reddit - Gadgets',
-    description: 'Tech gadgets news from Reddit'
+    url: 'https://redlib.perennialte.ch/r/indonesia.rss',
+    group: 'country',
+    title: 'Reddit - Indonesia',
+    description: 'Indonesia subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/askSingapore.rss',
+    group: 'country',
+    title: 'Reddit - Ask Singapore',
+    description: 'Ask Singapore subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/finansial.rss',
+    group: 'country',
+    title: 'Reddit - Finansial',
+    description: 'Finansial subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/indonesiabebas.rss',
+    group: 'country',
+    title: 'Reddit - Indonesia Bebas',
+    description: 'Indonesia Bebas subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/jualbeliindonesia.rss',
+    group: 'country',
+    title: 'Reddit - Jual Beli Indonesia',
+    description: 'Jual Beli Indonesia subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/indotech.rss',
+    group: 'country',
+    title: 'Reddit - Indo Tech',
+    description: 'Indo Tech subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/judisaham.rss',
+    group: 'country',
+    title: 'Reddit - Judi Saham',
+    description: 'Judi Saham subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/Perempuan.rss',
+    group: 'country',
+    title: 'Reddit - Perempuan',
+    description: 'Perempuan subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/pria.rss',
+    group: 'country',
+    title: 'Reddit - Pria',
+    description: 'Pria subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/Jakarta.rss',
+    group: 'country',
+    title: 'Reddit - Jakarta',
+    description: 'Jakarta subreddit'
+  },
+  {
+    url: 'https://mothership.sg/feed/',
+    group: 'country',
+    title: 'Mothership SG',
+    description: 'Singapore news'
   },
   {
     url: 'https://www.jagatreview.com/feed/',
@@ -144,11 +205,74 @@ const DEFAULT_FEEDS = [
     title: 'Jagat Review',
     description: 'Indonesian tech news'
   },
+  // Finance group
   {
-    url: 'https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6R0A2BLAdgawHQENMBPAMwFMyATMgJ1wGMB7AW0QnWbJABpwo4kKDDgLFyVWgxaIARjPqyArrCxlYsEAF0gA',
-    group: 'news',
-    title: 'Merged News Feeds',
-    description: 'Multiple news sources merged'
+    url: 'https://redlib.perennialte.ch/r/business.rss',
+    group: 'finance',
+    title: 'Reddit - Business',
+    description: 'Business news from Reddit'
+  },
+  // Others group
+  {
+    url: 'https://redlib.perennialte.ch/r/foss.rss',
+    group: 'others',
+    title: 'Reddit - FOSS',
+    description: 'Free and Open Source Software'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/fossdroid.rss',
+    group: 'others',
+    title: 'Reddit - FOSS Droid',
+    description: 'FOSS Android apps'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/FREE.rss',
+    group: 'others',
+    title: 'Reddit - FREE',
+    description: 'Free stuff'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/freesoftware.rss',
+    group: 'others',
+    title: 'Reddit - Free Software',
+    description: 'Free software subreddit'
+  },
+  {
+    url: 'https://www.sciencenews.org/feed',
+    group: 'others',
+    title: 'Science News',
+    description: 'Latest science news'
+  },
+  // Tech group
+  {
+    url: 'https://redlib.perennialte.ch/r/gadgets.rss',
+    group: 'tech',
+    title: 'Reddit - Gadgets',
+    description: 'Tech gadgets news from Reddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/MicrosoftEdge.rss',
+    group: 'tech',
+    title: 'Reddit - Microsoft Edge',
+    description: 'Microsoft Edge browser news'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/browsers.rss',
+    group: 'tech',
+    title: 'Reddit - Browsers',
+    description: 'Web browsers subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/software.rss',
+    group: 'tech',
+    title: 'Reddit - Software',
+    description: 'Software subreddit'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/technews.rss',
+    group: 'tech',
+    title: 'Reddit - Tech News',
+    description: 'Technology news'
   }
 ];
 
@@ -157,8 +281,7 @@ const GROUPS = ['country', 'finance', 'news', 'others', 'tech']; // Alphabetical
 // Mapping of feed URLs to pre-fetched JSON filenames
 const PREFETCHED_FEEDS = {
   'https://redlib.perennialte.ch/r/gadgets.rss': 'feeds/tech-reddit-gadgets.json',
-  'https://www.jagatreview.com/feed/': 'feeds/country-jagat-review.json',
-  'https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6R0A2BLAdgawHQENMBPAMwFMyATMgJ1wGMB7AW0QnWbJABpwo4kKDDgLFyVWgxaIARjPqyArrCxlYsEAF0gA': 'feeds/news-merged.json'
+  'https://www.jagatreview.com/feed/': 'feeds/country-jagat-review.json'
 };
 
 // =============================================================================

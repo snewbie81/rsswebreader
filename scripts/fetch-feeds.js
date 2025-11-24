@@ -19,15 +19,124 @@ const MAX_LINK_DENSITY = 0.5;  // Maximum ratio of link text to total text (0.5 
 
 // Default feeds configuration - matches app.js
 const DEFAULT_FEEDS = [
+  // Country group
+  {
+    url: 'https://redlib.perennialte.ch/r/indonesia.rss',
+    group: 'country',
+    filename: 'country-reddit-indonesia.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/askSingapore.rss',
+    group: 'country',
+    filename: 'country-reddit-asksingapore.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/finansial.rss',
+    group: 'country',
+    filename: 'country-reddit-finansial.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/indonesiabebas.rss',
+    group: 'country',
+    filename: 'country-reddit-indonesiabebas.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/jualbeliindonesia.rss',
+    group: 'country',
+    filename: 'country-reddit-jualbeliindonesia.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/indotech.rss',
+    group: 'country',
+    filename: 'country-reddit-indotech.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/judisaham.rss',
+    group: 'country',
+    filename: 'country-reddit-judisaham.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/Perempuan.rss',
+    group: 'country',
+    filename: 'country-reddit-perempuan.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/pria.rss',
+    group: 'country',
+    filename: 'country-reddit-pria.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/Jakarta.rss',
+    group: 'country',
+    filename: 'country-reddit-jakarta.json'
+  },
+  {
+    url: 'https://mothership.sg/feed/',
+    group: 'country',
+    filename: 'country-mothership-sg.json'
+  },
+  {
+    url: 'https://www.jagatreview.com/feed/',
+    group: 'country',
+    filename: 'country-jagat-review.json'
+  },
+  // Finance group
+  {
+    url: 'https://redlib.perennialte.ch/r/business.rss',
+    group: 'finance',
+    filename: 'finance-reddit-business.json'
+  },
+  // Others group
+  {
+    url: 'https://redlib.perennialte.ch/r/foss.rss',
+    group: 'others',
+    filename: 'others-reddit-foss.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/fossdroid.rss',
+    group: 'others',
+    filename: 'others-reddit-fossdroid.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/FREE.rss',
+    group: 'others',
+    filename: 'others-reddit-free.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/freesoftware.rss',
+    group: 'others',
+    filename: 'others-reddit-freesoftware.json'
+  },
+  {
+    url: 'https://www.sciencenews.org/feed',
+    group: 'others',
+    filename: 'others-sciencenews.json'
+  },
+  // Tech group
   {
     url: 'https://redlib.perennialte.ch/r/gadgets.rss',
     group: 'tech',
     filename: 'tech-reddit-gadgets.json'
   },
   {
-    url: 'https://www.jagatreview.com/feed/',
-    group: 'country',
-    filename: 'country-jagat-review.json'
+    url: 'https://redlib.perennialte.ch/r/MicrosoftEdge.rss',
+    group: 'tech',
+    filename: 'tech-reddit-microsoftedge.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/browsers.rss',
+    group: 'tech',
+    filename: 'tech-reddit-browsers.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/software.rss',
+    group: 'tech',
+    filename: 'tech-reddit-software.json'
+  },
+  {
+    url: 'https://redlib.perennialte.ch/r/technews.rss',
+    group: 'tech',
+    filename: 'tech-reddit-technews.json'
   }
 ];
 
@@ -475,7 +584,15 @@ async function main() {
   
   console.log(`\nCompleted: ${successCount} succeeded, ${failCount} failed`);
   
+  // Don't fail the workflow if some feeds fail - just log it
+  // This ensures the workflow continues even with partial failures
   if (failCount > 0) {
+    console.log(`Warning: ${failCount} feed(s) failed to fetch but continuing...`);
+  }
+  
+  // Only exit with error if ALL feeds failed
+  if (successCount === 0) {
+    console.error('Error: All feeds failed to fetch');
     process.exit(1);
   }
 }
