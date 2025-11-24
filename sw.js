@@ -72,10 +72,12 @@ self.addEventListener('fetch', (event) => {
           // Clone the response
           const responseToCache = response.clone();
           
-          caches.open(CACHE_NAME)
-            .then((cache) => {
-              cache.put(event.request, responseToCache);
-            });
+          // Cache the response asynchronously (don't await to avoid blocking)
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, responseToCache);
+          }).catch((error) => {
+            console.error('Cache put error:', error);
+          });
           
           return response;
         });
