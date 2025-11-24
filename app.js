@@ -235,9 +235,15 @@ async function loadFeedArticles(feedUrl) {
         // Method 1: Try direct fetch first (many modern RSS feeds support CORS)
         console.log('Attempt 1: Direct fetch from source...');
         try {
+            // Create abort controller with timeout (compatible across browsers)
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 10000);
+            
             const directResponse = await fetch(feedUrl, {
-                signal: AbortSignal.timeout(10000)
+                signal: controller.signal
             });
+            clearTimeout(timeoutId);
+            
             if (directResponse.ok) {
                 const xmlText = await directResponse.text();
                 const testDoc = parser.parseFromString(xmlText, 'text/xml');
@@ -267,9 +273,15 @@ async function loadFeedArticles(feedUrl) {
                 const attemptNum = i + 2; // Direct fetch is attempt 1, proxies are 2, 3, 4
                 console.log(`Attempt ${attemptNum}: Trying proxy ${proxyUrl}...`);
                 try {
+                    // Create abort controller with timeout (compatible across browsers)
+                    const controller = new AbortController();
+                    const timeoutId = setTimeout(() => controller.abort(), 10000);
+                    
                     const response = await fetch(proxyUrl + encodeURIComponent(feedUrl), {
-                        signal: AbortSignal.timeout(10000)
+                        signal: controller.signal
                     });
+                    clearTimeout(timeoutId);
+                    
                     if (response.ok) {
                         const xmlText = await response.text();
                         const testDoc = parser.parseFromString(xmlText, 'text/xml');
