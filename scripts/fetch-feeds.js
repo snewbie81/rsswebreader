@@ -192,7 +192,7 @@ function extractThumbnail(item) {
 // =============================================================================
 
 // Extract main content from HTML using JSDOM
-function extractMainContent(html, url) {
+function extractMainContent(html) {
   if (!html) return null;
 
   try {
@@ -213,7 +213,7 @@ function extractMainContent(html, url) {
       try {
         doc.querySelectorAll(selector).forEach(el => el.remove());
       } catch (e) {
-        // Ignore selector errors
+        console.error(`  Warning: Error with selector '${selector}': ${e.message}`);
       }
     });
 
@@ -254,7 +254,7 @@ function extractMainContent(html, url) {
           }
         });
       } catch (e) {
-        // Ignore selector errors
+        console.error(`  Warning: Error with selector '${selector}': ${e.message}`);
       }
     }
 
@@ -349,7 +349,7 @@ async function fetchFullContent(articleUrl) {
   try {
     console.log(`  Fetching full content from ${articleUrl}`);
     const html = await fetchUrl(articleUrl);
-    const extracted = extractMainContent(html, articleUrl);
+    const extracted = extractMainContent(html);
     
     if (extracted && extracted.textLength > MIN_CONTENT_LENGTH) {
       console.log(`  ✓ Extracted ${extracted.textLength} chars of content`);
