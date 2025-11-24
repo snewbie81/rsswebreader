@@ -228,8 +228,9 @@ async function loadFeedArticles(feedUrl) {
     
     try {
         // Try multiple methods to fetch the feed
-        let xmlText = null;
+        let xmlDoc = null;
         let lastError = null;
+        const parser = new DOMParser();
         
         // Method 1: Try direct fetch first (many modern RSS feeds support CORS)
         console.log('Attempt 1: Direct fetch from source...');
@@ -238,8 +239,15 @@ async function loadFeedArticles(feedUrl) {
                 signal: AbortSignal.timeout(10000)
             });
             if (directResponse.ok) {
-                xmlText = await directResponse.text();
-                console.log('✓ Direct fetch successful');
+                const xmlText = await directResponse.text();
+                const testDoc = parser.parseFromString(xmlText, 'text/xml');
+                const parserError = testDoc.querySelector('parsererror');
+                if (!parserError) {
+                    xmlDoc = testDoc;
+                    console.log('✓ Direct fetch successful');
+                } else {
+                    console.log('✗ Direct fetch returned invalid XML, trying proxies...');
+                }
             }
         } catch (error) {
             console.log('✗ Direct fetch failed:', error.message);
@@ -247,7 +255,7 @@ async function loadFeedArticles(feedUrl) {
         }
         
         // Method 2-4: Try multiple CORS proxies as fallbacks
-        if (!xmlText) {
+        if (!xmlDoc) {
             const proxies = [
                 'https://api.allorigins.win/raw?url=',
                 'https://corsproxy.io/?',
@@ -262,9 +270,16 @@ async function loadFeedArticles(feedUrl) {
                         signal: AbortSignal.timeout(10000)
                     });
                     if (response.ok) {
-                        xmlText = await response.text();
-                        console.log(`✓ Proxy ${i + 1} successful`);
-                        break;
+                        const xmlText = await response.text();
+                        const testDoc = parser.parseFromString(xmlText, 'text/xml');
+                        const parserError = testDoc.querySelector('parsererror');
+                        if (!parserError) {
+                            xmlDoc = testDoc;
+                            console.log(`✓ Proxy ${i + 1} successful`);
+                            break;
+                        } else {
+                            console.log(`✗ Proxy ${i + 1} returned invalid XML`);
+                        }
                     }
                 } catch (error) {
                     console.log(`✗ Proxy ${i + 1} failed:`, error.message);
@@ -274,18 +289,8 @@ async function loadFeedArticles(feedUrl) {
         }
         
         // If all methods failed, throw error
-        if (!xmlText) {
-            throw new Error(lastError?.message || 'Failed to fetch feed from all sources');
-        }
-        
-        // Parse the RSS/Atom feed
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-        
-        // Check for parsing errors
-        const parserError = xmlDoc.querySelector('parsererror');
-        if (parserError) {
-            throw new Error('Invalid feed format');
+        if (!xmlDoc) {
+            throw new Error(lastError?.message || 'Failed to fetch valid feed from all sources');
         }
         
         // Detect feed type (RSS or Atom)
