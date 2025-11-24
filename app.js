@@ -280,8 +280,33 @@ const GROUPS = ['country', 'finance', 'news', 'others', 'tech']; // Alphabetical
 
 // Mapping of feed URLs to pre-fetched JSON filenames
 const PREFETCHED_FEEDS = {
+  // Country group
+  'https://redlib.perennialte.ch/r/indonesia.rss': 'feeds/country-reddit-indonesia.json',
+  'https://redlib.perennialte.ch/r/askSingapore.rss': 'feeds/country-reddit-asksingapore.json',
+  'https://redlib.perennialte.ch/r/finansial.rss': 'feeds/country-reddit-finansial.json',
+  'https://redlib.perennialte.ch/r/indonesiabebas.rss': 'feeds/country-reddit-indonesiabebas.json',
+  'https://redlib.perennialte.ch/r/jualbeliindonesia.rss': 'feeds/country-reddit-jualbeliindonesia.json',
+  'https://redlib.perennialte.ch/r/indotech.rss': 'feeds/country-reddit-indotech.json',
+  'https://redlib.perennialte.ch/r/judisaham.rss': 'feeds/country-reddit-judisaham.json',
+  'https://redlib.perennialte.ch/r/Perempuan.rss': 'feeds/country-reddit-perempuan.json',
+  'https://redlib.perennialte.ch/r/pria.rss': 'feeds/country-reddit-pria.json',
+  'https://redlib.perennialte.ch/r/Jakarta.rss': 'feeds/country-reddit-jakarta.json',
+  'https://mothership.sg/feed/': 'feeds/country-mothership-sg.json',
+  'https://www.jagatreview.com/feed/': 'feeds/country-jagat-review.json',
+  // Finance group
+  'https://redlib.perennialte.ch/r/business.rss': 'feeds/finance-reddit-business.json',
+  // Others group
+  'https://redlib.perennialte.ch/r/foss.rss': 'feeds/others-reddit-foss.json',
+  'https://redlib.perennialte.ch/r/fossdroid.rss': 'feeds/others-reddit-fossdroid.json',
+  'https://redlib.perennialte.ch/r/FREE.rss': 'feeds/others-reddit-free.json',
+  'https://redlib.perennialte.ch/r/freesoftware.rss': 'feeds/others-reddit-freesoftware.json',
+  'https://www.sciencenews.org/feed': 'feeds/others-sciencenews.json',
+  // Tech group
   'https://redlib.perennialte.ch/r/gadgets.rss': 'feeds/tech-reddit-gadgets.json',
-  'https://www.jagatreview.com/feed/': 'feeds/country-jagat-review.json'
+  'https://redlib.perennialte.ch/r/MicrosoftEdge.rss': 'feeds/tech-reddit-microsoftedge.json',
+  'https://redlib.perennialte.ch/r/browsers.rss': 'feeds/tech-reddit-browsers.json',
+  'https://redlib.perennialte.ch/r/software.rss': 'feeds/tech-reddit-software.json',
+  'https://redlib.perennialte.ch/r/technews.rss': 'feeds/tech-reddit-technews.json'
 };
 
 // =============================================================================
