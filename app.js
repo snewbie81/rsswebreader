@@ -619,8 +619,18 @@ function sanitizeHTML(html) {
   allElements.forEach(el => {
     const attributes = Array.from(el.attributes);
     attributes.forEach(attr => {
-      if (attr.name.startsWith('on') || attr.name === 'href' && attr.value.startsWith('javascript:')) {
+      // Remove event handlers
+      if (attr.name.startsWith('on')) {
         el.removeAttribute(attr.name);
+      }
+      // Remove dangerous URL schemes (case-insensitive)
+      if (attr.name === 'href' || attr.name === 'src') {
+        const lowerValue = attr.value.toLowerCase().trim();
+        if (lowerValue.startsWith('javascript:') || 
+            lowerValue.startsWith('data:') || 
+            lowerValue.startsWith('vbscript:')) {
+          el.removeAttribute(attr.name);
+        }
       }
     });
   });
