@@ -1,1 +1,150 @@
-<!DOCTYPE html>\n<html lang="en">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <meta name="theme-color" content="#000000">\n    <title>RSS Reader</title>\n    <link rel="manifest" href="/manifest.json">\n    <style>\n        body {\n            display: flex;\n            flex-direction: row;\n            margin: 0;\n            font-family: Arial, sans-serif;\n            background-color: #121212;\n            color: #ffffff;\n        }\n        #sidebar {\n            width: 250px;\n            background-color: #1e1e1e;\n            padding: 20px;\n        }\n        #article-list {\n            width: 300px;\n            background-color: #2a2a2a;\n            padding: 20px;\n            overflow-y: auto;\n        }\n        #content-viewer {\n            flex: 1;\n            background-color: #121212;\n            padding: 20px;\n        }\n        h1, h2 {\n            color: #ffffff;\n        }\n    </style>\n</head>\n<body>\n    <div id="sidebar">\n        <h2>Groups</h2>\n        <ul>\n            <li>Group 1</li>\n            <li>Group 2</li>\n            <li>Group 3</li>\n        </ul>\n    </div>\n    <div id="article-list">\n        <h2>Articles</h2>\n        <ul>\n            <li>Article 1</li>\n            <li>Article 2</li>\n            <li>Article 3</li>\n        </ul>\n    </div>\n    <div id="content-viewer">\n        <h1>Content Viewer</h1>\n        <p>Select an article to read...</p>\n    </div>\n</body>\n</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000000">
+    <meta name="description" content="A privacy-focused RSS feed reader with offline support">
+    <title>RSS Web Reader</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <!-- Hamburger Menu Button -->
+    <button id="hamburger-btn" aria-label="Toggle sidebar">☰</button>
+
+    <!-- Main App Container -->
+    <div id="app">
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <div class="sidebar-header">
+                <span class="rss-icon">📡</span>
+                <h1>RSS Reader</h1>
+            </div>
+
+            <div class="sidebar-content">
+                <!-- Settings Panel -->
+                <div class="settings-panel">
+                    <div class="settings-header" id="settings-toggle">
+                        <h3>Settings</h3>
+                        <span class="collapse-icon">▶</span>
+                    </div>
+                    <div class="settings-content" id="settings-content">
+                        <div class="setting-item">
+                            <label for="amoled-toggle">AMOLED Mode</label>
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="amoled-toggle" checked>
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
+                        <div class="setting-item">
+                            <label for="hide-read-toggle">Hide Read Articles</label>
+                            <label class="toggle-switch">
+                                <input type="checkbox" id="hide-read-toggle">
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Groups Section -->
+                <div class="groups-section" id="groups-container">
+                    <!-- Groups will be dynamically inserted here -->
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <button class="icon-btn" id="add-feed-btn" title="Add Feed" aria-label="Add Feed">
+                    ➕
+                </button>
+                <button class="icon-btn" id="refresh-btn" title="Refresh All Feeds" aria-label="Refresh All">
+                    🔄
+                </button>
+                <button class="icon-btn" id="import-opml-btn" title="Import OPML" aria-label="Import OPML">
+                    📥
+                </button>
+                <button class="icon-btn" id="export-opml-btn" title="Export OPML" aria-label="Export OPML">
+                    📤
+                </button>
+            </div>
+        </aside>
+
+        <!-- Article List Panel -->
+        <section id="article-list">
+            <div class="article-list-header">
+                <h2 id="article-list-title">All Articles</h2>
+                <div class="article-list-controls">
+                    <!-- Additional controls can go here -->
+                </div>
+            </div>
+            <div class="article-list-content" id="article-list-content">
+                <!-- Articles will be dynamically inserted here -->
+            </div>
+        </section>
+
+        <!-- Content Viewer Panel -->
+        <main id="content-viewer">
+            <div class="content-placeholder" id="content-placeholder">
+                <div class="placeholder-icon">📄</div>
+                <div class="placeholder-text">Select an article to read</div>
+            </div>
+            <div class="article-content-wrapper" id="article-content-wrapper">
+                <div class="article-header" id="article-header">
+                    <h1 class="article-header-title" id="article-header-title"></h1>
+                    <div class="article-header-meta">
+                        <span class="article-header-source" id="article-header-source"></span>
+                        <span>•</span>
+                        <span id="article-header-date"></span>
+                    </div>
+                </div>
+                <div class="article-body" id="article-body">
+                    <div class="article-body-content" id="article-body-content"></div>
+                </div>
+                <div class="article-footer">
+                    <a href="#" class="article-link" id="article-link" target="_blank" rel="noopener noreferrer">
+                        Read Original Article →
+                    </a>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Add Feed Modal -->
+    <div class="modal" id="add-feed-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Add RSS Feed</h2>
+                <button class="modal-close" id="close-add-feed-modal" aria-label="Close">×</button>
+            </div>
+            <div class="modal-body">
+                <form id="add-feed-form">
+                    <div class="form-group">
+                        <label for="feed-url">Feed URL *</label>
+                        <input type="url" id="feed-url" required placeholder="https://example.com/feed.rss">
+                    </div>
+                    <div class="form-group">
+                        <label for="feed-group">Group</label>
+                        <select id="feed-group">
+                            <option value="tech">Tech</option>
+                            <option value="news">News</option>
+                            <option value="country">Country</option>
+                            <option value="finance">Finance</option>
+                            <option value="others">Others</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="cancel-add-feed">Cancel</button>
+                <button class="btn btn-primary" id="submit-add-feed">Add Feed</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hidden file input for OPML import -->
+    <input type="file" id="opml-file-input" class="hidden-file-input" accept=".opml,.xml">
+
+    <!-- Main Application Script -->
+    <script src="/app.js"></script>
+</body>
+</html>
