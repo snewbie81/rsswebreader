@@ -4,6 +4,13 @@ const fs = require('fs');
 const path = require('path');
 const { parseStringPromise } = require('xml2js');
 
+// Configuration constants
+const MAX_ARTICLES_PER_FEED = 50;  // Matches the limit in app.js
+const REQUEST_TIMEOUT_MS = 15000;
+const MAX_RETRIES = 3;
+const RETRY_DELAY_MS = 2000;
+const REQUEST_DELAY_MS = 1000;  // Delay between feed requests
+
 // Default feeds configuration - matches app.js
 const DEFAULT_FEEDS = [
   {
@@ -30,7 +37,7 @@ if (!fs.existsSync(feedsDir)) {
 }
 
 // Fetch a URL with retries
-function fetchUrl(url, maxRetries = 3) {
+function fetchUrl(url, maxRetries = MAX_RETRIES) {
   return new Promise((resolve, reject) => {
     const protocol = url.startsWith('https') ? https : http;
     let retries = 0;
@@ -41,7 +48,7 @@ function fetchUrl(url, maxRetries = 3) {
           'User-Agent': 'Mozilla/5.0 (compatible; RSS-Feed-Fetcher/1.0)',
           'Accept': 'application/rss+xml, application/xml, text/xml, application/atom+xml'
         },
-        timeout: 15000
+        timeout: REQUEST_TIMEOUT_MS
       }, (response) => {
         // Handle redirects
         if (response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
@@ -64,7 +71,7 @@ function fetchUrl(url, maxRetries = 3) {
         if (retries < maxRetries) {
           retries++;
           console.log(`Retry ${retries}/${maxRetries} for ${url}`);
-          setTimeout(attemptFetch, 2000 * retries);
+          setTimeout(attemptFetch, RETRY_DELAY_MS * retries);
         } else {
           reject(error);
         }
@@ -75,7 +82,7 @@ function fetchUrl(url, maxRetries = 3) {
         if (retries < maxRetries) {
           retries++;
           console.log(`Timeout retry ${retries}/${maxRetries} for ${url}`);
-          setTimeout(attemptFetch, 2000 * retries);
+          setTimeout(attemptFetch, RETRY_DELAY_MS * retries);
         } else {
           reject(new Error('Request timeout'));
         }
@@ -112,7 +119,7 @@ function parseRSSFeed(rss) {
     title: channel.title || '',
     description: channel.description || '',
     link: channel.link || '',
-    items: items.slice(0, 50).map(item => ({
+    items: items.slice(0, MAX_ARTICLES_PER_FEED).map(item => ({
       title: item.title || '',
       link: item.link || '',
       guid: item.guid?._ || item.guid || item.link || '',
@@ -133,7 +140,7 @@ function parseAtomFeed(feed) {
     link: Array.isArray(feed.link) ? 
       (feed.link.find(l => l.rel === 'alternate')?.href || feed.link[0]?.href || '') :
       (feed.link?.href || ''),
-    items: entries.slice(0, 50).map(entry => {
+    items: entries.slice(0, MAX_ARTICLES_PER_FEED).map(entry => {
       const link = Array.isArray(entry.link) ? 
         (entry.link.find(l => l.rel === 'alternate')?.href || entry.link[0]?.href || '') :
         (entry.link?.href || '');
@@ -216,7 +223,7 @@ async function main() {
       failCount++;
     }
     // Add delay between requests to be respectful
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    await new Promise(resolve => setTimeout(resolve, REQUEST_DELAY_MS));
   }
   
   console.log(`\nCompleted: ${successCount} succeeded, ${failCount} failed`);
