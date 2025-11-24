@@ -88,8 +88,8 @@ async function initIndexedDB() {
 // ============================================================================
 function initSupabase() {
     // For demo purposes, using a placeholder. In production, use environment variables
-    const SUPABASE_URL = localStorage.getItem('supabaseUrl') || 'https://your-project.supabase.co';
-    const SUPABASE_KEY = localStorage.getItem('supabaseKey') || 'your-anon-key';
+    const SUPABASE_URL = localStorage.getItem('supabaseUrl') || 'https://jkvzsclozkkqrmmdjnll.supabase.co';
+    const SUPABASE_KEY = localStorage.getItem('supabaseKey') || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImprdnpzY2xvemtrcXJtbWRqbmxsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM4OTcwMDYsImV4cCI6MjA3OTQ3MzAwNn0.Su-w_N2clSpy7LIXuYNpPxa8olDvYTJBX096rjPTflc';
     
     try {
         if (window.supabase && SUPABASE_URL && SUPABASE_KEY) {
