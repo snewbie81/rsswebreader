@@ -1,0 +1,293 @@
+{
+  "title": "FOSS",
+  "description": "We are dedicated to the discussion of Free and Open Source Software, or FOSS.",
+  "link": "",
+  "items": [
+    {
+      "title": "Welcome to FOSS!",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/dpxcio/welcome_to_foss/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/dpxcio/welcome_to_foss/",
+      "pubDate": "Fri, 1 Nov 2019 01:18:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/dpxcio/welcome_to_foss/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I&#39;m a big fan of using <strong>Free and Open Source</strong> software, and wanted to share my love of it on reddit. I want to get this sub up and running, with the goal that it becomes a hub for discussing FOSS, looking for suggestions of what to use, promoting your projects, posting news related to FOSS, etc.</p>\n\n<p>I personally have very little experience moderating, let alone on reddit so please pardon me while I bump around the controls. :) My near-term goal right now is to put up a list of subs that share FOSS principles (in the sidebar, or wiki?) then maybe another list of FOSS-related resources that I&#39;m aware of. I&#39;d appreciate suggestions too!</p>\n\n<p>Thanks for stopping by, and I hope you&#39;ll be a part of the FOSS community.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Hi everyone,</p>\n\n<p>I'm a big fan of using <strong>Free and Open Source</strong> software, and wanted to share my love of it on reddit. I want to get this sub up and running, with the goal that it becomes a hub for discussing FOSS, looking for suggestions of what to use, promoting your projects, posting news related to FOSS, etc.</p>\n\n<p>I personally have very little experience moderating, let alone on reddit so please pardon me while I bump around the controls. :) My near-term goal right now is to put up a list of subs that share FOSS principles (in the sidebar, or wiki?) then maybe another list of FOSS-related resources that I'm aware of. I'd appreciate suggestions too!</p>\n\n<p>Thanks for stopping by, and I hope you'll be a part of the FOSS community.</p>\n",
+        "textLength": 726,
+        "title": "Welcome to FOSS! - r/foss",
+        "images": []
+      }
+    },
+    {
+      "title": "Janice: App for Viewing Large JSON Files; for Developers and Data Scientists",
+      "link": "https://medevel.com/janice-json-file-viewer/",
+      "guid": "https://medevel.com/janice-json-file-viewer/",
+      "pubDate": "Sun, 23 Nov 2025 13:17:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4mhh3/janice_app_for_viewing_large_json_files_for/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4mhh3/janice_app_for_viewing_large_json_files_for/'>Comments</a>",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "\n        <article class=\"gh-article post tag-developer-tools tag-development tag-open-source tag-productivity tag-json tag-log-files tag-programming tag-web-based tag-linux tag-windows tag-macos tag-freebies tag-freebsd tag-go-language \">\n            <div id=\"idUp\"></div>\n            \n\n            <section class=\"gh-content gh-canvas is-body\">\n                <div id=\"toc\">\n                    <h4 style=\"padding: 18px !important;\">Table of Content</h4>\n                </div>\n                <p>Let’s talk about a silent productivity killer many developers face: <strong>trying to open a 2GB JSON file in a text editor</strong>.</p><p><strong><u>Spoiler: It never ends well.</u></strong></p><p>JSON (JavaScript Object Notation) is the lifeblood of modern web and mobile development, used for APIs, configuration files, logs, data exports, and more. But when these files grow beyond a few megabytes, they become nearly impossible to work with using standard tools like <strong>VS Code</strong>, <strong>Sublime Text</strong>, or even dedicated JSON viewers. </p><p>The editor freezes. Your laptop fans sound like a jet engine. And eventually, you’re forced to close the app, losing any progress or context.</p><p>This isn’t just annoying, it’s a real workflow blocker.</p><figure class=\"kg-card kg-bookmark-card\"><a class=\"kg-bookmark-container\" href=\"https://medevel.com/reading-large-files-text-csv-178/\"><div class=\"kg-bookmark-content\"><div class=\"kg-bookmark-title\">17 Free Solutions to Open and Manage Large Text, CSV and Excel Files</div><div class=\"kg-bookmark-description\">Reading large text files is essential for various use cases in data processing and analysis. Here are some reasons why reading large text files is needed: 1. Big Data Analysis: With the increasing volume of data being generated, organizations often need to analyze large text files to extract valuable insights.</div><div class=\"kg-bookmark-metadata\"><img class=\"kg-bookmark-icon\" src=\"https://medevel.com/content/images/icon/artificial-intelligence--1--1-1336.png\" alt=\"\"><span class=\"kg-bookmark-author\">MEDevel.com | Open-source Apps for Healthcare and Enterprise</span><span class=\"kg-bookmark-publisher\">Hazem Abbas</span></div></div><div class=\"kg-bookmark-thumbnail\"><img src=\"https://medevel.com/content/images/thumbnail/screenshot--7--1.png\" alt=\"\" onerror=\"this.style.display = 'none'\"></div></a></figure><p>Developers need to <strong>inspect, search, and analyze</strong> large JSON files regularly:</p><ul><li>Debugging API responses from <strong>microservices</strong></li><li>Reviewing exported database dumps</li><li>Validating data pipelines or <strong>ETL outputs</strong></li><li>Working with machine learning datasets or telemetry logs</li></ul><p>But most tools treat JSON as plain text. They try to load the entire file into memory, syntax-highlight it all at once, and build a full parse tree, which is overkill and unsustainable for large files.</p><p>That’s where <strong>Janice</strong> comes in.</p><h2 id=\"what-is-janice-the-json-file-viewer\">What is Janice, The JSON File Viewer?</h2><p>Janice is a lightweight desktop app designed specifically for <strong>viewing and navigating massive JSON files quickly and efficiently,</strong> without crashing, freezing, or consuming all your RAM.</p><p>Instead of loading everything at once, Janice uses smart streaming and lazy-loading techniques to parse only the parts you’re interacting with. It presents the data in a clean, expandable tree structure, supports fast search, syntax validation, and even lets you extract specific paths or arrays, all while keeping memory usage low.</p><p>The app is developed by <strong>Erik Kalkoken</strong>, a Programmer, gamer and Eve Online addict.</p><p>For developers, data engineers, &amp; data scientists, this means:<br></p><ul><li>No more “Out of Memory” errors</li><li><strong>Instant preview of large files</strong> (even 10GB+)</li><li>Fast search across deeply nested fields</li><li>Ability to explore data without writing custom scripts</li><li>Focus on <em>understanding the data</em>, not fighting the tool</li></ul><p>In a world where data keeps growing, having a reliable, performant way to inspect JSON is no longer a luxury, it’s essential.</p><p>Janice isn’t just another JSON viewer.<br>It’s a developer’s flashlight in the dark, tangled forest of big data.</p><h3 id=\"features\">Features</h3><ul><li>Cross-platform</li><li>Browse through a JSON document in classic tree structure</li><li>JSON files can be opened via file dialog, from clipboard, dropped on the window or given as command line argument</li><li>Supports viewing very large <strong>JSON</strong> <strong>files</strong> (&gt;100MB, &gt;10M elements)</li><li>Search for keys and values in the document. Supports wildcards.</li><li>Export parts of a JSON file into a new file or to clipboard</li><li>Copy values to clipboard</li><li>Single executable file, no installation required</li><li>Desktop app that runs on Windows, Linux and macOS</li><li>Automatic dark and light theme</li></ul><h2 id=\"platforms\">Platforms</h2><ul><li>Windows</li><li>Linux</li><li>macOS</li></ul><h2 id=\"install-and-run\">Install and Run</h2><p>To run Janice just download and unzip the latest release to your computer. Janice ships as a single executable file that can be run directly. You find the latest packages for download on the&nbsp;<a href=\"https://github.com/ErikKalkoken/janice/releases\">releases page</a>.</p><h3 id=\"linux\">Linux</h3><p><a href=\"https://github.com/ErikKalkoken/janice#linux\"></a></p><p>We are providing two variants for installing on Linux desktop:</p><ul><li><strong>AppImage</strong>: The AppImage variant allows you to run the app directly from the executable without requiring installation or root access</li><li><strong>Tarball</strong>: The tar file requires installation, but also allows you to integrate the app into your desktop environment. The tarball also has wider compatibility among different Linux versions.</li></ul><h4 id=\"appimage\">AppImage</h4><p>The app is shipped in the&nbsp;<a href=\"https://appimage.org/\" rel=\"nofollow\">AppImage</a>&nbsp;format, so it can be used without requiring installation and run on many different Linux distributions.</p><ol><li>Download the latest AppImage file from the releases page and make it executable.</li><li>Execute it to start the app.</li></ol><p><strong>Tip</strong></p><p>Should you get the following error:&nbsp;<code>AppImages require FUSE to run.</code>, you need to first install FUSE on your system. Thi s is a library required by all AppImages to function. Please see&nbsp;<a href=\"https://docs.appimage.org/user-guide/troubleshooting/fuse.html#the-appimage-tells-me-it-needs-fuse-to-run\" rel=\"nofollow\">this page</a>&nbsp;for details.</p><h4 id=\"tarball\">Tarball</h4><p><a href=\"https://github.com/ErikKalkoken/janice#tarball\"></a></p><ol><li>Download the latest tar file from the releases page</li><li>Decompress the tar file, for example with:&nbsp;<code>tar xf janice-0.12.3-linux-amd64.tar.xz</code></li><li>Run&nbsp;<code>make user-install</code>&nbsp;to install the app for the current user or run&nbsp;<code>sudo make install</code>&nbsp;to install the app on the system</li></ol><p>You should now have a shortcut in your desktop environment's launcher for starting the app.</p><p>To uninstall the app again run either:&nbsp;<code>make user-uninstall</code>&nbsp;or&nbsp;<code>sudo make uninstall</code>&nbsp;depending on how you installed it.</p><h3 id=\"windows\">Windows</h3><p><a href=\"https://github.com/ErikKalkoken/janice#windows\"></a></p><ol><li>Download the windows zip file from the latest release on Github.</li><li>Unzip the file into a directory of your choice and run the .exe file to start the app.</li></ol><h3 id=\"mac-os\">Mac OS</h3><p><a href=\"https://github.com/ErikKalkoken/janice#mac-os\"></a></p><ol><li>Download the darwin zip file from the latest release on Github for your respective platform (arm or intel).</li><li>Unzip the file into a directory of your choice</li><li>Run the .app file to start the app.</li></ol><h4 id=\"tip\">Tip</h4><p>MacOS may report this app incorrectly as \"damaged\", because it is not signed with an Apple certificate. You can remove this error by opening a terminal and running the following command. For more information please see&nbsp;<a href=\"https://docs.fyne.io/faq/troubleshoot#distribution\" rel=\"nofollow\">Fyne Troubleshooting</a>:</p><p><code>sudo xattr -r -d com.apple.quarantine Janice.app</code></p><h3 id=\"build-and-run-from-repository\">Build and run from repository</h3><p><a href=\"https://github.com/ErikKalkoken/janice#build-and-run-from-repository\"></a></p><p>If your system is configured to build&nbsp;<a href=\"https://fyne.io/\" rel=\"nofollow\">Fyne</a>&nbsp;apps, you can build and run this app directly from the repository with the following command:</p><p>go run github.com/ErikKalkoken/janice@latest</p><p>For more information on how to configure your system for Fyne please see:&nbsp;<a href=\"https://docs.fyne.io/started/\" rel=\"nofollow\">Getting Started</a>.</p><h2 id=\"tech-stack\">Tech Stack</h2><p>The app is written in the <a href=\"https://medevel.com/tag/go-language/\" rel=\"noreferrer\"><strong>Go programming language</strong></a>, which proven to be fast and responsive especially in dealing with large files.</p><h2 id=\"license\">License</h2><p>The App is released under the open-source MIT License.</p><h2 id=\"resources-downloads\">Resources &amp; Downloads</h2><ul><li><a href=\"https://github.com/ErikKalkoken/janice\">Source-code &amp; Downloads</a></li><li><a href=\"https://gitlab.com/ErikKalkoken\">The Developer Repo Directory at Gitlab</a></li></ul><figure class=\"kg-card kg-bookmark-card\"><a class=\"kg-bookmark-container\" href=\"https://github.com/ErikKalkoken/janice\"><div class=\"kg-bookmark-content\"><div class=\"kg-bookmark-title\">GitHub - ErikKalkoken/janice: A desktop app for viewing large JSON files.</div><div class=\"kg-bookmark-description\">A desktop app for viewing large JSON files. . Contribute to ErikKalkoken/janice development by creating an account on GitHub.</div><div class=\"kg-bookmark-metadata\"><img class=\"kg-bookmark-icon\" src=\"https://medevel.com/content/images/icon/pinned-octocat-093da3e6fa40-623.svg\" alt=\"\"><span class=\"kg-bookmark-author\">GitHub</span><span class=\"kg-bookmark-publisher\">ErikKalkoken</span></div></div><div class=\"kg-bookmark-thumbnail\"><img src=\"https://medevel.com/content/images/thumbnail/5be6f796-8677-48b8-a8ae-f077207e0d6c\" alt=\"\" onerror=\"this.style.display = 'none'\"></div></a></figure>\n                <br>\n                <div class=\"post-tags mb-8\">\n                    <br>\n                    <div class=\"buttonsx\">\n                        <a href=\"https://medevel.com/tag/developer-tools/\" title=\"Developer Tools\" class=\"tag-btn\">Developer Tools</a> <span></span>\n                        <a href=\"https://medevel.com/tag/development/\" title=\"Development\" class=\"tag-btn\">Development</a> <span></span>\n                        <a href=\"https://medevel.com/tag/open-source/\" title=\"Open-source\" class=\"tag-btn\">Open-source</a> <span></span>\n                        <a href=\"https://medevel.com/tag/productivity/\" title=\"Productivity\" class=\"tag-btn\">Productivity</a> <span></span>\n                        <a href=\"https://medevel.com/tag/json/\" title=\"json\" class=\"tag-btn\">json</a> <span></span>\n                        <a href=\"https://medevel.com/tag/log-files/\" title=\"log files\" class=\"tag-btn\">log files</a> <span></span>\n                        <a href=\"https://medevel.com/tag/programming/\" title=\"programming\" class=\"tag-btn\">programming</a> <span></span>\n                        <a href=\"https://medevel.com/tag/web-based/\" title=\"Web-based Apps\" class=\"tag-btn\">Web-based Apps</a> <span></span>\n                        <a href=\"https://medevel.com/tag/linux/\" title=\"Linux\" class=\"tag-btn\">Linux</a> <span></span>\n                        <a href=\"https://medevel.com/tag/windows/\" title=\"Windows\" class=\"tag-btn\">Windows</a> <span></span>\n                        <a href=\"https://medevel.com/tag/macos/\" title=\"macos\" class=\"tag-btn\">macos</a> <span></span>\n                        <a href=\"https://medevel.com/tag/freebies/\" title=\"Freebies\" class=\"tag-btn\">Freebies</a> <span></span>\n                        <a href=\"https://medevel.com/tag/freebsd/\" title=\"FreeBSD\" class=\"tag-btn\">FreeBSD</a> <span></span>\n                        <a href=\"https://medevel.com/tag/go-language/\" title=\"Go language\" class=\"tag-btn\">Go language</a> <span></span>\n                    </div>\n                    <br>\n                </div>\n                </section></article>",
+        "textLength": 6889,
+        "title": "Janice is a Free app for Viewing Large JSON Files, for Developers, Data Scientists and Data Engineers",
+        "images": [
+          "https://medevel.com/content/images/icon/artificial-intelligence--1--1-1336.png",
+          "https://medevel.com/content/images/thumbnail/screenshot--7--1.png",
+          "https://medevel.com/content/images/icon/pinned-octocat-093da3e6fa40-623.svg",
+          "https://medevel.com/content/images/thumbnail/5be6f796-8677-48b8-a8ae-f077207e0d6c"
+        ]
+      }
+    },
+    {
+      "title": "Guys, did you wake me up and add another application to my collection, I see that it is a scent collection",
+      "link": "/gallery/1p4izrv",
+      "guid": "/gallery/1p4izrv",
+      "pubDate": "Sun, 23 Nov 2025 09:58:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4izrv/guys_did_you_wake_me_up_and_add_another/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4izrv/guys_did_you_wake_me_up_and_add_another/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "[Open Source] I built a library to generate PDFs directly from Jetpack Compose (No XML/HTML required)",
+      "link": "https://redlib.perennialte.ch//r/androiddev/comments/1p3y595/open_source_i_built_a_library_to_generate_pdfs/",
+      "guid": "https://redlib.perennialte.ch//r/androiddev/comments/1p3y595/open_source_i_built_a_library_to_generate_pdfs/",
+      "pubDate": "Sat, 22 Nov 2025 17:19:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p3yptz/open_source_i_built_a_library_to_generate_pdfs/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p3yptz/open_source_i_built_a_library_to_generate_pdfs/'>Comments</a>",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Instead of dealing with Bitmaps, XML , or HTML, you can just pass a <strong>Composable</strong> lambda to the generator, and it creates a vector PDF.</p>\n\n<p><strong>What it does:</strong> It allows you to write  <strong>Composable functions</strong> and print them to a PDF file. It supports multi-page documents and standard page sizes (A4, Letter).</p>\n\n<p><strong>How it works:</strong> It attaches a  <strong>ComposeView</strong> to the <strong>WindowManager</strong>, and then draws the view directly to <strong>PdfDocument</strong> Canvas.</p>\n\n<pre><code>val pdfGenerator = PdfGenerator()\npdfGenerator.generate(\n   destination = file,\n   pageSize = PdfPageSize.A4,\n   pages = listOf {\n       Column(modifier = Modifier.background(Color.White)) {\n           Text(\"Invoice #1024\", fontSize = 24.sp)\n           Text(\"Total: $50.00\")\n       }\n   }\n)\n</code></pre>\n\n<p>It is currently in beta</p>\n\n<p>LINK: <a href=\"https://github.com/jksalcedo/compose-to-pdf\">https://github.com/jksalcedo/compose-to-pdf</a></p>\n\n<p><a href=\"/link/1p3y595/video/3j9pgefcdu2g1/player\">DEMO</a></p>\n",
+        "textLength": 788,
+        "title": "[Open Source] I built a library to generate PDFs directly from Jetpack Compose (No XML/HTML required) - r/androiddev",
+        "images": []
+      }
+    },
+    {
+      "title": "Looking for a simple FOSS video editor",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p3cinn/looking_for_a_simple_foss_video_editor/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p3cinn/looking_for_a_simple_foss_video_editor/",
+      "pubDate": "Fri, 21 Nov 2025 22:33:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p3cinn/looking_for_a_simple_foss_video_editor/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, is there a FOSS video editor you can recommend that&#39;s intuitive to use and hasn&#39;t been left abandoned for years? I&#39;m not looking to do anything too complicated. Just trim videos, slap a few clips together, and add simple transitions. </p>\n\n<p>MovieMaker on Windows 11 seems to want me to pay for a somewhat lengthy video I&#39;m currently working on, not to mention add a watermark.</p>\n\n<p>Thank you so much!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Hi everyone, is there a FOSS video editor you can recommend that's intuitive to use and hasn't been left abandoned for years? I'm not looking to do anything too complicated. Just trim videos, slap a few clips together, and add simple transitions. </p>\n\n<p>MovieMaker on Windows 11 seems to want me to pay for a somewhat lengthy video I'm currently working on, not to mention add a watermark.</p>\n\n<p>Thank you so much!</p>\n",
+        "textLength": 404,
+        "title": "Looking for a simple FOSS video editor - r/foss",
+        "images": []
+      }
+    },
+    {
+      "title": "MBCompass new version v1.1.12 brings breaking features",
+      "link": "/img/lmyk6eke1l2g1.png",
+      "guid": "/img/lmyk6eke1l2g1.png",
+      "pubDate": "Fri, 21 Nov 2025 09:53:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2uma9/mbcompass_new_version_v1112_brings_breaking/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>MBCompass: A popular modern FOSS Compass and Navigation app without Ads, IAP, or Tracking</p>\n\n<p>New Release: MBCompass <strong>v1.1.12</strong></p>\n\n<p><em>This release and upcoming ones follow the feature roadmap proposed in the</em> <a href=\"https://github.com/CompassMB/MBCompass/blob/main/mbcompass_v2.0_dsn_proposal.png\"><strong><em>v2 design proposal</em></strong></a><em>.</em></p>\n\n<blockquote>\n</blockquote>\n\n<p>Features</p>\n\n<ul>\n<li><strong>True North Support:</strong> Easily switch between <strong>True North</strong> and <strong>Magnetic North</strong> using the new toggle in Settings.</li>\n<li><strong>AMOLED True Dark Theme</strong> Added a pure-black AMOLED mode for improved contrast and better battery efficiency on OLED displays.</li>\n<li><strong>Heading Status Indicator:</strong> A new on-screen indicator now clearly shows whether the compass is currently using <strong>True North</strong> or <strong>Magnetic North</strong>.</li>\n</ul>\n\n<p>Fixes &amp; Improvements</p>\n\n<ul>\n<li><strong>Sensor Status Dialog Fix:</strong> Resolved an issue where the dialog content was getting cut off on smaller screens.</li>\n<li><strong>General UI &amp; Stability Updates:</strong> Minor interface refinements and performance improvements for a smoother experience.</li>\n</ul>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "[News] XWiki launches official newsroom for journalists covering open source and digital sovereignty",
+      "link": "https://redlib.perennialte.ch//r/XWiki/comments/1p2ww01/news_xwiki_launches_official_newsroom_for/",
+      "guid": "https://redlib.perennialte.ch//r/XWiki/comments/1p2ww01/news_xwiki_launches_official_newsroom_for/",
+      "pubDate": "Fri, 21 Nov 2025 12:07:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2wx7x/news_xwiki_launches_official_newsroom_for/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2wx7x/news_xwiki_launches_official_newsroom_for/'>Comments</a>",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>XWiki has launched its official newsroom: a dedicated hub for journalists, editors, and content creators covering open-source software, collaboration, and digital sovereignty.</p>\n\n<p>The newsroom includes:</p>\n\n<p>• Press releases and company news</p>\n\n<p>• Visuals and background materials</p>\n\n<p>• Contact details for interviews and expert commentary</p>\n\n<p>If you’re writing about open-source innovation, self-hosting, or European digital autonomy, this is a great place to start.</p>\n\n<p>🔗 <a href=\"https://xwiki.com/en/company/Newsroom/\">https://xwiki.com/en/company/Newsroom/</a></p>\n\n<figure><a href=\"/preview/pre/vt97wx45pl2g1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=c580c775f2f11c87285ef2cfd4aa4fa4cf76647b\"><img loading=\"lazy\" src=\"/preview/pre/vt97wx45pl2g1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=c580c775f2f11c87285ef2cfd4aa4fa4cf76647b\"></a></figure>\n",
+        "textLength": 494,
+        "title": "[News] XWiki launches official newsroom for journalists covering open source and digital sovereignty - r/XWiki",
+        "images": [
+          "/preview/pre/vt97wx45pl2g1.png?width=1000&format=png&auto=webp&s=c580c775f2f11c87285ef2cfd4aa4fa4cf76647b"
+        ]
+      }
+    },
+    {
+      "title": "How secure is aurora store?",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/",
+      "pubDate": "Thu, 20 Nov 2025 22:29:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am not sure if anyone here is familiar with aurora store which is found here:</p>\n\n<p><a href=\"https://store.auroraoss.com/\">https://store.auroraoss.com/</a></p>\n\n<p>But i was wondering from a privacy and security point of view is this app safe to use and if there are any other apps that are on the same standard as aurora?</p>\n\n<p>I use this app so I dont have to sign in via google on my android, its a great app store but sometimes I am just willing to try new things.</p>\n\n<p>I have noticed slow app updates being pushed to the store and have noticed that it can throw a few errors at times.</p>\n\n<p>Before anyone says fdroid already got it..looking for any other replacement of google playstore.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>I am not sure if anyone here is familiar with aurora store which is found here:</p>\n\n<p><a href=\"https://store.auroraoss.com/\">https://store.auroraoss.com/</a></p>\n\n<p>But i was wondering from a privacy and security point of view is this app safe to use and if there are any other apps that are on the same standard as aurora?</p>\n\n<p>I use this app so I dont have to sign in via google on my android, its a great app store but sometimes I am just willing to try new things.</p>\n\n<p>I have noticed slow app updates being pushed to the store and have noticed that it can throw a few errors at times.</p>\n\n<p>Before anyone says fdroid already got it..looking for any other replacement of google playstore.</p>\n",
+        "textLength": 625,
+        "title": "How secure is aurora store? - r/foss",
+        "images": []
+      }
+    },
+    {
+      "title": "I got frustrated with Screaming Frog's $259/year pricing for a desktop SEO crawler, so I built LibreCrawl - a FOSS alternative with a plugin system",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/",
+      "pubDate": "Thu, 20 Nov 2025 05:59:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in SEO and was shocked that the industry normalizes paying $250-1000+/year for what&#39;s essentially HTTP requests + HTML parsing. Screaming Frog charges $259/year for a desktop app that doesn&#39;t even use their servers. The free version caps at 500 URLs to force upgrades.<br/>\nSo I built LibreCrawl:</p>\n\n<ul>\n<li>MIT licensed, fully FOSS</li>\n<li>Self-hosted web interface (multi-tenant)</li>\n<li>Plugin system - drop .js files in a folder to add custom analysis tabs</li>\n<li>JavaScript rendering via Playwright</li>\n<li>No URL limits, no subscriptions, no phone-home</li>\n<li>Handles 1M+ URLs with real-time memory profiling</li>\n</ul>\n\n<p>Just shipped a complete plugin API that lets anyone build custom SEO analyzers without touching backend code. Ships with a working E-E-A-T analyzer as an example.</p>\n\n<p>GitHub: <a href=\"https://github.com/PhialsBasement/LibreCrawl\">https://github.com/PhialsBasement/LibreCrawl</a></p>\n\n<p>Demo: <a href=\"https://librecrawl.com/app/\">https://librecrawl.com/app/</a> (3 free crawls - account creation and plugins is disabled due to some server limitations, to get the full experience pls self host, its very easy)</p>\n\n<p>Plugin Workshop: <a href=\"https://librecrawl.com/workshop/\">https://librecrawl.com/workshop/</a></p>\n\n<p>The goal isn&#39;t to compete with Screaming Frog, it&#39;s to eliminate the entire rent-seeking model in SEO tools. So please give me your feedback and ideas, and i will help make it true. If you want to make plugins, publish them in github discussions</p>\n\n<p><a href=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\">/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5</a></p>\n\n<p><a href=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\">/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>I work in SEO and was shocked that the industry normalizes paying $250-1000+/year for what's essentially HTTP requests + HTML parsing. Screaming Frog charges $259/year for a desktop app that doesn't even use their servers. The free version caps at 500 URLs to force upgrades.<br>\nSo I built LibreCrawl:</p>\n\n<ul>\n<li>MIT licensed, fully FOSS</li>\n<li>Self-hosted web interface (multi-tenant)</li>\n<li>Plugin system - drop .js files in a folder to add custom analysis tabs</li>\n<li>JavaScript rendering via Playwright</li>\n<li>No URL limits, no subscriptions, no phone-home</li>\n<li>Handles 1M+ URLs with real-time memory profiling</li>\n</ul>\n\n<p>Just shipped a complete plugin API that lets anyone build custom SEO analyzers without touching backend code. Ships with a working E-E-A-T analyzer as an example.</p>\n\n<p>GitHub: <a href=\"https://github.com/PhialsBasement/LibreCrawl\">https://github.com/PhialsBasement/LibreCrawl</a></p>\n\n<p>Demo: <a href=\"https://librecrawl.com/app/\">https://librecrawl.com/app/</a> (3 free crawls - account creation and plugins is disabled due to some server limitations, to get the full experience pls self host, its very easy)</p>\n\n<p>Plugin Workshop: <a href=\"https://librecrawl.com/workshop/\">https://librecrawl.com/workshop/</a></p>\n\n<p>The goal isn't to compete with Screaming Frog, it's to eliminate the entire rent-seeking model in SEO tools. So please give me your feedback and ideas, and i will help make it true. If you want to make plugins, publish them in github discussions</p>\n\n<figure><a href=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\"><img loading=\"lazy\" src=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\"></a></figure>\n\n<figure><a href=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\"><img loading=\"lazy\" src=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\"></a></figure>\n",
+        "textLength": 1268,
+        "title": "I got frustrated with Screaming Frog's $259/year pricing for a desktop SEO crawler, so I built LibreCrawl - a FOSS alternative with a plugin system - r/foss",
+        "images": [
+          "/preview/pre/e4vs515eqc2g1.png?width=1888&format=png&auto=webp&s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5",
+          "/preview/pre/e7os91sgqc2g1.png?width=1885&format=png&auto=webp&s=93aede8a15e8b7b18915e5050d98b58645e50640"
+        ]
+      }
+    },
+    {
+      "title": "Dotkeep: A simple dotfile manager/symlink farm",
+      "link": "https://redlib.perennialte.ch//r/opensource/comments/1p2830d/dotkeep_a_simple_dotfile_managersymlink_farm/",
+      "guid": "https://redlib.perennialte.ch//r/opensource/comments/1p2830d/dotkeep_a_simple_dotfile_managersymlink_farm/",
+      "pubDate": "Thu, 20 Nov 2025 16:45:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p283qy/dotkeep_a_simple_dotfile_managersymlink_farm/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p283qy/dotkeep_a_simple_dotfile_managersymlink_farm/'>Comments</a>",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<h1>Dotkeeper!</h1>\n\n<p><code>Disregard the incorrect name in the post title, I'm stupid apparently.</code></p>\n\n<p><em>Dotkeeper</em> is a new, simple <em>dotfile manager/symlink farm</em> written in <strong>Swift</strong>. It is a successor to <strong>Rancher</strong>, which was a similar symlink farm tool (that I advertised on a now-deleted post).</p>\n\n<p>See the repo <a href=\"https://codeberg.org/StikyPiston/dotkeeper\">here</a></p>\n",
+        "textLength": 287,
+        "title": "Dotkeep: A simple dotfile manager/symlink farm - r/opensource",
+        "images": []
+      }
+    },
+    {
+      "title": "Spotify alternative?",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/",
+      "pubDate": "Wed, 19 Nov 2025 17:27:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ik this is asked a lot, but still, is there any good, latest, free and open source app for music streaming?</p>\n\n<p>I used to stream on Harmony music, and it works great. It&#39;s just that sometimes, the background playback stops all on its own (even after giving all permissions) and sometimes songs from my playlist just won&#39;t play and say can&#39;t find song/video.</p>\n\n<p>Also, if there is one which supports creating an account and all, it&#39;ll be great, cuz I may want to use that app on laptop, phone, etc.</p>\n\n<p>Ik this is just kinda impossible to find an app like this, but if anyone can help me it&#39;ll be greatly appreciated.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "PDF reader/editor for Android",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/",
+      "pubDate": "Wed, 19 Nov 2025 15:21:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Any suggestion for PDF reader/editor?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Building an open-source enterprise middleware over flo-ai",
+      "link": "https://redlib.perennialte.ch//r/LocalLLaMA/comments/1p0h3mi/building_an_opensource_enterprise_middleware_over/",
+      "guid": "https://redlib.perennialte.ch//r/LocalLLaMA/comments/1p0h3mi/building_an_opensource_enterprise_middleware_over/",
+      "pubDate": "Wed, 19 Nov 2025 01:56:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p0uw3d/building_an_opensource_enterprise_middleware_over/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p0uw3d/building_an_opensource_enterprise_middleware_over/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "PrivMeta: An open-source metadata removal tool for privacy-conscious people",
+      "link": "/img/97i2xjpm8s1g1.png",
+      "guid": "/img/97i2xjpm8s1g1.png",
+      "pubDate": "Mon, 17 Nov 2025 09:02:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ozbih9/privmeta_an_opensource_metadata_removal_tool_for/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey peeps,</p>\n\n<p>Ever used a site like SmallPDF or PDFtoDoc and felt weird about uploading your files to a random server just to do something simple?</p>\n\n<p>That&#39;s why I made<a href=\"https://www.privmeta.com/\"> PrivMeta</a> — an open-source lightweight browser app that removes metadata from docs, images and PDFs right on your device.</p>\n\n<ul>\n<li>Works completely in-browser — your files never leave your computer</li>\n<li>You can even turn off your Wi-Fi while using it</li>\n<li>It’s free and open source (Here&#39;s my <a href=\"https://github.com/DScaife/privmeta\">repo</a>)</li>\n</ul>\n\n<p>It’s meant to be a super-simple privacy tool. In the future, I’m thinking of making more tools like this — maybe file converters, PDF redaction, that kind of thing — all running locally, with zero server-side processing.</p>\n\n<p>I’d love to hear your thoughts. Are there any features you’d find useful in something like this? </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Debating releasing a baby as FOSS and I'm anxious...",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/",
+      "pubDate": "Mon, 17 Nov 2025 01:27:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey reddit!</p>\n\n<p>I&#39;ve been working on a little software project for a while and now that it&#39;s getting pretty close to &quot;minimum viability&quot; (in other words I spend more time using it then working on it haha) I&#39;ve been trying to spend some time considering how I want to release it into the world...</p>\n\n<p>For one, there&#39;s a part of me which wishes I could recoup some of the time and money I&#39;ve dumped into it by releasing it as a paid app, but there&#39;s a much larger part of me which really wants to release it as FOSS. </p>\n\n<p>I love FOSS projects. I strongly agree with the principal of open source and have even donated to a couple OS projecs. In all honesty I know exactly how I want to release this software (btw, it&#39;s a Digital Asset Manager for songs in the ChordPro format which converts to chord over lyric, formats in a fun way, has some editors for both formats, metadata tracking and tagging, a chord generator so hovering over a chord shows a tooltip for the chord, tracks performances, etc. think if Ultimate Guitar and digikam had a baby), but I&#39;m anxious about releasing it at all.</p>\n\n<p>It&#39;s something i want to share because it brings me a ton of value, and I think especially if I collaborated with some other musicians it could really end up being a really nifty tool for some people, but also, my coding skills kinda suck so I relied pretty heavily on vibe coding  for a lot of it. I went off on several different tangents as I developed the vision, searched random pathways for solutions to stupid issues I was having, my code consistency is terrible because, well, vibe coding...</p>\n\n<p>So, while I do feel proud of the work I did put into it, and I&#39;m genuinely happy with the product I&#39;ve been able to kludge together (for myself), I also feel deeply self conscious of the quality of &quot;my code&quot;, and I almost don&#39;t want anyone looking under the hood to see what a mess it is.</p>\n\n<p>I realize at the end of the day I&#39;m just some dude who had a neat idea and put in hundreds of hours of his life using the tools available to him to make something come out if it rather than just watching TV or something, and that&#39;s nothing to be ashamed of, but idk.</p>\n\n<p>Maybe I&#39;m just looking for some inner clarity here. What are your thoughts on this?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What's the easiest way to contribute to Linux kernel?",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/",
+      "pubDate": "Sun, 16 Nov 2025 12:41:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like documentation? Know some low hanging fruits?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I created Wabe : an open-source Firebase alternative + full-stack ecosystem in TypeScript 🚀",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/",
+      "pubDate": "Sun, 16 Nov 2025 09:57:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> 👋,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> – Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is Forkgram asking for credit card Info a scam?",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/",
+      "pubDate": "Sun, 16 Nov 2025 08:50:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So, I tried signing up with a new number for my Telegram account. The version I downloaded is from F-Droid, called Forkgram, because I needed it for downloading. When I opened it, it asked me to sign up for a Telegram fee and requested my credit card information including my CVV, credit card number, expiry date, name, state, postal code, etc. I was like what the hell. I thought Telegram was supposed to be private and here it is asking me for all this stuff.</p>\n\n<p>I’d like to know if this has happened to any of you. Did you go through with it or is this most likely a scam? Did I download a fake Telegram app? This one is from Forkgram, by the way, not the official Telegram app. I downloaded it from F-Droid and I have a feeling I downloaded the wrong thing or the developers of this fork might be doing phishing. I’m not sure.</p>\n\n<p>I tried signing up on the official Telegram app and it doesn’t ask for anything like this.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "UDU: Extremely Fast GNU du Alternative",
+      "link": "https://github.com/makestatic/udu",
+      "guid": "https://github.com/makestatic/udu",
+      "pubDate": "Sat, 15 Nov 2025 02:37:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxg6zv/udu_extremely_fast_gnu_du_alternative/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91�� (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for systems-level FOSS project(s) to contribute to",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1oxdm7p/looking_for_systemslevel_foss_projects_to/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oxdm7p/looking_for_systemslevel_foss_projects_to/",
+      "pubDate": "Sat, 15 Nov 2025 00:35:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxdm7p/looking_for_systemslevel_foss_projects_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all.  I&#39;m looking for interesting FOSS project(s) to contribute to (and ideally, learn from).  I have a corporate programming job, but I&#39;m at the brink of burning out due to the environment.  It&#39;s been more than a decade since I was able to do any programming I found interesting (my job so far has mostly consisted on dealing with non-essential complexity in huge, messy, over complicated, legacy codebases that someone else wrote).  So I need to &quot;touch grass&quot;, to do some intellectually interesting programming.  I&#39;m looking for suggestions of FOSS projects to contribute to that I could learn from and for which my skill set could be of use:</p>\n\n<ul>\n<li>Very analytical, skilled, well-rounded programmer (from systems-level, to scripting and Python REST APIs).</li>\n<li>~15y experience doing systems-level programming and troubleshooting (mostly Linux and C/asm).</li>\n<li>Data-oriented, performance-oriented programming (&quot;computer-aware&quot; programming).</li>\n</ul>\n\n<p>The ideal would be systems-level, Linux/Unix, C-lang project(s) with actual use in the industry (to feel I&#39;m doing &quot;meaningful work&quot;) but I&#39;m equally open for other interesting and/or funny projects.</p>\n\n<p>Any suggestions are welcome.  Thanks in advance.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Project Management Tool - Feedback!",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/",
+      "pubDate": "Fri, 14 Nov 2025 05:48:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on a suite of tools that work as a sort of &#39;google drive of tools&#39; interface. Users have their own personal drive and can create shared &#39;team&#39; drives.</p>\n\n<p>I have recently been doing a lot of updates/improvement on the project management tool (Project Board). I&#39;ve been looking for feedback for it, what works, what needs improvement, what features would be useful?</p>\n\n<p>This is designed as a free alternative so at the moment it doesn&#39;t have as many advanced features as some of the paid tools out there but I&#39;m striving to keep improving.</p>\n\n<p>The suite also contains and invoicer, book keeper and people manager, all of which are being built on.</p>\n\n<p>If any of these tools are something you would use I would love any feedback you have. It&#39;s available for free online (<a href=\"https://drive.tridah.cloud/\">https://drive.tridah.cloud</a>) or you can self-host: <a href=\"https://github.com/TridahCloud/TridahDrive\">https://github.com/TridahCloud/TridahDrive</a></p>\n\n<p>Tridah is a Non-Profit creating free open-source tools. Our goal is to provide free alternatives to paid subscription-based tools and host them free with no paywalls for users who are unable to self-host.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "The best alternative to Monkey Type (made specifically for devs!)",
+      "link": "",
+      "guid": "",
+      "pubDate": "Thu, 13 Nov 2025 23:28:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgiuq/the_best_alternative_to_monkey_type_made/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all!</p>\n\n<p>I’ve been working on Code Typer, a type racer (like monkey type) made specifically for programmers. Instead of lorem ipsum, you type through real code snippets pulled from real open-source GitHub projects.</p>\n\n<p>I’ve also added IDE-like behavior such as auto-closing brackets and quotes, plus shortcuts like <code>Cmd/Ctrl + Backspace</code> and <code>Alt + Backspace</code></p>\n\n<p>Built with Next.js, Tailwind, Zustand, Prisma + PostgreSQL.</p>\n\n<p>Repo: <a href=\"http://github.com/mattiacerutti/code-typer\">github.com/mattiacerutti/code-typer</a></p>\n\n<p>Would love any feedback, stars or bug reports :)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I built BentoPDF - An open source privacy first PDF Toolkit",
+      "link": "https://github.com/alam00000/bentopdf",
+      "guid": "https://github.com/alam00000/bentopdf",
+      "pubDate": "Thu, 13 Nov 2025 14:27:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ow2h9a/i_built_bentopdf_an_open_source_privacy_first_pdf/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone! </p>\n\n<p>BentoPDF is a privacy first PDF toolkit that runs entirely in your browser. It&#39;s fast, light weight and you can self host it too.</p>\n\n<p>Any feedback or suggestions are welcome. Thank you.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I did introduce FOSS Software in the company I work for and now I feel bad",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1ovdfhf/i_did_introduce_foss_software_in_the_company_i/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1ovdfhf/i_did_introduce_foss_software_in_the_company_i/",
+      "pubDate": "Wed, 12 Nov 2025 18:37:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ovdfhf/i_did_introduce_foss_software_in_the_company_i/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>Little rant here:</p>\n\n<p>I did start a new job 4 years ago as one of two IT-guys in an engineering office, about 80 people working there.</p>\n\n<p>When I started working there, they used a lot of cracks and also wasted a lot of money on various sofrware licenes. The company also was charged with fines vor using cracked software by the original vendor.</p>\n\n<p>I did introduce software like Handbrake, ShareX, inkscape and other useful software. Even using checkmk for server and network monitoring and FreeCAD found a use case too.</p>\n\n<p>I told the other IT guy (he is the boss of IT department) we could set up a yearly donation budget to donate to various FOSS software every year.</p>\n\n<p>The answer was &quot;no, why should we pay if we do not have to?&quot;.</p>\n\n<p>It is so sad that a lot of people are FOSS vampires, and if companies make heavy use of foss and give nothing back I do get angry.</p>\n\n<p>I will stop finding FOSS software at my workplace. Let them pay, they don&#39;t deserve FOSS.</p>\n\n<p>Edit: thank you for all your kind answers! You are awesome!</p>\n\n<p>I can create bug reports, manuals and so during my working hours. That&#39;s my way to contribute to FOSS in our company! </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Feedie - TUI RSS feed reader with thumbnails",
+      "link": "https://jasco.website/feedie",
+      "guid": "https://jasco.website/feedie",
+      "pubDate": "Thu, 13 Nov 2025 23:24:24 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgfo4/feedie_tui_rss_feed_reader_with_thumbnails/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgfo4/feedie_tui_rss_feed_reader_with_thumbnails/'>Comments</a>",
+      "thumbnail": null
+    }
+  ],
+  "group": "others",
+  "url": "https://redlib.perennialte.ch/r/foss.rss",
+  "lastFetched": "2025-11-24T10:06:20.681Z"
+}
