@@ -465,6 +465,19 @@ async function saveFeedArticles(feedId, items) {
         const articleId = await dbPut('articles', article);
         article.id = articleId;
         appState.articles.push(article);
+        
+        // If full content is pre-fetched, cache it
+        if (item.fullContent && item.fullContent.content) {
+          await dbPut('fullContent', {
+            articleId: articleId,
+            content: item.fullContent.content,
+            textLength: item.fullContent.textLength,
+            title: item.fullContent.title,
+            images: item.fullContent.images,
+            fetchedAt: Date.now()
+          });
+          console.log(`Cached pre-fetched full content for article ${articleId}`);
+        }
       } catch (error) {
         // Skip duplicates
         if (error.name !== 'ConstraintError') {
