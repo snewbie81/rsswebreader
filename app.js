@@ -314,6 +314,7 @@ const PREFETCHED_FEEDS = {
 // =============================================================================
 
 // Try to load pre-fetched feed from JSON, fall back to live fetching
+// Try to load pre-fetched feed from JSON only
 async function fetchFeed(url) {
   // Strategy 0: Try pre-fetched JSON file first
   if (PREFETCHED_FEEDS[url]) {
@@ -325,71 +326,13 @@ async function fetchFeed(url) {
         return data;
       }
     } catch (error) {
-      console.log('Pre-fetched feed not available, falling back to live fetch:', error);
+      console.error('Pre-fetched feed not available:', error);
+      throw new Error(`Failed to fetch feed: ${error.message}`);
     }
   }
-  // Strategy 1: Try CORS proxy
-  try {
-    const corsProxyUrl = `https://corsproxy.io/?${encodeURIComponent(url)}`;
-    const response = await fetch(corsProxyUrl);
-
-    if (response.ok) {
-      const text = await response.text();
-      return parseFeed(text, url);
-    }
-  } catch (error) {
-    console.error('CORS proxy failed, trying direct fetch:', error);
-  }
-
-  // Strategy 2: Try direct fetch
-  try {
-    const response = await fetch(url, {
-      headers: {
-        'Accept': 'application/rss+xml, application/xml, text/xml'
-      }
-    });
-
-    if (response.ok) {
-      const text = await response.text();
-      return parseFeed(text, url);
-    }
-  } catch (error) {
-    console.error('Direct fetch failed, trying RSS2JSON:', error);
-  }
-
-  // Strategy 3: Fallback to RSS2JSON (without api_key parameter)
-  try {
-    const rss2jsonUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&count=50`;
-    const response = await fetch(rss2jsonUrl);
-    
-    if (!response.ok) {
-      throw new Error(`RSS2JSON API error: ${response.status}`);
-    }
-
-    const data = await response.json();
-    
-    if (data.status !== 'ok') {
-      throw new Error(data.message || 'RSS2JSON parsing failed');
-    }
-
-    return {
-      title: data.feed.title,
-      description: data.feed.description,
-      link: data.feed.link,
-      items: data.items.map(item => ({
-        title: item.title,
-        link: item.link,
-        guid: item.guid || item.link,
-        pubDate: item.pubDate,
-        description: item.description,
-        content: item.content || item.description,
-        thumbnail: item.thumbnail || extractThumbnail(item.description || item.content)
-      }))
-    };
-  } catch (error) {
-    console.error('All fetch strategies failed:', error);
-    throw new Error(`Failed to fetch feed: ${error.message}`);
-  }
+  
+  // If no pre-fetched JSON available, throw error
+  throw new Error('Feed not available in pre-fetched JSON. Please wait for GitHub Actions to fetch it.');
 }
 
 // Parse RSS/Atom feed
