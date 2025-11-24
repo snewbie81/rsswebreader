@@ -14,8 +14,8 @@ const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 2000;
 const REQUEST_DELAY_MS = 1000;  // Delay between feed requests
 const FULL_CONTENT_DELAY_MS = 1500;  // Delay between full content requests
-const MIN_CONTENT_LENGTH = 200;  // Minimum characters for valid content
-const MAX_LINK_DENSITY = 0.5;  // Maximum ratio of link text to total text
+const MIN_CONTENT_LENGTH = 200;  // Minimum characters for valid content (filters out nav/menu fragments)
+const MAX_LINK_DENSITY = 0.5;  // Maximum ratio of link text to total text (0.5 = 50% links allowed)
 
 // Default feeds configuration - matches app.js
 const DEFAULT_FEEDS = [
@@ -30,6 +30,7 @@ const DEFAULT_FEEDS = [
     filename: 'country-jagat-review.json'
   },
   {
+    // Merged feed URL from rssrssrssrss.com (combines multiple news sources)
     url: 'https://www.rssrssrssrss.com/api/merge?feeds=NoIgFgLhAODOBcB6R0A2BLAdgawHQENMBPAMwFMyATMgJ1wGMB7AW0QnWbJABpwo4kKDDgLFyVWgxaIARjPqyArrCxlYsEAF0gA',
     group: 'news',
     filename: 'news-merged.json'
@@ -213,7 +214,7 @@ function extractMainContent(html) {
       try {
         doc.querySelectorAll(selector).forEach(el => el.remove());
       } catch (e) {
-        console.error(`  Warning: Error with selector '${selector}': ${e.message}`);
+        console.error(`  Warning: Failed to remove elements with selector '${selector}': ${e.message}`);
       }
     });
 
@@ -254,7 +255,7 @@ function extractMainContent(html) {
           }
         });
       } catch (e) {
-        console.error(`  Warning: Error with selector '${selector}': ${e.message}`);
+        console.error(`  Warning: Failed to query elements with selector '${selector}': ${e.message}`);
       }
     }
 
