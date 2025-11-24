@@ -6,7 +6,7 @@
 // =============================================================================
 
 const DB_NAME = 'RSSReaderDB';
-const DB_VERSION = 1;
+const DB_VERSION = 3;
 let db = null;
 
 // Initialize IndexedDB
@@ -22,6 +22,7 @@ async function initDB() {
 
     request.onupgradeneeded = (event) => {
       const db = event.target.result;
+      const oldVersion = event.oldVersion;
 
       // Create object stores
       if (!db.objectStoreNames.contains('feeds')) {
@@ -44,6 +45,11 @@ async function initDB() {
       if (!db.objectStoreNames.contains('readStatus')) {
         const readStore = db.createObjectStore('readStatus', { keyPath: 'articleId' });
         readStore.createIndex('feedId', 'feedId', { unique: false });
+      }
+
+      // Migration from version 2: Remove fullContent object store
+      if (oldVersion < 3 && db.objectStoreNames.contains('fullContent')) {
+        db.deleteObjectStore('fullContent');
       }
     };
   });
