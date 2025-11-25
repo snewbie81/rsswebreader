@@ -40,6 +40,24 @@
       "thumbnail": null
     },
     {
+      "title": "Orion 1.0 - Browse Beyond",
+      "link": "https://blog.kagi.com/orion",
+      "guid": "https://blog.kagi.com/orion",
+      "pubDate": "Tue, 25 Nov 2025 22:13:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6q91z/orion_10_browse_beyond/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6q91z/orion_10_browse_beyond/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "What’s your most wanted feature in modern browsers",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
+      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I just launched my Daily Water Reminder extension for Chrome 💧",
       "link": "",
       "guid": "",
@@ -58,12 +76,30 @@
       "thumbnail": null
     },
     {
-      "title": "What’s your most wanted feature in modern browsers",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
+      "title": "Natsumi on Floorp",
+      "link": "/img/u8yx5apbch3g1.png",
+      "guid": "/img/u8yx5apbch3g1.png",
+      "pubDate": "Tue, 25 Nov 2025 22:31:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6qolp/natsumi_on_floorp/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6qolp/natsumi_on_floorp/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "How to import bookmarks from .html file to Chrome and preserve the folder structure",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6qlu8/how_to_import_bookmarks_from_html_file_to_chrome/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6qlu8/how_to_import_bookmarks_from_html_file_to_chrome/",
+      "pubDate": "Tue, 25 Nov 2025 22:27:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6qlu8/how_to_import_bookmarks_from_html_file_to_chrome/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Chrome version: 140.0.7339.128 (official, stable); Windows 10/11</p>\n\n<p>Hello everyone,</p>\n\n<p>I&#39;ve messed up bookmarks in my profile and deleted all of them. Luckily I had an .html file backup (export), which I want to import to my profile and then sync the bookmarks with my Google account. It imports without problems, but there is one problem—bookmarks from folders with the same names are merged into one folder, so the original folder structure is lost. This thing is very important to me, because I had multiple &quot;tree folders&quot; of different topics with subfolders with the same names in them, and now it&#39;s one big mess.</p>\n\n<p>The backup file is not corrupted—when looking at it in the browser, it shows all the folders and subfolders, and also when I imported the .html file into Firefox, the folder structure was like before.</p>\n\n<p>I&#39;ve tried many different methods, such as:</p>\n\n<p>- importing bookmarks to another browser and then transferring data from it to Chrome</p>\n\n<p>- using various extensions; some of them were not working at all*</p>\n\n<p>- using a different (new) profile and a different computer</p>\n\n<p>- using another channel (Chrome Canary)</p>\n\n<p>Yes, probably I could add some unique number to the folders with the same names and preserve the original structure, but it would be very complicated and time-consuming due to the size (tens to hundreds of folders).</p>\n\n<p>* One extension showed promising results—the folder structure was preserved, but there was another problem: when I looked at the source code of the export I made after import with this extension, all bookmarks were added with the same timestamp (the original timestamp when the bookmark was added was lost, so this is also a no-go for me). The extension: <a href=\"http://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn\">chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn</a></p>\n\n<p>My other idea was to downgrade Chrome (install an older version) when this was working correctly, import bookmarks, update it, and then sync them to the Google account, but I don&#39;t know how to do it.</p>\n\n<p>Do you have any other suggestions or ideas on how to fix this problem? Thanks in advance.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -91,15 +127,6 @@
       "pubDate": "Tue, 25 Nov 2025 09:25:56 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I discovered Ecosia a few months ago cuz I didn&#39;t want any AI answers from google also it is &quot;eco friendly&quot; so I used ecosia instead, BUT just a few minutes ago I searched something and it brought me an AI overview and I was amazed... an ECO FRIENDLY browser started using ai for their search... Really eco friendly. AT LEAST you can disable it unlike google</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
-      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6ea01/need_help_in_transferring_1000s_of_tabs_open_in/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys I have 1000&#39;s of tabs open in my browser spread across multiple windows. I have a problem I know. I&#39;m planning on building a new pc soon and want to start fresh (fresh copy of windows 10). How do I transfer all of my tabs and windows from my current pc&#39;s browser to the new pc&#39;s browser? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "More non-overloaded browser?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6e3y7/more_nonoverloaded_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6e3y7/more_nonoverloaded_browser/",
-      "pubDate": "Tue, 25 Nov 2025 14:39:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6e3y7/more_nonoverloaded_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So when ever I want to use another browser... and I&#39;ve tried quite a few, they ALL are overloaded. For example, a password manager and MV2 support... handy-dandy and fine...but then: Wallet, VPN, AI, side-bar, tab-sync and many more I just can&#39;t disable them in the 3-dots menu which really clogs it full of stuff I don&#39;t need. I&#39;ve tried Chrome, Edge, Opera(GX) etc...</p>\n\n<p>UPDATE: ...etc... Firefox is pretty clean, so that&#39;s one thing, but they do want to add an AI setting too.</p>\n\n<p>Any idea or browser recommendation? I&#39;ve heard the Samsung browser for Windows is in beta.</p>\n\n<p>I&#39;d almost go as far as to pay for a browser once, if it does work like I want it to.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Which browser is best for an older PC with outdated time?",
-      "link": "/gallery/1p5kwj6",
-      "guid": "/gallery/1p5kwj6",
-      "pubDate": "Mon, 24 Nov 2025 16:03:49 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5kwj6/which_browser_is_best_for_an_older_pc_with/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, I have a problem. At my school, I have a PC where I can access Word, Excel, PowerPoint, etc., although it doesn&#39;t have internet access because the school&#39;s network infrastructure is completely unusable.(nor will they fix it) so, with a USB cable I connected my mobile to the PC and shared internet, it worked, the problem is: \n- It&#39;s a very old PC, With an AMD Athlon II 160u\n- 1gb of ram\nSo technically it only works for Minesweeper, that&#39;s why I&#39;m looking for a lightweight browser that can access things like YouTube or normal websites, except the PC&#39;s clock is from 2010, which When I try to change it, I can&#39;t because I don&#39;t have administrative privileges, even though I managed to install Firefox on it.It didn&#39;t work, but with another one called K-meleon did work, although almost none of the pages I visited worked because it kept asking me to update the browser, so which browser do you recommend?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Just upgraded my new tab extension again - Home Sweet Home",
-      "link": "/gallery/1p5c1rj",
-      "guid": "/gallery/1p5c1rj",
-      "pubDate": "Mon, 24 Nov 2025 08:48:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5c1rj/just_upgraded_my_new_tab_extension_again_home/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve just pushed a new update for Home Sweet Home, and I wanted to share what’s new. This release focuses on making the new tab page feel more dynamic, more polished, and easier to customize.</p>\n\n<p>Here’s what’s new:</p>\n\n<ul>\n<li>Daily Wallpaper : Your new tab now shows a different background every day, automatically.</li>\n<li>Adaptive Wallpapers : Wallpapers can now change depending on the time of day: morning, afternoon, evening, and night.</li>\n<li>New Wallpaper Collection : I’ve added several new wallpapers to give you more choices when customizing your page.</li>\n<li>Cleaner Interface : Category titles have been replaced with icons for a more modern and simple layout.</li>\n<li>Improved Home Assistant Setup : A new documentation page is now available to help you connect Home Sweet Home with Home Assistant easily.</li>\n<li>Bug Fixes</li>\n</ul>\n\n<p>Thanks to everyone who reported issues. Your feedback really helps.</p>\n\n<p>If you’ve never heard of the extension before: Home Sweet Home is a small project I started recently, and it lets you customize your new tab page with widgets, your favorite links, custom icons, bookmarks, and even Home Assistant controls. It’s still modest in scale (about 45 users), but I’m doing my best to make it better update after update.</p>\n\n<p>Here are the links if you want to try it or update:</p>\n\n<p>Chrome: <a href=\"https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh\">https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh</a></p>\n\n<p>Edge: <a href=\"https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko\">https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko</a></p>\n\n<p>Firefox: <a href=\"https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/\">https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/</a></p>\n\n<p>If you have suggestions, ideas for new widgets, or anything else, I’d love to hear it. Thanks for the support!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T21:33:43.740Z"
+  "lastFetched": "2025-11-25T22:41:12.489Z"
 }

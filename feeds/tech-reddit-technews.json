@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "AI Agents Break Rules Under Everyday Pressure",
       "link": "https://spectrum.ieee.org/ai-agents-safety",
       "guid": "https://spectrum.ieee.org/ai-agents-safety",
@@ -40,12 +49,12 @@
       "thumbnail": null
     },
     {
-      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
+      "title": "Toshiba Targets Motorcycles and Boats With Its Batteries",
+      "link": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
+      "guid": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
+      "pubDate": "Tue, 25 Nov 2025 21:27:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -91,15 +100,6 @@
       "pubDate": "Tue, 25 Nov 2025 19:17:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Toshiba Targets Motorcycles and Boats With Its Batteries",
-      "link": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
-      "guid": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
-      "pubDate": "Tue, 25 Nov 2025 21:27:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-25T21:33:48.735Z"
+  "lastFetched": "2025-11-25T22:41:17.394Z"
 }
