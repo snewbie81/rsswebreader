@@ -6,7 +6,7 @@
 // =============================================================================
 
 const DB_NAME = 'RSSReaderDB';
-const DB_VERSION = 2; // Incremented for full content cache
+const DB_VERSION = 3;
 let db = null;
 
 // Initialize IndexedDB
@@ -22,6 +22,7 @@ async function initDB() {
 
     request.onupgradeneeded = (event) => {
       const db = event.target.result;
+      const oldVersion = event.oldVersion;
 
       // Create object stores
       if (!db.objectStoreNames.contains('feeds')) {
@@ -46,10 +47,10 @@ async function initDB() {
         readStore.createIndex('feedId', 'feedId', { unique: false });
       }
 
-      // Store for cached full content
-      if (!db.objectStoreNames.contains('fullContent')) {
-        const fullContentStore = db.createObjectStore('fullContent', { keyPath: 'articleId' });
-        fullContentStore.createIndex('fetchedAt', 'fetchedAt', { unique: false });
+      // Migration to version 3: Removed Fetch Full Content feature
+      // This removes the fullContent object store that was used in version 2
+      if (oldVersion < 3 && db.objectStoreNames.contains('fullContent')) {
+        db.deleteObjectStore('fullContent');
       }
     };
   });
@@ -117,8 +118,7 @@ let appState = {
   readStatus: new Set(),
   settings: {
     amoledMode: true,
-    hideRead: true,
-    fetchFullContent: true // New setting for full content fetching
+    hideRead: true
   },
   selectedFeedId: null,
   selectedArticleId: null,
@@ -556,19 +556,6 @@ async function saveFeedArticles(feedId, items) {
         const articleId = await dbPut('articles', article);
         article.id = articleId;
         appState.articles.push(article);
-        
-        // If full content is pre-fetched, cache it
-        if (item.fullContent && item.fullContent.content) {
-          await dbPut('fullContent', {
-            articleId: articleId,
-            content: item.fullContent.content,
-            textLength: item.fullContent.textLength,
-            title: item.fullContent.title,
-            images: item.fullContent.images,
-            fetchedAt: Date.now()
-          });
-          console.log(`Cached pre-fetched full content for article ${articleId}`);
-        }
       } catch (error) {
         // Skip duplicates
         if (error.name !== 'ConstraintError') {
@@ -631,11 +618,9 @@ async function loadReadStatus() {
 async function loadSettings() {
   const amoledSetting = await dbGet('settings', 'amoledMode');
   const hideReadSetting = await dbGet('settings', 'hideRead');
-  const fetchFullContentSetting = await dbGet('settings', 'fetchFullContent');
 
   appState.settings.amoledMode = amoledSetting ? amoledSetting.value : true;
   appState.settings.hideRead = hideReadSetting ? hideReadSetting.value : true;
-  appState.settings.fetchFullContent = fetchFullContentSetting ? fetchFullContentSetting.value : true;
 }
 
 async function saveSetting(key, value) {
@@ -787,284 +772,6 @@ function sanitizeHTML(html) {
   });
 
   return temp.innerHTML;
-}
-
-// =============================================================================
-// Full Content Extraction
-// =============================================================================
-
-// Rate limiting for content fetching
-const contentFetchQueue = [];
-let isFetchingContent = false;
-const FETCH_DELAY_MS = 1000; // 1 second between requests
-const FETCH_TIMEOUT_MS = 10000; // 10 second timeout
-
-// Content extraction thresholds
-const MIN_CONTENT_LENGTH = 200; // Minimum characters for valid content
-const MAX_LINK_DENSITY = 0.5; // Maximum ratio of link text to total text
-
-// Simple readability-style content extraction
-function extractMainContent(html, url) {
-  if (!html) return null;
-
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(html, 'text/html');
-
-  // Remove unwanted elements
-  const unwantedSelectors = [
-    'script', 'style', 'nav', 'header', 'footer', 'aside',
-    '[role="navigation"]', '[role="banner"]', '[role="complementary"]',
-    '.advertisement', '.ads', '.sidebar', '.menu', '.nav',
-    '.social', '.share', '.comments', '.related', '.footer',
-    '#sidebar', '#nav', '#header', '#footer', '#comments',
-    '.cookie-banner', '.newsletter', '.popup', '.modal'
-  ];
-
-  unwantedSelectors.forEach(selector => {
-    try {
-      doc.querySelectorAll(selector).forEach(el => el.remove());
-    } catch (e) {
-      // Ignore selector errors
-    }
-  });
-
-  // Find main content candidates
-  const candidates = [];
-
-  // Look for common article containers
-  const articleSelectors = [
-    'article',
-    '[role="main"]',
-    'main',
-    '.article',
-    '.post',
-    '.content',
-    '.entry-content',
-    '.post-content',
-    '.article-content',
-    '#content',
-    '#article',
-    '#main'
-  ];
-
-  for (const selector of articleSelectors) {
-    try {
-      const elements = doc.querySelectorAll(selector);
-      elements.forEach(el => {
-        const text = el.textContent || '';
-        const textLength = text.trim().length;
-        const linkDensity = calculateLinkDensity(el);
-        
-        // Score based on text length and link density
-        if (textLength > MIN_CONTENT_LENGTH && linkDensity < MAX_LINK_DENSITY) {
-          candidates.push({
-            element: el,
-            score: textLength * (1 - linkDensity),
-            selector: selector
-          });
-        }
-      });
-    } catch (e) {
-      // Ignore selector errors
-    }
-  }
-
-  // If no candidates found, try body paragraphs
-  if (candidates.length === 0) {
-    const paragraphs = doc.querySelectorAll('p');
-    let contentDiv = doc.createElement('div');
-    
-    paragraphs.forEach(p => {
-      const text = p.textContent || '';
-      if (text.trim().length > 50) {
-        contentDiv.appendChild(p.cloneNode(true));
-      }
-    });
-
-    if (contentDiv.textContent.trim().length > MIN_CONTENT_LENGTH) {
-      return {
-        content: contentDiv.innerHTML,
-        textLength: contentDiv.textContent.trim().length,
-        title: extractTitleFromDoc(doc),
-        images: extractImages(contentDiv)
-      };
-    }
-    return null;
-  }
-
-  // Sort by score and get the best candidate
-  candidates.sort((a, b) => b.score - a.score);
-  const best = candidates[0];
-
-  return {
-    content: best.element.innerHTML,
-    textLength: best.element.textContent.trim().length,
-    title: extractTitleFromDoc(doc),
-    images: extractImages(best.element)
-  };
-}
-
-function calculateLinkDensity(element) {
-  const textLength = (element.textContent || '').length;
-  if (textLength === 0) return 1;
-
-  const links = element.querySelectorAll('a');
-  let linkLength = 0;
-  links.forEach(link => {
-    linkLength += (link.textContent || '').length;
-  });
-
-  return linkLength / textLength;
-}
-
-function extractTitleFromDoc(doc) {
-  // Try Open Graph title
-  const ogTitle = doc.querySelector('meta[property="og:title"]');
-  if (ogTitle) return ogTitle.getAttribute('content');
-
-  // Try Twitter title
-  const twitterTitle = doc.querySelector('meta[name="twitter:title"]');
-  if (twitterTitle) return twitterTitle.getAttribute('content');
-
-  // Try page title
-  const title = doc.querySelector('title');
-  if (title) return title.textContent;
-
-  // Try h1
-  const h1 = doc.querySelector('h1');
-  if (h1) return h1.textContent;
-
-  return null;
-}
-
-function extractImages(element) {
-  const images = [];
-  const imgElements = element.querySelectorAll('img');
-  
-  imgElements.forEach(img => {
-    const src = img.getAttribute('src') || img.getAttribute('data-src');
-    if (src && !src.startsWith('data:')) {
-      images.push(src);
-    }
-  });
-
-  return images;
-}
-
-// Fetch full content with timeout
-async function fetchWithTimeout(url, timeout = FETCH_TIMEOUT_MS) {
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), timeout);
-
-  try {
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        'Accept': 'text/html'
-      }
-    });
-    clearTimeout(timeoutId);
-    return response;
-  } catch (error) {
-    clearTimeout(timeoutId);
-    throw error;
-  }
-}
-
-// Fetch and extract full content for an article
-async function fetchFullContent(articleUrl) {
-  try {
-    // Use CORS proxy
-    const corsProxyUrl = `https://corsproxy.io/?${encodeURIComponent(articleUrl)}`;
-    
-    const response = await fetchWithTimeout(corsProxyUrl);
-    
-    if (!response.ok) {
-      throw new Error(`HTTP error: ${response.status}`);
-    }
-
-    const html = await response.text();
-    const extracted = extractMainContent(html, articleUrl);
-
-    return extracted;
-  } catch (error) {
-    console.error('Error fetching full content:', error);
-    return null;
-  }
-}
-
-// Process fetch queue with rate limiting
-async function processFetchQueue() {
-  if (isFetchingContent || contentFetchQueue.length === 0) {
-    return;
-  }
-
-  isFetchingContent = true;
-
-  while (contentFetchQueue.length > 0) {
-    const { articleId, articleUrl, resolve } = contentFetchQueue.shift();
-
-    try {
-      // Check cache first
-      const cached = await dbGet('fullContent', articleId);
-      if (cached) {
-        resolve(cached);
-      } else {
-        const extracted = await fetchFullContent(articleUrl);
-        
-        if (extracted) {
-          const fullContent = {
-            articleId: articleId,
-            content: extracted.content,
-            textLength: extracted.textLength,
-            title: extracted.title,
-            images: extracted.images,
-            fetchedAt: Date.now()
-          };
-
-          // Cache in IndexedDB
-          await dbPut('fullContent', fullContent);
-          resolve(fullContent);
-        } else {
-          resolve(null);
-        }
-      }
-    } catch (error) {
-      console.error('Error processing full content fetch:', error);
-      resolve(null);
-    }
-
-    // Rate limiting delay
-    if (contentFetchQueue.length > 0) {
-      await new Promise(resolve => setTimeout(resolve, FETCH_DELAY_MS));
-    }
-  }
-
-  isFetchingContent = false;
-}
-
-// Queue a full content fetch
-function queueFullContentFetch(articleId, articleUrl) {
-  return new Promise((resolve) => {
-    contentFetchQueue.push({ articleId, articleUrl, resolve });
-    processFetchQueue();
-  });
-}
-
-// Get full content (from cache or fetch)
-async function getFullContent(articleId, articleUrl) {
-  // Check cache first
-  const cached = await dbGet('fullContent', articleId);
-  if (cached) {
-    return cached;
-  }
-
-  // Queue fetch if setting is enabled
-  if (appState.settings.fetchFullContent) {
-    return await queueFullContentFetch(articleId, articleUrl);
-  }
-
-  return null;
 }
 
 // =============================================================================
@@ -1259,32 +966,9 @@ async function renderArticleContent(articleId) {
     minute: '2-digit'
   });
 
-  // Set content - try full content first if enabled
+  // Set content - use RSS content
   const contentDiv = document.getElementById('article-body-content');
-  
-  if (appState.settings.fetchFullContent) {
-    // Show loading indicator
-    contentDiv.innerHTML = '<div style="padding: 20px; text-align: center;"><span class="loading-spinner"></span> Fetching full content...</div>';
-    
-    try {
-      const fullContent = await getFullContent(article.id, article.link);
-      
-      if (fullContent && fullContent.content) {
-        // Use extracted full content
-        contentDiv.innerHTML = sanitizeHTML(fullContent.content);
-      } else {
-        // Fallback to RSS description
-        contentDiv.innerHTML = sanitizeHTML(article.content || article.description);
-      }
-    } catch (error) {
-      console.error('Error loading full content:', error);
-      // Fallback to RSS description
-      contentDiv.innerHTML = sanitizeHTML(article.content || article.description);
-    }
-  } else {
-    // Use RSS content
-    contentDiv.innerHTML = sanitizeHTML(article.content || article.description);
-  }
+  contentDiv.innerHTML = sanitizeHTML(article.content || article.description);
 
   // Show on mobile if needed
   if (window.innerWidth <= 768) {
@@ -1369,15 +1053,6 @@ function setupEventListeners() {
   document.getElementById('hide-read-toggle').addEventListener('change', (e) => {
     saveSetting('hideRead', e.target.checked);
     renderArticles(appState.selectedFeedId);
-  });
-
-  // Fetch full content toggle
-  document.getElementById('fetch-full-content-toggle').addEventListener('change', async (e) => {
-    saveSetting('fetchFullContent', e.target.checked);
-    // Re-render current article if one is selected
-    if (appState.selectedArticleId) {
-      await renderArticleContent(appState.selectedArticleId);
-    }
   });
 
   // Add feed button
@@ -1550,7 +1225,6 @@ async function init() {
     // Apply theme
     document.getElementById('amoled-toggle').checked = appState.settings.amoledMode;
     document.getElementById('hide-read-toggle').checked = appState.settings.hideRead;
-    document.getElementById('fetch-full-content-toggle').checked = appState.settings.fetchFullContent;
     applyTheme();
 
     // Setup UI

@@ -7,7 +7,7 @@ A privacy-focused, lightweight RSS feed reader built as a Progressive Web App (P
 ### Core Functionality
 - **IndexedDB Storage**: All data stored locally (feeds, articles, groups, settings, read status)
 - **Pre-fetched RSS Feeds**: GitHub Actions automatically fetch default feeds every 6 hours (eliminates CORS issues)
-- **Smart RSS Fetching**: Pre-fetched JSON files first, then direct fetch with automatic RSS2JSON API fallback for CORS issues
+- **Smart RSS Fetching**: Pre-fetched JSON files first, fallback to error if not available
 - **Article Management**: Keeps last 50 unread articles per feed automatically
 - **Manual Refresh**: Refresh all feeds on startup, manual refresh only (no auto-refresh)
 - **Offline Support**: Service Worker for offline caching of application files
@@ -148,16 +148,10 @@ Requires support for:
 
 ## Privacy
 
-### Third-Party Services
-- **RSS2JSON API** (`api.rss2json.com`): Used as fallback when direct RSS fetching fails due to CORS
-  - Only used when direct fetch fails
-  - No tracking or analytics
-  - Public API (no authentication required)
-
 ### Data Storage
 - All data stored locally in your browser using IndexedDB
 - No data sent to external servers except:
-  - RSS feed fetching (from original sources or RSS2JSON fallback)
+  - Pre-fetched RSS feeds loaded from GitHub Pages
   - External links when you click "Read Original Article"
 
 ### No Tracking
@@ -221,7 +215,7 @@ Currently, keyboard shortcuts are not implemented but can be added as a future e
 
 ## Known Limitations
 
-1. **CORS Restrictions**: Some RSS feeds may not work with direct fetch due to CORS policies. Default feeds use pre-fetched JSON files to avoid this issue. Custom feeds automatically fall back to RSS2JSON API.
+1. **CORS Restrictions**: Custom RSS feeds require pre-fetching via GitHub Actions to avoid CORS issues. Default feeds use pre-fetched JSON files.
 2. **Article Limit**: Only keeps last 50 unread articles per feed to manage storage.
 3. **No Full-Text Search**: Search functionality not yet implemented.
 4. **No Feed Discovery**: Cannot auto-discover feeds from websites.

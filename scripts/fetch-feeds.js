@@ -7,15 +7,10 @@ const { JSDOM } = require('jsdom');
 
 // Configuration constants
 const MAX_ARTICLES_PER_FEED = 50;  // Matches the limit in app.js
-const MAX_ARTICLES_WITH_FULL_CONTENT = 10;  // Limit full content fetching to first N articles
-const ENABLE_FULL_CONTENT_FETCH = true;  // Toggle full content fetching
 const REQUEST_TIMEOUT_MS = 15000;
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 2000;
 const REQUEST_DELAY_MS = 1000;  // Delay between feed requests
-const FULL_CONTENT_DELAY_MS = 1500;  // Delay between full content requests
-const MIN_CONTENT_LENGTH = 200;  // Minimum characters for valid content (filters out nav/menu fragments)
-const MAX_LINK_DENSITY = 0.5;  // Maximum ratio of link text to total text (0.5 = 50% links allowed)
 
 // Default feeds configuration - matches app.js
 const DEFAULT_FEEDS = [
@@ -291,224 +286,6 @@ function extractThumbnail(item) {
   return null;
 }
 
-// =============================================================================
-// Full Content Extraction
-// =============================================================================
-
-// Extract main content from HTML using JSDOM
-// Extract main content from HTML using JSDOM
-function extractMainContent(html) {
-  if (!html) return null;
-
-  try {
-    const dom = new JSDOM(html);
-    const doc = dom.window.document;
-
-    // **NEW: Special handling for Redlib content**
-    // Look for the specific div with class "md" that contains the actual article
-    const redlibContent = doc.querySelector('.md');
-    if (redlibContent) {
-      console.log('  ✓ Found Redlib content (.md class)');
-      
-      // Remove unwanted elements from Redlib content
-      const unwantedSelectors = [
-        'script', 'style', '.advertisement', '.ads'
-      ];
-      
-      unwantedSelectors.forEach(selector => {
-        try {
-          redlibContent.querySelectorAll(selector).forEach(el => el.remove());
-        } catch (e) {
-          console.error(`  Warning: Failed to remove elements with selector '${selector}': ${e.message}`);
-        }
-      });
-
-      const textLength = redlibContent.textContent.trim().length;
-      if (textLength > MIN_CONTENT_LENGTH) {
-        return {
-          content: redlibContent.innerHTML,
-          textLength: textLength,
-          title: extractTitleFromDoc(doc),
-          images: extractImages(redlibContent)
-        };
-      }
-    }
-
-    // Remove unwanted elements
-    const unwantedSelectors = [
-      'script', 'style', 'nav', 'header', 'footer', 'aside',
-      '[role="navigation"]', '[role="banner"]', '[role="complementary"]',
-      '.advertisement', '.ads', '.sidebar', '.menu', '.nav',
-      '.social', '.share', '.comments', '.related', '.footer',
-      '#sidebar', '#nav', '#header', '#footer', '#comments',
-      '.cookie-banner', '.newsletter', '.popup', '.modal',
-      // **NEW: Add Redlib-specific unwanted elements**
-      '#nbc_intro', '#nbc_topb', '#nbc_skys', '#nbc_leftb',
-      '#nbc_breadcrumb', '.tx-nbc2fe-incontent-column',
-      '.tx-nbc2fe-intro', '#nbc_forum_comments', '.prev_next_news',
-      '.journalist_bottom', '.socialarea', '#nbc_belowcontent'
-    ];
-
-    unwantedSelectors.forEach(selector => {
-      try {
-        doc.querySelectorAll(selector).forEach(el => el.remove());
-      } catch (e) {
-        console.error(`  Warning: Failed to remove elements with selector '${selector}': ${e.message}`);
-      }
-    });
-
-    // Find main content candidates
-    const candidates = [];
-
-    // Look for common article containers
-    const articleSelectors = [
-      '.md',  // **NEW: Add Redlib's markdown content class first**
-      'article',
-      '[role="main"]',
-      'main',
-      '.article',
-      '.post',
-      '.content',
-      '.entry-content',
-      '.post-content',
-      '.article-content',
-      '#content',
-      '#article',
-      '#main',
-      // **NEW: Add other common content selectors**
-      '.bodytext',
-      '.post-body',
-      '.article-body'
-    ];
-
-    for (const selector of articleSelectors) {
-      try {
-        const elements = doc.querySelectorAll(selector);
-        elements.forEach(el => {
-          const text = el.textContent || '';
-          const textLength = text.trim().length;
-          const linkDensity = calculateLinkDensity(el);
-          
-          // Score based on text length and link density
-          if (textLength > MIN_CONTENT_LENGTH && linkDensity < MAX_LINK_DENSITY) {
-            candidates.push({
-              element: el,
-              score: textLength * (1 - linkDensity),
-              selector: selector
-            });
-          }
-        });
-      } catch (e) {
-        console.error(`  Warning: Failed to query elements with selector '${selector}': ${e.message}`);
-      }
-    }
-
-    // If no candidates found, try body paragraphs
-    if (candidates.length === 0) {
-      const paragraphs = doc.querySelectorAll('p');
-      const contentDiv = doc.createElement('div');
-      
-      paragraphs.forEach(p => {
-        const text = p.textContent || '';
-        if (text.trim().length > 50) {
-          contentDiv.appendChild(p.cloneNode(true));
-        }
-      });
-
-      if (contentDiv.textContent.trim().length > MIN_CONTENT_LENGTH) {
-        return {
-          content: contentDiv.innerHTML,
-          textLength: contentDiv.textContent.trim().length,
-          title: extractTitleFromDoc(doc),
-          images: extractImages(contentDiv)
-        };
-      }
-      return null;
-    }
-
-    // Sort by score and get the best candidate
-    candidates.sort((a, b) => b.score - a.score);
-    const best = candidates[0];
-
-    return {
-      content: best.element.innerHTML,
-      textLength: best.element.textContent.trim().length,
-      title: extractTitleFromDoc(doc),
-      images: extractImages(best.element)
-    };
-  } catch (error) {
-    console.error('Error extracting content:', error.message);
-    return null;
-  }
-}
-
-function calculateLinkDensity(element) {
-  const textLength = (element.textContent || '').length;
-  if (textLength === 0) return 1;
-
-  const links = element.querySelectorAll('a');
-  let linkLength = 0;
-  links.forEach(link => {
-    linkLength += (link.textContent || '').length;
-  });
-
-  return linkLength / textLength;
-}
-
-function extractTitleFromDoc(doc) {
-  // Try Open Graph title
-  const ogTitle = doc.querySelector('meta[property="og:title"]');
-  if (ogTitle) return ogTitle.getAttribute('content');
-
-  // Try Twitter title
-  const twitterTitle = doc.querySelector('meta[name="twitter:title"]');
-  if (twitterTitle) return twitterTitle.getAttribute('content');
-
-  // Try page title
-  const title = doc.querySelector('title');
-  if (title) return title.textContent;
-
-  // Try h1
-  const h1 = doc.querySelector('h1');
-  if (h1) return h1.textContent;
-
-  return null;
-}
-
-function extractImages(element) {
-  const images = [];
-  const imgElements = element.querySelectorAll('img');
-  
-  imgElements.forEach(img => {
-    const src = img.getAttribute('src') || img.getAttribute('data-src');
-    if (src && !src.startsWith('data:')) {
-      images.push(src);
-    }
-  });
-
-  return images;
-}
-
-// Fetch full content for an article
-async function fetchFullContent(articleUrl) {
-  try {
-    console.log(`  Fetching full content from ${articleUrl}`);
-    const html = await fetchUrl(articleUrl);
-    const extracted = extractMainContent(html);
-    
-    if (extracted && extracted.textLength > MIN_CONTENT_LENGTH) {
-      console.log(`  ✓ Extracted ${extracted.textLength} chars of content`);
-      return extracted;
-    } else {
-      console.log(`  ✗ Content too short or extraction failed`);
-      return null;
-    }
-  } catch (error) {
-    console.error(`  ✗ Error fetching full content: ${error.message}`);
-    return null;
-  }
-}
-
 // Fetch and save a feed
 async function fetchAndSaveFeed(feedConfig) {
   console.log(`Fetching ${feedConfig.url}...`);
@@ -516,33 +293,6 @@ async function fetchAndSaveFeed(feedConfig) {
   try {
     const xmlText = await fetchUrl(feedConfig.url);
     const feedData = await parseFeed(xmlText);
-    
-    // Fetch full content for first N articles if enabled
-    if (ENABLE_FULL_CONTENT_FETCH) {
-      const articlesToFetch = Math.min(feedData.items.length, MAX_ARTICLES_WITH_FULL_CONTENT);
-      console.log(`Fetching full content for ${articlesToFetch} of ${feedData.items.length} articles...`);
-      
-      for (let i = 0; i < articlesToFetch; i++) {
-        const item = feedData.items[i];
-        
-        if (item.link) {
-          try {
-            const fullContent = await fetchFullContent(item.link);
-            if (fullContent) {
-              item.fullContent = fullContent;
-            }
-            
-            // Add delay between requests to be respectful
-            if (i < articlesToFetch - 1) {
-              await new Promise(resolve => setTimeout(resolve, FULL_CONTENT_DELAY_MS));
-            }
-          } catch (error) {
-            console.error(`  Error fetching content for ${item.link}: ${error.message}`);
-            // Continue with next article
-          }
-        }
-      }
-    }
     
     const output = {
       ...feedData,
@@ -554,8 +304,7 @@ async function fetchAndSaveFeed(feedConfig) {
     const outputPath = path.join(feedsDir, feedConfig.filename);
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
     
-    const articlesWithContent = output.items.filter(item => item.fullContent).length;
-    console.log(`✓ Saved ${feedConfig.filename} (${output.items.length} articles, ${articlesWithContent} with full content)`);
+    console.log(`✓ Saved ${feedConfig.filename} (${output.items.length} articles)`);
     return true;
   } catch (error) {
     console.error(`✗ Failed to fetch ${feedConfig.url}:`, error.message);

@@ -52,8 +52,6 @@ self.addEventListener('fetch', (event) => {
       url.pathname.includes('.rss') ||
       url.pathname.includes('.xml') ||
       url.pathname.includes('/feed') ||
-      url.hostname === 'api.rss2json.com' ||
-      url.hostname === 'corsproxy.io' ||
       url.hostname.includes('redlib.') ||
       url.hostname === 'www.jagatreview.com' ||
       url.hostname === 'jagatreview.com' ||
