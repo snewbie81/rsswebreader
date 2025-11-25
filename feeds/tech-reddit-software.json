@@ -10,13 +10,7 @@
       "pubDate": "Fri, 21 Nov 2025 12:01:11 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p2wsms/weekly_discovery_thread_november_21_2025/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><h1>Share what’s new, useful, or just interesting</h1>\n\n<p>Welcome to the Weekly Discovery Thread, where you can share software-related finds that caught your attention this week - especially the stuff that’s cool, helpful, or thought-provoking but might not be thread-worthy on its own.</p>\n\n<p>This thread is your space for:</p>\n\n<ul>\n<li>Neat tools, libraries, or packages</li>\n<li>Articles, blog posts, or talks worth reading</li>\n<li>Experiments or side projects you’re working on</li>\n<li>Tips, workflows, or obscure features you discovered</li>\n<li>Questions or ideas you&#39;re chewing on</li>\n</ul>\n\n<p>If it relates to software and sparked your curiosity, drop it in.</p>\n\n<hr/>\n\n<h1>A few quick guidelines</h1>\n\n<ul>\n<li>Keep it civil and constructive - this is for learning and discovery.</li>\n<li>Self-promotion? Totally fine if it’s relevant and adds value. Just be transparent.</li>\n<li>No link spam or AI-generated content dumps. We’ll remove low-effort submissions.</li>\n<li>Upvote what’s useful so others see it!</li>\n</ul>\n\n<hr/>\n\n<p>This thread will be posted weekly and stickied. If you want to suggest a change or addition to this format, feel free to comment or <a href=\"/message/compose?to=/r/software\">message the mods</a>.</p>\n\n<p>Now, what did you find this week?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<h1>Share what’s new, useful, or just interesting</h1>\n\n<p>Welcome to the Weekly Discovery Thread, where you can share software-related finds that caught your attention this week - especially the stuff that’s cool, helpful, or thought-provoking but might not be thread-worthy on its own.</p>\n\n<p>This thread is your space for:</p>\n\n<ul>\n<li>Neat tools, libraries, or packages</li>\n<li>Articles, blog posts, or talks worth reading</li>\n<li>Experiments or side projects you’re working on</li>\n<li>Tips, workflows, or obscure features you discovered</li>\n<li>Questions or ideas you're chewing on</li>\n</ul>\n\n<p>If it relates to software and sparked your curiosity, drop it in.</p>\n\n<hr>\n\n<h1>A few quick guidelines</h1>\n\n<ul>\n<li>Keep it civil and constructive - this is for learning and discovery.</li>\n<li>Self-promotion? Totally fine if it’s relevant and adds value. Just be transparent.</li>\n<li>No link spam or AI-generated content dumps. We’ll remove low-effort submissions.</li>\n<li>Upvote what’s useful so others see it!</li>\n</ul>\n\n<hr>\n\n<p>This thread will be posted weekly and stickied. If you want to suggest a change or addition to this format, feel free to comment or <a href=\"/message/compose?to=/r/software\">message the mods</a>.</p>\n\n<p>Now, what did you find this week?</p>\n",
-        "textLength": 1082,
-        "title": "Weekly Discovery Thread - November 21, 2025 - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "A stakeholder just vibe coded a prototype, demoed it to board who liked it and now our contractor dev's gotta finish it. This is setting a bad precedent and Im fuming!",
@@ -25,13 +19,7 @@
       "pubDate": "Mon, 24 Nov 2025 12:33:00 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>How broken it is that now non technical people can create a slop and pass it onto the 500-600 euro/day contractor to clean up and finish the vibe coded ai slop. How backwards is that. So now we re not only have to deal with half baked requirements, we&#39;ll also be starting with tech debt on projects that would had been greenfield and done from zero with proper scoping, planning, back and forths between business and tech team.</p>\n\n<p>we are setting a bad precedent and this is absolutely awful. </p>\n\n<p>/rant off</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>How broken it is that now non technical people can create a slop and pass it onto the 500-600 euro/day contractor to clean up and finish the vibe coded ai slop. How backwards is that. So now we re not only have to deal with half baked requirements, we'll also be starting with tech debt on projects that would had been greenfield and done from zero with proper scoping, planning, back and forths between business and tech team.</p>\n\n<p>we are setting a bad precedent and this is absolutely awful. </p>\n\n<p>/rant off</p>\n",
-        "textLength": 501,
-        "title": "A stakeholder just vibe coded a prototype, demoed it to board who liked it and now our contractor dev's gotta finish it. This is setting a bad precedent and Im fuming! - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "Best free CD burner software that allows you to drag and drop files to CD-RW?",
@@ -40,30 +28,7 @@
       "pubDate": "Tue, 25 Nov 2025 00:12:36 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi</p>\n\n<p>So, like the title asks, what is some good recommended free CD burner software that allows you to drag and drop files to CD-RW discs? I&#39;ve tried BurnAware, but that seems to have issues even recognising and burning data to my disc. It keeps giving me an error 144. I have ImgBurn, but I can&#39;t find an option that allows you to keep writing to the disc. It just seems to write the files and that&#39;s it - you have to erase the entire thing and do it all over from scratch. If anyone&#39;s aware of what option I need to toggle for it to work, that would be awesome. Otherwise, what are some other good examples I could try?</p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Hi</p>\n\n<p>So, like the title asks, what is some good recommended free CD burner software that allows you to drag and drop files to CD-RW discs? I've tried BurnAware, but that seems to have issues even recognising and burning data to my disc. It keeps giving me an error 144. I have ImgBurn, but I can't find an option that allows you to keep writing to the disc. It just seems to write the files and that's it - you have to erase the entire thing and do it all over from scratch. If anyone's aware of what option I need to toggle for it to work, that would be awesome. Otherwise, what are some other good examples I could try?</p>\n\n<p>Thanks</p>\n",
-        "textLength": 628,
-        "title": "Best free CD burner software that allows you to drag and drop files to CD-RW? - r/software",
-        "images": []
-      }
-    },
-    {
-      "title": "Software for measuring pupil dilation from 2 different frames of a video",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
-      "pubDate": "Tue, 25 Nov 2025 02:45:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m a veterinary PhD student, and I&#39;d like to ask for some tips on softwares that might help me measure the dilation of a cow&#39;s pupils. I&#39;m recording the moment of dilation in 4k quality with 60 frames per second, and my idea is to measure the distance between the borders of the pupils in different frames in order to stipulate dilation speed and intensity. I tried to illustrate my idea in the photo.</p>\n\n<p><a href=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\">/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52</a></p>\n\n<p>Since the cows move a lot. using a scale in the video is a little difficult, so I plan on using the proportion between those two lines for the analysis. If someone could recommend me a software that enables me to move the video frame by frame (like a slideshow, perhaps?) and draw lines with measurements, either in the video or in images extracted from the video, that would be much appreciated. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Hello. I'm a veterinary PhD student, and I'd like to ask for some tips on softwares that might help me measure the dilation of a cow's pupils. I'm recording the moment of dilation in 4k quality with 60 frames per second, and my idea is to measure the distance between the borders of the pupils in different frames in order to stipulate dilation speed and intensity. I tried to illustrate my idea in the photo.</p>\n\n<figure><a href=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\"><img loading=\"lazy\" src=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\"></a></figure>\n\n<p>Since the cows move a lot. using a scale in the video is a little difficult, so I plan on using the proportion between those two lines for the analysis. If someone could recommend me a software that enables me to move the video frame by frame (like a slideshow, perhaps?) and draw lines with measurements, either in the video or in images extracted from the video, that would be much appreciated. </p>\n",
-        "textLength": 809,
-        "title": "Software for measuring pupil dilation from 2 different frames of a video - r/software",
-        "images": [
-          "/preview/pre/i3sypggwfb3g1.jpg?width=1181&format=pjpg&auto=webp&s=e781298a56e922c5bf4843ee15e238351d2ead52"
-        ]
-      }
+      "thumbnail": null
     },
     {
       "title": "SW to organize music collection?",
@@ -72,43 +37,7 @@
       "pubDate": "Tue, 25 Nov 2025 02:09:32 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have about 100gb of music I would like to organize. I&#39;m looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it&#39;s open source that would be a bonus. TIA</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>I have about 100gb of music I would like to organize. I'm looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it's open source that would be a bonus. TIA</p>\n",
-        "textLength": 249,
-        "title": "SW to organize music collection? - r/software",
-        "images": []
-      }
-    },
-    {
-      "title": "Looking for a lightweight/fast pdf reader",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/",
-      "pubDate": "Tue, 25 Nov 2025 02:09:23 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use adobe acrobat pro and I really like the software it works well it’s just painfully slow even with very capable computers is there any alternative out their with the same features (maybe less the ai bloat) that’s much quicker.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>I use adobe acrobat pro and I really like the software it works well it’s just painfully slow even with very capable computers is there any alternative out their with the same features (maybe less the ai bloat) that’s much quicker.</p>\n",
-        "textLength": 231,
-        "title": "Looking for a lightweight/fast pdf reader - r/software",
-        "images": []
-      }
-    },
-    {
-      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I'll use Libre if there's no other alternative, but i'd love to know if there's a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n",
-        "textLength": 520,
-        "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative? - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "What are some great apps you love that are expensive, abandoned, or closed-source?",
@@ -117,13 +46,34 @@
       "pubDate": "Mon, 24 Nov 2025 16:18:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m looking for inspiration for a new project and I want to hear about apps you <em>wish</em> had a cheaper alternative, an open-source clone, or just… any update at all.</p>\n\n<p>Could be:<br/>\n• Amazing but insanely overpriced<br/>\n• Great idea but abandoned<br/>\n• Closed-source with no real competitors<br/>\n• Tools you rely on that desperately need a modern remake<br/>\n• Niche apps that have a small but loyal cult following</p>\n\n<p>What apps come to mind?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>I’m looking for inspiration for a new project and I want to hear about apps you <em>wish</em> had a cheaper alternative, an open-source clone, or just… any update at all.</p>\n\n<p>Could be:<br>\n• Amazing but insanely overpriced<br>\n• Great idea but abandoned<br>\n• Closed-source with no real competitors<br>\n• Tools you rely on that desperately need a modern remake<br>\n• Niche apps that have a small but loyal cult following</p>\n\n<p>What apps come to mind?</p>\n",
-        "textLength": 413,
-        "title": "What are some great apps you love that are expensive, abandoned, or closed-source? - r/software",
-        "images": []
-      }
+      "thumbnail": null
+    },
+    {
+      "title": "Software for measuring pupil dilation from 2 different frames of a video",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
+      "pubDate": "Tue, 25 Nov 2025 02:45:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m a veterinary PhD student, and I&#39;d like to ask for some tips on softwares that might help me measure the dilation of a cow&#39;s pupils. I&#39;m recording the moment of dilation in 4k quality with 60 frames per second, and my idea is to measure the distance between the borders of the pupils in different frames in order to stipulate dilation speed and intensity. I tried to illustrate my idea in the photo.</p>\n\n<p><a href=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\">/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52</a></p>\n\n<p>Since the cows move a lot. using a scale in the video is a little difficult, so I plan on using the proportion between those two lines for the analysis. If someone could recommend me a software that enables me to move the video frame by frame (like a slideshow, perhaps?) and draw lines with measurements, either in the video or in images extracted from the video, that would be much appreciated. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for a lightweight/fast pdf reader",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/",
+      "pubDate": "Tue, 25 Nov 2025 02:09:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use adobe acrobat pro and I really like the software it works well it’s just painfully slow even with very capable computers is there any alternative out their with the same features (maybe less the ai bloat) that’s much quicker.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
+      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     },
     {
       "title": "Burning CDs for car stereo",
@@ -132,13 +82,7 @@
       "pubDate": "Tue, 25 Nov 2025 00:30:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This might be the wrong place but I have been trying to burn CDs to play in my 2009 Toyota Prius. I have done this successfully twice before with the first two discs I burned but every one since had not worked and will not play in my car. I am using Maxwell brand CD-R discs, I have tried MP3 files and WAV files and I am burning them at the lowest speed my computer will allow (10x) I don’t know what I am doing wrong but also how I was able to succeed with my first two attempts. Any help or ideas would be much appreciated. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>This might be the wrong place but I have been trying to burn CDs to play in my 2009 Toyota Prius. I have done this successfully twice before with the first two discs I burned but every one since had not worked and will not play in my car. I am using Maxwell brand CD-R discs, I have tried MP3 files and WAV files and I am burning them at the lowest speed my computer will allow (10x) I don’t know what I am doing wrong but also how I was able to succeed with my first two attempts. Any help or ideas would be much appreciated. </p>\n",
-        "textLength": 526,
-        "title": "Burning CDs for car stereo - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "Can you start a shut off or sleeping pc woth windows remote desktop?",
@@ -147,13 +91,7 @@
       "pubDate": "Tue, 25 Nov 2025 00:00:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "\n\t\t\t\n\t<div id=\"column_one\">\n\t\t<!-- POST CONTENT -->\n<div class=\"post highlighted\">\n\t<p class=\"post_header\">\n\t\t<a class=\"post_subreddit\" href=\"/r/software\">r/software</a>\n\t\t<span class=\"dot\">•</span>\n\t\t<a class=\"post_author \" href=\"/user/Commercial_Tune_4002\">u/Commercial_Tune_4002</a>\n\t\t\n\t\t<span class=\"dot\">•</span>\n\t\t<span class=\"created\" title=\"Nov 25 2025, 00:00:37 UTC\">3h ago</span>\n\t\t\n\t</p>\n\t<h1 class=\"post_title\">\n\t\t\n\t\t\t<a href=\"/r/software/search?q=flair_name%3A%22Looking for software :Windows: :Searching:%22&amp;restrict_sr=on\" class=\"post_flair\" style=\"color:black; background:#edeff1;\"><span>Looking for software </span><span class=\"emoji\" style=\"background-image:url('/emoji/apj4q22318361_t5_2qh19/Windows');\"></span><span> </span><span class=\"emoji\" style=\"background-image:url('/emoji/5ht79wq748361_t5_2qh19/Searching');\"></span></a>\n\t\t\n\t\tCan you start a shut off or sleeping pc woth windows remote desktop?\n\t\t\n\t\t\n\t</h1>\n\n\t<!-- POST MEDIA -->\n\t<!-- post_type: self -->\n\t\n\n\t<!-- POST BODY -->\n\t<div class=\"post_body\">\n\t\t\n\t\t\n\t\n\t</div>\n\t<div class=\"post_score\" title=\"1\">\n    \n    1\n    \n    <span class=\"label\"> Upvotes</span></div>\n\t<div class=\"post_footer\">\n\t\t<ul id=\"post_links\">\n\t\t\t<li>\n\t\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/\">\n\t\t\t\t\t<span class=\"desktop_item\">perma</span>link\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t\n\t\t\t\n\t\t\t\n<li>\n\t<a href=\"https://reddit.com/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/\" rel=\"nofollow\">reddit</a>\n\n\t\n</li>\n\n\n\t\t\t\n\t\t</ul>\n\t\t<p>60%<span id=\"upvoted\"> Upvoted</span></p>\n\t</div>\n</div>\n\n\t\t<!-- SORT FORM -->\n       <div id=\"commentQueryForms\">\n\t\t<form id=\"sort\">\n\t\t\t<p id=\"comment_count\">6 comments <span id=\"sorted_by\">sorted by </span></p>\n\t\t\t<select name=\"sort\" title=\"Sort comments by\" id=\"commentSortSelect\"> \n\t\t\t\t\n\t\t<option value=\"confidence\" selected=\"\">\n\t\t\tConfidence\n\t\t</option>\n\t\n\t\t<option value=\"top\">\n\t\t\tTop\n\t\t</option>\n\t\n\t\t<option value=\"new\">\n\t\t\tNew\n\t\t</option>\n\t\n\t\t<option value=\"controversial\">\n\t\t\tControversial\n\t\t</option>\n\t\n\t\t<option value=\"old\">\n\t\t\tOld\n\t\t</option>\n\t\n      </select>\n        <button id=\"sort_submit\" class=\"submit\">\n          <svg width=\"15\" viewBox=\"0 0 110 100\" fill=\"none\" stroke-width=\"10\" stroke-linecap=\"round\">\n              <path d=\"M20 50 H100\"></path>\n              <path d=\"M75 15 L100 50 L75 85\"></path>\n              →\n          </svg>\n      </button>\n      </form>\n      <!-- SEARCH FORM -->\n      <form id=\"sort\">\n        <input id=\"search\" class=\"commentQuery\" type=\"search\" name=\"q\" value=\"\" placeholder=\"Search comments\">\n        <input type=\"hidden\" name=\"type\" value=\"comment\">\n      </form>\n      </div>\n  \n      <div>\n      \n      </div>\n\n\t\t<!-- COMMENTS -->\n\t\t<div class=\"thread\">\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n<div id=\"nqmd4ct\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"2\">\n         \n         2\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/LeaveMickeyOutOfThis\">u/LeaveMickeyOutOfThis</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmd4ct/?context=3#nqmd4ct\" class=\"created\" title=\"Nov 25 2025, 00:11:02 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>If your machine supports it, then you can use wake on LAN first to turn on the machine, then once booted use Remote Desktop.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</div><div class=\"thread\">\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n<div id=\"nqmdwcb\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"1\">\n         \n         1\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/ShriCamel\">u/ShriCamel</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmdwcb/?context=3#nqmdwcb\" class=\"created\" title=\"Nov 25 2025, 00:15:39 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>Not with Remote Desktop, but many years ago I used a utility that sent a \"magic packet\" to a shut down PC to start it remotely.</p>\n\n<p>For it to work required its network card to be\"listening\" (ie not completely powered down) , which IIRC required making a change in the BIOS and/or Windows registry (I forget the specifics).</p>\n\n<p>As far as I recall, you also needed the network card's MAC address, and to be able to send the request (to start) from a machine on the same LAN (ie it wasn't an \"over the Internet\" feature).</p>\n\n<p>Sorry that this doesn't address your question directly, but be advised that it's possible in principle.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</div><div class=\"thread\">\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n<div id=\"nqmbrya\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"0\">\n         \n         0\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/OgdruJahad\">u/OgdruJahad</a>\n\t\t\t\n\t\t\t\n\t\t\t\t<small class=\"author_flair\"><span>Helpful Ⅲ</span></small>\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmbrya/?context=3#nqmbrya\" class=\"created\" title=\"Nov 25 2025, 00:02:56 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>shut down is easy , open cmd in admin then use shutdown command:</p>\n\n<blockquote>\n<p>shutdown -s -t 00</p>\n</blockquote>\n\n<p>Then press enter</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\n\n<div id=\"nqmcbuk\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"2\">\n         \n         2\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/vdday\">u/vdday</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmcbuk/?context=3#nqmcbuk\" class=\"created\" title=\"Nov 25 2025, 00:06:19 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>Shit off is easy, starting a shutdown device is what they are asking. Only way I know to do that is through the BIOS.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\n\n<div id=\"nqmf1al\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"1\">\n         \n         1\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/felix1429\">u/felix1429</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmf1al/?context=3#nqmf1al\" class=\"created\" title=\"Nov 25 2025, 00:22:17 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>If wake on LAN is enabled in the BIOS you can send a magic packet to power on a turned off PC.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\n\n<div id=\"nqmls9j\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"1\">\n         \n         1\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/Cast_Iron_Skillet\">u/Cast_Iron_Skillet</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmls9j/?context=3#nqmls9j\" class=\"created\" title=\"Nov 25 2025, 01:02:12 UTC\">2h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>In all my years I've not seen this executed properly with a typical consumer PC, even when enabled.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</div>\n\n\t</div>\n\n\t\t",
-        "textLength": 2613,
-        "title": "Can you start a shut off or sleeping pc woth windows remote desktop? - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "Does windows come with a app that works like teamviewer?",
@@ -162,6 +100,15 @@
       "pubDate": "Mon, 24 Nov 2025 23:24:29 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5wovr/does_windows_come_with_a_app_that_works_like/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5wovr/does_windows_come_with_a_app_that_works_like/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for a media player with a specific function.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5ruth/looking_for_a_media_player_with_a_specific/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5ruth/looking_for_a_media_player_with_a_specific/",
+      "pubDate": "Mon, 24 Nov 2025 20:16:22 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5ruth/looking_for_a_media_player_with_a_specific/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m on windows 11, and currently use windows media player legacy. The version included with windows since at least XP.</p>\n\n<p>The feature legacy has, but nothing else I&#39;ve tried, is the ability to just press the play button and start playing a randomly generated 8 hour playlist from your library.</p>\n\n<p>So far, potplayer, vlc, musicbee, and a myriad of others do not offer this. Even the new media player that replaced legacy dropped that feature.</p>\n\n<p>Is there any music/media player that will generate a random playlist from my library and start playback from a single click of the play button?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -280,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4kj8j/suggest_best_download_manager_that_allows_resume/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>i need a download that allows you to update download link after u pause a downloading of 5gb file at 1gb and resumes from 1gb. can u help me???</p>\n\n<p>i tried fdm, but it is heavy for my laptop. can anyone suggest some other?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "TITAN wired led gaming from five below",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4qxd0/titan_wired_led_gaming_from_five_below/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4qxd0/titan_wired_led_gaming_from_five_below/",
-      "pubDate": "Sun, 23 Nov 2025 16:26:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4qxd0/titan_wired_led_gaming_from_five_below/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to figure out how to change the mapping of the button next to the left click, by default it is set as left double click</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T03:48:33.182Z"
+  "lastFetched": "2025-11-25T04:55:45.512Z"
 }
