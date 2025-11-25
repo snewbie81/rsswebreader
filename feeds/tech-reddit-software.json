@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "InstallAware: Worst Customer Service I’ve Ever Experienced – Beware Before Buying",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/",
+      "pubDate": "Tue, 25 Nov 2025 09:42:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,<br/>\njust wanted to share my experience with <strong>InstallAware</strong>, because if you’re considering buying from them, you should know what you might be walking into.</p>\n\n<p>I bought a license back in December 2024. The order was confirmed, paid, and processed through PayPro Global. Sounds simple, right? Well…</p>\n\n<p><strong>Instead of support, I got:</strong></p>\n\n<ul>\n<li>contradictory emails from their own staff</li>\n<li>claims that I “forgot” product components I never had in the first place</li>\n<li>aggressive replies whenever I asked them to fix their own billing/upgrade mistake</li>\n<li>and eventually… their <em>general counsel</em> telling me they “don’t have inexhaustible patience for my antics.” (Yes, really. For asking about an order I paid for.)</li>\n</ul>\n\n<p>To make things worse, their colleague claimed he sent me an email on a date that simply never happened – even though I attached all the message history proving it. When I pointed this out, they doubled down instead of correcting their mistake.</p>\n\n<p>And the best part? After providing them with all receipts, dates, and proof, I’m told the order is “too old” to refund and that I violated their ToS (no explanation, no details, nothing).</p>\n\n<p><strong>TL;DR:</strong><br/>\nPaid for a product. Got contradictory statements, false claims, attitude, and finally a refusal to help. InstallAware’s customer service is easily the most unprofessional behavior I’ve seen from a software vendor.</p>\n\n<p>If you’re considering purchasing from InstallAware:<br/>\n<strong>think twice.</strong></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Best free CD burner software that allows you to drag and drop files to CD-RW?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
@@ -31,12 +40,12 @@
       "thumbnail": null
     },
     {
-      "title": "InstallAware: Worst Customer Service I’ve Ever Experienced – Beware Before Buying",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/",
-      "pubDate": "Tue, 25 Nov 2025 09:42:13 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,<br/>\njust wanted to share my experience with <strong>InstallAware</strong>, because if you’re considering buying from them, you should know what you might be walking into.</p>\n\n<p>I bought a license back in December 2024. The order was confirmed, paid, and processed through PayPro Global. Sounds simple, right? Well…</p>\n\n<p><strong>Instead of support, I got:</strong></p>\n\n<ul>\n<li>contradictory emails from their own staff</li>\n<li>claims that I “forgot” product components I never had in the first place</li>\n<li>aggressive replies whenever I asked them to fix their own billing/upgrade mistake</li>\n<li>and eventually… their <em>general counsel</em> telling me they “don’t have inexhaustible patience for my antics.” (Yes, really. For asking about an order I paid for.)</li>\n</ul>\n\n<p>To make things worse, their colleague claimed he sent me an email on a date that simply never happened – even though I attached all the message history proving it. When I pointed this out, they doubled down instead of correcting their mistake.</p>\n\n<p>And the best part? After providing them with all receipts, dates, and proof, I’m told the order is “too old” to refund and that I violated their ToS (no explanation, no details, nothing).</p>\n\n<p><strong>TL;DR:</strong><br/>\nPaid for a product. Got contradictory statements, false claims, attitude, and finally a refusal to help. InstallAware’s customer service is easily the most unprofessional behavior I’ve seen from a software vendor.</p>\n\n<p>If you’re considering purchasing from InstallAware:<br/>\n<strong>think twice.</strong></p>\n</div><!-- SC_ON -->",
+      "title": "Open source projects to contribute to",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
+      "pubDate": "Tue, 25 Nov 2025 11:04:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi I am just looking at some projects to, but don’t really know which ones to look at. I was looking at some recommendations to start looking at.</p>\n\n<p>Background: Currently in big tech with 5-6 months of experience (intern/new grad level). \nDomains interested in: Web dev, Cloud, maybe some higher level Linux things \nExperience: Python, Java, Go, JavaScript/Typescript, some C/C++ (but not comfortable with heavy code bases in these languages) and C#</p>\n\n<p>Any pointers to youngish projects to look at would be a great help :)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p59g2v/automatically_start_a_program_when_another_on/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys, I want to make it so another program automatically starts whenever I manually start qBittorrent. I know you should be able to make an automation with Task Scheduler, but I need a detailed guide on how to do that on Windows 11 Pro and I can&#39;t find it</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Looking for a cash-flow app",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4x5of/looking_for_a_cashflow_app/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4x5of/looking_for_a_cashflow_app/",
-      "pubDate": "Sun, 23 Nov 2025 20:32:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4x5of/looking_for_a_cashflow_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for an application (if i can self host it, all the better) that basically just tracks cash flow. But I would like it to be able to track multiple cashflows.</p>\n\n<p>So, the idea is, that I would like to be able to go into the app and say something like &quot;today, i have x money, i owe y money, i invested z money, etc&quot; and what I would really like to see is a graph over time of how these cash flows evolve.</p>\n\n<p>Bonus points if it&#39;s smart enough to combine cash flows, for example: a line on the graph for money i have, a line for invested and another line i can call total assets which shows these two combined.</p>\n\n<p>I actually already use my own version of this in a google sheet for over 10 years, but i was wondering if anyone knows an actual software that does this.</p>\n\n<p>It&#39;s a bit hard to illustrate without the markings on the axis, but that&#39;s a bit too much info, however it currently just looks like this:</p>\n\n<p><a href=\"/preview/pre/76aad2t3h23g1.png?width=1316&amp;format=png&amp;auto=webp&amp;s=c4fb65da8f077792f1ace1eedc1ba414c2e614f0\">/preview/pre/76aad2t3h23g1.png?width=1316&amp;format=png&amp;auto=webp&amp;s=c4fb65da8f077792f1ace1eedc1ba414c2e614f0</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T10:51:34.100Z"
+  "lastFetched": "2025-11-25T11:33:28.031Z"
 }

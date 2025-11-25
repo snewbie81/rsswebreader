@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
+      "pubDate": "Tue, 25 Nov 2025 10:49:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>PassVault</strong>, an open-source, offline password manager. I posted here a few weeks ago, and thanks to your feedbacks.</p>\n\n<p>I&#39;ve just released <strong>v0.8.0-beta01</strong>.</p>\n\n<p><strong>What&#39;s new in this update:</strong></p>\n\n<ul>\n<li><strong>Argon2 Encryption:</strong> Switched to stronger encryption standards for better security.</li>\n<li><strong>Performance:</strong> Moved database operations to background threads (no more UI stutters).</li>\n</ul>\n\n<p><strong>Why use it?</strong></p>\n\n<ul>\n<li>Completely Offline (No internet permission)</li>\n</ul>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub (Source &amp; APK):</strong> <a href=\"https://github.com/jksalcedo/PassVault\">https://github.com/jksalcedo/PassVault</a></li>\n</ul>\n\n<p><strong>MIT License</strong></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Hey outertune users",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/",
@@ -175,6 +184,15 @@
       "thumbnail": null
     },
     {
+      "title": "An app that blocks any google and any system app form updating",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/",
+      "pubDate": "Fri, 21 Nov 2025 11:18:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>If it doesn&#39;t exist, I hope someone creates this simple app.</p>\n\n<p>For example I do not want phone phone by Google, Contacts by Google app to never update<br/>\nand not even be picked up by play store updates or anything else.<br/>\nPlain and simple.</p>\n\n<p>I do not care about security or safety updates. I want the app that came fresh out of the box to stay as is basically.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Looking for a to-do list that is continuously visible in the notification panel",
       "link": "/gallery/1p27f56",
       "guid": "/gallery/1p27f56",
@@ -190,15 +208,6 @@
       "pubDate": "Fri, 21 Nov 2025 08:44:28 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2tk95/vitune/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve just notice this but whenever the music is downloading the bitrate of the song goes down. Is there an option to fix this?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "An app that blocks any google and any system app form updating",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/",
-      "pubDate": "Fri, 21 Nov 2025 11:18:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>If it doesn&#39;t exist, I hope someone creates this simple app.</p>\n\n<p>For example I do not want phone phone by Google, Contacts by Google app to never update<br/>\nand not even be picked up by play store updates or anything else.<br/>\nPlain and simple.</p>\n\n<p>I do not care about security or safety updates. I want the app that came fresh out of the box to stay as is basically.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p20w4o/looking_for_a_youtube_music_client_fdroid_github/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey reddit, what’s up. So I’ve been using YouTube Music ReVanced, and I really love the ad‑free and background play vibe, but… I really want offline downloads. Kinda like how Vi Music lets you cache songs inside the app.</p>\n\n<p>Does anyone know a safe, open‑source YouTube Music client (on F‑Droid or GitHub) that:</p>\n\n<ol>\n<li><p>Lets you download / cache songs for offline play</p></li>\n<li><p>Has been updated recently (so it’s not dead af)</p></li>\n<li><p>Is reasonably stable and not high-risk to log into Google</p></li>\n</ol>\n\n<p>I found a few names: OuterTune, OpenTune, Metrolist but not sure which ones are still maintained or legit. Has anyone tested these recently? Or maybe there’s something better?</p>\n\n<p>Appreciate any suggestions + links (especially from GitHub / F‑Droid repos). 🙏</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "An app that blocks and controls any Ai app that is capable of reading screen pixels.",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p1zd6c/an_app_that_blocks_and_controls_any_ai_app_that/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p1zd6c/an_app_that_blocks_and_controls_any_ai_app_that/",
-      "pubDate": "Thu, 20 Nov 2025 10:02:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1zd6c/an_app_that_blocks_and_controls_any_ai_app_that/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So if it doesn&#39;t exist then it needs to be created. But essentially the title says it all and app that can block all the thieving companies out there in a very clean and easy way with as much transparency as is currently possible.</p>\n\n<p>Please be kind in your responses.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T10:51:17.378Z"
+  "lastFetched": "2025-11-25T11:33:10.989Z"
 }
