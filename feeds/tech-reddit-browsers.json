@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "I just launched my Daily Water Reminder extension for Chrome 💧",
+      "link": "",
+      "guid": "",
+      "pubDate": "Tue, 25 Nov 2025 13:18:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6c7bi/i_just_launched_my_daily_water_reminder_extension/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Try it here: <a href=\"https://chromewebstore.google.com/detail/daily-water-reminder/lkjkbeileabkeocbejajeoljnkakokgd\"><strong>Daily Water Reminder</strong></a></p>\n\n<p>I built a Chrome extension that reminds you every 20–60 mins (or any time you choose) to drink water. You can set your own intervals and goals. Thought someone here might find it useful.Please share your feedback too.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Disappointed in Ecosia",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/",
@@ -40,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "least obvious vivaldi glazer",
-      "link": "/img/5yzw7uu2qe3g1.png",
-      "guid": "/img/5yzw7uu2qe3g1.png",
-      "pubDate": "Tue, 25 Nov 2025 13:43:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6crju/least_obvious_vivaldi_glazer/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>he&#39;s gonna ramble for awhile isnt he</p>\n</div><!-- SC_ON -->",
+      "title": "DotBrowser - Editable text, where to find it.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6haox/dotbrowser_editable_text_where_to_find_it/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6haox/dotbrowser_editable_text_where_to_find_it/",
+      "pubDate": "Tue, 25 Nov 2025 16:40:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6haox/dotbrowser_editable_text_where_to_find_it/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I&#39;ve the #C code of DotBrowser and I want to translate the software. Do you know can I find the text within the code? </p>\n\n<p>I&#39;ve tried with CTRL+F but I cannot find all the sections.</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
-      "title": "I just launched my Daily Water Reminder extension for Chrome 💧",
-      "link": "",
-      "guid": "",
-      "pubDate": "Tue, 25 Nov 2025 13:18:16 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6c7bi/i_just_launched_my_daily_water_reminder_extension/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Try it here: <a href=\"https://chromewebstore.google.com/detail/daily-water-reminder/lkjkbeileabkeocbejajeoljnkakokgd\"><strong>Daily Water Reminder</strong></a></p>\n\n<p>I built a Chrome extension that reminds you every 20–60 mins (or any time you choose) to drink water. You can set your own intervals and goals. Thought someone here might find it useful.Please share your feedback too.</p>\n</div><!-- SC_ON -->",
+      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -94,12 +103,12 @@
       "thumbnail": null
     },
     {
-      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
-      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
+      "title": "least obvious vivaldi glazer",
+      "link": "/img/5yzw7uu2qe3g1.png",
+      "guid": "/img/5yzw7uu2qe3g1.png",
+      "pubDate": "Tue, 25 Nov 2025 13:43:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6crju/least_obvious_vivaldi_glazer/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>he&#39;s gonna ramble for awhile isnt he</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5nbl5/mirror_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>What do you guys know about the Mirror browser , is it safe ? Does consumes a lot of memory? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Free Alternatives to TranslateSub",
-      "link": "/img/2n0xrhvqg83g1.jpeg",
-      "guid": "/img/2n0xrhvqg83g1.jpeg",
-      "pubDate": "Mon, 24 Nov 2025 16:39:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5lwis/free_alternatives_to_translatesub/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Greetings all,<br/>\nI recently came across this extension that provides real-time subtitles and translations across various websites, including TikTok. It is free for up to 20 minutes, after which a subscription is required. am therefore wondering if anyone knows of a similar gratis extension. Any recommendations are greatly appreciated.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T15:44:00.826Z"
+  "lastFetched": "2025-11-25T16:57:54.004Z"
 }

@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "OVN-Flow - Bash Based Lightweight VPN Client",
+      "link": "https://github.com/DeclanEaton04/OVN-Flow-1.0-VPN-Client",
+      "guid": "https://github.com/DeclanEaton04/OVN-Flow-1.0-VPN-Client",
+      "pubDate": "Tue, 25 Nov 2025 16:54:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p6hohd/ovnflow_bash_based_lightweight_vpn_client/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>OVN-Flow is My first Open-Source Project. It is an OpenVPN Client developed to offer a user friendly approach to using and managing OpenVPN Connections.           </p>\n\n<p>This project originally started out as a personal project to easily connect to my TryHackMe VPNs to connect to the VMs in lessons.         </p>\n\n<p>Over time, this project became invaluable to learning bash scripting. I challenged myself to add new features such as:<br/>\n• Multi-Configuration Support within the interface<br/>\n• Two Stage Connection verification<br/>\n• Optional Internet Connectivity Checks            </p>\n\n<p>I intend to continue adding features and developing this project further. Any feedback for improvements or potential future features would be greatly appreciated :)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "TilBuci version 18 comes with usability improvements and new image manipulation features",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p6gdmo/tilbuci_version_18_comes_with_usability/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p6gdmo/tilbuci_version_18_comes_with_usability/",
+      "pubDate": "Tue, 25 Nov 2025 16:06:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p6gdmo/tilbuci_version_18_comes_with_usability/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>TilBuci, a free software (MPL-2.0) focused on creating interactive content, reaches version 18: <a href=\"https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v18\">https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v18</a></p>\n\n<p><strong>Enhanced zoom and graphic elements dragging</strong><br/>\nSupport for zooming in and out of images during display has been improved, and now the instance (picture, video, spritemap) has its size changed directly in the layout, no longer being displayed in a popup. In addition, it is now possible to drag instances, as well as check the point at which they are released by visitors, in a collision check. To learn more about these features, we&#39;ve created a video tutorial showing the process of creating a photo gallery to be distributed on tablets.: <a href=\"https://youtu.be/o-fAWoBMe_M\">https://youtu.be/o-fAWoBMe_M</a></p>\n\n<p><a href=\"/preview/pre/fytg3fxoff3g1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=ec7e6c21ab020cc02b2d55cd0863bdd47c6b02ea\">/preview/pre/fytg3fxoff3g1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=ec7e6c21ab020cc02b2d55cd0863bdd47c6b02ea</a></p>\n\n<p><strong>Array manipulation</strong><br/>\nThe new array manipulation feature allows for more comprehensive data management in your creations, enabling the development of more complex products. Check item 6 of the &quot;scripting actions&quot; manual for more details about this new feature: <a href=\"https://tilbuci.com.br/files/TilBuci-ScriptingActions.pdf\">https://tilbuci.com.br/files/TilBuci-ScriptingActions.pdf</a></p>\n\n<p><a href=\"/preview/pre/0en5cwrpff3g1.jpg?width=2276&amp;format=pjpg&amp;auto=webp&amp;s=18a78dcfba2c5cf3eea51f25317a8b1c283997e4\">/preview/pre/0en5cwrpff3g1.jpg?width=2276&amp;format=pjpg&amp;auto=webp&amp;s=18a78dcfba2c5cf3eea51f25317a8b1c283997e4</a></p>\n\n<p><strong>Multiple selection and instance organization</strong><br/>\nThe &quot;instances&quot; right tab has gained several new features to simplify your content creation work.</p>\n\n<ul>\n<li>Copy/paste: it is now possible to copy one or more instances and paste them into another keyframe or scene within the movie. This feature also works between different workspaces open in the same movie.</li>\n<li>Multiple selection: by holding down the ctrl (or command) key, it is now possible to select multiple instances at once by clicking at their name on the list.</li>\n<li>Instance arrangement: with multiple selection, traditional features such as relative alignment, space distribution, and repositioning are now available.</li>\n</ul>\n\n<p><a href=\"/preview/pre/a4ype6wqff3g1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=e326045cd53f1e89458e77b0b2ae0c1b62147d78\">/preview/pre/a4ype6wqff3g1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=e326045cd53f1e89458e77b0b2ae0c1b62147d78</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Janice: App for Viewing Large JSON Files; for Developers and Data Scientists",
       "link": "https://medevel.com/janice-json-file-viewer/",
       "guid": "https://medevel.com/janice-json-file-viewer/",
@@ -171,7 +189,7 @@
       "guid": "https://github.com/makestatic/udu",
       "pubDate": "Sat, 15 Nov 2025 02:37:06 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxg6zv/udu_extremely_fast_gnu_du_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91�� (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91× (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ow2h9a/i_built_bentopdf_an_open_source_privacy_first_pdf/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone! </p>\n\n<p>BentoPDF is a privacy first PDF toolkit that runs entirely in your browser. It&#39;s fast, light weight and you can self host it too.</p>\n\n<p>Any feedback or suggestions are welcome. Thank you.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I did introduce FOSS Software in the company I work for and now I feel bad",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1ovdfhf/i_did_introduce_foss_software_in_the_company_i/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1ovdfhf/i_did_introduce_foss_software_in_the_company_i/",
-      "pubDate": "Wed, 12 Nov 2025 18:37:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ovdfhf/i_did_introduce_foss_software_in_the_company_i/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>Little rant here:</p>\n\n<p>I did start a new job 4 years ago as one of two IT-guys in an engineering office, about 80 people working there.</p>\n\n<p>When I started working there, they used a lot of cracks and also wasted a lot of money on various sofrware licenes. The company also was charged with fines vor using cracked software by the original vendor.</p>\n\n<p>I did introduce software like Handbrake, ShareX, inkscape and other useful software. Even using checkmk for server and network monitoring and FreeCAD found a use case too.</p>\n\n<p>I told the other IT guy (he is the boss of IT department) we could set up a yearly donation budget to donate to various FOSS software every year.</p>\n\n<p>The answer was &quot;no, why should we pay if we do not have to?&quot;.</p>\n\n<p>It is so sad that a lot of people are FOSS vampires, and if companies make heavy use of foss and give nothing back I do get angry.</p>\n\n<p>I will stop finding FOSS software at my workplace. Let them pay, they don&#39;t deserve FOSS.</p>\n\n<p>Edit: thank you for all your kind answers! You are awesome!</p>\n\n<p>I can create bug reports, manuals and so during my working hours. That&#39;s my way to contribute to FOSS in our company! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Feedie - TUI RSS feed reader with thumbnails",
-      "link": "https://jasco.website/feedie",
-      "guid": "https://jasco.website/feedie",
-      "pubDate": "Thu, 13 Nov 2025 23:24:24 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgfo4/feedie_tui_rss_feed_reader_with_thumbnails/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgfo4/feedie_tui_rss_feed_reader_with_thumbnails/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-25T15:43:43.109Z"
+  "lastFetched": "2025-11-25T16:57:36.715Z"
 }
