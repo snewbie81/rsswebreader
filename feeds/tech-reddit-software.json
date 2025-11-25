@@ -25,7 +25,90 @@
       "pubDate": "Mon, 24 Nov 2025 12:33:00 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>How broken it is that now non technical people can create a slop and pass it onto the 500-600 euro/day contractor to clean up and finish the vibe coded ai slop. How backwards is that. So now we re not only have to deal with half baked requirements, we&#39;ll also be starting with tech debt on projects that would had been greenfield and done from zero with proper scoping, planning, back and forths between business and tech team.</p>\n\n<p>we are setting a bad precedent and this is absolutely awful. </p>\n\n<p>/rant off</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>How broken it is that now non technical people can create a slop and pass it onto the 500-600 euro/day contractor to clean up and finish the vibe coded ai slop. How backwards is that. So now we re not only have to deal with half baked requirements, we'll also be starting with tech debt on projects that would had been greenfield and done from zero with proper scoping, planning, back and forths between business and tech team.</p>\n\n<p>we are setting a bad precedent and this is absolutely awful. </p>\n\n<p>/rant off</p>\n",
+        "textLength": 501,
+        "title": "A stakeholder just vibe coded a prototype, demoed it to board who liked it and now our contractor dev's gotta finish it. This is setting a bad precedent and Im fuming! - r/software",
+        "images": []
+      }
+    },
+    {
+      "title": "Best free CD burner software that allows you to drag and drop files to CD-RW?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
+      "pubDate": "Tue, 25 Nov 2025 00:12:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi</p>\n\n<p>So, like the title asks, what is some good recommended free CD burner software that allows you to drag and drop files to CD-RW discs? I&#39;ve tried BurnAware, but that seems to have issues even recognising and burning data to my disc. It keeps giving me an error 144. I have ImgBurn, but I can&#39;t find an option that allows you to keep writing to the disc. It just seems to write the files and that&#39;s it - you have to erase the entire thing and do it all over from scratch. If anyone&#39;s aware of what option I need to toggle for it to work, that would be awesome. Otherwise, what are some other good examples I could try?</p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Hi</p>\n\n<p>So, like the title asks, what is some good recommended free CD burner software that allows you to drag and drop files to CD-RW discs? I've tried BurnAware, but that seems to have issues even recognising and burning data to my disc. It keeps giving me an error 144. I have ImgBurn, but I can't find an option that allows you to keep writing to the disc. It just seems to write the files and that's it - you have to erase the entire thing and do it all over from scratch. If anyone's aware of what option I need to toggle for it to work, that would be awesome. Otherwise, what are some other good examples I could try?</p>\n\n<p>Thanks</p>\n",
+        "textLength": 628,
+        "title": "Best free CD burner software that allows you to drag and drop files to CD-RW? - r/software",
+        "images": []
+      }
+    },
+    {
+      "title": "Software for measuring pupil dilation from 2 different frames of a video",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
+      "pubDate": "Tue, 25 Nov 2025 02:45:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m a veterinary PhD student, and I&#39;d like to ask for some tips on softwares that might help me measure the dilation of a cow&#39;s pupils. I&#39;m recording the moment of dilation in 4k quality with 60 frames per second, and my idea is to measure the distance between the borders of the pupils in different frames in order to stipulate dilation speed and intensity. I tried to illustrate my idea in the photo.</p>\n\n<p><a href=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\">/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52</a></p>\n\n<p>Since the cows move a lot. using a scale in the video is a little difficult, so I plan on using the proportion between those two lines for the analysis. If someone could recommend me a software that enables me to move the video frame by frame (like a slideshow, perhaps?) and draw lines with measurements, either in the video or in images extracted from the video, that would be much appreciated. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Hello. I'm a veterinary PhD student, and I'd like to ask for some tips on softwares that might help me measure the dilation of a cow's pupils. I'm recording the moment of dilation in 4k quality with 60 frames per second, and my idea is to measure the distance between the borders of the pupils in different frames in order to stipulate dilation speed and intensity. I tried to illustrate my idea in the photo.</p>\n\n<figure><a href=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\"><img loading=\"lazy\" src=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\"></a></figure>\n\n<p>Since the cows move a lot. using a scale in the video is a little difficult, so I plan on using the proportion between those two lines for the analysis. If someone could recommend me a software that enables me to move the video frame by frame (like a slideshow, perhaps?) and draw lines with measurements, either in the video or in images extracted from the video, that would be much appreciated. </p>\n",
+        "textLength": 809,
+        "title": "Software for measuring pupil dilation from 2 different frames of a video - r/software",
+        "images": [
+          "/preview/pre/i3sypggwfb3g1.jpg?width=1181&format=pjpg&auto=webp&s=e781298a56e922c5bf4843ee15e238351d2ead52"
+        ]
+      }
+    },
+    {
+      "title": "SW to organize music collection?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
+      "pubDate": "Tue, 25 Nov 2025 02:09:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have about 100gb of music I would like to organize. I&#39;m looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it&#39;s open source that would be a bonus. TIA</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>I have about 100gb of music I would like to organize. I'm looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it's open source that would be a bonus. TIA</p>\n",
+        "textLength": 249,
+        "title": "SW to organize music collection? - r/software",
+        "images": []
+      }
+    },
+    {
+      "title": "Looking for a lightweight/fast pdf reader",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/",
+      "pubDate": "Tue, 25 Nov 2025 02:09:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use adobe acrobat pro and I really like the software it works well it’s just painfully slow even with very capable computers is there any alternative out their with the same features (maybe less the ai bloat) that’s much quicker.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>I use adobe acrobat pro and I really like the software it works well it’s just painfully slow even with very capable computers is there any alternative out their with the same features (maybe less the ai bloat) that’s much quicker.</p>\n",
+        "textLength": 231,
+        "title": "Looking for a lightweight/fast pdf reader - r/software",
+        "images": []
+      }
+    },
+    {
+      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
+      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I'll use Libre if there's no other alternative, but i'd love to know if there's a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n",
+        "textLength": 520,
+        "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative? - r/software",
+        "images": []
+      }
     },
     {
       "title": "What are some great apps you love that are expensive, abandoned, or closed-source?",
@@ -34,7 +117,43 @@
       "pubDate": "Mon, 24 Nov 2025 16:18:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m looking for inspiration for a new project and I want to hear about apps you <em>wish</em> had a cheaper alternative, an open-source clone, or just… any update at all.</p>\n\n<p>Could be:<br/>\n• Amazing but insanely overpriced<br/>\n• Great idea but abandoned<br/>\n• Closed-source with no real competitors<br/>\n• Tools you rely on that desperately need a modern remake<br/>\n• Niche apps that have a small but loyal cult following</p>\n\n<p>What apps come to mind?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>I’m looking for inspiration for a new project and I want to hear about apps you <em>wish</em> had a cheaper alternative, an open-source clone, or just… any update at all.</p>\n\n<p>Could be:<br>\n• Amazing but insanely overpriced<br>\n• Great idea but abandoned<br>\n• Closed-source with no real competitors<br>\n• Tools you rely on that desperately need a modern remake<br>\n• Niche apps that have a small but loyal cult following</p>\n\n<p>What apps come to mind?</p>\n",
+        "textLength": 413,
+        "title": "What are some great apps you love that are expensive, abandoned, or closed-source? - r/software",
+        "images": []
+      }
+    },
+    {
+      "title": "Burning CDs for car stereo",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/",
+      "pubDate": "Tue, 25 Nov 2025 00:30:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This might be the wrong place but I have been trying to burn CDs to play in my 2009 Toyota Prius. I have done this successfully twice before with the first two discs I burned but every one since had not worked and will not play in my car. I am using Maxwell brand CD-R discs, I have tried MP3 files and WAV files and I am burning them at the lowest speed my computer will allow (10x) I don’t know what I am doing wrong but also how I was able to succeed with my first two attempts. Any help or ideas would be much appreciated. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>This might be the wrong place but I have been trying to burn CDs to play in my 2009 Toyota Prius. I have done this successfully twice before with the first two discs I burned but every one since had not worked and will not play in my car. I am using Maxwell brand CD-R discs, I have tried MP3 files and WAV files and I am burning them at the lowest speed my computer will allow (10x) I don’t know what I am doing wrong but also how I was able to succeed with my first two attempts. Any help or ideas would be much appreciated. </p>\n",
+        "textLength": 526,
+        "title": "Burning CDs for car stereo - r/software",
+        "images": []
+      }
+    },
+    {
+      "title": "Can you start a shut off or sleeping pc woth windows remote desktop?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/",
+      "pubDate": "Tue, 25 Nov 2025 00:00:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
+      "thumbnail": null,
+      "fullContent": {
+        "content": "\n\t\t\t\n\t<div id=\"column_one\">\n\t\t<!-- POST CONTENT -->\n<div class=\"post highlighted\">\n\t<p class=\"post_header\">\n\t\t<a class=\"post_subreddit\" href=\"/r/software\">r/software</a>\n\t\t<span class=\"dot\">•</span>\n\t\t<a class=\"post_author \" href=\"/user/Commercial_Tune_4002\">u/Commercial_Tune_4002</a>\n\t\t\n\t\t<span class=\"dot\">•</span>\n\t\t<span class=\"created\" title=\"Nov 25 2025, 00:00:37 UTC\">3h ago</span>\n\t\t\n\t</p>\n\t<h1 class=\"post_title\">\n\t\t\n\t\t\t<a href=\"/r/software/search?q=flair_name%3A%22Looking for software :Windows: :Searching:%22&amp;restrict_sr=on\" class=\"post_flair\" style=\"color:black; background:#edeff1;\"><span>Looking for software </span><span class=\"emoji\" style=\"background-image:url('/emoji/apj4q22318361_t5_2qh19/Windows');\"></span><span> </span><span class=\"emoji\" style=\"background-image:url('/emoji/5ht79wq748361_t5_2qh19/Searching');\"></span></a>\n\t\t\n\t\tCan you start a shut off or sleeping pc woth windows remote desktop?\n\t\t\n\t\t\n\t</h1>\n\n\t<!-- POST MEDIA -->\n\t<!-- post_type: self -->\n\t\n\n\t<!-- POST BODY -->\n\t<div class=\"post_body\">\n\t\t\n\t\t\n\t\n\t</div>\n\t<div class=\"post_score\" title=\"1\">\n    \n    1\n    \n    <span class=\"label\"> Upvotes</span></div>\n\t<div class=\"post_footer\">\n\t\t<ul id=\"post_links\">\n\t\t\t<li>\n\t\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/\">\n\t\t\t\t\t<span class=\"desktop_item\">perma</span>link\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t\n\t\t\t\n\t\t\t\n<li>\n\t<a href=\"https://reddit.com/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/\" rel=\"nofollow\">reddit</a>\n\n\t\n</li>\n\n\n\t\t\t\n\t\t</ul>\n\t\t<p>60%<span id=\"upvoted\"> Upvoted</span></p>\n\t</div>\n</div>\n\n\t\t<!-- SORT FORM -->\n       <div id=\"commentQueryForms\">\n\t\t<form id=\"sort\">\n\t\t\t<p id=\"comment_count\">6 comments <span id=\"sorted_by\">sorted by </span></p>\n\t\t\t<select name=\"sort\" title=\"Sort comments by\" id=\"commentSortSelect\"> \n\t\t\t\t\n\t\t<option value=\"confidence\" selected=\"\">\n\t\t\tConfidence\n\t\t</option>\n\t\n\t\t<option value=\"top\">\n\t\t\tTop\n\t\t</option>\n\t\n\t\t<option value=\"new\">\n\t\t\tNew\n\t\t</option>\n\t\n\t\t<option value=\"controversial\">\n\t\t\tControversial\n\t\t</option>\n\t\n\t\t<option value=\"old\">\n\t\t\tOld\n\t\t</option>\n\t\n      </select>\n        <button id=\"sort_submit\" class=\"submit\">\n          <svg width=\"15\" viewBox=\"0 0 110 100\" fill=\"none\" stroke-width=\"10\" stroke-linecap=\"round\">\n              <path d=\"M20 50 H100\"></path>\n              <path d=\"M75 15 L100 50 L75 85\"></path>\n              →\n          </svg>\n      </button>\n      </form>\n      <!-- SEARCH FORM -->\n      <form id=\"sort\">\n        <input id=\"search\" class=\"commentQuery\" type=\"search\" name=\"q\" value=\"\" placeholder=\"Search comments\">\n        <input type=\"hidden\" name=\"type\" value=\"comment\">\n      </form>\n      </div>\n  \n      <div>\n      \n      </div>\n\n\t\t<!-- COMMENTS -->\n\t\t<div class=\"thread\">\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n<div id=\"nqmd4ct\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"2\">\n         \n         2\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/LeaveMickeyOutOfThis\">u/LeaveMickeyOutOfThis</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmd4ct/?context=3#nqmd4ct\" class=\"created\" title=\"Nov 25 2025, 00:11:02 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>If your machine supports it, then you can use wake on LAN first to turn on the machine, then once booted use Remote Desktop.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</div><div class=\"thread\">\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n<div id=\"nqmdwcb\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"1\">\n         \n         1\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/ShriCamel\">u/ShriCamel</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmdwcb/?context=3#nqmdwcb\" class=\"created\" title=\"Nov 25 2025, 00:15:39 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>Not with Remote Desktop, but many years ago I used a utility that sent a \"magic packet\" to a shut down PC to start it remotely.</p>\n\n<p>For it to work required its network card to be\"listening\" (ie not completely powered down) , which IIRC required making a change in the BIOS and/or Windows registry (I forget the specifics).</p>\n\n<p>As far as I recall, you also needed the network card's MAC address, and to be able to send the request (to start) from a machine on the same LAN (ie it wasn't an \"over the Internet\" feature).</p>\n\n<p>Sorry that this doesn't address your question directly, but be advised that it's possible in principle.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</div><div class=\"thread\">\n\t\t\t\n\t\t\t\n\t\t\t\n\n\n<div id=\"nqmbrya\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"0\">\n         \n         0\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/OgdruJahad\">u/OgdruJahad</a>\n\t\t\t\n\t\t\t\n\t\t\t\t<small class=\"author_flair\"><span>Helpful Ⅲ</span></small>\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmbrya/?context=3#nqmbrya\" class=\"created\" title=\"Nov 25 2025, 00:02:56 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>shut down is easy , open cmd in admin then use shutdown command:</p>\n\n<blockquote>\n<p>shutdown -s -t 00</p>\n</blockquote>\n\n<p>Then press enter</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\n\n<div id=\"nqmcbuk\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"2\">\n         \n         2\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/vdday\">u/vdday</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmcbuk/?context=3#nqmcbuk\" class=\"created\" title=\"Nov 25 2025, 00:06:19 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>Shit off is easy, starting a shutdown device is what they are asking. Only way I know to do that is through the BIOS.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\n\n<div id=\"nqmf1al\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"1\">\n         \n         1\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/felix1429\">u/felix1429</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmf1al/?context=3#nqmf1al\" class=\"created\" title=\"Nov 25 2025, 00:22:17 UTC\">3h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>If wake on LAN is enabled in the BIOS you can send a magic packet to power on a turned off PC.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\n\n<div id=\"nqmls9j\" class=\"comment\">\n\t<div class=\"comment_left\">\n    <p class=\"comment_score\" title=\"1\">\n         \n         1\n         \n    </p>\n        <div class=\"line\"></div>\n\t</div>\n\t<details class=\"comment_right\" open=\"\">\n\t\t<summary class=\"comment_data\">\n\t\t\t\n\t\t\t\t<a class=\"comment_author  \" href=\"/user/Cast_Iron_Skillet\">u/Cast_Iron_Skillet</a>\n\t\t\t\n\t\t\t\n\t\t\t<a href=\"/r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/nqmls9j/?context=3#nqmls9j\" class=\"created\" title=\"Nov 25 2025, 01:02:12 UTC\">2h ago</a>\n\t\t\t\n\t\t\t\n\t\t</summary>\n\t\t\n\t\t<div class=\"comment_body \"><div class=\"md\"><p>In all my years I've not seen this executed properly with a typical consumer PC, even when enabled.</p>\n</div></div>\n\t\t\n\t\t<blockquote class=\"replies\">\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</blockquote>\n\t</details>\n</div>\n\n\t\t</div>\n\n\t</div>\n\n\t\t",
+        "textLength": 2613,
+        "title": "Can you start a shut off or sleeping pc woth windows remote desktop? - r/software",
+        "images": []
+      }
     },
     {
       "title": "Does windows come with a app that works like teamviewer?",
@@ -46,28 +165,13 @@
       "thumbnail": null
     },
     {
-      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "What are the top 3 features of IDM that you like which you think other download managers don't have as good as IDM?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p5p7j6/what_are_the_top_3_features_of_idm_that_you_like/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p5p7j6/what_are_the_top_3_features_of_idm_that_you_like/",
       "pubDate": "Mon, 24 Nov 2025 18:38:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5p7j6/what_are_the_top_3_features_of_idm_that_you_like/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Question: Title </p>\n\n<p>The Internet download manager is the GOAT software that i have been using since my childhood. I think it&#39;s  extension is its greatest feature, along with the ability to resume and parallel download. </p>\n\n<p>What do you guys think?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Question: Title </p>\n\n<p>The Internet download manager is the GOAT software that i have been using since my childhood. I think it's  extension is its greatest feature, along with the ability to resume and parallel download. </p>\n\n<p>What do you guys think?</p>\n",
-        "textLength": 242,
-        "title": "What are the top 3 features of IDM that you like which you think other download managers don't have as good as IDM? - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "Convert PDF to HTML, CSS",
@@ -76,13 +180,7 @@
       "pubDate": "Mon, 24 Nov 2025 16:20:57 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5ldgu/convert_pdf_to_html_css/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5ldgu/convert_pdf_to_html_css/'>Comments</a>",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Hi there, </p>\n\n<p>I want to know if there any reliable tool that convert the pdf to html preserving the layout (colors, fonts, structure etc). I tried couple of tools but they are not doing it perfectly. I want pixel perfect html,css code</p>\n",
-        "textLength": 232,
-        "title": "Convert PDF to HTML, CSS - r/pdf",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "Extract text OCR from video",
@@ -91,13 +189,7 @@
       "pubDate": "Mon, 24 Nov 2025 15:37:23 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5k7fm/extract_text_ocr_from_video/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Greetings to all.After i tryied with all possible ways to extract text from a popup board with no result, i tryied to manage it by recording a video with board&#39;s contects and then convert to text.Can someone suggest me a free online converter to manage this please? I just want to extract the video&#39;s included text (not sound) and paste it somewhere so to copy it. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Greetings to all.After i tryied with all possible ways to extract text from a popup board with no result, i tryied to manage it by recording a video with board's contects and then convert to text.Can someone suggest me a free online converter to manage this please? I just want to extract the video's included text (not sound) and paste it somewhere so to copy it. </p>\n",
-        "textLength": 364,
-        "title": "Extract text OCR from video - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "Which program to use to add audio file to video file en masse?",
@@ -106,13 +198,7 @@
       "pubDate": "Mon, 24 Nov 2025 15:03:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5jcjd/which_program_to_use_to_add_audio_file_to_video/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a TV show for which I have good video, but bad audio. I have the same tv show with bad video and good audio and would like to merge the audiofile to the good one.</p>\n\n<p>There is software to do it per video file, but anything to do it for 100+ video files at the same time?</p>\n\n<p>Prefrably on Windows, but I can also use my Linux laptop</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>I have a TV show for which I have good video, but bad audio. I have the same tv show with bad video and good audio and would like to merge the audiofile to the good one.</p>\n\n<p>There is software to do it per video file, but anything to do it for 100+ video files at the same time?</p>\n\n<p>Prefrably on Windows, but I can also use my Linux laptop</p>\n",
-        "textLength": 332,
-        "title": "Which program to use to add audio file to video file en masse? - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "ooking for a Freelance Full-Stack Dev With AI Integration Experience (Paid, Fixed-Price, Multi-Milestone Project)",
@@ -121,13 +207,7 @@
       "pubDate": "Mon, 24 Nov 2025 11:48:11 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5ezm5/ooking_for_a_freelance_fullstack_dev_with_ai/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for a Freelance Full-Stack Dev With AI Integration Experience (Paid, Fixed-Price, Multi-Milestone Project)</p>\n\n<p>I’m looking for a strong full-stack developer (or a small 2–3 person team) to build a paid MVP for a SaaS product.</p>\n\n<p>The core of the project involves:\n    • building a clean mobile-first web app\n    • integrating an LLM API (OpenAI/Claude/etc)\n    • handling structured input → formatted output\n    • generating downloadable PDFs\n    • basic user accounts + subscription system\n    • optional OCR/image-to-text down the line</p>\n\n<p>I’m only sharing full details privately, but this is not a chatbot, and not a generic AI wrapper — it’s a specialized workflow tool for a specific industry.</p>\n\n<p>Requirements:\n    • Strong portfolio of SaaS or AI-powered apps\n    • Experience with at least one major LLM API\n    • Able to commit to fixed-price, milestone-based work\n    • Excellent communication and consistent progress updates\n    • Fast turnaround (2–6 weeks for an MVP)</p>\n\n<p>Budget:\n$12k–17k AUD depending on experience and delivered quality.\nMilestones paid as completed (not all upfront).</p>\n\n<p>If you’re interested, send me:\n    1.  Your portfolio (live apps)\n    2.  AI/LLM projects you’ve worked on\n    3.  Your proposed tech stack\n    4.  Your availability</p>\n\n<p>I’ll share more details if you look like a good fit.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null,
-      "fullContent": {
-        "content": "<p>Looking for a Freelance Full-Stack Dev With AI Integration Experience (Paid, Fixed-Price, Multi-Milestone Project)</p>\n\n<p>I’m looking for a strong full-stack developer (or a small 2–3 person team) to build a paid MVP for a SaaS product.</p>\n\n<p>The core of the project involves:\n    • building a clean mobile-first web app\n    • integrating an LLM API (OpenAI/Claude/etc)\n    • handling structured input → formatted output\n    • generating downloadable PDFs\n    • basic user accounts + subscription system\n    • optional OCR/image-to-text down the line</p>\n\n<p>I’m only sharing full details privately, but this is not a chatbot, and not a generic AI wrapper — it’s a specialized workflow tool for a specific industry.</p>\n\n<p>Requirements:\n    • Strong portfolio of SaaS or AI-powered apps\n    • Experience with at least one major LLM API\n    • Able to commit to fixed-price, milestone-based work\n    • Excellent communication and consistent progress updates\n    • Fast turnaround (2–6 weeks for an MVP)</p>\n\n<p>Budget:\n$12k–17k AUD depending on experience and delivered quality.\nMilestones paid as completed (not all upfront).</p>\n\n<p>If you’re interested, send me:\n    1.  Your portfolio (live apps)\n    2.  AI/LLM projects you’ve worked on\n    3.  Your proposed tech stack\n    4.  Your availability</p>\n\n<p>I’ll share more details if you look like a good fit.</p>\n",
-        "textLength": 1314,
-        "title": "ooking for a Freelance Full-Stack Dev With AI Integration Experience (Paid, Fixed-Price, Multi-Milestone Project) - r/software",
-        "images": []
-      }
+      "thumbnail": null
     },
     {
       "title": "AllDup how to remove files from one of the two folders?",
@@ -209,63 +289,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4qxd0/titan_wired_led_gaming_from_five_below/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to figure out how to change the mapping of the button next to the left click, by default it is set as left double click</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Editor that's like Microsoft Word for Android that isn't Microsoft Word nor Google Docs",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4qh1r/editor_thats_like_microsoft_word_for_android_that/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4qh1r/editor_thats_like_microsoft_word_for_android_that/",
-      "pubDate": "Sun, 23 Nov 2025 16:08:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4qh1r/editor_thats_like_microsoft_word_for_android_that/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just want an app that can edit .txt .rtf .docx .pdf .doc etc... files that isn&#39;t google docs or microsoft word, but has similar complexity. Can&#39;t stand having apps that I have to make an account for or subscribe to. Will not mind having to pay for an app, but only if it&#39;s not subscription-based. Bonus points if it can be used completely offline with no issue and has no in-app purchases.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for an open source data usage tracker",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4rk9r/looking_for_an_open_source_data_usage_tracker/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4rk9r/looking_for_an_open_source_data_usage_tracker/",
-      "pubDate": "Sun, 23 Nov 2025 16:52:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4rk9r/looking_for_an_open_source_data_usage_tracker/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>can you guys suggest me an open source app for win 11, that can track total data used by individual apps in a given duration. Would be great if it can also show how much of that data was uploaded and downloaded. (the windows built in data usage tracker is not enough)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "[request] Trying to make an app portable",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4iv4t/request_trying_to_make_an_app_portable/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4iv4t/request_trying_to_make_an_app_portable/",
-      "pubDate": "Sun, 23 Nov 2025 09:49:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4iv4t/request_trying_to_make_an_app_portable/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to make a very old windows app portable with no success until now. It’s called PSPBrew and is used to make PSP Eboots. It can still be installed in Windows 11 without problems and works fantastic, but when packed as portable with cameyo, thinapp, enigma, it always gives an error.\nI have also tried portableapps.com (software and forum) but it’s not been very helpful until now…\nHere is the link to the forum post there: <a href=\"https://portableapps.com/node/79591\">https://portableapps.com/node/79591</a>\nCan someone knowledgeable in portable app making help me?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Any good upscaling softwares?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4llif/any_good_upscaling_softwares/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4llif/any_good_upscaling_softwares/",
-      "pubDate": "Sun, 23 Nov 2025 12:31:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4llif/any_good_upscaling_softwares/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I want to upload vids on tiktok but even when i use capcut to export in 2k or 4k they always end up low quality. I&#39;ve checked my recording settings and everything I record in 1440p and still low quality when exported. Any free software that can help me upscale and actually have it look good on tiktok (willing to even pay if any suggestion works)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for a simple software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4li1s/looking_for_a_simple_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4li1s/looking_for_a_simple_software/",
-      "pubDate": "Sun, 23 Nov 2025 12:26:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4li1s/looking_for_a_simple_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello guys,<br/>\n(I&#39;m not a native speaker sry, i&#39;ll try my best)</p>\n\n<p>I&#39;m looking for a simple software that i could use with REW. I just need an alarm when the decibels are exceeding a certain value. </p>\n\n<p><a href=\"/preview/pre/ufhos3yq103g1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=2219cb1a7a5361a12bdcb23e047705e67a54a3ab\">/preview/pre/ufhos3yq103g1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=2219cb1a7a5361a12bdcb23e047705e67a54a3ab</a></p>\n\n<p>This is the &quot;Real Time decibels Analyser&quot; tab (RTA) in REW, and i would like a little software that could create a rectangulaire shape and read value and alarm me when it exceeds a certain value. (i use  win 10)</p>\n\n<p>Maybe it already exist ?<br/>\nThank you for your help</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Paint alternative with saving settings options?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4dfnh/paint_alternative_with_saving_settings_options/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4dfnh/paint_alternative_with_saving_settings_options/",
-      "pubDate": "Sun, 23 Nov 2025 04:23:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4dfnh/paint_alternative_with_saving_settings_options/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I want something like paint but i want the selected settings to be default (for example rectangle + red color) so every time i open it, i can use it right away.<br/>\ni want to be able to paste screenshotted images and mark text etc... (i added an example picture)<br/>\nIt would make studying a whole lot easier.</p>\n\n<p>Does anyone have or use it for studying?</p>\n\n<p>Thanks in advance :)</p>\n\n<p><a href=\"/preview/pre/8kbcj6ynnx2g1.png?width=1078&amp;format=png&amp;auto=webp&amp;s=40f550aadb915d5e62bfe7789b32f6cde2d7e9bd\">/preview/pre/8kbcj6ynnx2g1.png?width=1078&amp;format=png&amp;auto=webp&amp;s=40f550aadb915d5e62bfe7789b32f6cde2d7e9bd</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-24T23:42:25.409Z"
+  "lastFetched": "2025-11-25T03:48:33.182Z"
 }

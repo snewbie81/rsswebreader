@@ -54,7 +54,13 @@
       "pubDate": "Sat, 22 Nov 2025 17:19:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p3yptz/open_source_i_built_a_library_to_generate_pdfs/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p3yptz/open_source_i_built_a_library_to_generate_pdfs/'>Comments</a>",
-      "thumbnail": null
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>Instead of dealing with Bitmaps, XML , or HTML, you can just pass a <strong>Composable</strong> lambda to the generator, and it creates a vector PDF.</p>\n\n<p><strong>What it does:</strong> It allows you to write  <strong>Composable functions</strong> and print them to a PDF file. It supports multi-page documents and standard page sizes (A4, Letter).</p>\n\n<p><strong>How it works:</strong> It attaches a  <strong>ComposeView</strong> to the <strong>WindowManager</strong>, and then draws the view directly to <strong>PdfDocument</strong> Canvas.</p>\n\n<pre><code>val pdfGenerator = PdfGenerator()\npdfGenerator.generate(\n   destination = file,\n   pageSize = PdfPageSize.A4,\n   pages = listOf {\n       Column(modifier = Modifier.background(Color.White)) {\n           Text(\"Invoice #1024\", fontSize = 24.sp)\n           Text(\"Total: $50.00\")\n       }\n   }\n)\n</code></pre>\n\n<p>It is currently in beta</p>\n\n<p>LINK: <a href=\"https://github.com/jksalcedo/compose-to-pdf\">https://github.com/jksalcedo/compose-to-pdf</a></p>\n\n<p><a href=\"/link/1p3y595/video/3j9pgefcdu2g1/player\">DEMO</a></p>\n",
+        "textLength": 788,
+        "title": "[Open Source] I built a library to generate PDFs directly from Jetpack Compose (No XML/HTML required) - r/androiddev",
+        "images": []
+      }
     },
     {
       "title": "Looking for a simple FOSS video editor",
@@ -119,7 +125,16 @@
       "pubDate": "Thu, 20 Nov 2025 05:59:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in SEO and was shocked that the industry normalizes paying $250-1000+/year for what&#39;s essentially HTTP requests + HTML parsing. Screaming Frog charges $259/year for a desktop app that doesn&#39;t even use their servers. The free version caps at 500 URLs to force upgrades.<br/>\nSo I built LibreCrawl:</p>\n\n<ul>\n<li>MIT licensed, fully FOSS</li>\n<li>Self-hosted web interface (multi-tenant)</li>\n<li>Plugin system - drop .js files in a folder to add custom analysis tabs</li>\n<li>JavaScript rendering via Playwright</li>\n<li>No URL limits, no subscriptions, no phone-home</li>\n<li>Handles 1M+ URLs with real-time memory profiling</li>\n</ul>\n\n<p>Just shipped a complete plugin API that lets anyone build custom SEO analyzers without touching backend code. Ships with a working E-E-A-T analyzer as an example.</p>\n\n<p>GitHub: <a href=\"https://github.com/PhialsBasement/LibreCrawl\">https://github.com/PhialsBasement/LibreCrawl</a></p>\n\n<p>Demo: <a href=\"https://librecrawl.com/app/\">https://librecrawl.com/app/</a> (3 free crawls - account creation and plugins is disabled due to some server limitations, to get the full experience pls self host, its very easy)</p>\n\n<p>Plugin Workshop: <a href=\"https://librecrawl.com/workshop/\">https://librecrawl.com/workshop/</a></p>\n\n<p>The goal isn&#39;t to compete with Screaming Frog, it&#39;s to eliminate the entire rent-seeking model in SEO tools. So please give me your feedback and ideas, and i will help make it true. If you want to make plugins, publish them in github discussions</p>\n\n<p><a href=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\">/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5</a></p>\n\n<p><a href=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\">/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
+      "thumbnail": null,
+      "fullContent": {
+        "content": "<p>I work in SEO and was shocked that the industry normalizes paying $250-1000+/year for what's essentially HTTP requests + HTML parsing. Screaming Frog charges $259/year for a desktop app that doesn't even use their servers. The free version caps at 500 URLs to force upgrades.<br>\nSo I built LibreCrawl:</p>\n\n<ul>\n<li>MIT licensed, fully FOSS</li>\n<li>Self-hosted web interface (multi-tenant)</li>\n<li>Plugin system - drop .js files in a folder to add custom analysis tabs</li>\n<li>JavaScript rendering via Playwright</li>\n<li>No URL limits, no subscriptions, no phone-home</li>\n<li>Handles 1M+ URLs with real-time memory profiling</li>\n</ul>\n\n<p>Just shipped a complete plugin API that lets anyone build custom SEO analyzers without touching backend code. Ships with a working E-E-A-T analyzer as an example.</p>\n\n<p>GitHub: <a href=\"https://github.com/PhialsBasement/LibreCrawl\">https://github.com/PhialsBasement/LibreCrawl</a></p>\n\n<p>Demo: <a href=\"https://librecrawl.com/app/\">https://librecrawl.com/app/</a> (3 free crawls - account creation and plugins is disabled due to some server limitations, to get the full experience pls self host, its very easy)</p>\n\n<p>Plugin Workshop: <a href=\"https://librecrawl.com/workshop/\">https://librecrawl.com/workshop/</a></p>\n\n<p>The goal isn't to compete with Screaming Frog, it's to eliminate the entire rent-seeking model in SEO tools. So please give me your feedback and ideas, and i will help make it true. If you want to make plugins, publish them in github discussions</p>\n\n<figure><a href=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\"><img loading=\"lazy\" src=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\"></a></figure>\n\n<figure><a href=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\"><img loading=\"lazy\" src=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\"></a></figure>\n",
+        "textLength": 1268,
+        "title": "I got frustrated with Screaming Frog's $259/year pricing for a desktop SEO crawler, so I built LibreCrawl - a FOSS alternative with a plugin system - r/foss",
+        "images": [
+          "/preview/pre/e4vs515eqc2g1.png?width=1888&format=png&auto=webp&s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5",
+          "/preview/pre/e7os91sgqc2g1.png?width=1885&format=png&auto=webp&s=93aede8a15e8b7b18915e5050d98b58645e50640"
+        ]
+      }
     },
     {
       "title": "Dotkeep: A simple dotfile manager/symlink farm",
@@ -214,7 +229,7 @@
       "guid": "https://github.com/makestatic/udu",
       "pubDate": "Sat, 15 Nov 2025 02:37:06 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxg6zv/udu_extremely_fast_gnu_du_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91�� (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91× (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -274,5 +289,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-24T23:39:36.373Z"
+  "lastFetched": "2025-11-25T03:45:43.841Z"
 }
