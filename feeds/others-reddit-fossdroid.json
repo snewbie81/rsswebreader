@@ -49,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "Taison v1.1.0 release - A manga reader",
-      "link": "/img/nm08trt9113g1.png",
-      "guid": "/img/nm08trt9113g1.png",
-      "pubDate": "Sun, 23 Nov 2025 15:43:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4puf2/taison_v110_release_a_manga_reader/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed “active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Image search aka Google Lens alternative",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/",
       "pubDate": "Mon, 24 Nov 2025 06:07:30 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So far got nothing.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Taison v1.1.0 release - A manga reader",
+      "link": "/img/nm08trt9113g1.png",
+      "guid": "/img/nm08trt9113g1.png",
+      "pubDate": "Sun, 23 Nov 2025 15:43:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4puf2/taison_v110_release_a_manga_reader/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed “active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T06:59:32.658Z"
+  "lastFetched": "2025-11-25T07:35:15.462Z"
 }

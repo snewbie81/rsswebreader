@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Poets are now cybersecurity threats: Researchers used 'adversarial poetry' to trick AI into ignoring its safety guard rails and it worked 62% of the time",
-      "link": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
-      "guid": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
-      "pubDate": "Mon, 24 Nov 2025 13:09:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
       "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
       "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
       "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Poets are now cybersecurity threats: Researchers used 'adversarial poetry' to trick AI into ignoring its safety guard rails and it worked 62% of the time",
+      "link": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
+      "guid": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
+      "pubDate": "Mon, 24 Nov 2025 13:09:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -94,21 +94,21 @@
       "thumbnail": null
     },
     {
-      "title": "Banks, FBI Assessing Hack of Real Estate Finance Tech Vendor",
-      "link": "https://www.bloomberg.com/news/articles/2025-11-23/banks-fbi-assessing-hack-of-real-estate-finance-tech-vendor",
-      "guid": "https://www.bloomberg.com/news/articles/2025-11-23/banks-fbi-assessing-hack-of-real-estate-finance-tech-vendor",
-      "pubDate": "Mon, 24 Nov 2025 08:21:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5bmq5/banks_fbi_assessing_hack_of_real_estate_finance/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5bmq5/banks_fbi_assessing_hack_of_real_estate_finance/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
       "link": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
       "guid": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
       "pubDate": "Mon, 24 Nov 2025 16:34:03 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5lqr8/amazon_is_using_specialized_ai_agents_for_deep/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5lqr8/amazon_is_using_specialized_ai_agents_for_deep/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Banks, FBI Assessing Hack of Real Estate Finance Tech Vendor",
+      "link": "https://www.bloomberg.com/news/articles/2025-11-23/banks-fbi-assessing-hack-of-real-estate-finance-tech-vendor",
+      "guid": "https://www.bloomberg.com/news/articles/2025-11-23/banks-fbi-assessing-hack-of-real-estate-finance-tech-vendor",
+      "pubDate": "Mon, 24 Nov 2025 08:21:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5bmq5/banks_fbi_assessing_hack_of_real_estate_finance/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5bmq5/banks_fbi_assessing_hack_of_real_estate_finance/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -220,16 +220,16 @@
       "thumbnail": null
     },
     {
-      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
-      "guid": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
-      "pubDate": "Sat, 22 Nov 2025 08:02:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p3nrba/cisa_warns_oracle_identity_manager_rce_flaw_is/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p3nrba/cisa_warns_oracle_identity_manager_rce_flaw_is/'>Comments</a>",
+      "title": "Anthropic Study Finds AI Model ‘Turned Evil’ After Hacking Its Own Training",
+      "link": "https://time.com/7335746/ai-anthropic-claude-hack-evil/",
+      "guid": "https://time.com/7335746/ai-anthropic-claude-hack-evil/",
+      "pubDate": "Sun, 23 Nov 2025 14:50:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4ojyu/anthropic_study_finds_ai_model_turned_evil_after/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4ojyu/anthropic_study_finds_ai_model_turned_evil_after/'>Comments</a>",
       "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-25T06:59:52.036Z"
+  "lastFetched": "2025-11-25T07:35:34.679Z"
 }

@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "A stakeholder just vibe coded a prototype, demoed it to board who liked it and now our contractor dev's gotta finish it. This is setting a bad precedent and Im fuming!",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/",
-      "pubDate": "Mon, 24 Nov 2025 12:33:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>How broken it is that now non technical people can create a slop and pass it onto the 500-600 euro/day contractor to clean up and finish the vibe coded ai slop. How backwards is that. So now we re not only have to deal with half baked requirements, we&#39;ll also be starting with tech debt on projects that would had been greenfield and done from zero with proper scoping, planning, back and forths between business and tech team.</p>\n\n<p>we are setting a bad precedent and this is absolutely awful. </p>\n\n<p>/rant off</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Best free CD burner software that allows you to drag and drop files to CD-RW?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
       "pubDate": "Tue, 25 Nov 2025 00:12:36 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi</p>\n\n<p>So, like the title asks, what is some good recommended free CD burner software that allows you to drag and drop files to CD-RW discs? I&#39;ve tried BurnAware, but that seems to have issues even recognising and burning data to my disc. It keeps giving me an error 144. I have ImgBurn, but I can&#39;t find an option that allows you to keep writing to the disc. It just seems to write the files and that&#39;s it - you have to erase the entire thing and do it all over from scratch. If anyone&#39;s aware of what option I need to toggle for it to work, that would be awesome. Otherwise, what are some other good examples I could try?</p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A stakeholder just vibe coded a prototype, demoed it to board who liked it and now our contractor dev's gotta finish it. This is setting a bad precedent and Im fuming!",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/",
+      "pubDate": "Mon, 24 Nov 2025 12:33:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5fuvy/a_stakeholder_just_vibe_coded_a_prototype_demoed/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>How broken it is that now non technical people can create a slop and pass it onto the 500-600 euro/day contractor to clean up and finish the vibe coded ai slop. How backwards is that. So now we re not only have to deal with half baked requirements, we&#39;ll also be starting with tech debt on projects that would had been greenfield and done from zero with proper scoping, planning, back and forths between business and tech team.</p>\n\n<p>we are setting a bad precedent and this is absolutely awful. </p>\n\n<p>/rant off</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T06:59:49.628Z"
+  "lastFetched": "2025-11-25T07:35:32.532Z"
 }
