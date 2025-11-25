@@ -171,7 +171,7 @@
       "guid": "https://github.com/makestatic/udu",
       "pubDate": "Sat, 15 Nov 2025 02:37:06 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxg6zv/udu_extremely_fast_gnu_du_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91× (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91�� (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-25T05:42:28.153Z"
+  "lastFetched": "2025-11-25T06:59:30.075Z"
 }

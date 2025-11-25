@@ -31,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "SW to organize music collection?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
-      "pubDate": "Tue, 25 Nov 2025 02:09:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have about 100gb of music I would like to organize. I&#39;m looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it&#39;s open source that would be a bonus. TIA</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Winget update broke my PDF-XChange license. Vendor unable to provide old installer. Need v10.6.0.396.",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
       "pubDate": "Tue, 25 Nov 2025 05:38:58 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently ran winget update all on my Windows machine. Unfortunately, this automatically updated my PDF-XChange Editor Pro to a version released after my maintenance expired, reverting my paid software to &quot;Trial Mode&quot; with watermarks.\nI attempted to download my specific licensed version (10.6.0.396) from the official website, but the files are no longer there.\nI contacted support, and they explained that due to a new policy regarding piracy, security etc., they have removed older builds from their servers and are unable to provide a download link, even for valid license holders in my situation.\nI am now stuck with a valid perpetual license but no installer to use it. It is otherwise a great piece of software, with up to this problem exceptional support, but I simply do not want to extend my maintenance at this time.\nThe Ask: Does anyone have/know where to find a copy of the official installer for PDF-XChange Editor v10.6.0.396 (x64)? I want to avoid random third-party download sites (ironically, also for security reasons).</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "SW to organize music collection?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
+      "pubDate": "Tue, 25 Nov 2025 02:09:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have about 100gb of music I would like to organize. I&#39;m looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it&#39;s open source that would be a bonus. TIA</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -139,6 +139,15 @@
       "thumbnail": null
     },
     {
+      "title": "What is your field of software that allows you to work remotely?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5g40m/what_is_your_field_of_software_that_allows_you_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5g40m/what_is_your_field_of_software_that_allows_you_to/",
+      "pubDate": "Mon, 24 Nov 2025 12:45:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5g40m/what_is_your_field_of_software_that_allows_you_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello all. I write software for scientific research, which involves a lot of on-site testing, and so it can&#39;t be a fully remote role.<br/>\nI&#39;d like to go remote so I can travel more, and so I want to change my skillset to enable me to work in a job that supports this.</p>\n\n<p>Those of you who are remote- what is your job? I&#39;d like to know what fields of software actually are remote so I can pick what to move towards. Happy to learn a new language  </p>\n\n<p>(I particularly like thinking about architectures and don&#39;t love frontend.. )</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Convert PDF to HTML, CSS",
       "link": "https://redlib.perennialte.ch//r/pdf/comments/1p5laxy/convert_pdf_to_html_css/",
       "guid": "https://redlib.perennialte.ch//r/pdf/comments/1p5laxy/convert_pdf_to_html_css/",
@@ -163,6 +172,15 @@
       "pubDate": "Mon, 24 Nov 2025 15:03:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5jcjd/which_program_to_use_to_add_audio_file_to_video/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a TV show for which I have good video, but bad audio. I have the same tv show with bad video and good audio and would like to merge the audiofile to the good one.</p>\n\n<p>There is software to do it per video file, but anything to do it for 100+ video files at the same time?</p>\n\n<p>Prefrably on Windows, but I can also use my Linux laptop</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "don't know if this is software or not",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5hvl6/dont_know_if_this_is_software_or_not/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5hvl6/dont_know_if_this_is_software_or_not/",
+      "pubDate": "Mon, 24 Nov 2025 14:03:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5hvl6/dont_know_if_this_is_software_or_not/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>My SO currently works from home and apparently is the only person that has this particular issue. He is tries to log into things 7-9 times and it never works, even with him typing in the password right every time. It will eventually take it. What is the reason for that? if you know. and if there might be a way to solve that problem. They are programs and websites for work so I can&#39;t quite go into that.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p55o74/net_cut_is_ruining_my_life/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I downloaded net cut in hopes of fixing the bandwidth in my household didn’t end up using so I deleted and tried to delete from the files too and now whenever I check my task manager it says netcut_windows (32bit) and is using up my ram please help </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "XNView, custom rating names? Change from \"Poor\", \"Fair\", \"Average\", \"Good\", \"Excellent\"",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p51n93/xnview_custom_rating_names_change_from_poor_fair/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p51n93/xnview_custom_rating_names_change_from_poor_fair/",
-      "pubDate": "Sun, 23 Nov 2025 23:40:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p51n93/xnview_custom_rating_names_change_from_poor_fair/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been looking for a free, fast photo culling software and I think I&#39;ve found it in XnView but I&#39;m still learning the workflow. </p>\n\n<p>Is there a way to change the names of the ratings? Can I edit a file somewhere? I want to see the number ratings, 1-5. not the default rating names: Poor, Fair, Average, Good, Excellent. Even this would be better, <strong>★, ★★, ★★★, ★★★★, ★★★★★</strong></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Should I switch or should I wait for a better offer?",
-      "link": "https://redlib.perennialte.ch//r/developersIndia/comments/1p4z317/should_i_switch_or_should_i_wait_for_a_better/",
-      "guid": "https://redlib.perennialte.ch//r/developersIndia/comments/1p4z317/should_i_switch_or_should_i_wait_for_a_better/",
-      "pubDate": "Sun, 23 Nov 2025 22:10:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4zj4z/should_i_switch_or_should_i_wait_for_a_better/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4zj4z/should_i_switch_or_should_i_wait_for_a_better/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T05:42:47.500Z"
+  "lastFetched": "2025-11-25T06:59:49.628Z"
 }

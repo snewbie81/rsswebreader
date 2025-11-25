@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Hey outertune users",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/",
+      "pubDate": "Tue, 25 Nov 2025 05:49:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Is there any way to get an outertune widget on home screen .</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Any free Android music player with volume normalization for local files? (ReplayGain etc)",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/",
@@ -130,21 +139,21 @@
       "thumbnail": null
     },
     {
-      "title": "Offline video players that support pitch-shifting?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3drxb/offline_video_players_that_support_pitchshifting/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3drxb/offline_video_players_that_support_pitchshifting/",
-      "pubDate": "Fri, 21 Nov 2025 23:25:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3drxb/offline_video_players_that_support_pitchshifting/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p>\n\n<p>I wanted to briefly inquire about whether there&#39;re any offline video players (like VLC - maybe some fork of it?) that support pitch shifting. </p>\n\n<p>I previously asked about whether the VLC app has any such capabilities, and was told that it does not. While it may be added in the future, I may as well ask about alternatives just in case it does not. Thank you for your time!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Discord clients",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3dsiv/discord_clients/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3dsiv/discord_clients/",
       "pubDate": "Fri, 21 Nov 2025 23:26:13 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3dsiv/discord_clients/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Are there any open Discord clients? Ideally de-bloated and less annoying than the official one.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Offline video players that support pitch-shifting?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3drxb/offline_video_players_that_support_pitchshifting/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3drxb/offline_video_players_that_support_pitchshifting/",
+      "pubDate": "Fri, 21 Nov 2025 23:25:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3drxb/offline_video_players_that_support_pitchshifting/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p>\n\n<p>I wanted to briefly inquire about whether there&#39;re any offline video players (like VLC - maybe some fork of it?) that support pitch shifting. </p>\n\n<p>I previously asked about whether the VLC app has any such capabilities, and was told that it does not. While it may be added in the future, I may as well ask about alternatives just in case it does not. Thank you for your time!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1zd6c/an_app_that_blocks_and_controls_any_ai_app_that/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So if it doesn&#39;t exist then it needs to be created. But essentially the title says it all and app that can block all the thieving companies out there in a very clean and easy way with as much transparency as is currently possible.</p>\n\n<p>Please be kind in your responses.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Norm v0.2.0-alpha is out",
-      "link": "",
-      "guid": "",
-      "pubDate": "Wed, 19 Nov 2025 19:28:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1h8x8/norm_v020alpha_is_out/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Norm v0.2.0-alpha is out with more amazing features.</p>\n\n<ul>\n<li>Habit reminders</li>\n<li>Habit intervals</li>\n<li>Habit streaks</li>\n<li>Habit description</li>\n</ul>\n\n<p>Git Repo - <a href=\"https://github.com/tusharonly/norm\">Norm - Habit tracker</a></p>\n\n<p>Play Store - <a href=\"https://play.google.com/store/apps/details?id=com.tusharghige.norm\">Play Store</a></p>\n\n<p>Stay tune for many more features 🙏🏻</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T05:42:30.740Z"
+  "lastFetched": "2025-11-25T06:59:32.658Z"
 }
