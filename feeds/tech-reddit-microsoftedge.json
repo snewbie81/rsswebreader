@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
+      "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Vale Edge, Hello Brave",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/",
@@ -73,15 +82,6 @@
       "pubDate": "Mon, 24 Nov 2025 17:28:11 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5n9jb/edge_on_macos_scrollbar_got_wider/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>The scrollbar on web pages got wider on Edge macOS. Like double the size of standard scrollbars in Chrome and other browsers.</p>\n\n<p>Anyone has an idea how to get the original scrollbar width? The flags don&#39;t have anything with a `scrollbar`</p>\n\n<p>Edge 142.0.3595.94 on macOS M4</p>\n\n<p>Edge</p>\n\n<p><a href=\"/preview/pre/ps1dnjn4p83g1.png?width=188&amp;format=png&amp;auto=webp&amp;s=1e89c8e81bd2ada8836fbcd0419d574eff4a3bc6\">/preview/pre/ps1dnjn4p83g1.png?width=188&amp;format=png&amp;auto=webp&amp;s=1e89c8e81bd2ada8836fbcd0419d574eff4a3bc6</a></p>\n\n<p>Chrome</p>\n\n<p><a href=\"/preview/pre/05h14af7p83g1.png?width=180&amp;format=png&amp;auto=webp&amp;s=561a99378f53b687fafcf7b749dfc8ba4a17292b\">/preview/pre/05h14af7p83g1.png?width=180&amp;format=png&amp;auto=webp&amp;s=561a99378f53b687fafcf7b749dfc8ba4a17292b</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
-      "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-25T16:57:51.707Z"
+  "lastFetched": "2025-11-25T17:41:20.240Z"
 }

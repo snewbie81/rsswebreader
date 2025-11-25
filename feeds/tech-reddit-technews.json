@@ -103,6 +103,15 @@
       "thumbnail": null
     },
     {
+      "title": "AI Agents Break Rules Under Everyday Pressure",
+      "link": "https://spectrum.ieee.org/ai-agents-safety",
+      "guid": "https://spectrum.ieee.org/ai-agents-safety",
+      "pubDate": "Tue, 25 Nov 2025 17:37:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6iu6k/ai_agents_break_rules_under_everyday_pressure/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6iu6k/ai_agents_break_rules_under_everyday_pressure/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
       "link": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
       "guid": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p47sxn/how_to_spot_a_counterfeit_lithiumion_battery/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p47sxn/how_to_spot_a_counterfeit_lithiumion_battery/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Dell and HP turned off HEVC decoding on recent laptops without telling anyone",
-      "link": "https://www.techspot.com/news/110343-dell-hp-turned-off-hevc-decoding-recent-laptops.html",
-      "guid": "https://www.techspot.com/news/110343-dell-hp-turned-off-hevc-decoding-recent-laptops.html",
-      "pubDate": "Sat, 22 Nov 2025 13:37:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p3tfe7/dell_and_hp_turned_off_hevc_decoding_on_recent/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p3tfe7/dell_and_hp_turned_off_hevc_decoding_on_recent/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-25T16:57:58.914Z"
+  "lastFetched": "2025-11-25T17:41:27.514Z"
 }

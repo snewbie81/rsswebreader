@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Extensions for Safari Mobile",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6hvl1/extensions_for_safari_mobile/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6hvl1/extensions_for_safari_mobile/",
+      "pubDate": "Tue, 25 Nov 2025 17:02:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6hvl1/extensions_for_safari_mobile/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>How would I get chrome extensions for safari? I assume it&#39;s not possible, in that case, how could I achieve a similar result? I&#39;m trying to block out the &quot;For You&quot; element on my Twitter completely on my device (iPhone 15 Pro Max).</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I just launched my Daily Water Reminder extension for Chrome 💧",
       "link": "",
       "guid": "",
@@ -46,6 +55,33 @@
       "pubDate": "Tue, 25 Nov 2025 09:25:56 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I discovered Ecosia a few months ago cuz I didn&#39;t want any AI answers from google also it is &quot;eco friendly&quot; so I used ecosia instead, BUT just a few minutes ago I searched something and it brought me an AI overview and I was amazed... an ECO FRIENDLY browser started using ai for their search... Really eco friendly. AT LEAST you can disable it unlike google</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "least obvious vivaldi glazer",
+      "link": "/img/5yzw7uu2qe3g1.png",
+      "guid": "/img/5yzw7uu2qe3g1.png",
+      "pubDate": "Tue, 25 Nov 2025 13:43:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6crju/least_obvious_vivaldi_glazer/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>he&#39;s gonna ramble for awhile isnt he</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Are antidetect browsers really the only option for mmo now?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6i5ns/are_antidetect_browsers_really_the_only_option/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6i5ns/are_antidetect_browsers_really_the_only_option/",
+      "pubDate": "Tue, 25 Nov 2025 17:12:11 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6i5ns/are_antidetect_browsers_really_the_only_option/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It honestly feels like the only thing that still works these days is using an antidetect browser. Back when I was doing MMO stuff, things were way more chill. Now every platform freaks out over the smallest move and flags you instantly.</p>\n\n<p>I even tried logging in with a private proxy the other day and still got thrown straight into a checkpoint. The good old “just switch a proxy and you’re fine” days are pretty much gone.</p>\n\n<p>Technically you don’t have to use an antidetect browser, but it’s getting really close to being a necessity. Platforms aren’t just checking your IP anymore. They look at your whole digital identity and whether everything lines up.</p>\n\n<p>I saw a similar case on the KocerRoxy blog. Stuff that works today might be useless tomorrow. The real challenge is finding a setup where all your tools work together instead of messing each other up.</p>\n\n<p>I’m managing multiple accounts across different platforms, mostly large MMO accounts, and regular browsers just don’t cut it now. Even with proxies, if you don’t isolate fingerprints properly you get flagged pretty fast.</p>\n\n<p>That’s why I started testing antidetect browsers to see if they handle heavy use any better.</p>\n\n<p>I tried AdsPower. The trial only gives you 2 profiles. The price for 100 profiles is 21.6 dollars, which is pretty reasonable. Their virtual browser gives each profile its own hardware parameters, canvas, timezone, fonts and all that. From my testing, reopening the same profile keeps the fingerprint consistent, which matters a lot because fingerprint drift is usually what triggers flags. Some profiles do take a bit longer to open and my local machine stutters here and there, but it is still workable.</p>\n\n<p>I’m curious if anyone here has actually used these tools long term with good results, or if this whole thing is just hype.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Kagi Orion 1.0 Release",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6i5c8/kagi_orion_10_release/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6i5c8/kagi_orion_10_release/",
+      "pubDate": "Tue, 25 Nov 2025 17:11:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6i5c8/kagi_orion_10_release/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://blog.kagi.com/orion\">https://blog.kagi.com/orion</a></p>\n\n<p>Linux and Windows versions are currently in alpha, as well. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -103,15 +139,6 @@
       "thumbnail": null
     },
     {
-      "title": "least obvious vivaldi glazer",
-      "link": "/img/5yzw7uu2qe3g1.png",
-      "guid": "/img/5yzw7uu2qe3g1.png",
-      "pubDate": "Tue, 25 Nov 2025 13:43:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6crju/least_obvious_vivaldi_glazer/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>he&#39;s gonna ramble for awhile isnt he</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Which browser is best for an older PC with outdated time?",
       "link": "/gallery/1p5kwj6",
       "guid": "/gallery/1p5kwj6",
@@ -121,21 +148,21 @@
       "thumbnail": null
     },
     {
-      "title": "Isn't Brave actually less dependent on Google than Firefox is?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/",
-      "pubDate": "Tue, 25 Nov 2025 15:29:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Everyone always says &quot;use Firefox to fight Google&#39;s monopoly,&quot; but hear me out. I&#39;m starting to think Brave is the more &quot;anti-Google&quot; choice in practice.\nFirefox gets ~80-90% of its revenue from Google (the default search deal). If Google ever pulls the plug, Mozilla has openly admitted that Firefox would be in deep trouble.\nBrave is built on Chromium, yes, but Chromium is open-source (Apache 2.0 license). Brave already heavily forks it: they rip out Google&#39;s code, keep Manifest V2 extension support alive, replace Google services with their own privacy-respecting alternatives, etc. Google can&#39;t force anything on them the way they can pressure Firefox with money.\nSo... isn&#39;t Brave actually less beholden to Google than Firefox is right now?\nAnd on the &quot;Chromium monopoly&quot; argument: an open-source monopoly is still not ideal, but it&#39;s not the same as a proprietary monopoly. Anyone (Brave, Vivaldi, Ungoogled Chromium, even Mozilla if they wanted) can take the code and go their own way without asking Google&#39;s permission.\nChange my mind. Why is Firefox still the obvious &quot;fight Google&quot; choice when its survival basically depends on Google&#39;s yearly paycheck?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Just upgraded my new tab extension again - Home Sweet Home",
       "link": "/gallery/1p5c1rj",
       "guid": "/gallery/1p5c1rj",
       "pubDate": "Mon, 24 Nov 2025 08:48:43 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5c1rj/just_upgraded_my_new_tab_extension_again_home/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve just pushed a new update for Home Sweet Home, and I wanted to share what’s new. This release focuses on making the new tab page feel more dynamic, more polished, and easier to customize.</p>\n\n<p>Here’s what’s new:</p>\n\n<ul>\n<li>Daily Wallpaper : Your new tab now shows a different background every day, automatically.</li>\n<li>Adaptive Wallpapers : Wallpapers can now change depending on the time of day: morning, afternoon, evening, and night.</li>\n<li>New Wallpaper Collection : I’ve added several new wallpapers to give you more choices when customizing your page.</li>\n<li>Cleaner Interface : Category titles have been replaced with icons for a more modern and simple layout.</li>\n<li>Improved Home Assistant Setup : A new documentation page is now available to help you connect Home Sweet Home with Home Assistant easily.</li>\n<li>Bug Fixes</li>\n</ul>\n\n<p>Thanks to everyone who reported issues. Your feedback really helps.</p>\n\n<p>If you’ve never heard of the extension before: Home Sweet Home is a small project I started recently, and it lets you customize your new tab page with widgets, your favorite links, custom icons, bookmarks, and even Home Assistant controls. It’s still modest in scale (about 45 users), but I’m doing my best to make it better update after update.</p>\n\n<p>Here are the links if you want to try it or update:</p>\n\n<p>Chrome: <a href=\"https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh\">https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh</a></p>\n\n<p>Edge: <a href=\"https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko\">https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko</a></p>\n\n<p>Firefox: <a href=\"https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/\">https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/</a></p>\n\n<p>If you have suggestions, ideas for new widgets, or anything else, I’d love to hear it. Thanks for the support!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Isn't Brave actually less dependent on Google than Firefox is?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/",
+      "pubDate": "Tue, 25 Nov 2025 15:29:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Everyone always says &quot;use Firefox to fight Google&#39;s monopoly,&quot; but hear me out. I&#39;m starting to think Brave is the more &quot;anti-Google&quot; choice in practice.\nFirefox gets ~80-90% of its revenue from Google (the default search deal). If Google ever pulls the plug, Mozilla has openly admitted that Firefox would be in deep trouble.\nBrave is built on Chromium, yes, but Chromium is open-source (Apache 2.0 license). Brave already heavily forks it: they rip out Google&#39;s code, keep Manifest V2 extension support alive, replace Google services with their own privacy-respecting alternatives, etc. Google can&#39;t force anything on them the way they can pressure Firefox with money.\nSo... isn&#39;t Brave actually less beholden to Google than Firefox is right now?\nAnd on the &quot;Chromium monopoly&quot; argument: an open-source monopoly is still not ideal, but it&#39;s not the same as a proprietary monopoly. Anyone (Brave, Vivaldi, Ungoogled Chromium, even Mozilla if they wanted) can take the code and go their own way without asking Google&#39;s permission.\nChange my mind. Why is Firefox still the obvious &quot;fight Google&quot; choice when its survival basically depends on Google&#39;s yearly paycheck?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5gkg0/servo_version_002_released/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5gkg0/servo_version_002_released/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Why I went back to Chrome",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/",
-      "pubDate": "Mon, 24 Nov 2025 06:39:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many of you, I’ve tried a lot of different browsers on both the Chromium and Firefox platforms. I’ve used Firefox, Zen, Arc, Surf, Brave, Comet, and even Edge. Comet was my go-to when it launched, but I quickly grew out of it. Since I use Perplexity for financial research, I can just keep a tab open and be done with it.</p>\n\n<p>At this point, I value convenience, time saved, and synchronization far more than deep customization. And because I use both Apple and Microsoft devices, Safari doesn’t really work for me as a primary browser. Let’s be honest: you can’t really escape Google Cloud, AWS, Azure, and the rest unless you route everything through Tor.</p>\n\n<p>I also use Google services like Drive, Sheets, and Docs for my research, so having them tightly integrated with the browser is very convenient. I still go back to Zen from time to time because the tab-split feature is great when I need to read and write side by side, and its minimal interface is a pleasure to use. The downside is that Zen is still in beta, so I run into a lot of bugs, sometimes almost daily, but once it gets a full release I might seriously consider switching back to it.</p>\n\n<p>I’m always open to suggestions and feedback.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Windows Browser with Tab-Groups and Tabs on the left, and tabs of ONLY that group at the top? (Like Safari)",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p5syfn/windows_browser_with_tabgroups_and_tabs_on_the/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p5syfn/windows_browser_with_tabgroups_and_tabs_on_the/",
-      "pubDate": "Mon, 24 Nov 2025 20:57:49 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5syfn/windows_browser_with_tabgroups_and_tabs_on_the/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi All,</p>\n\n<p>Title says it all, I&#39;m looking for a Windows browser (no problem if an extension is needed) which manages tabs and tab-groups like Safari on MacOS:</p>\n\n<p>- Tab groups &amp; Tabs are in a menu on the left</p>\n\n<p>- Tabs are also on the top, but only those tabs of the opened tab groups.</p>\n\n<p>In Safari it looks like this. They are in the &quot;Search&quot; Tab group, so there are only the 3 tabs of that group at the top.</p>\n\n<p><a href=\"/preview/pre/r6ygt2t8m93g1.png?width=1806&amp;format=png&amp;auto=webp&amp;s=c2fb2d9419428c3eec598d37a245f57636a56aaf\">/preview/pre/r6ygt2t8m93g1.png?width=1806&amp;format=png&amp;auto=webp&amp;s=c2fb2d9419428c3eec598d37a245f57636a56aaf</a></p>\n\n<p>What I have found for Windows so far:</p>\n\n<p>- Everything on the left and no tabs on the top</p>\n\n<p>- Everything on the top, including the Tab-Group names. So if there are 10 tab groups, then this is already more than half of the space taken just by the group names without showing one tab...</p>\n\n<p>Does anyone know of a (usable) browser who can do this directly or with extensions?</p>\n\n<p>Best wishes,</p>\n\n<p>Andre</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Mirror Browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p5nbl5/mirror_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p5nbl5/mirror_browser/",
-      "pubDate": "Mon, 24 Nov 2025 17:30:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5nbl5/mirror_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>What do you guys know about the Mirror browser , is it safe ? Does consumes a lot of memory? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T16:57:54.004Z"
+  "lastFetched": "2025-11-25T17:41:22.677Z"
 }

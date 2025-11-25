@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Cuddly koalas had a brutal, blade-toothed close cousin",
+      "link": "https://www.sciencenews.org/article/koalas-marsupials-evolution-extinct",
+      "guid": "https://www.sciencenews.org/?p=3162684",
+      "pubDate": "Tue, 25 Nov 2025 17:00:00 +0000",
+      "description": "Ancient collagen preserved in the bones of extinct Australian mammals is revealing their evolutionary relationships, leading to some surprises.",
+      "content": "Ancient collagen preserved in the bones of extinct Australian mammals is revealing their evolutionary relationships, leading to some surprises.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111825_JB_marsupiallions_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Boiling oceans may sculpt the surfaces of small icy moons",
       "link": "https://www.sciencenews.org/article/boiling-oceans-icy-moons-simulations",
       "guid": "https://www.sciencenews.org/?p=3162950",
@@ -173,18 +182,9 @@
       "description": "Managing diabetes with injections is challenging. Joining insulin to a skin-penetrating polymer was as effective as shots at regulating blood sugar.",
       "content": "Managing diabetes with injections is challenging. Joining insulin to a skin-penetrating polymer was as effective as shots at regulating blood sugar.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111925_SM_insulin_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Eroding access to childhood vaccines jeopardizes health for all",
-      "link": "https://www.sciencenews.org/article/childhood-vaccine-schedule-healthcare",
-      "guid": "https://www.sciencenews.org/?p=3162473",
-      "pubDate": "Wed, 19 Nov 2025 14:30:00 +0000",
-      "description": "Recent U.S. decisions about vaccines signal bigger changes to come that could threaten the foundation of the national childhood immunization schedule.",
-      "content": "Recent U.S. decisions about vaccines signal bigger changes to come that could threaten the foundation of the national childhood immunization schedule.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_fos_vaccine_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-11-25T16:57:46.772Z"
+  "lastFetched": "2025-11-25T17:41:15.300Z"
 }
