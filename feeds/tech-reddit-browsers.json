@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Which browser is best for an older PC with outdated time?",
       "link": "/gallery/1p5kwj6",
       "guid": "/gallery/1p5kwj6",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5dv5e/how_do_i_get_the_refresh_icon_back_on_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>My Firefox browser updated a few weeks ago and the refresh icon(the F5 key equivalent)is now gone. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "File question",
-      "link": "/gallery/1p5bxlu",
-      "guid": "/gallery/1p5bxlu",
-      "pubDate": "Mon, 24 Nov 2025 08:41:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5bxlu/file_question/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>This might sound stupid but when I convert music do I need to keep the file to keep the music  that goes on my music app or if I get rid of it will I delete the file completely with apks I&#39;m able to delete after the installation and I&#39;m confused if that applies here or absolutely not.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T07:35:29.826Z"
+  "lastFetched": "2025-11-25T08:57:13.083Z"
 }
