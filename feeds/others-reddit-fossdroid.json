@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "albums from yt music not showing in SimpMusic",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
+      "pubDate": "Tue, 25 Nov 2025 20:45:34 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>as the title says, my yt music albums are missing from all of the &#39;library&#39; tabs. in the home page some of the albums show under the &#39;including your  imported playlists&#39; title but i cant access the full list anywhere. is there a way to find my albums or does SimpMusic lack this feature ?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Remote PC Unlock/Authentication App?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p27f56/looking_for_a_todo_list_that_is_continuously/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using the app for 6 years and now with Android 16 the notifications (shown in the image above) are disappearing. \nThis means I have to find an alternative :(</p>\n\n<p>You can find more information and screenshots on the Github page: \n<a href=\"https://github.com/Jizzu/SimpleToDo\">https://github.com/Jizzu/SimpleToDo</a></p>\n\n<p>But I&#39;m really just concerned that it&#39;s really &quot;simple&quot; as in the picture above. \nDo you know of an alternative?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "ViTune",
-      "link": "/gallery/1p2tk95",
-      "guid": "/gallery/1p2tk95",
-      "pubDate": "Fri, 21 Nov 2025 08:44:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2tk95/vitune/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve just notice this but whenever the music is downloading the bitrate of the song goes down. Is there an option to fix this?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T20:42:28.528Z"
+  "lastFetched": "2025-11-25T21:33:28.766Z"
 }

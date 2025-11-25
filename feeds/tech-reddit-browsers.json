@@ -49,6 +49,33 @@
       "thumbnail": null
     },
     {
+      "title": "Google Chrome Error",
+      "link": "/img/7mgiy9v6cg3g1.jpeg",
+      "guid": "/img/7mgiy9v6cg3g1.jpeg",
+      "pubDate": "Tue, 25 Nov 2025 19:08:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6ld4p/google_chrome_error/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>Hi everyone, I&#39;m having these problems with Google Chrome, it only happens when I&#39;m using it. I&#39;ve already updated, reinstalled, updated drivers and also Windows, but the error persists. It doesn&#39;t happen using other browsers. Has anyone seen this before or knows how to fix it?\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What’s your most wanted feature in modern browsers",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
+      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Defeating fingere printing?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6oyvc/defeating_fingere_printing/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6oyvc/defeating_fingere_printing/",
+      "pubDate": "Tue, 25 Nov 2025 21:23:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6oyvc/defeating_fingere_printing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I noticed that users can be fingerprinted even using Tor.</p>\n\n<p>A spyware company proved it with there demo here <a href=\"https://fingerprint.com/demo/\">https://fingerprint.com/demo/</a></p>\n\n<p>I tested it with Tor an all my activity was finger printed.</p>\n\n<p>I even changed the restarted it several times.</p>\n\n<p>How does one by pass this?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Extensions for Safari Mobile",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6hvl1/extensions_for_safari_mobile/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6hvl1/extensions_for_safari_mobile/",
@@ -76,15 +103,6 @@
       "thumbnail": null
     },
     {
-      "title": "Google Chrome Error",
-      "link": "/img/7mgiy9v6cg3g1.jpeg",
-      "guid": "/img/7mgiy9v6cg3g1.jpeg",
-      "pubDate": "Tue, 25 Nov 2025 19:08:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6ld4p/google_chrome_error/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>Hi everyone, I&#39;m having these problems with Google Chrome, it only happens when I&#39;m using it. I&#39;ve already updated, reinstalled, updated drivers and also Windows, but the error persists. It doesn&#39;t happen using other browsers. Has anyone seen this before or knows how to fix it?\n</code></pre>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Best and unique browser for Phone and Laptop",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6l2up/best_and_unique_browser_for_phone_and_laptop/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6l2up/best_and_unique_browser_for_phone_and_laptop/",
@@ -100,15 +118,6 @@
       "pubDate": "Tue, 25 Nov 2025 18:55:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kzt4/sharing_single_tab_on_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This isn&#39;t a post asking why you can&#39;t share single tabs or audio on RTC video calls but to the people who need this feature and use firefox, what&#39;s your go around?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What’s your most wanted feature in modern browsers",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5c1rj/just_upgraded_my_new_tab_extension_again_home/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve just pushed a new update for Home Sweet Home, and I wanted to share what’s new. This release focuses on making the new tab page feel more dynamic, more polished, and easier to customize.</p>\n\n<p>Here’s what’s new:</p>\n\n<ul>\n<li>Daily Wallpaper : Your new tab now shows a different background every day, automatically.</li>\n<li>Adaptive Wallpapers : Wallpapers can now change depending on the time of day: morning, afternoon, evening, and night.</li>\n<li>New Wallpaper Collection : I’ve added several new wallpapers to give you more choices when customizing your page.</li>\n<li>Cleaner Interface : Category titles have been replaced with icons for a more modern and simple layout.</li>\n<li>Improved Home Assistant Setup : A new documentation page is now available to help you connect Home Sweet Home with Home Assistant easily.</li>\n<li>Bug Fixes</li>\n</ul>\n\n<p>Thanks to everyone who reported issues. Your feedback really helps.</p>\n\n<p>If you’ve never heard of the extension before: Home Sweet Home is a small project I started recently, and it lets you customize your new tab page with widgets, your favorite links, custom icons, bookmarks, and even Home Assistant controls. It’s still modest in scale (about 45 users), but I’m doing my best to make it better update after update.</p>\n\n<p>Here are the links if you want to try it or update:</p>\n\n<p>Chrome: <a href=\"https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh\">https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh</a></p>\n\n<p>Edge: <a href=\"https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko\">https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko</a></p>\n\n<p>Firefox: <a href=\"https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/\">https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/</a></p>\n\n<p>If you have suggestions, ideas for new widgets, or anything else, I’d love to hear it. Thanks for the support!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Isn't Brave actually less dependent on Google than Firefox is?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/",
-      "pubDate": "Tue, 25 Nov 2025 15:29:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Everyone always says &quot;use Firefox to fight Google&#39;s monopoly,&quot; but hear me out. I&#39;m starting to think Brave is the more &quot;anti-Google&quot; choice in practice.\nFirefox gets ~80-90% of its revenue from Google (the default search deal). If Google ever pulls the plug, Mozilla has openly admitted that Firefox would be in deep trouble.\nBrave is built on Chromium, yes, but Chromium is open-source (Apache 2.0 license). Brave already heavily forks it: they rip out Google&#39;s code, keep Manifest V2 extension support alive, replace Google services with their own privacy-respecting alternatives, etc. Google can&#39;t force anything on them the way they can pressure Firefox with money.\nSo... isn&#39;t Brave actually less beholden to Google than Firefox is right now?\nAnd on the &quot;Chromium monopoly&quot; argument: an open-source monopoly is still not ideal, but it&#39;s not the same as a proprietary monopoly. Anyone (Brave, Vivaldi, Ungoogled Chromium, even Mozilla if they wanted) can take the code and go their own way without asking Google&#39;s permission.\nChange my mind. Why is Firefox still the obvious &quot;fight Google&quot; choice when its survival basically depends on Google&#39;s yearly paycheck?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T20:42:42.923Z"
+  "lastFetched": "2025-11-25T21:33:43.740Z"
 }

@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "I built a free &amp; open-source check-in tool for youth programs (Docker-ready) and would love feedback",
+      "link": "/img/2e9p2vu4vg3g1.png",
+      "guid": "/img/2e9p2vu4vg3g1.png",
+      "pubDate": "Tue, 25 Nov 2025 20:54:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p6o71t/i_built_a_free_opensource_checkin_tool_for_youth/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been working on a small project called YouthCheckIn and wanted to share it here since it’s fully free, open-source, and built to be self-hosted.</p>\n\n<p>It’s a lightweight check-in / check-out system designed for kids’ programs, youth groups, after-school events, etc. You can run it in Docker or on bare metal, and everything is openly available. No locked features, no required accounts, no telemetry.</p>\n\n<p>The project started because many smaller community programs don’t have the budget or infrastructure for the big commercial solutions, but still need something safe, simple, and reliable.</p>\n\n<p>If you want to take a look, the demo, docs, and source are at:\n<a href=\"https://youthcheckin.net\">https://youthcheckin.net</a></p>\n\n<p>I’m especially looking for feedback from folks who self-host, people who work in community/education spaces, and anyone who likes poking at small FOSS tools. Bugs, critiques, feature ideas. Anything helps.</p>\n\n<p>Thanks for taking the time to check it out. If it ends up helping someone else, that’s a win.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "OVN-Flow - Bash Based Lightweight VPN Client",
       "link": "https://github.com/DeclanEaton04/OVN-Flow-1.0-VPN-Client",
       "guid": "https://github.com/DeclanEaton04/OVN-Flow-1.0-VPN-Client",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgiuq/the_best_alternative_to_monkey_type_made/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all!</p>\n\n<p>I’ve been working on Code Typer, a type racer (like monkey type) made specifically for programmers. Instead of lorem ipsum, you type through real code snippets pulled from real open-source GitHub projects.</p>\n\n<p>I’ve also added IDE-like behavior such as auto-closing brackets and quotes, plus shortcuts like <code>Cmd/Ctrl + Backspace</code> and <code>Alt + Backspace</code></p>\n\n<p>Built with Next.js, Tailwind, Zustand, Prisma + PostgreSQL.</p>\n\n<p>Repo: <a href=\"http://github.com/mattiacerutti/code-typer\">github.com/mattiacerutti/code-typer</a></p>\n\n<p>Would love any feedback, stars or bug reports :)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I built BentoPDF - An open source privacy first PDF Toolkit",
-      "link": "https://github.com/alam00000/bentopdf",
-      "guid": "https://github.com/alam00000/bentopdf",
-      "pubDate": "Thu, 13 Nov 2025 14:27:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ow2h9a/i_built_bentopdf_an_open_source_privacy_first_pdf/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone! </p>\n\n<p>BentoPDF is a privacy first PDF toolkit that runs entirely in your browser. It&#39;s fast, light weight and you can self host it too.</p>\n\n<p>Any feedback or suggestions are welcome. Thank you.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-25T20:42:26.000Z"
+  "lastFetched": "2025-11-25T21:33:26.249Z"
 }
