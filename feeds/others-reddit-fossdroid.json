@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Outertune source error (2000)",
+      "link": "/img/7bbyqp7kwe3g1.jpeg",
+      "guid": "/img/7bbyqp7kwe3g1.jpeg",
+      "pubDate": "Tue, 25 Nov 2025 14:19:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6dlm6/outertune_source_error_2000/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I can&#39;t play any songs, uninstall and reinstall doesn&#39;t do anything. I have already sing in to my Google account and it won&#39;t help. Any solution pls. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Hey outertune users",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1ehbf/its_all_for_your_safety_i_dont_think_so/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1ehbf/its_all_for_your_safety_i_dont_think_so/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Looking for a YouTube Music client (F‑Droid / GitHub) that actually lets you download songs offline",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p20w4o/looking_for_a_youtube_music_client_fdroid_github/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p20w4o/looking_for_a_youtube_music_client_fdroid_github/",
-      "pubDate": "Thu, 20 Nov 2025 11:35:53 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p20w4o/looking_for_a_youtube_music_client_fdroid_github/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey reddit, what’s up. So I’ve been using YouTube Music ReVanced, and I really love the ad‑free and background play vibe, but… I really want offline downloads. Kinda like how Vi Music lets you cache songs inside the app.</p>\n\n<p>Does anyone know a safe, open‑source YouTube Music client (on F‑Droid or GitHub) that:</p>\n\n<ol>\n<li><p>Lets you download / cache songs for offline play</p></li>\n<li><p>Has been updated recently (so it’s not dead af)</p></li>\n<li><p>Is reasonably stable and not high-risk to log into Google</p></li>\n</ol>\n\n<p>I found a few names: OuterTune, OpenTune, Metrolist but not sure which ones are still maintained or legit. Has anyone tested these recently? Or maybe there’s something better?</p>\n\n<p>Appreciate any suggestions + links (especially from GitHub / F‑Droid repos). 🙏</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T13:48:07.435Z"
+  "lastFetched": "2025-11-25T14:46:44.145Z"
 }
