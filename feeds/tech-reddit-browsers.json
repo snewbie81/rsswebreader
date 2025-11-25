@@ -40,21 +40,30 @@
       "thumbnail": null
     },
     {
-      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
-      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Which browser is best for an older PC with outdated time?",
       "link": "/gallery/1p5kwj6",
       "guid": "/gallery/1p5kwj6",
       "pubDate": "Mon, 24 Nov 2025 16:03:49 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5kwj6/which_browser_is_best_for_an_older_pc_with/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, I have a problem. At my school, I have a PC where I can access Word, Excel, PowerPoint, etc., although it doesn&#39;t have internet access because the school&#39;s network infrastructure is completely unusable.(nor will they fix it) so, with a USB cable I connected my mobile to the PC and shared internet, it worked, the problem is: \n- It&#39;s a very old PC, With an AMD Athlon II 160u\n- 1gb of ram\nSo technically it only works for Minesweeper, that&#39;s why I&#39;m looking for a lightweight browser that can access things like YouTube or normal websites, except the PC&#39;s clock is from 2010, which When I try to change it, I can&#39;t because I don&#39;t have administrative privileges, even though I managed to install Firefox on it.It didn&#39;t work, but with another one called K-meleon did work, although almost none of the pages I visited worked because it kept asking me to update the browser, so which browser do you recommend?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Disappointed in Ecosia",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/",
+      "pubDate": "Tue, 25 Nov 2025 09:25:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p683k1/disappointed_in_ecosia/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I discovered Ecosia a few months ago cuz I didn&#39;t want any AI answers from google also it is &quot;eco friendly&quot; so I used ecosia instead, BUT just a few minutes ago I searched something and it brought me an AI overview and I was amazed... an ECO FRIENDLY browser started using ai for their search... Really eco friendly. AT LEAST you can disable it unlike google</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "From EdgeHTML (OG Edge) Team: Evidence of Google intentionally slowing down YouTube on X browser is truth, not conspiracy",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/",
+      "pubDate": "Tue, 25 Nov 2025 07:51:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p66nut/from_edgehtml_og_edge_team_evidence_of_google/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://news.ycombinator.com/item?id=18697824\">https://news.ycombinator.com/item?id=18697824</a></p>\n\n<blockquote>\n<p>I very recently worked on the Edge team and one of the reasons we decided to end EdgeHTML was because Google kept making changes to its sites that broke other browsers, and we couldn&#39;t keep up. For example, they recently added a hidden empty div over YouTube videos that causes our hardware acceleration fast-path to bail (should now be fixed in Win10 Oct update). Prior to that, our fairly state-of-the-art video acceleration put us well ahead of Chrome on video playback time on battery, but almost the instant they broke things on YouTube, they started advertising Chrome&#39;s dominance over Edge on video-watching battery life. What makes it so sad, is that their claimed dominance was not due to ingenious optimization work by Chrome, but due to a failure of YouTube. On the whole, they only made the web slower.</p>\n</blockquote>\n\n<p>This is from true dev of EdgeHTML, not even stranger, we need a big wiki to collect all the evidences, because people are fast to forget.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5fd02/browser_file_download_randomly_restarts/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I download from my Browser for example the 12 GB file I try to download for a weak keeps restarting randomly at 90% sometimes at 20% and I already tried all fixes Google told me could help except reinstalling the browser since I have one tab in there that I can&#39;t close because everything I spent hours on that tab will be gone including my log in to that tab because the email I used doesn&#39;t exist anymore </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "How do I get the refresh icon back on Firefox?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p5dv5e/how_do_i_get_the_refresh_icon_back_on_firefox/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p5dv5e/how_do_i_get_the_refresh_icon_back_on_firefox/",
-      "pubDate": "Mon, 24 Nov 2025 10:44:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5dv5e/how_do_i_get_the_refresh_icon_back_on_firefox/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>My Firefox browser updated a few weeks ago and the refresh icon(the F5 key equivalent)is now gone. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T08:57:13.083Z"
+  "lastFetched": "2025-11-25T09:44:22.306Z"
 }

@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Utility: Video Capture",
+      "link": "/img/4hqlh1vjcd3g1.png",
+      "guid": "/img/4hqlh1vjcd3g1.png",
+      "pubDate": "Tue, 25 Nov 2025 09:08:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p67ufg/utility_video_capture/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>What is this? does it record my screen, and someone is seeing it?<br/>\nI had a simulation test that shouldn&#39;t be using screen recording as I was told unlike the actual exam so, is this what they use or is it just a normal utility that edge always uses?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Just upgraded my new tab extension again - Home Sweet Home",
       "link": "/gallery/1p5c2la",
       "guid": "/gallery/1p5c2la",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p3azug/livevox_log_request/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey all,</p>\n\n<p>Working with the support team for Livevox, in order for us to submit any troubleshooting tickets they&#39;ve asked us to always provide them with the Network Logs and then the console logs. The steps they provided are this:  </p>\n\n<ol>\n<li>Open a new window in your web browser and press the F12 key on your keyboard to open the Developer Tools. Click Open Dev Tools.  </li>\n<li>Click on the Network tab. Confirm that the Record (first icon) is RED to enable recording of activity within the browser. </li>\n<li>Click on the … on the top right and click Settings </li>\n<li>Scroll down to the Console Section and enable Timestamps</li>\n</ol>\n\n<p>Then we&#39;re supposed to export the network logs as a .har file and the .log file from the console tab (right-clicking in the console and hitting save as) </p>\n\n<p>We&#39;re having sporadic issues and we can&#39;t always recreate them, so currently we&#39;re having to ask users to do this every time they access this Livevox tool. Is there anyway to automate or configure Edge to have these settings on by default and then generate the log/har files somewhere automatically? I found there are command line switches &quot;--enable-logging --v=3&quot; and &quot;--log-net-log&quot; but the debug log file seems to be much larger than just saving out directly from the console so I&#39;m not sure that&#39;s exactly the same thing.</p>\n\n<p>Any help or recommendations would really be appreciated! Thank you so much.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Edge eating up disk space more than ever as of today.",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p39gbz/edge_eating_up_disk_space_more_than_ever_as_of/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p39gbz/edge_eating_up_disk_space_more_than_ever_as_of/",
-      "pubDate": "Fri, 21 Nov 2025 20:30:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p39gbz/edge_eating_up_disk_space_more_than_ever_as_of/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have Edge set to use no more than 3gb RAM.   It&#39;s now using way more than that in disk space.   It used to be if I had a window with over 100 tabs I could simply close it to reclaim disk space and then go into the History and reload it and Edge would NOT aggressively reload every tab as if most weren&#39;t asleep.   Last week after Edge updated,  there was an issue where if I reloaded the window from History, globes would show up as tab icons for most of the tabs.  Now, as of today, that issue is fixed but Edge now aggressively reloads all the tabs as if most weren&#39;t asleep, and it consumes MANY gigs of memory in reloading the window.   I&#39;m about to switch to another browser like Brave.  So sick of Edge being a disk space hog.   </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-25T08:57:10.686Z"
+  "lastFetched": "2025-11-25T09:44:19.854Z"
 }
