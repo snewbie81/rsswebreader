@@ -67,6 +67,33 @@
       "thumbnail": null
     },
     {
+      "title": "Google Chrome Error",
+      "link": "/img/7mgiy9v6cg3g1.jpeg",
+      "guid": "/img/7mgiy9v6cg3g1.jpeg",
+      "pubDate": "Tue, 25 Nov 2025 19:08:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6ld4p/google_chrome_error/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>Hi everyone, I&#39;m having these problems with Google Chrome, it only happens when I&#39;m using it. I&#39;ve already updated, reinstalled, updated drivers and also Windows, but the error persists. It doesn&#39;t happen using other browsers. Has anyone seen this before or knows how to fix it?\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Best and unique browser for Phone and Laptop",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6l2up/best_and_unique_browser_for_phone_and_laptop/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6l2up/best_and_unique_browser_for_phone_and_laptop/",
+      "pubDate": "Tue, 25 Nov 2025 18:58:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6l2up/best_and_unique_browser_for_phone_and_laptop/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Can y&#39;all recommend me some unique browsers? Except for AI Browsers as I&#39;m concerned about my data.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "sharing single tab on firefox",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kzt4/sharing_single_tab_on_firefox/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kzt4/sharing_single_tab_on_firefox/",
+      "pubDate": "Tue, 25 Nov 2025 18:55:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kzt4/sharing_single_tab_on_firefox/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This isn&#39;t a post asking why you can&#39;t share single tabs or audio on RTC video calls but to the people who need this feature and use firefox, what&#39;s your go around?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "What’s your most wanted feature in modern browsers",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6fdur/isnt_brave_actually_less_dependent_on_google_than/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Everyone always says &quot;use Firefox to fight Google&#39;s monopoly,&quot; but hear me out. I&#39;m starting to think Brave is the more &quot;anti-Google&quot; choice in practice.\nFirefox gets ~80-90% of its revenue from Google (the default search deal). If Google ever pulls the plug, Mozilla has openly admitted that Firefox would be in deep trouble.\nBrave is built on Chromium, yes, but Chromium is open-source (Apache 2.0 license). Brave already heavily forks it: they rip out Google&#39;s code, keep Manifest V2 extension support alive, replace Google services with their own privacy-respecting alternatives, etc. Google can&#39;t force anything on them the way they can pressure Firefox with money.\nSo... isn&#39;t Brave actually less beholden to Google than Firefox is right now?\nAnd on the &quot;Chromium monopoly&quot; argument: an open-source monopoly is still not ideal, but it&#39;s not the same as a proprietary monopoly. Anyone (Brave, Vivaldi, Ungoogled Chromium, even Mozilla if they wanted) can take the code and go their own way without asking Google&#39;s permission.\nChange my mind. Why is Firefox still the obvious &quot;fight Google&quot; choice when its survival basically depends on Google&#39;s yearly paycheck?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Do you use browser automation tools? What for?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p62uxk/do_you_use_browser_automation_tools_what_for/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p62uxk/do_you_use_browser_automation_tools_what_for/",
-      "pubDate": "Tue, 25 Nov 2025 04:11:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p62uxk/do_you_use_browser_automation_tools_what_for/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>random question but curious, does anyone here use automation tools with their browser?</p>\n\n<p>stuff like:</p>\n\n<p>- auto-filling forms</p>\n\n<p>- scraping/extracting data from websites</p>\n\n<p>- testing websites</p>\n\n<p>- automating repetitive web tasks</p>\n\n<p>- anything else?</p>\n\n<p>if yes:</p>\n\n<p>- what are you automating?</p>\n\n<p>- what tool(s) do you use?</p>\n\n<p>- does stuff break often when websites update?</p>\n\n<p>if no:</p>\n\n<p>- ever wish you could automate something you do repeatedly online?</p>\n\n<p>- what stops you? (too technical, don&#39;t know how, etc.)</p>\n\n<p>genuinely just researching what real people actually automate vs what devs think people want to automate.</p>\n\n<p>will share interesting patterns if this gets responses 👍</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "How about browser that uses chromium just for web page rendering?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6abed/how_about_browser_that_uses_chromium_just_for_web/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6abed/how_about_browser_that_uses_chromium_just_for_web/",
-      "pubDate": "Tue, 25 Nov 2025 11:42:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6abed/how_about_browser_that_uses_chromium_just_for_web/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Chromium has 3 problems: no adblock, privacy and worse ui customisation possibilities. First 2 are more or less solved. And third one not much.</p>\n\n<p>What do you think about browser that will render ui with something else, like qt app or like this? Will it still outpace firefox if lightwewight ui framework is chosen?</p>\n\n<p>Or is it not worse the hussle and we are getting just worse firefox?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Is helium browser safe? I thought it was based in Wyoming not Russia?? Am I being misled or trolled?",
-      "link": "https://imgur.com/a/J6CtOP7/",
-      "guid": "https://imgur.com/a/J6CtOP7/",
-      "pubDate": "Mon, 24 Nov 2025 03:53:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p56zni/is_helium_browser_safe_i_thought_it_was_based_in/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p56zni/is_helium_browser_safe_i_thought_it_was_based_in/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T18:54:37.825Z"
+  "lastFetched": "2025-11-25T19:31:40.870Z"
 }
