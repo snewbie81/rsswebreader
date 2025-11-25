@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Remote PC Unlock/Authentication App?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
+      "pubDate": "Tue, 25 Nov 2025 20:34:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious if there&#39;s some kind of app that allows you to securely authenticate yourself with a workstation (such as Windows PC) with an Android device&#39;s user authentication method(s). Like <a href=\"https://www.xda-developers.com/unlock-windows-pc-fingerprint-scanner-android/\">Remote Fingerprint Unlock</a>, but without installing  proprietary binaries. Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Outertune source error (2000)",
       "link": "/img/7bbyqp7kwe3g1.jpeg",
       "guid": "/img/7bbyqp7kwe3g1.jpeg",
@@ -72,7 +81,7 @@
       "guid": "/img/nm08trt9113g1.png",
       "pubDate": "Sun, 23 Nov 2025 15:43:47 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4puf2/taison_v110_release_a_manga_reader/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed ��active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed “active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2tk95/vitune/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve just notice this but whenever the music is downloading the bitrate of the song goes down. Is there an option to fix this?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "\"It's all for your safety.\" I don't think so.",
-      "link": "/img/q73528ym492g1.jpeg",
-      "guid": "/img/q73528ym492g1.jpeg",
-      "pubDate": "Wed, 19 Nov 2025 17:49:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1ehbf/its_all_for_your_safety_i_dont_think_so/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1ehbf/its_all_for_your_safety_i_dont_think_so/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T19:31:26.686Z"
+  "lastFetched": "2025-11-25T20:42:28.528Z"
 }

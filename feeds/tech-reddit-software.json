@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "A tool to verify startup traffic analytics :)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6m7dg/a_tool_to_verify_startup_traffic_analytics/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6m7dg/a_tool_to_verify_startup_traffic_analytics/",
+      "pubDate": "Tue, 25 Nov 2025 19:39:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6m7dg/a_tool_to_verify_startup_traffic_analytics/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I built a tool called TrustTraffic.co that lets founders verify their website traffic using GA4 → and it automatically creates a public dashboard that updates daily. Before I go deeper into development, I genuinely want to know:</p>\n\n<p>Is this useful?</p>\n\n<p>I got tired of seeing traction claims with no validation. Screenshots are too easy to fake. Charts are often cherry-picked. So I wanted something more objective and tamper-proof.</p>\n\n<p>The dashboard only pulls a few metrics:</p>\n\n<p>monthly users</p>\n\n<p>monthly sessions</p>\n\n<p>traffic growth charts for various timeframes</p>\n\n<p>top sources</p>\n\n<p>engagement rate, bounce rate, average session duration</p>\n\n<p>My goal is to create a public directory of startups with verified traffic.</p>\n\n<p>Would you use something like this? Would you list your own project?</p>\n\n<p>If you are an entrepreneur, would love to see your website added on the site :)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Can you share what tool/software improved your way of using internet or anything related to computers?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
@@ -76,21 +85,21 @@
       "thumbnail": null
     },
     {
-      "title": "Open source projects to contribute to",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
-      "pubDate": "Tue, 25 Nov 2025 11:04:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi I am just looking at some projects to, but don’t really know which ones to look at. I was looking at some recommendations to start looking at.</p>\n\n<p>Background: Currently in big tech with 5-6 months of experience (intern/new grad level). \nDomains interested in: Web dev, Cloud, maybe some higher level Linux things \nExperience: Python, Java, Go, JavaScript/Typescript, some C/C++ (but not comfortable with heavy code bases in these languages) and C#</p>\n\n<p>Any pointers to youngish projects to look at would be a great help :)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Winget update broke my PDF-XChange license. Vendor unable to provide old installer. Need v10.6.0.396.",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
       "pubDate": "Tue, 25 Nov 2025 05:38:58 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently ran winget update all on my Windows machine. Unfortunately, this automatically updated my PDF-XChange Editor Pro to a version released after my maintenance expired, reverting my paid software to &quot;Trial Mode&quot; with watermarks.\nI attempted to download my specific licensed version (10.6.0.396) from the official website, but the files are no longer there.\nI contacted support, and they explained that due to a new policy regarding piracy, security etc., they have removed older builds from their servers and are unable to provide a download link, even for valid license holders in my situation.\nI am now stuck with a valid perpetual license but no installer to use it. It is otherwise a great piece of software, with up to this problem exceptional support, but I simply do not want to extend my maintenance at this time.\nThe Ask: Does anyone have/know where to find a copy of the official installer for PDF-XChange Editor v10.6.0.396 (x64)? I want to avoid random third-party download sites (ironically, also for security reasons).</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Open source projects to contribute to",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
+      "pubDate": "Tue, 25 Nov 2025 11:04:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi I am just looking at some projects to, but don’t really know which ones to look at. I was looking at some recommendations to start looking at.</p>\n\n<p>Background: Currently in big tech with 5-6 months of experience (intern/new grad level). \nDomains interested in: Web dev, Cloud, maybe some higher level Linux things \nExperience: Python, Java, Go, JavaScript/Typescript, some C/C++ (but not comfortable with heavy code bases in these languages) and C#</p>\n\n<p>Any pointers to youngish projects to look at would be a great help :)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5k7fm/extract_text_ocr_from_video/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Greetings to all.After i tryied with all possible ways to extract text from a popup board with no result, i tryied to manage it by recording a video with board&#39;s contects and then convert to text.Can someone suggest me a free online converter to manage this please? I just want to extract the video&#39;s included text (not sound) and paste it somewhere so to copy it. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Which program to use to add audio file to video file en masse?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5jcjd/which_program_to_use_to_add_audio_file_to_video/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5jcjd/which_program_to_use_to_add_audio_file_to_video/",
-      "pubDate": "Mon, 24 Nov 2025 15:03:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5jcjd/which_program_to_use_to_add_audio_file_to_video/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a TV show for which I have good video, but bad audio. I have the same tv show with bad video and good audio and would like to merge the audiofile to the good one.</p>\n\n<p>There is software to do it per video file, but anything to do it for 100+ video files at the same time?</p>\n\n<p>Prefrably on Windows, but I can also use my Linux laptop</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T19:31:44.858Z"
+  "lastFetched": "2025-11-25T20:42:45.594Z"
 }
