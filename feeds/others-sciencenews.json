@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "This bright orange life-form could point to new dino discoveries",
+      "link": "https://www.sciencenews.org/article/lichen-dinosaur-fossils",
+      "guid": "https://www.sciencenews.org/?p=3162523",
+      "pubDate": "Tue, 25 Nov 2025 13:00:00 +0000",
+      "description": "Colorful lichen living on dinosaur bones reflect infrared light that can be detected by drones, which might lead to finds in remote areas.",
+      "content": "Colorful lichen living on dinosaur bones reflect infrared light that can be detected by drones, which might lead to finds in remote areas.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111725_TMB_lichenbones_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "‘Butt breathing’ could help people who can’t get oxygen the regular way",
       "link": "https://www.sciencenews.org/article/butt-breathing-gut-oxygen-bloodstream",
       "guid": "https://www.sciencenews.org/?p=3162369",
@@ -173,18 +182,9 @@
       "description": "Polar marine ecologist Marianne Falardeau investigates how Arctic ecosystems are shifting under climate change.",
       "content": "Polar marine ecologist Marianne Falardeau investigates how Arctic ecosystems are shifting under climate change.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/2025-SNToWatch_MariannaFalardeau_feat-1.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "See the alarming extent of NIH and NSF funding cuts in 2025",
-      "link": "https://www.sciencenews.org/article/nih-nsf-cuts-2025-data",
-      "guid": "https://www.sciencenews.org/?p=3162276",
-      "pubDate": "Tue, 18 Nov 2025 18:00:00 +0000",
-      "description": "In 2025, the Trump administration froze or ended about 5,300 NIH and NSF research grants totaling over $5 billion in unspent funds, a decision that reshaped many fields of science.",
-      "content": "In 2025, the Trump administration froze or ended about 5,300 NIH and NSF research grants totaling over $5 billion in unspent funds, a decision that reshaped many fields of science.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111425_CC_fos_scivis_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-11-25T11:33:18.225Z"
+  "lastFetched": "2025-11-25T13:48:14.347Z"
 }
