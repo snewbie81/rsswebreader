@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Any free Android music player with volume normalization for local files? (ReplayGain etc)",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/",
+      "pubDate": "Tue, 25 Nov 2025 05:29:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey,so I&#39;ve been searching for an Android free music player that can play local files and also has auto volume leveling (replayGain or whatever works) because all my songs have very different volume levels. Foobar does it, but listening in it so uncomfortable</p>\n\n<p>I tried a bunch of apps and most of them either ignore ReplayGain or say they support it but nothing actually changes.</p>\n\n<p>Basically I just need:</p>\n\n<p>Android app</p>\n\n<p>local music</p>\n\n<p>volume normalization</p>\n\n<p>Not so unusable like foobar</p>\n\n<p>thanks</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Multi track audio recorder?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p5yynw/multi_track_audio_recorder/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p5yynw/multi_track_audio_recorder/",
@@ -45,7 +54,7 @@
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/",
       "pubDate": "Mon, 24 Nov 2025 06:07:30 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So far got nothing.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p1h8x8/norm_v020alpha_is_out/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Norm v0.2.0-alpha is out with more amazing features.</p>\n\n<ul>\n<li>Habit reminders</li>\n<li>Habit intervals</li>\n<li>Habit streaks</li>\n<li>Habit description</li>\n</ul>\n\n<p>Git Repo - <a href=\"https://github.com/tusharonly/norm\">Norm - Habit tracker</a></p>\n\n<p>Play Store - <a href=\"https://play.google.com/store/apps/details?id=com.tusharghige.norm\">Play Store</a></p>\n\n<p>Stay tune for many more features 🙏🏻</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Open source project for automating mobile apps",
-      "link": "",
-      "guid": "",
-      "pubDate": "Wed, 19 Nov 2025 09:16:24 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p12wc4/open_source_project_for_automating_mobile_apps/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Their agent is called droidrun, it can automate android and ios devices as per their website. Check repo - <a href=\"https://github.com/droidrun/droidrun\">https://github.com/droidrun/droidrun</a> (MIT licence)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T04:55:27.009Z"
+  "lastFetched": "2025-11-25T05:42:30.740Z"
 }

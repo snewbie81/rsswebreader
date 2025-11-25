@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Vale Edge, Hello Brave",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/",
+      "pubDate": "Tue, 25 Nov 2025 05:31:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Edge has been my go to browser long LONG before it was cool, and just like that it&#39;s dead to me </p>\n\n<p><a href=\"https://imgur.com/a/C6FJbZI\">https://imgur.com/a/C6FJbZI</a></p>\n\n<p>Edge has lots its bookmark bar favicons and nothing restores them, so Edge is gone. I have spent the best part of a day, wasted the best part of a day. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "How to keep Microsoft edge on top? Is there any extension?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5zk2x/how_to_keep_microsoft_edge_on_top_is_there_any/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5zk2x/how_to_keep_microsoft_edge_on_top_is_there_any/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p39gbz/edge_eating_up_disk_space_more_than_ever_as_of/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have Edge set to use no more than 3gb RAM.   It&#39;s now using way more than that in disk space.   It used to be if I had a window with over 100 tabs I could simply close it to reclaim disk space and then go into the History and reload it and Edge would NOT aggressively reload every tab as if most weren&#39;t asleep.   Last week after Edge updated,  there was an issue where if I reloaded the window from History, globes would show up as tab icons for most of the tabs.  Now, as of today, that issue is fixed but Edge now aggressively reloads all the tabs as if most weren&#39;t asleep, and it consumes MANY gigs of memory in reloading the window.   I&#39;m about to switch to another browser like Brave.  So sick of Edge being a disk space hog.   </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "No option to install website as app on my home PC. Why?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p38uvw/no_option_to_install_website_as_app_on_my_home_pc/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p38uvw/no_option_to_install_website_as_app_on_my_home_pc/",
-      "pubDate": "Fri, 21 Nov 2025 20:06:24 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p38uvw/no_option_to_install_website_as_app_on_my_home_pc/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>On the Edge browser on my work laptop, there&#39;s an option where you go to the 3 dots -&gt; Apps -&gt; Install website as app. And it basically creates the ability to treat the website as if it was it&#39;s own program/app without having to be a browser tab. i.e. it goes in the windows start menu, opens on its own window, appears on the taskbar, etc. which has been really useful for websites that are essentially used as programs.</p>\n\n<p>However, the &quot;Apps&quot; menu does not appear on my home PC&#39;s edge browser despite updating it. Does anyone know why this is?</p>\n\n<p>A bit of searching took me to PWAs, which seems to be something a little different, as I believe I can install any website as an &quot;app&quot;, and it just appears to me as the end-user as an app. PWA seems to only apply to certain websites which have design a dedicate app from what I can tell.</p>\n\n<p>Can anyone advise?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-25T04:55:39.496Z"
+  "lastFetched": "2025-11-25T05:42:42.607Z"
 }

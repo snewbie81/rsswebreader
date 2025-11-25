@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Winget update broke my PDF-XChange license. Vendor unable to provide old installer. Need v10.6.0.396.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
+      "pubDate": "Tue, 25 Nov 2025 05:38:58 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently ran winget update all on my Windows machine. Unfortunately, this automatically updated my PDF-XChange Editor Pro to a version released after my maintenance expired, reverting my paid software to &quot;Trial Mode&quot; with watermarks.\nI attempted to download my specific licensed version (10.6.0.396) from the official website, but the files are no longer there.\nI contacted support, and they explained that due to a new policy regarding piracy, security etc., they have removed older builds from their servers and are unable to provide a download link, even for valid license holders in my situation.\nI am now stuck with a valid perpetual license but no installer to use it. It is otherwise a great piece of software, with up to this problem exceptional support, but I simply do not want to extend my maintenance at this time.\nThe Ask: Does anyone have/know where to find a copy of the official installer for PDF-XChange Editor v10.6.0.396 (x64)? I want to avoid random third-party download sites (ironically, also for security reasons).</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "What are some great apps you love that are expensive, abandoned, or closed-source?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/",
@@ -118,6 +127,15 @@
       "pubDate": "Mon, 24 Nov 2025 18:38:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5p7j6/what_are_the_top_3_features_of_idm_that_you_like/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Question: Title </p>\n\n<p>The Internet download manager is the GOAT software that i have been using since my childhood. I think it&#39;s  extension is its greatest feature, along with the ability to resume and parallel download. </p>\n\n<p>What do you guys think?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Dr.Partition Disk partition s/w",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p5m467/drpartition_disk_partition_sw/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5m467/drpartition_disk_partition_sw/",
+      "pubDate": "Mon, 24 Nov 2025 16:47:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5m467/drpartition_disk_partition_sw/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>MY C drive is full. I bought the  DR.Partition s/w, the non-auto-renewing version, for $39.95. I need to increase the size of my C drive partition, but it has these other disks 1, 2, and 4 around it. I am looking at the disk map, but can&#39;t figure out how to proceed. Do I delete partition no. 4, and then I will be able to expand the C drive? What about partition 2 and 1 that are next to it? Do I delete those as well? Can I use the unallocated space from Drive D?  Are C and D rives completely independent? Confused. Thanks for any help.</p>\n\n<p><a href=\"/preview/pre/ux5zp1ddh83g1.jpg?width=667&amp;format=pjpg&amp;auto=webp&amp;s=8f38a9bbf34e2921444b3ada5fdfa0fea68f67a9\">/preview/pre/ux5zp1ddh83g1.jpg?width=667&amp;format=pjpg&amp;auto=webp&amp;s=8f38a9bbf34e2921444b3ada5fdfa0fea68f67a9</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4zj4z/should_i_switch_or_should_i_wait_for_a_better/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4zj4z/should_i_switch_or_should_i_wait_for_a_better/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Looking to hire a React/Supabase dev to help ship a sports social MVP (equity, early-stage)",
-      "link": "https://redlib.perennialte.ch//r/AppDevelopers/comments/1p4snem/looking_to_hire_a_reactsupabase_dev_to_help_ship/",
-      "guid": "https://redlib.perennialte.ch//r/AppDevelopers/comments/1p4snem/looking_to_hire_a_reactsupabase_dev_to_help_ship/",
-      "pubDate": "Sun, 23 Nov 2025 17:38:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4srfg/looking_to_hire_a_reactsupabase_dev_to_help_ship/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4srfg/looking_to_hire_a_reactsupabase_dev_to_help_ship/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "suggest best download manager that allows resume downloading after long time of pause",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p4kj8j/suggest_best_download_manager_that_allows_resume/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p4kj8j/suggest_best_download_manager_that_allows_resume/",
-      "pubDate": "Sun, 23 Nov 2025 11:31:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p4kj8j/suggest_best_download_manager_that_allows_resume/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>i need a download that allows you to update download link after u pause a downloading of 5gb file at 1gb and resumes from 1gb. can u help me???</p>\n\n<p>i tried fdm, but it is heavy for my laptop. can anyone suggest some other?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T04:55:45.512Z"
+  "lastFetched": "2025-11-25T05:42:47.500Z"
 }

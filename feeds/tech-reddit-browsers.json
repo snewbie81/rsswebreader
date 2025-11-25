@@ -112,21 +112,21 @@
       "thumbnail": null
     },
     {
-      "title": "Why I went back to Chrome",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/",
-      "pubDate": "Mon, 24 Nov 2025 06:39:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many of you, I’ve tried a lot of different browsers on both the Chromium and Firefox platforms. I’ve used Firefox, Zen, Arc, Surf, Brave, Comet, and even Edge. Comet was my go-to when it launched, but I quickly grew out of it. Since I use Perplexity for financial research, I can just keep a tab open and be done with it.</p>\n\n<p>At this point, I value convenience, time saved, and synchronization far more than deep customization. And because I use both Apple and Microsoft devices, Safari doesn’t really work for me as a primary browser. Let’s be honest: you can’t really escape Google Cloud, AWS, Azure, and the rest unless you route everything through Tor.</p>\n\n<p>I also use Google services like Drive, Sheets, and Docs for my research, so having them tightly integrated with the browser is very convenient. I still go back to Zen from time to time because the tab-split feature is great when I need to read and write side by side, and its minimal interface is a pleasure to use. The downside is that Zen is still in beta, so I run into a lot of bugs, sometimes almost daily, but once it gets a full release I might seriously consider switching back to it.</p>\n\n<p>I’m always open to suggestions and feedback.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Servo version 0.0.2 released",
       "link": "https://github.com/servo/servo/releases/tag/v0.0.2",
       "guid": "https://github.com/servo/servo/releases/tag/v0.0.2",
       "pubDate": "Mon, 24 Nov 2025 13:06:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5gkg0/servo_version_002_released/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5gkg0/servo_version_002_released/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Why I went back to Chrome",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/",
+      "pubDate": "Mon, 24 Nov 2025 06:39:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p5a06c/why_i_went_back_to_chrome/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many of you, I’ve tried a lot of different browsers on both the Chromium and Firefox platforms. I’ve used Firefox, Zen, Arc, Surf, Brave, Comet, and even Edge. Comet was my go-to when it launched, but I quickly grew out of it. Since I use Perplexity for financial research, I can just keep a tab open and be done with it.</p>\n\n<p>At this point, I value convenience, time saved, and synchronization far more than deep customization. And because I use both Apple and Microsoft devices, Safari doesn’t really work for me as a primary browser. Let’s be honest: you can’t really escape Google Cloud, AWS, Azure, and the rest unless you route everything through Tor.</p>\n\n<p>I also use Google services like Drive, Sheets, and Docs for my research, so having them tightly integrated with the browser is very convenient. I still go back to Zen from time to time because the tab-split feature is great when I need to read and write side by side, and its minimal interface is a pleasure to use. The downside is that Zen is still in beta, so I run into a lot of bugs, sometimes almost daily, but once it gets a full release I might seriously consider switching back to it.</p>\n\n<p>I’m always open to suggestions and feedback.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-25T04:55:42.438Z"
+  "lastFetched": "2025-11-25T05:42:45.006Z"
 }
