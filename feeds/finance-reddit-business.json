@@ -4,21 +4,21 @@
   "link": "",
   "items": [
     {
-      "title": "‘We are not Enron’: Nvidia rejects AI bubble fears.  Chip giant disputes claims that it is artificially inflating revenues.",
-      "link": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
-      "guid": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
-      "pubDate": "Tue, 25 Nov 2025 17:06:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6hzp7/we_are_not_enron_nvidia_rejects_ai_bubble_fears/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6hzp7/we_are_not_enron_nvidia_rejects_ai_bubble_fears/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Domino’s Pizza parts ways with chief who bet on fried chicken",
       "link": "https://www.ft.com/content/f0bf6619-ad30-4032-a63f-5b1195e3c10c?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f",
       "guid": "https://www.ft.com/content/f0bf6619-ad30-4032-a63f-5b1195e3c10c?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f",
       "pubDate": "Tue, 25 Nov 2025 19:56:22 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6mnoz/dominos_pizza_parts_ways_with_chief_who_bet_on/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6mnoz/dominos_pizza_parts_ways_with_chief_who_bet_on/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "‘We are not Enron’: Nvidia rejects AI bubble fears.  Chip giant disputes claims that it is artificially inflating revenues.",
+      "link": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
+      "guid": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
+      "pubDate": "Tue, 25 Nov 2025 17:06:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6hzp7/we_are_not_enron_nvidia_rejects_ai_bubble_fears/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6hzp7/we_are_not_enron_nvidia_rejects_ai_bubble_fears/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
+      "link": "https://finance.yahoo.com/news/hp-cut-6-000-jobs-211614685.html",
+      "guid": "https://finance.yahoo.com/news/hp-cut-6-000-jobs-211614685.html",
+      "pubDate": "Tue, 25 Nov 2025 22:20:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6qfh3/hp_to_cut_about_6000_jobs_by_2028_ramps_up_ai/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6qfh3/hp_to_cut_about_6000_jobs_by_2028_ramps_up_ai/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Why an economist is comparing crypto to Beanie Babies | CNN Business",
       "link": "https://www.cnn.com/2025/11/24/business/video/cryptocurrency-price-drop-neel-kashkari-beanie-babies-ebof-digvid?cid%3Dios_app",
       "guid": "https://www.cnn.com/2025/11/24/business/video/cryptocurrency-price-drop-neel-kashkari-beanie-babies-ebof-digvid?cid%3Dios_app",
@@ -55,15 +64,6 @@
       "pubDate": "Tue, 25 Nov 2025 04:12:28 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1p62vst/meta_had_a_17strike_policy_for_sex_trafficking/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1p62vst/meta_had_a_17strike_policy_for_sex_trafficking/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
-      "link": "https://finance.yahoo.com/news/hp-cut-6-000-jobs-211614685.html",
-      "guid": "https://finance.yahoo.com/news/hp-cut-6-000-jobs-211614685.html",
-      "pubDate": "Tue, 25 Nov 2025 22:20:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6qfh3/hp_to_cut_about_6000_jobs_by_2028_ramps_up_ai/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1p6qfh3/hp_to_cut_about_6000_jobs_by_2028_ramps_up_ai/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "finance",
   "url": "https://redlib.perennialte.ch/r/business.rss",
-  "lastFetched": "2025-11-25T22:40:52.245Z"
+  "lastFetched": "2025-11-25T23:33:39.409Z"
 }

@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "Scientists say they've eliminated a major AI bottleneck — now they can process calculations 'at the speed of light'",
+      "link": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
+      "guid": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
+      "pubDate": "Tue, 25 Nov 2025 19:17:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Poets are now cybersecurity threats: Researchers used 'adversarial poetry' to trick AI into ignoring its safety guard rails and it worked 62% of the time",
       "link": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
       "guid": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
@@ -91,15 +100,6 @@
       "pubDate": "Mon, 24 Nov 2025 11:07:26 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5e92f/this_unmanned_underwater_robot_can_remove_ocean/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5e92f/this_unmanned_underwater_robot_can_remove_ocean/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Scientists say they've eliminated a major AI bottleneck — now they can process calculations 'at the speed of light'",
-      "link": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
-      "guid": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
-      "pubDate": "Tue, 25 Nov 2025 19:17:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-25T22:41:17.394Z"
+  "lastFetched": "2025-11-25T23:34:04.667Z"
 }
