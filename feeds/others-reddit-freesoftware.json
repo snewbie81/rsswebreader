@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "TilBuci version 18 comes with usability improvements and new image manipulation features",
+      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1p6eemb/tilbuci_version_18_comes_with_usability/",
+      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1p6eemb/tilbuci_version_18_comes_with_usability/",
+      "pubDate": "Tue, 25 Nov 2025 14:51:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1p6eemb/tilbuci_version_18_comes_with_usability/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>TilBuci, a free software (MPL-2.0) focused on creating interactive content, reaches version 18: <a href=\"https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v18\">https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v18</a></p>\n\n<p><strong>Enhanced zoom and graphic elements dragging</strong><br/>\nSupport for zooming in and out of images during display has been improved, and now the instance (picture, video, spritemap) has its size changed directly in the layout, no longer being displayed in a popup. In addition, it is now possible to drag instances, as well as check the point at which they are released by visitors, in a collision check. To learn more about these features, we&#39;ve created a video tutorial showing the process of creating a photo gallery to be distributed on tablets.: <a href=\"https://youtu.be/o-fAWoBMe_M\">https://youtu.be/o-fAWoBMe_M</a></p>\n\n<p><a href=\"/preview/pre/21xcvv392f3g1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=18afbb64030134119cefa7612d7929b454509754\">/preview/pre/21xcvv392f3g1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=18afbb64030134119cefa7612d7929b454509754</a></p>\n\n<p><strong>Array manipulation</strong><br/>\nThe new array manipulation feature allows for more comprehensive data management in your creations, enabling the development of more complex products. Check item 6 of the &quot;scripting actions&quot; manual for more details about this new feature: <a href=\"https://tilbuci.com.br/files/TilBuci-ScriptingActions.pdf\">https://tilbuci.com.br/files/TilBuci-ScriptingActions.pdf</a></p>\n\n<p><a href=\"/preview/pre/62g1969a2f3g1.jpg?width=2276&amp;format=pjpg&amp;auto=webp&amp;s=1c0760ca33b84219a5a98270ba969e3805960fba\">/preview/pre/62g1969a2f3g1.jpg?width=2276&amp;format=pjpg&amp;auto=webp&amp;s=1c0760ca33b84219a5a98270ba969e3805960fba</a></p>\n\n<p><strong>Multiple selection and instance organization</strong><br/>\nThe &quot;instances&quot; right tab has gained several new features to simplify your content creation work.</p>\n\n<ul>\n<li>Copy/paste: it is now possible to copy one or more instances and paste them into another keyframe or scene within the movie. This feature also works between different workspaces open in the same movie.</li>\n<li>Multiple selection: by holding down the ctrl (or command) key, it is now possible to select multiple instances at once by clicking at their name on the list.</li>\n<li>Instance arrangement: with multiple selection, traditional features such as relative alignment, space distribution, and repositioning are now available.</li>\n</ul>\n\n<p><a href=\"/preview/pre/lm0ytcwb2f3g1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=da34b5894cbf0ba8081d4e9afb0c871327797629\">/preview/pre/lm0ytcwb2f3g1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=da34b5894cbf0ba8081d4e9afb0c871327797629</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "OVN-Flow | Open-Source Linux OpenVPN Client Project",
       "link": "https://github.com/DeclanEaton04/OVN-Flow-1.0-VPN-Client",
       "guid": "https://github.com/DeclanEaton04/OVN-Flow-1.0-VPN-Client",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1om6555/looking_for_volunteers_to_help_with_charlotteos/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1om6555/looking_for_volunteers_to_help_with_charlotteos/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Does VR work within a 100% non proprietary environment?",
-      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1ol5j12/does_vr_work_within_a_100_non_proprietary/",
-      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1ol5j12/does_vr_work_within_a_100_non_proprietary/",
-      "pubDate": "Fri, 31 Oct 2025 20:34:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ol5j12/does_vr_work_within_a_100_non_proprietary/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>—x-- (TL;DR: skip to the last part) —x—</p>\n\n<p>So with Monado plus OpenHMD I can connect my oculus rift cv1 to my desktop. My desktop uses a non-free/proprietary distro of GNU/Linux but I am going to get a laptop with GNU Boot at some point.</p>\n\n<p>Monado proclaims that it is fully open source, and OpenHMD is also fully free/libre and open source.</p>\n\n<p>So, if I were to use the headset with Monado on a free system, there would be no proprietary code/blobs, right?</p>\n\n<p>As for applications, there’s vr-video-player. But I don’t know of any games that are libre for vr.</p>\n\n<p>The only game I play with VR is Minecraft with the vivecraft mod but of course Minecraft is not libre, and I don’t think there’s any workaround to overcome that.</p>\n\n<p>—x—</p>\n\n<p>I’m guessing the main issue will probably have to do with graphics drivers? I doubt software rendering would work period, and even with an older GPU like a gtx 780ti(iirc) without blobs is used (as eGPU in the case of a thinkpad T420) I don’t know if any free graphics drivers are vr compatible; nouveau did not work with vr on my arch pc.</p>\n\n<p>So the choke point is going to be, I’m guessing, the graphics driver.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/freesoftware.rss",
-  "lastFetched": "2025-11-25T14:46:50.463Z"
+  "lastFetched": "2025-11-25T15:43:51.471Z"
 }

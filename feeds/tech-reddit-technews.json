@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Poets are now cybersecurity threats: Researchers used 'adversarial poetry' to trick AI into ignoring its safety guard rails and it worked 62% of the time",
-      "link": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
-      "guid": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
-      "pubDate": "Mon, 24 Nov 2025 13:09:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Next Starliner flight will carry cargo instead of crew",
       "link": "https://newatlas.com/space/starliner-cargo-no-crew/",
       "guid": "https://newatlas.com/space/starliner-cargo-no-crew/",
       "pubDate": "Tue, 25 Nov 2025 13:46:12 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Poets are now cybersecurity threats: Researchers used 'adversarial poetry' to trick AI into ignoring its safety guard rails and it worked 62% of the time",
+      "link": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
+      "guid": "https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/",
+      "pubDate": "Mon, 24 Nov 2025 13:09:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5gmst/poets_are_now_cybersecurity_threats_researchers/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-25T14:47:05.270Z"
+  "lastFetched": "2025-11-25T15:44:05.986Z"
 }

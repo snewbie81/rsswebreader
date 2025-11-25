@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Boiling oceans may sculpt the surfaces of small icy moons",
+      "link": "https://www.sciencenews.org/article/boiling-oceans-icy-moons-simulations",
+      "guid": "https://www.sciencenews.org/?p=3162950",
+      "pubDate": "Tue, 25 Nov 2025 15:00:00 +0000",
+      "description": "Simulations show that subsurface oceans on small moons may hit boiling conditions, potentially creating features like Miranda’s distinctive ridges.",
+      "content": "Simulations show that subsurface oceans on small moons may hit boiling conditions, potentially creating features like Miranda’s distinctive ridges.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112425_MJG_icymoons_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "This bright orange life-form could point to new dino discoveries",
       "link": "https://www.sciencenews.org/article/lichen-dinosaur-fossils",
       "guid": "https://www.sciencenews.org/?p=3162523",
@@ -173,18 +182,9 @@
       "description": "Recent U.S. decisions about vaccines signal bigger changes to come that could threaten the foundation of the national childhood immunization schedule.",
       "content": "Recent U.S. decisions about vaccines signal bigger changes to come that could threaten the foundation of the national childhood immunization schedule.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_fos_vaccine_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Combining western science with Indigenous knowledge could help the Arctic",
-      "link": "https://www.sciencenews.org/article/marianne-falardeau-arctic-indigenous",
-      "guid": "https://www.sciencenews.org/?p=3161956",
-      "pubDate": "Wed, 19 Nov 2025 13:00:00 +0000",
-      "description": "Polar marine ecologist Marianne Falardeau investigates how Arctic ecosystems are shifting under climate change.",
-      "content": "Polar marine ecologist Marianne Falardeau investigates how Arctic ecosystems are shifting under climate change.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/2025-SNToWatch_MariannaFalardeau_feat-1.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-11-25T14:46:51.670Z"
+  "lastFetched": "2025-11-25T15:43:52.905Z"
 }

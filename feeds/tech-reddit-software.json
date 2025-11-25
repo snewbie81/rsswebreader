@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is using AI while learning a new language actually helpful, or does it slow you down later?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6ei27/is_using_ai_while_learning_a_new_language/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6ei27/is_using_ai_while_learning_a_new_language/",
+      "pubDate": "Tue, 25 Nov 2025 14:55:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6ei27/is_using_ai_while_learning_a_new_language/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m finally committing to learning Python, and using AI has made it a lot less frustrating. I built a small program with help from Claude, and now I’m trying to figure out what tool is worth using moving forward. Some people suggest GPT-4/5 for deeper reasoning, while others prefer something integrated into their IDE and I’ve seen Sweep AI mentioned a few times for JetBrains because it helps keep code organized as you go.</p>\n\n<p>What worked best for you? Did it actually speed up your progress, or did you end up relying on it more than you wanted?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "InstallAware: Worst Customer Service I’ve Ever Experienced – Beware Before Buying",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p68cic/installaware_worst_customer_service_ive_ever/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5b5cm/alldup_how_to_remove_files_from_one_of_the_two/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am comparing 2 folders and I want to remove all the duplicates found in one of these folders.  I can&#39;t find how to proceed. Would anyone be so nice as to explain? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Automatically start a program when another on starts with Task Scheduler",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p59g2v/automatically_start_a_program_when_another_on/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p59g2v/automatically_start_a_program_when_another_on/",
-      "pubDate": "Mon, 24 Nov 2025 06:06:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p59g2v/automatically_start_a_program_when_another_on/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys, I want to make it so another program automatically starts whenever I manually start qBittorrent. I know you should be able to make an automation with Task Scheduler, but I need a detailed guide on how to do that on Windows 11 Pro and I can&#39;t find it</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-25T14:47:02.731Z"
+  "lastFetched": "2025-11-25T15:44:03.530Z"
 }
