@@ -67,12 +67,12 @@
       "thumbnail": null
     },
     {
-      "title": "Best Browser??",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/",
-      "pubDate": "Wed, 26 Nov 2025 01:56:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, \nI have now used almost every browser available in the market for windows, which includes:\nChrome, firefox, brave, vivaldi, arc, zen, floorp, helium, comet, dia, opera (basic, air).\nAnd here&#39;s my personal review:\nChrome- fast, reliable, but boring ui and privacy issues.\nFirefox- reliable, secure, but boring ui and not as fast.\nVivaldi- just didn&#39;t like the ui much.\nArc- too laggy on windows.\nFloorp and helium- currently testing them out.\nComet and dia- ai browser... nothing much.\nBrave- ui is same as chrome, fast, secure and currently using to watch media\nZen- ui is one of the best and most customisable especially with the glass bg, secure, but its really heavy, and really slow, working on it feels like a tragedy but with good views.\nOpera- idk what&#39;s with this company&#39;s reputation, but i used 2 of its browser, didn&#39;t like the basic one, but opera air was really good, it was fast, best ui (better than zen), great integrations with other apps like whatsapp, instagram, discord, chatgpt, etc.\nI was thinking of shifting completely to this browser but searched a little bit about it and saw alot of privacy concerns regarding this browser.</p>\n\n<p>Now I am back to square one. Suggest me a good browser.</p>\n\n<p>(My daily tasks: Running figma, framer, netflix, youtube, a little bit surfing) </p>\n\n<p>P.s. ik you can use apps for them, but i like using websites for those tasks.</p>\n</div><!-- SC_ON -->",
+      "title": "What’s your most wanted feature in modern browsers",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
+      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -85,21 +85,21 @@
       "thumbnail": null
     },
     {
-      "title": "What’s your most wanted feature in modern browsers",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "How to import bookmarks from .html file to Chrome and preserve the folder structure",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6qlu8/how_to_import_bookmarks_from_html_file_to_chrome/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6qlu8/how_to_import_bookmarks_from_html_file_to_chrome/",
       "pubDate": "Tue, 25 Nov 2025 22:27:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6qlu8/how_to_import_bookmarks_from_html_file_to_chrome/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Chrome version: 140.0.7339.128 (official, stable); Windows 10/11</p>\n\n<p>Hello everyone,</p>\n\n<p>I&#39;ve messed up bookmarks in my profile and deleted all of them. Luckily I had an .html file backup (export), which I want to import to my profile and then sync the bookmarks with my Google account. It imports without problems, but there is one problem—bookmarks from folders with the same names are merged into one folder, so the original folder structure is lost. This thing is very important to me, because I had multiple &quot;tree folders&quot; of different topics with subfolders with the same names in them, and now it&#39;s one big mess.</p>\n\n<p>The backup file is not corrupted—when looking at it in the browser, it shows all the folders and subfolders, and also when I imported the .html file into Firefox, the folder structure was like before.</p>\n\n<p>I&#39;ve tried many different methods, such as:</p>\n\n<p>- importing bookmarks to another browser and then transferring data from it to Chrome</p>\n\n<p>- using various extensions; some of them were not working at all*</p>\n\n<p>- using a different (new) profile and a different computer</p>\n\n<p>- using another channel (Chrome Canary)</p>\n\n<p>Yes, probably I could add some unique number to the folders with the same names and preserve the original structure, but it would be very complicated and time-consuming due to the size (tens to hundreds of folders).</p>\n\n<p>* One extension showed promising results—the folder structure was preserved, but there was another problem: when I looked at the source code of the export I made after import with this extension, all bookmarks were added with the same timestamp (the original timestamp when the bookmark was added was lost, so this is also a no-go for me). The extension: <a href=\"http://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn\">chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn</a></p>\n\n<p>My other idea was to downgrade Chrome (install an older version) when this was working correctly, import bookmarks, update it, and then sync them to the Google account, but I don&#39;t know how to do it.</p>\n\n<p>Do you have any other suggestions or ideas on how to fix this problem? Thanks in advance.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Best Browser??",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/",
+      "pubDate": "Wed, 26 Nov 2025 01:56:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, \nI have now used almost every browser available in the market for windows, which includes:\nChrome, firefox, brave, vivaldi, arc, zen, floorp, helium, comet, dia, opera (basic, air).\nAnd here&#39;s my personal review:\nChrome- fast, reliable, but boring ui and privacy issues.\nFirefox- reliable, secure, but boring ui and not as fast.\nVivaldi- just didn&#39;t like the ui much.\nArc- too laggy on windows.\nFloorp and helium- currently testing them out.\nComet and dia- ai browser... nothing much.\nBrave- ui is same as chrome, fast, secure and currently using to watch media\nZen- ui is one of the best and most customisable especially with the glass bg, secure, but its really heavy, and really slow, working on it feels like a tragedy but with good views.\nOpera- idk what&#39;s with this company&#39;s reputation, but i used 2 of its browser, didn&#39;t like the basic one, but opera air was really good, it was fast, best ui (better than zen), great integrations with other apps like whatsapp, instagram, discord, chatgpt, etc.\nI was thinking of shifting completely to this browser but searched a little bit about it and saw alot of privacy concerns regarding this browser.</p>\n\n<p>Now I am back to square one. Suggest me a good browser.</p>\n\n<p>(My daily tasks: Running figma, framer, netflix, youtube, a little bit surfing) </p>\n\n<p>P.s. ik you can use apps for them, but i like using websites for those tasks.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-26T04:48:38.376Z"
+  "lastFetched": "2025-11-26T05:41:18.035Z"
 }
