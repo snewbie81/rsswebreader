@@ -49,6 +49,33 @@
       "thumbnail": null
     },
     {
+      "title": "Looking for free/cheap software to CREATE PDF forms",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
+      "pubDate": "Wed, 26 Nov 2025 09:36:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! I&#39;m looking for software that lets me <em>create</em> (not only fill out) PDF forms. Obviously I&#39;m looking for an alternative to Adobe stuff. Big criteria is that it needs to be <strong>offline</strong> software, aka not browser-based stuff, since I want it to use custom fonts in the form fields. So far I&#39;ve tried UPDF, but it has some annoying quirks. I haven&#39;t been able to find anything else.</p>\n\n<p>Ideally it&#39;d be free or single purchase that doesn&#39;t break the bank. Anything with a subscription I will not consider.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I made this desktop app which does all general purpose file actions so you don't need SAAS",
+      "link": "https://diwadi.com",
+      "guid": "https://diwadi.com",
+      "pubDate": "Wed, 26 Nov 2025 09:11:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p736s8/i_made_this_desktop_app_which_does_all_general/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p>\n\n<p>I started this app when I had some common actions like video compression, image conversion etc, I would google and try  some SAAS solution. Same with video editing, for me iMovie was heavy, so ended up veed or some online SAAS solution. Same thing with csv or excel for previous company I hated the Numbers app, I preferred Google sheets.</p>\n\n<p>I realised there was no simple software, small software that get all these general purpose tasks to be done. </p>\n\n<p>I&#39;m releasing a new version every Friday. I have been consistently releasing for last 4 Fridays. This Friday, I will be releasing a version which supports subtitle editing, adding subtitles, karoke like subtitles to videos. Unlimited speech to text option. Unlimited text to speech option. And also support for unlimited image generation. </p>\n\n<p>I have been meaning to post here sometime, I waited till it is Wednesday, so I could do this &quot;Wednesday Self-Promotion&quot;. I would appreciate some feedback.. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A free tool I built to speed up testing forms — looking for feedback from devs &amp; QA",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p72z3t/a_free_tool_i_built_to_speed_up_testing_forms/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p72z3t/a_free_tool_i_built_to_speed_up_testing_forms/",
+      "pubDate": "Wed, 26 Nov 2025 08:57:11 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p72z3t/a_free_tool_i_built_to_speed_up_testing_forms/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Since it&#39;s Self-Promotion Wednesday, I wanted to share something I&#39;ve been building that may be useful if you work with <strong>web forms</strong> regularly. I&#39;d appreciate feedback, especially from developers and QA testers.</p>\n\n<p><strong>FakerFill — a free browser extension for filling forms instantly with test data</strong></p>\n\n<p><a href=\"/img/mbsaqi1ffk3g1.gif\">/img/mbsaqi1ffk3g1.gif</a></p>\n\n<p>I built it because I was constantly typing the same information while testing signup flows, checkout forms, onboarding steps, admin panels and internal tools.</p>\n\n<p><strong>Here&#39;s what FakerFill does, step by step:</strong></p>\n\n<ol>\n<li>Automatically detects input fields</li>\n</ol>\n\n<p>It scans the DOM and identifies field types such as:</p>\n\n<ul>\n<li>name</li>\n<li>email</li>\n<li>phone</li>\n<li>address</li>\n<li>date</li>\n<li>password</li>\n<li>numbers</li>\n<li>country</li>\n<li>NIT / RUT</li>\n<li>and more</li>\n</ul>\n\n<p>It works with modern front-end frameworks including React, Vue, Angular, Next.js, SPA apps, and Shadow DOM.</p>\n\n<p><strong>2. Generates realistic test data locally</strong></p>\n\n<p>Using Faker.js, it produces valid test values directly in your browser. No data is sent anywhere - everything runs locally.</p>\n\n<p><strong>3. Fills the entire form with one click</strong></p>\n\n<p>Press a button and every field is populated instantly. Useful when testing:</p>\n\n<ul>\n<li>registration</li>\n<li>login</li>\n<li>checkout</li>\n<li>onboarding flows</li>\n<li>admin dashboards</li>\n<li>multi-step and dynamic forms</li>\n</ul>\n\n<p><strong>Who it&#39;s for</strong></p>\n\n<ul>\n<li>developers testing forms during feature development</li>\n<li>QA testers repeating flows daily</li>\n<li>indie makers building dashboards or CRUD apps</li>\n<li>teams working with internal tools</li>\n<li>anyone who wants to avoid repetitive manual typing</li>\n</ul>\n\n<p><strong>Link</strong>  </p>\n\n<p>If you want to try it: <a href=\"https://www.fakerfill.com\">https://www.fakerfill.com</a></p>\n\n<p><strong>Feedback wanted</strong></p>\n\n<ol>\n<li><p>Do you use similar tools? Which ones?</p></li>\n<li><p>What do you wish those tools handled better? Detection, UI, custom rules, validation, workflows, something else?</p></li>\n</ol>\n\n<p><strong>I&#39;d like to improve the tool based on real use cases, not just my own.</strong></p>\n\n<p>Happy to hear any thoughts — even critical ones. Thanks for reading!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "PLEASE help me with this old, awful software called Unreal Development Kit (UDK)",
       "link": "/gallery/1p6x5an",
       "guid": "/gallery/1p6x5an",
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently ran winget update all on my Windows machine. Unfortunately, this automatically updated my PDF-XChange Editor Pro to a version released after my maintenance expired, reverting my paid software to &quot;Trial Mode&quot; with watermarks.\nI attempted to download my specific licensed version (10.6.0.396) from the official website, but the files are no longer there.\nI contacted support, and they explained that due to a new policy regarding piracy, security etc., they have removed older builds from their servers and are unable to provide a download link, even for valid license holders in my situation.\nI am now stuck with a valid perpetual license but no installer to use it. It is otherwise a great piece of software, with up to this problem exceptional support, but I simply do not want to extend my maintenance at this time.\nThe Ask: Does anyone have/know where to find a copy of the official installer for PDF-XChange Editor v10.6.0.396 (x64)? I want to avoid random third-party download sites (ironically, also for security reasons).</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Quality Engineering Role",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p66yg4/quality_engineering_role/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p66yg4/quality_engineering_role/",
-      "pubDate": "Tue, 25 Nov 2025 08:10:22 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p66yg4/quality_engineering_role/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey yall,\nMy question to people working in Quality/Testing or have worked in Big Tech (MAANG). How does your responsibility differ from:\nProduct Document -&gt; Test Plan -&gt; Test Execution -&gt; Release Readiness.</p>\n\n<p>My Head of Engineering wants to adapt Quality Engineering to involve testing earlier in the cycle. According to my research only Meta has this role currently. Would appreciate any insights. Thanks. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "SW to organize music collection?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/",
-      "pubDate": "Tue, 25 Nov 2025 02:09:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60ctl/sw_to_organize_music_collection/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have about 100gb of music I would like to organize. I&#39;m looking for software that can scan my music folder and then create and arrange folders, download metadata, album art, and can also rename files. If it&#39;s open source that would be a bonus. TIA</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What are some great apps you love that are expensive, abandoned, or closed-source?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/",
-      "pubDate": "Mon, 24 Nov 2025 16:18:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m looking for inspiration for a new project and I want to hear about apps you <em>wish</em> had a cheaper alternative, an open-source clone, or just… any update at all.</p>\n\n<p>Could be:<br/>\n• Amazing but insanely overpriced<br/>\n• Great idea but abandoned<br/>\n• Closed-source with no real competitors<br/>\n• Tools you rely on that desperately need a modern remake<br/>\n• Niche apps that have a small but loyal cult following</p>\n\n<p>What apps come to mind?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T08:55:09.302Z"
+  "lastFetched": "2025-11-26T09:44:16.541Z"
 }

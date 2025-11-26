@@ -31,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "Orion 1.0 - Browse Beyond",
-      "link": "https://blog.kagi.com/orion",
-      "guid": "https://blog.kagi.com/orion",
-      "pubDate": "Tue, 25 Nov 2025 22:13:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6q91z/orion_10_browse_beyond/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6q91z/orion_10_browse_beyond/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Is Vivaldi the best alternative general purpose browser right now?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6tt7m/is_vivaldi_the_best_alternative_general_purpose/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6tt7m/is_vivaldi_the_best_alternative_general_purpose/",
       "pubDate": "Wed, 26 Nov 2025 00:46:29 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6tt7m/is_vivaldi_the_best_alternative_general_purpose/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I was looking for a way to replace google chrome for my phone and laptop with a browser that offers more privacy, less fingerprinting, telemetry an tracking(possilby nothing of these at all) and more transparency.</p>\n\n<p>Vivaldi seems to check most of these.</p>\n\n<p>As far as I read, it&#39;s sync across multiple devices is praised,</p>\n\n<p>it has a decent user base,</p>\n\n<p>it&#39;s located in Europe, which theoretically has stronger privacy laws.</p>\n\n<p>decent privacy set out out of the box, but you can customize it with extension like ublock origin, canvas blocker, etc.</p>\n\n<p>It has some telemetry but I read it can be totally disabled</p>\n\n<p>It was a tough choice between this and Brave, but Vivaldi also features a free vpn browser wide, proton vpn.</p>\n\n<p>What do you think?</p>\n\n<p>I was also considering hardened versions of firefox, but the catch is they all seem to broke many web sites and streming services.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Orion 1.0 - Browse Beyond",
+      "link": "https://blog.kagi.com/orion",
+      "guid": "https://blog.kagi.com/orion",
+      "pubDate": "Tue, 25 Nov 2025 22:13:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6q91z/orion_10_browse_beyond/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6q91z/orion_10_browse_beyond/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -130,6 +130,15 @@
       "thumbnail": null
     },
     {
+      "title": "I just launched my Daily Water Reminder extension for Chrome 💧",
+      "link": "",
+      "guid": "",
+      "pubDate": "Tue, 25 Nov 2025 13:18:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6c7bi/i_just_launched_my_daily_water_reminder_extension/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Try it here: <a href=\"https://chromewebstore.google.com/detail/daily-water-reminder/lkjkbeileabkeocbejajeoljnkakokgd\"><strong>Daily Water Reminder</strong></a></p>\n\n<p>I built a Chrome extension that reminds you every 20–60 mins (or any time you choose) to drink water. You can set your own intervals and goals. Thought someone here might find it useful.Please share your feedback too.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Best Browser??",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6vbgo/best_browser/",
@@ -139,12 +148,12 @@
       "thumbnail": null
     },
     {
-      "title": "I just launched my Daily Water Reminder extension for Chrome 💧",
-      "link": "",
-      "guid": "",
-      "pubDate": "Tue, 25 Nov 2025 13:18:16 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6c7bi/i_just_launched_my_daily_water_reminder_extension/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Try it here: <a href=\"https://chromewebstore.google.com/detail/daily-water-reminder/lkjkbeileabkeocbejajeoljnkakokgd\"><strong>Daily Water Reminder</strong></a></p>\n\n<p>I built a Chrome extension that reminds you every 20–60 mins (or any time you choose) to drink water. You can set your own intervals and goals. Thought someone here might find it useful.Please share your feedback too.</p>\n</div><!-- SC_ON -->",
+      "title": "Are antidetect browsers really the only option for mmo now?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6i5ns/are_antidetect_browsers_really_the_only_option/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6i5ns/are_antidetect_browsers_really_the_only_option/",
+      "pubDate": "Tue, 25 Nov 2025 17:12:11 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6i5ns/are_antidetect_browsers_really_the_only_option/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It honestly feels like the only thing that still works these days is using an antidetect browser. Back when I was doing MMO stuff, things were way more chill. Now every platform freaks out over the smallest move and flags you instantly.</p>\n\n<p>I even tried logging in with a private proxy the other day and still got thrown straight into a checkpoint. The good old “just switch a proxy and you’re fine” days are pretty much gone.</p>\n\n<p>Technically you don’t have to use an antidetect browser, but it’s getting really close to being a necessity. Platforms aren’t just checking your IP anymore. They look at your whole digital identity and whether everything lines up.</p>\n\n<p>I saw a similar case on the KocerRoxy blog. Stuff that works today might be useless tomorrow. The real challenge is finding a setup where all your tools work together instead of messing each other up.</p>\n\n<p>I’m managing multiple accounts across different platforms, mostly large MMO accounts, and regular browsers just don’t cut it now. Even with proxies, if you don’t isolate fingerprints properly you get flagged pretty fast.</p>\n\n<p>That’s why I started testing antidetect browsers to see if they handle heavy use any better.</p>\n\n<p>I tried AdsPower. The trial only gives you 2 profiles. The price for 100 profiles is 21.6 dollars, which is pretty reasonable. Their virtual browser gives each profile its own hardware parameters, canvas, timezone, fonts and all that. From my testing, reopening the same profile keeps the fingerprint consistent, which matters a lot because fingerprint drift is usually what triggers flags. Some profiles do take a bit longer to open and my local machine stutters here and there, but it is still workable.</p>\n\n<p>I’m curious if anyone here has actually used these tools long term with good results, or if this whole thing is just hype.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kci5/opera_vs_vivaldi_pc_bajos_recursos/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hola, quisiera saber de las opciones Ópera o Vivaldi cuál es la mejor opción, sobre todo para computadoras con pocos recursos y/o viejas. Gracias.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "How to stop video ads from pausing when the tab isn’t in focus?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6jkbc/how_to_stop_video_ads_from_pausing_when_the_tab/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6jkbc/how_to_stop_video_ads_from_pausing_when_the_tab/",
-      "pubDate": "Tue, 25 Nov 2025 18:03:40 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6jkbc/how_to_stop_video_ads_from_pausing_when_the_tab/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Some sites are getting annoying with their pre-roll ads, the moment I switch tabs the ad freezes until I come back, basically forcing me to stare at it.</p>\n\n<p>Is there any extension or browser setting that stops ads from detecting tab focus so they just play out normally?<br/>\nI&#39;m using Chrome btw.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-26T08:55:06.690Z"
+  "lastFetched": "2025-11-26T09:44:13.859Z"
 }
