@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Harga ram ddr5 32gb lebih mahal dari konsol",
+      "link": "/gallery/1p74zmj",
+      "guid": "/gallery/1p74zmj",
+      "pubDate": "Wed, 26 Nov 2025 11:04:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p74zmj/harga_ram_ddr5_32gb_lebih_mahal_dari_konsol/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p74zmj/harga_ram_ddr5_32gb_lebih_mahal_dari_konsol/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Cari hp 3-6 juta yang fast charging dan kamera bagus",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1p73qr8/cari_hp_36_juta_yang_fast_charging_dan_kamera/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p73qr8/cari_hp_36_juta_yang_fast_charging_dan_kamera/",
@@ -85,6 +94,15 @@
       "thumbnail": null
     },
     {
+      "title": "GPU Sekon super murah/affordable tapi garansi cuma 2 - 3 hari? Naahhh, ini mengapa gw masih nolak beli barang second, walaupun tokonya bagus dan trusted ya.",
+      "link": "https://redlib.perennialte.ch//r/indonesia/comments/1p7251a/laptop_second_dari_tokopedia_bermasalah_baru/",
+      "guid": "https://redlib.perennialte.ch//r/indonesia/comments/1p7251a/laptop_second_dari_tokopedia_bermasalah_baru/",
+      "pubDate": "Wed, 26 Nov 2025 09:06:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p7345n/gpu_sekon_super_murahaffordable_tapi_garansi_cuma/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p7345n/gpu_sekon_super_murahaffordable_tapi_garansi_cuma/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "minta rekomen android dibawah 3 jt",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6w9bw/minta_rekomen_android_dibawah_3_jt/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6w9bw/minta_rekomen_android_dibawah_3_jt/",
@@ -100,15 +118,6 @@
       "pubDate": "Wed, 26 Nov 2025 04:09:04 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Ceritanya beberapa hari kemaren saya butuh akses ke macOS &amp; iOS bentar karena butuh reproduce issue web app yang cuma kejadian di Safari/WebKit. Karena saya ngga punya device Apple, jadinya rental cloud. Awalnya nyoba pake Device Farm dari AWS, tapi provision nya lama dan agak kurang fleksibel.</p>\n\n<p>Akhirnya nyoba nyari Mac Mini. Saya nemu Scaleway yang nawarin rental Mac Mini M1 sekitar ~2.6 EUR per hari, jauh lebih murah dari AWS dan MacinCloud. Saya daftarlah ke Scaleway pake data asli &amp; lengkap (yang biasa saya pake juga di provider hosting lain), masukin debit card Jago, lalu order. Order nya sukses, saya bisa akses device nya dan langsung pakai.</p>\n\n<p>Sekitar jam setengah 3 pagi, saya dapat notif Scaleway Account Assessment. Pas saya cek paginya, ternyata minta verifikasi dokumen identitas sama foto selfie &amp; megang identitas itu. </p>\n\n<p><a href=\"/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6\">/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6</a></p>\n\n<p>Agak shock sih sama foto selfie ini karena biasanya mentok cuma dimintain dokumen buat cocokin nama &amp; alamat, itupun yang ngga relevan biasanya ngga masalah kalo saya redact. Awalnya ragu buat lanjut karena KYC ini rasanya terlalu ekstrim. Tapi just-in-case saya butuh lagi, akhirnya saya nurut.</p>\n\n<p>Mereka nawarin dua (atau mungkin tiga) opsi buat verifikasinya:</p>\n\n<ol>\n<li>Self-service lewat third-party &quot;Jumio&quot;</li>\n<li>Kirim dokumen ke email</li>\n<li>Attach dokumen ke reply ke ticket</li>\n</ol>\n\n<p>Awalnya saya nyoba opsi 1 biar cepet. Tapi pas udah nyiapin dokumen, siap verifikasi, eh di list negaranya ngga ada Indonesia. Padahal pas daftar akun Scaleway ada Indonesia dan ada pilihan provinsinya juga. Karena ngga bisa lanjut, saya reply ke ticket tadi buat ngasih tau kalo ngga ada opsi negara Indonesia sama nanyain adakah opsi verifikasi yang ngga pake selfie (karena mereka juga udah sukses charge debit card saya dan dari Jago/Visa juga ngga ada issue).</p>\n\n<p>~8 jam kemudian mereka bales buat ngasih opsi ke-3 (kirim dokumennya di reply ticket). Ngikut lah saya buat kirim dokumennya dan juga ngasih pesan buat hapus dokumennya se-segera mungkin setelah selesai KYC.</p>\n\n<p>~8 jam kemudian, saya dapet reply ditolak dan akun saya di lock permanen tanpa dikasih tau kenapa. Lah gimana?</p>\n\n<p><a href=\"/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8\">/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8</a></p>\n\n<p>Apakah karena banyak fraud dari Indonesia? Dulu juga pernah mau nyoba beli VPS DigitalOcean ngga bisa juga karena alasan fraud.</p>\n\n<p>Adakah yang punya pengalaman serupa? atau mungkin malah sukses verifikasinya?</p>\n\n<p>Makasi udah membaca sejauh ini. Have a nice day!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "GPU Sekon super murah/affordable tapi garansi cuma 2 - 3 hari? Naahhh, ini mengapa gw masih nolak beli barang second, walaupun tokonya bagus dan trusted ya.",
-      "link": "https://redlib.perennialte.ch//r/indonesia/comments/1p7251a/laptop_second_dari_tokopedia_bermasalah_baru/",
-      "guid": "https://redlib.perennialte.ch//r/indonesia/comments/1p7251a/laptop_second_dari_tokopedia_bermasalah_baru/",
-      "pubDate": "Wed, 26 Nov 2025 09:06:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p7345n/gpu_sekon_super_murahaffordable_tapi_garansi_cuma/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p7345n/gpu_sekon_super_murahaffordable_tapi_garansi_cuma/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -130,21 +139,21 @@
       "thumbnail": null
     },
     {
-      "title": "Akun Amazon Prime Locked Temporarily - Butuh bantuannya untuk betulin",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p73g24/akun_amazon_prime_locked_temporarily_butuh/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p73g24/akun_amazon_prime_locked_temporarily_butuh/",
-      "pubDate": "Wed, 26 Nov 2025 09:29:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p73g24/akun_amazon_prime_locked_temporarily_butuh/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Halo gan, ada yang bisa bantu akun amazon prime pas mau logged in, tertulis &quot;help us protect your account, we have detected unusual activity on your account and have locked it temporarily. Please contact customer service for further assistance&quot; di aplikasi ngak ada instruksi nomor CS atau emailnya</p>\n\n<p>Ada yang tau cara benerinnya gmn?</p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Telkomsel rampok, sudah beli paket 2 tahun sekaligus setiap bulan dikenakan biaya ninja.",
       "link": "/img/ythe7b6jgd3g1.jpeg",
       "guid": "/img/ythe7b6jgd3g1.jpeg",
       "pubDate": "Tue, 25 Nov 2025 09:27:25 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p684bo/telkomsel_rampok_sudah_beli_paket_2_tahun/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada yang tau cara stop Telkomsel kenain biaya biaya rampok kayak gini? Kemakan promo beli paket 2 tahun kupikir udah gak perlu bayar bulanan.</p>\n\n<p>Setiap bulan masih aja ditagih biaya biaya gak jelas…</p>\n\n<p>Layanan digital 90 perak??</p>\n\n<p>Internasional 10,910??? Roaming udah dimatikan, maksudnya keluar negri tidak boleh nyala sama sekali?</p>\n\n<p>Rampok 10rb setiap pelanggan, estimasi user telkomsel 150jt-170jt</p>\n\n<p>100jt x 10rb aja udah 1T</p>\n\n<p>Nikmat sekali cara nambahin omsetnya.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Akun Amazon Prime Locked Temporarily - Butuh bantuannya untuk betulin",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p73g24/akun_amazon_prime_locked_temporarily_butuh/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p73g24/akun_amazon_prime_locked_temporarily_butuh/",
+      "pubDate": "Wed, 26 Nov 2025 09:29:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p73g24/akun_amazon_prime_locked_temporarily_butuh/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Halo gan, ada yang bisa bantu akun amazon prime pas mau logged in, tertulis &quot;help us protect your account, we have detected unusual activity on your account and have locked it temporarily. Please contact customer service for further assistance&quot; di aplikasi ngak ada instruksi nomor CS atau emailnya</p>\n\n<p>Ada yang tau cara benerinnya gmn?</p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6bmpv/masalah_hdmi_21_fiber_optic/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Halo ges jadi gua ada masalah sama perkabelan output satu ini. Setup gue:</p>\n\n<p>PC (GPU 4070S) &gt; Kabel HDMI 2.1 (Cabletime FO 10Meter biar sinyal ga drop karena panjang) &gt; TV (LG C5) &gt; Soundbar eArc (Q800D)</p>\n\n<p>Jadi kabel ini sering banget flicker purple green dan blackout kayak signal loss, apalagi sekarang nambah setup speaker atmos di tv makin menjadi flickernya.</p>\n\n<p>Dulunya gue pake cara cabut pasang atau goyang kabelnya biar normal lagi, tapi setelah ada speaker atmos + setup 4k120hz hdr yang mungkin mentokin speed 48Gbps kabel hdmi gue (gw gatau kabelnya Certified Ultra high speed atau kaga, di website ada di foto tapi di kotak dan ecommerce ga ada uhs certified hdmi forum).</p>\n\n<p>Question is apakah ada cara troubleshoot lain? jika ada saran, kabel 5 meter apa yang dijamin sertifikasi dan kualitas nya? Selain Lindy yang mungkin high end price point nya, boleh dispill dong suhu kabel high end lain yang certified dan tebukti.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "7 Aplikasi Mirip IDM yang Gratis dan Bikin Download Ngebut - UrbanIdea ID",
-      "link": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
-      "guid": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
-      "pubDate": "Wed, 26 Nov 2025 04:45:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6yppj/7_aplikasi_mirip_idm_yang_gratis_dan_bikin/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Selain 7 app alternatif IDM ini ada yg menarik lagi gak ya</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-26T10:49:40.358Z"
+  "lastFetched": "2025-11-26T11:32:07.065Z"
 }
