@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Geek Uninstaller 1.5.3.170 is out!",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
-      "pubDate": "Wed, 26 Nov 2025 02:18:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 2 years since the last update, so I was surprised to see this pop up today. I&#39;ve always loved using this tiny portable uninstaller when I&#39;m experimenting with new software.</p>\n\n<p><strong>Changelog for 1.5.3.170:</strong></p>\n\n<ul>\n<li>Safer traces detection algorithm</li>\n<li>Improved icons detection</li>\n</ul>\n\n<p><strong>Homepage:</strong><br/>\n<a href=\"https://geekuninstaller.com/\">https://geekuninstaller.com/</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "I made an unlimited, offline background remover! (no subscriptions or credits)",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
       "pubDate": "Wed, 26 Nov 2025 18:15:31 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>!!</p>\n\n<p>I was super frustrated that background removers like removebg and photoroom have recurring subscriptions or credits. Because of this, I decided to create <a href=\"https://www.magicdrop.io/\">Magicdrop</a> a fully offline background remover that lets you remove backgrounds from unlimited images.</p>\n\n<p><a href=\"/preview/pre/vpb5585c7n3g1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=14d60f4d7f76e3b746f48b430968d3f264efadd2\">/preview/pre/vpb5585c7n3g1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=14d60f4d7f76e3b746f48b430968d3f264efadd2</a></p>\n\n<p>Features include:</p>\n\n<ul>\n<li>AI background removal</li>\n<li>Custom background</li>\n<li>Custom aspect ratio</li>\n<li>Two removal models (fast for fast processing, base for slower but higher quality processing)</li>\n<li>Batch processing (up to 100 images at once)</li>\n</ul>\n\n<p>You can try it free for seven days here: <a href=\"https://www.magicdrop.io/\">https://www.magicdrop.io/</a></p>\n\n<p>It&#39;s my first time ever launching a product so I would really love any feedback!! You can use my discount code LAUNCH40 to get 40% off your purchase &lt;3</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Geek Uninstaller 1.5.3.170 is out!",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
+      "pubDate": "Wed, 26 Nov 2025 02:18:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 2 years since the last update, so I was surprised to see this pop up today. I&#39;ve always loved using this tiny portable uninstaller when I&#39;m experimenting with new software.</p>\n\n<p><strong>Changelog for 1.5.3.170:</strong></p>\n\n<ul>\n<li>Safer traces detection algorithm</li>\n<li>Improved icons detection</li>\n</ul>\n\n<p><strong>Homepage:</strong><br/>\n<a href=\"https://geekuninstaller.com/\">https://geekuninstaller.com/</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T18:50:13.770Z"
+  "lastFetched": "2025-11-26T19:26:06.669Z"
 }

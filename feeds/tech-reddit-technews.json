@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Event Sensors Bring Just the Right Data to Device Makers",
+      "link": "https://spectrum.ieee.org/event-sensors-to-the-edge",
+      "guid": "https://spectrum.ieee.org/event-sensors-to-the-edge",
+      "pubDate": "Wed, 26 Nov 2025 15:04:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7a06p/event_sensors_bring_just_the_right_data_to_device/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7a06p/event_sensors_bring_just_the_right_data_to_device/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "AI Agents Break Rules Under Everyday Pressure",
       "link": "https://spectrum.ieee.org/ai-agents-safety",
       "guid": "https://spectrum.ieee.org/ai-agents-safety",
@@ -46,15 +55,6 @@
       "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Event Sensors Bring Just the Right Data to Device Makers",
-      "link": "https://spectrum.ieee.org/event-sensors-to-the-edge",
-      "guid": "https://spectrum.ieee.org/event-sensors-to-the-edge",
-      "pubDate": "Wed, 26 Nov 2025 15:04:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7a06p/event_sensors_bring_just_the_right_data_to_device/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7a06p/event_sensors_bring_just_the_right_data_to_device/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T18:50:16.286Z"
+  "lastFetched": "2025-11-26T19:26:08.872Z"
 }
