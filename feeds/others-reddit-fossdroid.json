@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Anybody having issues with Aurora Store?",
+      "link": "/img/1zxvlg4i9o3g1.jpeg",
+      "guid": "/img/1zxvlg4i9o3g1.jpeg",
+      "pubDate": "Wed, 26 Nov 2025 21:47:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7kjqc/anybody_having_issues_with_aurora_store/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7kjqc/anybody_having_issues_with_aurora_store/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Let's Talk About The Weather",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3elrk/contrary_to_their_claim_foss/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I use Duckduckgo to block FOSS Mobile Apps, trackers I found this.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "MBCompass new version v1.1.12 brings breaking features",
-      "link": "/img/g4xyt7zo0l2g1.png",
-      "guid": "/img/g4xyt7zo0l2g1.png",
-      "pubDate": "Fri, 21 Nov 2025 09:50:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2uki6/mbcompass_new_version_v1112_brings_breaking/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>MBCompass: A popular modern FOSS Compass and Navigation app without Ads, IAP, or Tracking</p>\n\n<p>New Release: MBCompass <strong>v1.1.12</strong></p>\n\n<p><em>This release and upcoming ones follow the feature roadmap proposed in the</em> <a href=\"https://github.com/CompassMB/MBCompass/blob/main/mbcompass_v2.0_dsn_proposal.png\"><strong><em>v2 design proposal</em></strong></a><em>.</em></p>\n\n<blockquote>\n<p>Find it on GitHub and F-droid: <a href=\"https://github.com/CompassMB/MBCompass/releases/tag/v1.1.12\">https://github.com/CompassMB/MBCompass/releases/tag/v1.1.12</a></p>\n</blockquote>\n\n<p>Features</p>\n\n<ul>\n<li><strong>True North Support:</strong> Easily switch between <strong>True North</strong> and <strong>Magnetic North</strong> using the new toggle in Settings.</li>\n<li><strong>AMOLED True Dark Theme</strong> Added a pure-black AMOLED mode for improved contrast and better battery efficiency on OLED displays.</li>\n<li><strong>Heading Status Indicator:</strong> A new on-screen indicator now clearly shows whether the compass is currently using <strong>True North</strong> or <strong>Magnetic North</strong>.</li>\n</ul>\n\n<p>Fixes &amp; Improvements</p>\n\n<ul>\n<li><strong>Sensor Status Dialog Fix:</strong> Resolved an issue where the dialog content was getting cut off on smaller screens.</li>\n<li><strong>General UI &amp; Stability Updates:</strong> Minor interface refinements and performance improvements for a smoother experience.</li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-26T21:32:05.378Z"
+  "lastFetched": "2025-11-26T22:39:15.731Z"
 }

@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Anybody else having Aurora Store issues?",
+      "link": "/img/t7zvf6ys9o3g1.jpeg",
+      "guid": "/img/t7zvf6ys9o3g1.jpeg",
+      "pubDate": "Wed, 26 Nov 2025 21:49:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p7kl7e/anybody_else_having_aurora_store_issues/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p7kl7e/anybody_else_having_aurora_store_issues/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "I built a free &amp; open-source check-in tool for youth programs (Docker-ready) and would love feedback",
       "link": "/img/2e9p2vu4vg3g1.png",
       "guid": "/img/2e9p2vu4vg3g1.png",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on a suite of tools that work as a sort of &#39;google drive of tools&#39; interface. Users have their own personal drive and can create shared &#39;team&#39; drives.</p>\n\n<p>I have recently been doing a lot of updates/improvement on the project management tool (Project Board). I&#39;ve been looking for feedback for it, what works, what needs improvement, what features would be useful?</p>\n\n<p>This is designed as a free alternative so at the moment it doesn&#39;t have as many advanced features as some of the paid tools out there but I&#39;m striving to keep improving.</p>\n\n<p>The suite also contains and invoicer, book keeper and people manager, all of which are being built on.</p>\n\n<p>If any of these tools are something you would use I would love any feedback you have. It&#39;s available for free online (<a href=\"https://drive.tridah.cloud/\">https://drive.tridah.cloud</a>) or you can self-host: <a href=\"https://github.com/TridahCloud/TridahDrive\">https://github.com/TridahCloud/TridahDrive</a></p>\n\n<p>Tridah is a Non-Profit creating free open-source tools. Our goal is to provide free alternatives to paid subscription-based tools and host them free with no paywalls for users who are unable to self-host.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "The best alternative to Monkey Type (made specifically for devs!)",
-      "link": "",
-      "guid": "",
-      "pubDate": "Thu, 13 Nov 2025 23:28:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owgiuq/the_best_alternative_to_monkey_type_made/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all!</p>\n\n<p>I’ve been working on Code Typer, a type racer (like monkey type) made specifically for programmers. Instead of lorem ipsum, you type through real code snippets pulled from real open-source GitHub projects.</p>\n\n<p>I’ve also added IDE-like behavior such as auto-closing brackets and quotes, plus shortcuts like <code>Cmd/Ctrl + Backspace</code> and <code>Alt + Backspace</code></p>\n\n<p>Built with Next.js, Tailwind, Zustand, Prisma + PostgreSQL.</p>\n\n<p>Repo: <a href=\"http://github.com/mattiacerutti/code-typer\">github.com/mattiacerutti/code-typer</a></p>\n\n<p>Would love any feedback, stars or bug reports :)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-26T21:32:02.921Z"
+  "lastFetched": "2025-11-26T22:39:13.237Z"
 }
