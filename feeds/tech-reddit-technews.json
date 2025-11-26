@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "GPU prices are coming to earth just as RAM costs shoot into the stratosphere",
       "link": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/",
       "guid": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/",
       "pubDate": "Wed, 26 Nov 2025 08:54:40 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p72xt7/gpu_prices_are_coming_to_earth_just_as_ram_costs/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p72xt7/gpu_prices_are_coming_to_earth_just_as_ram_costs/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T11:32:51.317Z"
+  "lastFetched": "2025-11-26T13:50:34.895Z"
 }

@@ -139,21 +139,21 @@
       "thumbnail": null
     },
     {
-      "title": "Kalau Cloudflare diblokir, akses PayPal gimana ya?",
-      "link": "https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/",
-      "guid": "https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/",
-      "pubDate": "Mon, 24 Nov 2025 05:06:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Emang konsekuensinya apa kalau proses WD PayPal ke BCA atau Jenius aku lakukan pakai VPN atau DNS encrypt?</p>\n\n<p>Emang konsekuensinya apa kalau buka PayPal dan update data kartu di PayPal pakai VPN atau DNS encrypt?</p>\n\n<p>Kalau DNS encrypt-ku itu barusan banget kemaren aku install tapi masih &quot;cek ombak&quot;.</p>\n\n<p>Karena yang terutama mau liat dulu dari sisi VPN. Saya pakai Proton yang berbayar, yang bisa milih server negara sendiri, yang bisa activate split tunneling dan kill switch.</p>\n\n<p>Cuman kalau split tunneling exclude PayPal (di mana PayPal ini hampir semua ekosistemnya pakai Cloudflare), emang buka PayPal tanpa VPN tetep bakal bisa diteruskan dananya ke rekening?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "jual tanah BANYAK",
       "link": "https://redlib.perennialte.ch//r/indonesiabebas/comments/1p5l655/jual_tanah_banyak/",
       "guid": "https://redlib.perennialte.ch//r/indonesiabebas/comments/1p5l655/jual_tanah_banyak/",
       "pubDate": "Mon, 24 Nov 2025 16:51:15 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p5m843/jual_tanah_banyak/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p5m843/jual_tanah_banyak/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Kalau Cloudflare diblokir, akses PayPal gimana ya?",
+      "link": "https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/",
+      "guid": "https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/",
+      "pubDate": "Mon, 24 Nov 2025 05:06:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Emang konsekuensinya apa kalau proses WD PayPal ke BCA atau Jenius aku lakukan pakai VPN atau DNS encrypt?</p>\n\n<p>Emang konsekuensinya apa kalau buka PayPal dan update data kartu di PayPal pakai VPN atau DNS encrypt?</p>\n\n<p>Kalau DNS encrypt-ku itu barusan banget kemaren aku install tapi masih &quot;cek ombak&quot;.</p>\n\n<p>Karena yang terutama mau liat dulu dari sisi VPN. Saya pakai Proton yang berbayar, yang bisa milih server negara sendiri, yang bisa activate split tunneling dan kill switch.</p>\n\n<p>Cuman kalau split tunneling exclude PayPal (di mana PayPal ini hampir semua ekosistemnya pakai Cloudflare), emang buka PayPal tanpa VPN tetep bakal bisa diteruskan dananya ke rekening?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/finansial.rss",
-  "lastFetched": "2025-11-26T11:31:58.523Z"
+  "lastFetched": "2025-11-26T13:49:37.436Z"
 }
