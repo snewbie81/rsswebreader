@@ -67,15 +67,6 @@
       "thumbnail": null
     },
     {
-      "title": "Vale Edge, Hello Brave",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/",
-      "pubDate": "Tue, 25 Nov 2025 05:31:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p64cqg/vale_edge_hello_brave/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Edge has been my go to browser long LONG before it was cool, and just like that it&#39;s dead to me </p>\n\n<p><a href=\"https://imgur.com/a/C6FJbZI\">https://imgur.com/a/C6FJbZI</a></p>\n\n<p>Edge has lots its bookmark bar favicons and nothing restores them, so Edge is gone. I have spent the best part of a day, wasted the best part of a day. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Edge on macOS scrollbar got wider",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5n9jb/edge_on_macos_scrollbar_got_wider/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5n9jb/edge_on_macos_scrollbar_got_wider/",
@@ -227,9 +218,18 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p2z6wg/does_anyone_else_want_custom_dns_support_in_edge/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Is anyone else frustrated that Edge Mobile still doesn&#39;t support custom DNS settings inside the browser?</p>\n\n<p>I prefer setting my encrypted DNS (like NextDNS or ControlD) at the browser level rather than changing the global Android &quot;Private DNS&quot; setting. Using the global setting often breaks connectivity on public Wi-Fi (captive portals/ hotels/airports) or interferes with local network discovery.</p>\n\n<p>Other Chromium browsers like Chrome and Brave have had this setting for a long time. It seems like a major oversight for Edge, especially since the Desktop version handles this perfectly.</p>\n\n<p>I opened a request on the Microsoft Feedback Portal. If you use custom DNS for privacy or ad-blocking, please give this an upvote so the devs see that there is demand for it:</p>\n\n<p><a href=\"https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1\">https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1</a></p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
+    },
+    {
+      "title": "BUG: Right-Click \"Open in Sidebar\" is broken and not working",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/",
+      "pubDate": "Fri, 21 Nov 2025 18:17:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>The latest Microsoft Edge update broke the right click menu option in &quot;More Tools&quot; where you could Right-Click a tab (Vertical or Not) and go to &quot;More Tools&quot; and then  &quot;Open In sidebar&quot; and it would open a website in the sidebar.<br/>\nThis no longer works.<br/>\nI have tried this on 2 different laptops and 2 different accounts and the right click &quot;Open in sidebar&quot; no longer works even when all options in edge://settings are enabled including even trying to enable the copilot button.<br/>\nI have tried a fresh install on a third computer just to sanity check so this is not an windows version issue or a profile issue</p>\n\n<p>Please fix. Thank you</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-26T09:44:11.226Z"
+  "lastFetched": "2025-11-26T10:50:18.129Z"
 }
