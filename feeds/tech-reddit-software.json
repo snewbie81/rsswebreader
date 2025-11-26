@@ -22,6 +22,24 @@
       "thumbnail": null
     },
     {
+      "title": "Software that can convert JPG to PNG and resize PNG files",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
+      "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a>  </p>\n\n<p>This site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.<br/>\nThank you always.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Free website, to compress video files, up to 5 gb, online",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7bcx9/free_website_to_compress_video_files_up_to_5_gb/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7bcx9/free_website_to_compress_video_files_up_to_5_gb/",
+      "pubDate": "Wed, 26 Nov 2025 15:57:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7bcx9/free_website_to_compress_video_files_up_to_5_gb/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently built an online tool that can process large video files up to 5GB. It’s completely free to use and lets you upload two files per day. I couldn’t find any other service that lets you work with files this big without charging, so I decided to make one myself.</p>\n\n<p>It’s still pretty new, so I would really appreciate it if some of you could try it out and share your feedback. Anything that feels slow, confusing or broken is useful for me to know so I can improve it.</p>\n\n<p>If you get a chance to test it, thank you. Your input will help a lot.</p>\n\n<p><a href=\"http://www.squeezevid.com\">www.squeezevid.com</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "What is the best data-mapping software for large enterprises preparing for AI and automation?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7aous/what_is_the_best_datamapping_software_for_large/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7aous/what_is_the_best_datamapping_software_for_large/",
@@ -67,21 +85,21 @@
       "thumbnail": null
     },
     {
+      "title": "Introducing my Windows App: MySorty",
+      "link": "https://www.tkbitsupport.de/products/mysorty-en/",
+      "guid": "https://www.tkbitsupport.de/products/mysorty-en/",
+      "pubDate": "Wed, 26 Nov 2025 10:06:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741am/introducing_my_windows_app_mysorty/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>The idea came from my everyday life here in Germany, lots of paperwork, lots of scanning, and not enough time. I started with a tiny Python OCR script, but the project kept growing… and now it turned into a full Windows app built with WinUI 3.</p>\n\n<p>Here’s what MySorty can do:</p>\n\n<p>🔍 OCR &amp; Automation: \nOCR for PDFs and images → creates searchable PDFs .\n• Automatic language detection.\n• Watches an Input Folder and processes new files instantly.</p>\n\n<p>🗂️ Smart Sorting:\n• Create tag rules with keywords &amp; priorities.\n• Automatically sorts PDFs into subfolders based on matching keywords.\n• Automatically archives the original PDFs in the same folder structure as the OCRed PDFs.</p>\n\n<p>📧 Email Integration:\n• Fetch PDFs from IMAP or Microsoft OAuth2 mail accounts.\n• Add “allowed senders” so only trusted PDFs are downloaded.\n• Everything is then OCRed, sorted, and archived automatically.</p>\n\n<p>📄 Merge &amp; Organize:\n• Automatic PDF merging (I built this because my scanner isn’t duplex).\n• Watches a Merge Folder and combines all PDFs into one document.\n• Merged PDFs are also OCRed, sorted, and archived.</p>\n\n<p>👀 Built-in PDF Viewer:\n• Preview PDFs directly inside the app.\n• Rotate pages and save changes.\n• No need for external PDF software</p>\n\n<p>And the best part everything is done locally so no Cloud Uploads!</p>\n\n<p>Basically, every feature in MySorty exists because I needed it myself, and now it’s become a tool that handles my entire document workflow.</p>\n\n<p>If you’d like to check it out: 👉 <a href=\"http://www.tkbitsupport.de\">www.tkbitsupport.de</a></p>\n\n<p>Happy to hear any thoughts or feedback! 😁</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "A Shortcut Launcher for Windows",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
       "pubDate": "Wed, 26 Nov 2025 13:48:28 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a couple of commands using software like Setdpi and NirCmd mainly for settings like display resolution, scaling and more. Mainly they look like     </p>\n\n<p>&quot;SetDPI.exe 125&quot;<br/>\n&quot;nircmd.exe setdisplay 2560 1440 180&quot;  </p>\n\n<p>I have been using basic Windows shortcuts like .ink files and then I switched to using <strong>Biniware Run</strong> which is the closest thing to what I want which is just <strong>having a simple interface for creating commands and applications and then being able to launch those from the system tray or a floating button.</strong> I had difficulty finding something because searching &quot;Windows Launcher&quot; always brings up search based launchers. </p>\n\n<p>Thanks a bunch</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Software that can convert JPG to PNG and resize PNG files",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
-      "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a>  </p>\n\n<p>This site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.<br/>\nThank you always.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -118,15 +136,6 @@
       "pubDate": "Tue, 25 Nov 2025 16:38:50 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, here is one from me: DuckDuckGo browser on phone. I can browse internet without annoying ads, pop-ups, cookies prompts.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Introducing my Windows App: MySorty",
-      "link": "https://www.tkbitsupport.de/products/mysorty-en/",
-      "guid": "https://www.tkbitsupport.de/products/mysorty-en/",
-      "pubDate": "Wed, 26 Nov 2025 10:06:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741am/introducing_my_windows_app_mysorty/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>The idea came from my everyday life here in Germany, lots of paperwork, lots of scanning, and not enough time. I started with a tiny Python OCR script, but the project kept growing… and now it turned into a full Windows app built with WinUI 3.</p>\n\n<p>Here’s what MySorty can do:</p>\n\n<p>🔍 OCR &amp; Automation: \nOCR for PDFs and images → creates searchable PDFs .\n• Automatic language detection.\n• Watches an Input Folder and processes new files instantly.</p>\n\n<p>🗂️ Smart Sorting:\n• Create tag rules with keywords &amp; priorities.\n• Automatically sorts PDFs into subfolders based on matching keywords.\n• Automatically archives the original PDFs in the same folder structure as the OCRed PDFs.</p>\n\n<p>📧 Email Integration:\n• Fetch PDFs from IMAP or Microsoft OAuth2 mail accounts.\n• Add “allowed senders” so only trusted PDFs are downloaded.\n• Everything is then OCRed, sorted, and archived automatically.</p>\n\n<p>📄 Merge &amp; Organize:\n• Automatic PDF merging (I built this because my scanner isn’t duplex).\n• Watches a Merge Folder and combines all PDFs into one document.\n• Merged PDFs are also OCRed, sorted, and archived.</p>\n\n<p>👀 Built-in PDF Viewer:\n• Preview PDFs directly inside the app.\n• Rotate pages and save changes.\n• No need for external PDF software</p>\n\n<p>And the best part everything is done locally so no Cloud Uploads!</p>\n\n<p>Basically, every feature in MySorty exists because I needed it myself, and now it’s become a tool that handles my entire document workflow.</p>\n\n<p>If you’d like to check it out: 👉 <a href=\"http://www.tkbitsupport.de\">www.tkbitsupport.de</a></p>\n\n<p>Happy to hear any thoughts or feedback! 😁</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6r8s1/reliable_alternatives_to_thaiphoon_burner_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys, does anyone know of a reliable alternative to Thaiphoon Burner?</p>\n\n<p>I tried downloading it from the official website, but I couldn&#39;t get it to work at all—the site just won&#39;t load.</p>\n\n<p>I want to check detailed info about my RAM (like the real manufacturer, the chips used, manufacturing dates, and full specs) and also verify if the module is genuine, as I&#39;ve heard some software doesn&#39;t play well with newer Windows versions.</p>\n\n<p>Is there any good, up-to-date alternative that does the same thing?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Is realtekaudioconsole.com a scam?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6pksg/is_realtekaudioconsolecom_a_scam/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6pksg/is_realtekaudioconsolecom_a_scam/",
-      "pubDate": "Tue, 25 Nov 2025 21:47:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6pksg/is_realtekaudioconsolecom_a_scam/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Everything about it looks sketchy so I&#39;d like to know if it&#39;s a scam or not</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T15:41:22.068Z"
+  "lastFetched": "2025-11-26T16:55:15.585Z"
 }

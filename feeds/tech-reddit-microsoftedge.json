@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Let's get a true Google-style Discover Feed on the Microsoft Edge New Tab Page!",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7c09z/lets_get_a_true_googlestyle_discover_feed_on_the/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7c09z/lets_get_a_true_googlestyle_discover_feed_on_the/",
+      "pubDate": "Wed, 26 Nov 2025 16:21:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7c09z/lets_get_a_true_googlestyle_discover_feed_on_the/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! </p>\n\n<p>If you use Microsoft Edge and are looking for a more personalized and useful browsing experience, we need your help to push for a great feature.</p>\n\n<p>I&#39;ve submitted feedback to Microsoft asking them to replace the current, often limited and &#39;affiliate-heavy&#39; feed on the Edge New Tab Page (NTP) with a true &quot;Discover feed.&quot; This would be similar to what Google Chrome offers— a feed genuinely based on your interests and providing a wider, more relevant variety of content on both mobile and desktop.</p>\n\n<p>Why Upvote?</p>\n\n<ol>\n<li><p>More Relevant Content: Get news and articles based on your interests, not just a handful of affiliated sites.</p></li>\n<li><p>A Better Start Page: Make your New Tab Page actually useful for discovering things every time you open a tab.</p></li>\n<li><p>Microsoft Listens: These feedback votes are actively monitored by the Edge development team, and high-demand features get prioritized.</p></li>\n</ol>\n\n<p>Please take a second to upvote the idea on the Microsoft Feedback Portal here: </p>\n\n<p><a href=\"https://feedbackportal.microsoft.com/feedback/idea/d3757858-e1ca-f011-ad8f-7c1e52f38cbc\">https://feedbackportal.microsoft.com/feedback/idea/d3757858-e1ca-f011-ad8f-7c1e52f38cbc</a></p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Microsoft sign in",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/",
@@ -67,21 +76,21 @@
       "thumbnail": null
     },
     {
-      "title": "Delay when minimizing/restoring Edge windows",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/",
-      "pubDate": "Mon, 24 Nov 2025 21:10:02 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone else experienced a weird delay or lag when minimizing and restoring the Edge window? It happens whether hardware acceleration is on or off. No other app on my pc has this issue.</p>\n\n<p>Specs are Win10 // Ryzen 5600X // Nvidia RTX 4070 Super // 32 gb ram.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Edge on macOS scrollbar got wider",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5n9jb/edge_on_macos_scrollbar_got_wider/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5n9jb/edge_on_macos_scrollbar_got_wider/",
       "pubDate": "Mon, 24 Nov 2025 17:28:11 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5n9jb/edge_on_macos_scrollbar_got_wider/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>The scrollbar on web pages got wider on Edge macOS. Like double the size of standard scrollbars in Chrome and other browsers.</p>\n\n<p>Anyone has an idea how to get the original scrollbar width? The flags don&#39;t have anything with a `scrollbar`</p>\n\n<p>Edge 142.0.3595.94 on macOS M4</p>\n\n<p>Edge</p>\n\n<p><a href=\"/preview/pre/ps1dnjn4p83g1.png?width=188&amp;format=png&amp;auto=webp&amp;s=1e89c8e81bd2ada8836fbcd0419d574eff4a3bc6\">/preview/pre/ps1dnjn4p83g1.png?width=188&amp;format=png&amp;auto=webp&amp;s=1e89c8e81bd2ada8836fbcd0419d574eff4a3bc6</a></p>\n\n<p>Chrome</p>\n\n<p><a href=\"/preview/pre/05h14af7p83g1.png?width=180&amp;format=png&amp;auto=webp&amp;s=561a99378f53b687fafcf7b749dfc8ba4a17292b\">/preview/pre/05h14af7p83g1.png?width=180&amp;format=png&amp;auto=webp&amp;s=561a99378f53b687fafcf7b749dfc8ba4a17292b</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Delay when minimizing/restoring Edge windows",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/",
+      "pubDate": "Mon, 24 Nov 2025 21:10:02 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone else experienced a weird delay or lag when minimizing and restoring the Edge window? It happens whether hardware acceleration is on or off. No other app on my pc has this issue.</p>\n\n<p>Specs are Win10 // Ryzen 5600X // Nvidia RTX 4070 Super // 32 gb ram.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -94,7 +103,7 @@
       "thumbnail": null
     },
     {
-      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***��, anyone else seeing this?",
+      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p3p1kd/is_there_any_way_to_stop_search_bar_highlighting/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It happens every time I open new tab OR I reopen edge after exiting the browser. It&#39;s really annoying. Please help</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Does anyone else want Custom DNS support in Edge Mobile?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p2z6wg/does_anyone_else_want_custom_dns_support_in_edge/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p2z6wg/does_anyone_else_want_custom_dns_support_in_edge/",
-      "pubDate": "Fri, 21 Nov 2025 13:53:23 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p2z6wg/does_anyone_else_want_custom_dns_support_in_edge/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Is anyone else frustrated that Edge Mobile still doesn&#39;t support custom DNS settings inside the browser?</p>\n\n<p>I prefer setting my encrypted DNS (like NextDNS or ControlD) at the browser level rather than changing the global Android &quot;Private DNS&quot; setting. Using the global setting often breaks connectivity on public Wi-Fi (captive portals/ hotels/airports) or interferes with local network discovery.</p>\n\n<p>Other Chromium browsers like Chrome and Brave have had this setting for a long time. It seems like a major oversight for Edge, especially since the Desktop version handles this perfectly.</p>\n\n<p>I opened a request on the Microsoft Feedback Portal. If you use custom DNS for privacy or ad-blocking, please give this an upvote so the devs see that there is demand for it:</p>\n\n<p><a href=\"https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1\">https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1</a></p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-26T15:41:16.693Z"
+  "lastFetched": "2025-11-26T16:55:10.322Z"
 }

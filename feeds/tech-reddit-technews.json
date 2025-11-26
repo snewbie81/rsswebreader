@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Google is working on Android-based \"Aluminium OS\" to replace ChromeOS on laptops",
       "link": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
       "guid": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
       "pubDate": "Wed, 26 Nov 2025 14:06:27 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -76,21 +76,21 @@
       "thumbnail": null
     },
     {
-      "title": "Next Starliner flight will carry cargo instead of crew",
-      "link": "https://newatlas.com/space/starliner-cargo-no-crew/",
-      "guid": "https://newatlas.com/space/starliner-cargo-no-crew/",
-      "pubDate": "Tue, 25 Nov 2025 13:46:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Toshiba Targets Motorcycles and Boats With Its Batteries",
       "link": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
       "guid": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
       "pubDate": "Tue, 25 Nov 2025 21:27:27 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Next Starliner flight will carry cargo instead of crew",
+      "link": "https://newatlas.com/space/starliner-cargo-no-crew/",
+      "guid": "https://newatlas.com/space/starliner-cargo-no-crew/",
+      "pubDate": "Tue, 25 Nov 2025 13:46:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T15:41:24.481Z"
+  "lastFetched": "2025-11-26T16:55:18.277Z"
 }

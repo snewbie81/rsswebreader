@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "I need a 'Notepad Calculator' (Text + Live Math) replacement, FOSS/Ad-Free preferred. My current app is unusable due to ads.",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7c6ce/i_need_a_notepad_calculator_text_live_math/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7c6ce/i_need_a_notepad_calculator_text_live_math/",
+      "pubDate": "Wed, 26 Nov 2025 16:27:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7c6ce/i_need_a_notepad_calculator_text_live_math/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I&#39;m looking for recommendations for a very specific type of application on Android (or F-Droid). I&#39;ve been user of an app called &#39;<strong>Notepad Calculator</strong>&#39;, but the current version is increasing intrusive ads, and have no option for an one-time-purchase.</p>\n\n<p>I only used it sporadically, but the app was <strong>a pleasure to have</strong> when I needed a quick calculation</p>\n\n<p><strong>The Core Problem I Solve:</strong></p>\n\n<p>I need to take notes that involve small, immediate calculations without the hassle of opening two separate apps (Notepad + Calculator) or the overcomplication of a full spreadsheet.</p>\n\n<p><strong>How I Use It (The Key Functionality):</strong></p>\n\n<p>I use it for things like calculating orders (e.g., at a pastry shop). I can type a descriptive line that includes the flavor, quantity, price, and the app calculates the result right there on the same line or in a running total.</p>\n\n<p><strong>Example Syntax:</strong></p>\n\n<blockquote>\n</blockquote>\n\n<p><strong>Why I need this flexibility:</strong></p>\n\n<p>In a normal calculator, I would only see &#39;9.30&#39;. But with this app, I get the full context: the item description, the code, the quantity, and the result. This blend of <strong>text-based description</strong> and <strong>live mathematical processing</strong> is nice and practical.</p>\n\n<p><strong>Why Spreadsheets Don&#39;t Work:</strong></p>\n\n<p>Opening a spreadsheet, formatting cells, and inputting formulas is too much work (&#39;too much hassle&#39;) for something as trivial as a simple order for me and my friends /family. I need the instant, free-form nature of a notepad, but with the math done automatically.</p>\n\n<p><strong>My Requirements:</strong></p>\n\n<ol>\n<li><strong>Platform:</strong> Android (Play Store or F-Droid).</li>\n<li><strong>Functionality:</strong> Must perform <strong>live calculations within the text/notepad interface</strong>.</li>\n<li><strong>Cost:</strong> preferably <strong>free and Ad-Free (FOSS is highly preferred)</strong> but one-time-purchase may be accepted too (i don&#39;t want to get stuck in more subscriptions, tire of &#39;Everything as a service&#39;)</li>\n</ol>\n\n<p>Has anyone come across a hidden gem that performs this &#39;text-and-math&#39; function without the invasive ads? Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3n94a/best_gym_workoutqr_scanner_app/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi there.</p>\n\n<p>Just wondering if there are recommendations for a decent gym workout app? I really like the LifeFitness app as i can scan the qr code on all the equipment to record my workout data. Is there a decent FoSS replacement. Please and thank you.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Discord clients",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3dsiv/discord_clients/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p3dsiv/discord_clients/",
-      "pubDate": "Fri, 21 Nov 2025 23:26:13 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3dsiv/discord_clients/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Are there any open Discord clients? Ideally de-bloated and less annoying than the official one.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-26T15:41:05.111Z"
+  "lastFetched": "2025-11-26T16:54:58.435Z"
 }
