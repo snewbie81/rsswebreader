@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
+      "pubDate": "Tue, 25 Nov 2025 10:49:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>PassVault</strong>, an open-source, offline password manager. I posted here a few weeks ago, and thanks to your feedbacks.</p>\n\n<p>I&#39;ve just released <strong>v0.8.0-beta01</strong>.</p>\n\n<p><strong>What&#39;s new in this update:</strong></p>\n\n<ul>\n<li><strong>Argon2 Encryption:</strong> Switched to stronger encryption standards for better security.</li>\n<li><strong>Performance:</strong> Moved database operations to background threads (no more UI stutters).</li>\n</ul>\n\n<p><strong>Why use it?</strong></p>\n\n<ul>\n<li>Completely Offline (No internet permission)</li>\n</ul>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub (Source &amp; APK):</strong> <a href=\"https://github.com/jksalcedo/PassVault\">https://github.com/jksalcedo/PassVault</a></li>\n</ul>\n\n<p><strong>MIT License</strong></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "albums from yt music not showing in SimpMusic",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
@@ -37,15 +46,6 @@
       "pubDate": "Tue, 25 Nov 2025 20:34:26 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious if there&#39;s some kind of app that allows you to securely authenticate yourself with a workstation (such as Windows PC) with an Android device&#39;s user authentication method(s). Like <a href=\"https://www.xda-developers.com/unlock-windows-pc-fingerprint-scanner-android/\">Remote Fingerprint Unlock</a>, but without installing  proprietary binaries. Thanks in advance!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
-      "pubDate": "Tue, 25 Nov 2025 10:49:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>PassVault</strong>, an open-source, offline password manager. I posted here a few weeks ago, and thanks to your feedbacks.</p>\n\n<p>I&#39;ve just released <strong>v0.8.0-beta01</strong>.</p>\n\n<p><strong>What&#39;s new in this update:</strong></p>\n\n<ul>\n<li><strong>Argon2 Encryption:</strong> Switched to stronger encryption standards for better security.</li>\n<li><strong>Performance:</strong> Moved database operations to background threads (no more UI stutters).</li>\n</ul>\n\n<p><strong>Why use it?</strong></p>\n\n<ul>\n<li>Completely Offline (No internet permission)</li>\n</ul>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub (Source &amp; APK):</strong> <a href=\"https://github.com/jksalcedo/PassVault\">https://github.com/jksalcedo/PassVault</a></li>\n</ul>\n\n<p><strong>MIT License</strong></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-25T23:33:45.523Z"
+  "lastFetched": "2025-11-26T03:41:43.855Z"
 }

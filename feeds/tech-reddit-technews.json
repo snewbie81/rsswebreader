@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
-      "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
-      "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
-      "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
       "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
       "pubDate": "Tue, 25 Nov 2025 20:43:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6nwcb/shaihulud_malware_infects_500_npm_packages_leaks/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
+      "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
+      "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
+      "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-25T23:34:04.667Z"
+  "lastFetched": "2025-11-26T03:42:04.025Z"
 }
