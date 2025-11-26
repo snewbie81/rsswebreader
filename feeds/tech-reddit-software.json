@@ -22,30 +22,30 @@
       "thumbnail": null
     },
     {
+      "title": "Problem with videos in opera browser",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ilj7/problem_with_videos_in_opera_browser/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ilj7/problem_with_videos_in_opera_browser/",
+      "pubDate": "Wed, 26 Nov 2025 20:30:07 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ilj7/problem_with_videos_in_opera_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>HI, just joined this groupchat, because i think i could find a solution here. I will put an image so you can understand better. In every youtube video (ONLY IN OPERA) browser i have this purple line which is glued to my crosshair, and wherever i put my crosshair, the line goes with it.</p>\n\n<p><a href=\"/preview/pre/kf8qf9c4wn3g1.png?width=1886&amp;format=png&amp;auto=webp&amp;s=6a506e12674e9cd075b06793cacbdeedfca31fee\">/preview/pre/kf8qf9c4wn3g1.png?width=1886&amp;format=png&amp;auto=webp&amp;s=6a506e12674e9cd075b06793cacbdeedfca31fee</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Duplicate file finder",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
+      "pubDate": "Wed, 26 Nov 2025 20:20:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for something free that finds duplicate files. Hoping to find something highly rated here to save me from trying everything I can get my hands on.  TIA</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Geek Uninstaller 1.5.3.170 is out!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
       "pubDate": "Wed, 26 Nov 2025 02:18:01 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 2 years since the last update, so I was surprised to see this pop up today. I&#39;ve always loved using this tiny portable uninstaller when I&#39;m experimenting with new software.</p>\n\n<p><strong>Changelog for 1.5.3.170:</strong></p>\n\n<ul>\n<li>Safer traces detection algorithm</li>\n<li>Improved icons detection</li>\n</ul>\n\n<p><strong>Homepage:</strong><br/>\n<a href=\"https://geekuninstaller.com/\">https://geekuninstaller.com/</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What is the best way to encrypt and compress many files?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A Shortcut Launcher for Windows",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
-      "pubDate": "Wed, 26 Nov 2025 13:48:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a couple of commands using software like Setdpi and NirCmd mainly for settings like display resolution, scaling and more. Mainly they look like     </p>\n\n<p>&quot;SetDPI.exe 125&quot;<br/>\n&quot;nircmd.exe setdisplay 2560 1440 180&quot;  </p>\n\n<p>I have been using basic Windows shortcuts like .ink files and then I switched to using <strong>Biniware Run</strong> which is the closest thing to what I want which is just <strong>having a simple interface for creating commands and applications and then being able to launch those from the system tray or a floating button.</strong> I had difficulty finding something because searching &quot;Windows Launcher&quot; always brings up search based launchers. </p>\n\n<p>Thanks a bunch</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -85,21 +85,21 @@
       "thumbnail": null
     },
     {
-      "title": "I built a content aggregator (RSS, Podcasts, YouTube) that helps you \"drip-feed\" old archives. Meet ReWindByPaul.com",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p741it/i_built_a_content_aggregator_rss_podcasts_youtube/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p741it/i_built_a_content_aggregator_rss_podcasts_youtube/",
-      "pubDate": "Wed, 26 Nov 2025 10:06:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741it/i_built_a_content_aggregator_rss_podcasts_youtube/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I built a content aggregator called <a href=\"http://rewindbypaul.com\"><strong>ReWindByPaul.com</strong></a>. It handles RSS, Podcasts, and YouTube, but it has a specific feature called &quot;ReWind&quot; that handles content that has already been added in the past. It&#39;s entirely web-based.</p>\n\n<p>For those who don&#39;t know what RSS is (I knew what it was for years but never actually used it until I got interested in this project, and now I use it every day for my news consumption), RSS allows you to collect information, articles, or podcasts from various websites all in one place - a reader.</p>\n\n<p>The existing RSS readers I found felt overwhelming with too many options and complex settings. I just wanted something simple that works straight away, without needing a manual to set up.</p>\n\n<p><strong>What makes my app different?</strong><br/>\nIt is, I hope, much simpler to use. It includes full podcast support, including a queue and an audio player. But it also has a unique feature that I haven&#39;t seen elsewhere. It&#39;s my own invention.</p>\n\n<p><strong>How does the &quot;ReWind&quot; feature work?</strong><br/>\nIt sends you notifications about old content - for example, older YouTube videos, or older RSS items.</p>\n\n<p>Let’s say you discover a new YouTube channel. You like it, or maybe you want to re-watch videos from your favorite creator. But they have over 100 videos. You don&#39;t have time to watch them all right now, and realistically, you never will. My app answers this problem.</p>\n\n<p><strong>You simply choose:</strong></p>\n\n<ul>\n<li><strong>Where to start:</strong> From the very beginning (the first video), or maybe just the last 50.</li>\n<li><strong>The interval:</strong> Every 1 to 7 days.</li>\n</ul>\n\n<p>Then, every day (or every week, depending on your setting), you will receive these &quot;old&quot; videos in your <a href=\"http://rewindbypaul.com/userfeed\"><strong>ReWindByPaul.com/userfeed</strong></a> panel, as if they were new.</p>\n\n<p>For example, if you find a history channel with hundreds of documentaries, you get the first one immediately, and then one video a day for the next 250 days. (Note: I limit YouTube archives to 250 items due to technical reasons).</p>\n\n<p><strong>If that sounds good, you can test these examples:</strong></p>\n\n<ul>\n<li><strong>60 Minutes</strong> (Famous news magazine): <a href=\"https://rewindbypaul.com/channel/yt/?link=68dab97a030e94470c1916cf\">Link</a></li>\n<li><strong>Macroblank</strong> (Cool music): <a href=\"https://rewindbypaul.com/channel/yt/?link=68d58251633c9c558fabd34e\">Link</a></li>\n<li><strong>The Jordan Harbinger Show</strong> (General interest podcast): <a href=\"https://rewindbypaul.com/channel/podcast/?link=691a5297f4549433ef5049d3\">Link</a></li>\n<li><strong>Noah Smith</strong> (Popular economic blogger): <a href=\"https://rewindbypaul.com/channel/rss/?link=691667e863caeed9af930803\">Link</a></li>\n</ul>\n\n<p>Or you can add your favorite stuff.</p>\n\n<p><strong>Regarding features:</strong><br/>\nI aimed for simplicity for regular users. It doesn&#39;t have AI summarization or complex nested folders right now - just a clean feed of the content you want, though you can filter it by RSS, Podcast, or YouTube.&quot;</p>\n\n<p><strong>If this sounds interesting, please create an account and test it out:</strong><br/>\n<a href=\"https://rewindbypaul.com\">https://ReWindByPaul.com</a></p>\n\n<p>If you like it, you can support the project at <strong>ReWindByPaul.com/premium</strong>. Supporters get higher limits and no ads.</p>\n\n<p><strong>Roadmap:</strong></p>\n\n<ul>\n<li><strong>Android App:</strong> Currently on the way. You can sign up for early access on the main page.</li>\n<li><strong>iOS App:</strong> In the future plans (you can express interest on the main page).</li>\n</ul>\n\n<p><strong>Feedback:</strong><br/>\nIn case of problems, suggestions, or questions about pricing/limits, you can send your feedback via <a href=\"http://rewindbypaul.com/reportproblem\"><strong>ReWindByPaul.com/reportproblem</strong></a>, email me at [<a href=\"mailto:rewindbypaul@gmail.com\">rewindbypaul@gmail.com</a>](mailto:<a href=\"mailto:rewindbypaul@gmail.com\">rewindbypaul@gmail.com</a>), or at [<a href=\"mailto:contact@rewindbypaul.com\">contact@rewindbypaul.com</a>](mailto:<a href=\"mailto:contact@rewindbypaul.com\">contact@rewindbypaul.com</a>).</p>\n\n<p>For the power users among you: if you like the ReWind feature, you can also create your own public curated collections of links that others can &quot;ReWind&quot; through.</p>\n\n<p>Thanks for checking it out!</p>\n</div><!-- SC_ON -->",
+      "title": "What is the best way to encrypt and compress many files?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
-      "title": "Introducing my Windows App: MySorty",
-      "link": "https://www.tkbitsupport.de/products/mysorty-en/",
-      "guid": "https://www.tkbitsupport.de/products/mysorty-en/",
-      "pubDate": "Wed, 26 Nov 2025 10:06:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741am/introducing_my_windows_app_mysorty/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>The idea came from my everyday life here in Germany, lots of paperwork, lots of scanning, and not enough time. I started with a tiny Python OCR script, but the project kept growing… and now it turned into a full Windows app built with WinUI 3.</p>\n\n<p>Here’s what MySorty can do:</p>\n\n<p>🔍 OCR &amp; Automation: \nOCR for PDFs and images → creates searchable PDFs .\n• Automatic language detection.\n• Watches an Input Folder and processes new files instantly.</p>\n\n<p>🗂️ Smart Sorting:\n• Create tag rules with keywords &amp; priorities.\n• Automatically sorts PDFs into subfolders based on matching keywords.\n• Automatically archives the original PDFs in the same folder structure as the OCRed PDFs.</p>\n\n<p>📧 Email Integration:\n• Fetch PDFs from IMAP or Microsoft OAuth2 mail accounts.\n• Add “allowed senders” so only trusted PDFs are downloaded.\n• Everything is then OCRed, sorted, and archived automatically.</p>\n\n<p>📄 Merge &amp; Organize:\n• Automatic PDF merging (I built this because my scanner isn’t duplex).\n• Watches a Merge Folder and combines all PDFs into one document.\n• Merged PDFs are also OCRed, sorted, and archived.</p>\n\n<p>👀 Built-in PDF Viewer:\n• Preview PDFs directly inside the app.\n• Rotate pages and save changes.\n• No need for external PDF software</p>\n\n<p>And the best part everything is done locally so no Cloud Uploads!</p>\n\n<p>Basically, every feature in MySorty exists because I needed it myself, and now it’s become a tool that handles my entire document workflow.</p>\n\n<p>If you’d like to check it out: 👉 <a href=\"http://www.tkbitsupport.de\">www.tkbitsupport.de</a></p>\n\n<p>Happy to hear any thoughts or feedback! 😁</p>\n</div><!-- SC_ON -->",
+      "title": "A Shortcut Launcher for Windows",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
+      "pubDate": "Wed, 26 Nov 2025 13:48:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a couple of commands using software like Setdpi and NirCmd mainly for settings like display resolution, scaling and more. Mainly they look like     </p>\n\n<p>&quot;SetDPI.exe 125&quot;<br/>\n&quot;nircmd.exe setdisplay 2560 1440 180&quot;  </p>\n\n<p>I have been using basic Windows shortcuts like .ink files and then I switched to using <strong>Biniware Run</strong> which is the closest thing to what I want which is just <strong>having a simple interface for creating commands and applications and then being able to launch those from the system tray or a floating button.</strong> I had difficulty finding something because searching &quot;Windows Launcher&quot; always brings up search based launchers. </p>\n\n<p>Thanks a bunch</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -117,7 +117,16 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
       "pubDate": "Wed, 26 Nov 2025 09:36:55 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! I&#39;m looking for software that lets me <em>create</em> (not only fill out) PDF forms. Obviously I&#39;m looking for an alternative to Adobe stuff. Big criteria is that it needs to be <strong>offline</strong> software, aka not browser-based stuff, since I want it to use custom fonts in the form fields. So far I&#39;ve tried UPDF, but it has some annoying quirks. I haven&#39;t been able to find anything else.</p>\n\n<p>Ideally it&#39;d be free or single purchase that doesn&#39;t break the bank. Anything with a subscription I will not consider.</p>\n\n<p>Edit for clairty: I&#39;m <em>not</em> looking for software that can simply add text annotations or that can fill in form fields that are already there, I&#39;m looking for software that can create the form fields in the first place on existing PDFs that I&#39;ve designed in Affinity.</p>\n\n<p>Edit2: Here&#39;s a list of software I&#39;ve tried and have found wanting so far.</p>\n\n<ul>\n<li>UPDF: Closest to what I actually need, but for some reason it doesn&#39;t apply any font I&#39;ve installed myself to the form fields.</li>\n<li>WPS Office: Similar problem to UPDF, though much easier to use, but then hits you with a subscription ad if you try to save the file even though there&#39;s supposed to be a fully free version. Turns out there isn&#39;t</li>\n<li>PDF24 and PDFgear, which don&#39;t allow for form field creation, at least in the offline version of the software. It exists on the online version apparently, but that would mean I can&#39;t access custom fonts at all</li>\n<li>PDFfill does do form field creation, but doesn&#39;t seem to load any custom installed fonts.</li>\n<li>LibreOffice lets you create form fillable PDFs, but only from blank documents in Writer, not from existing PDFs, which is what I&#39;d need</li>\n</ul>\n\n<p>Edit3: I give up. I managed to find an old 2020 Acrobat key for cheap that works. Fuck Adobe</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! I&#39;m looking for software that lets me <em>create</em> (not only fill out) PDF forms. Obviously I&#39;m looking for an alternative to Adobe stuff. Big criteria is that it needs to be <strong>offline</strong> software, aka not browser-based stuff, since I want it to use custom fonts in the form fields. So far I&#39;ve tried UPDF, but it has some annoying quirks. I haven&#39;t been able to find anything else.</p>\n\n<p>Ideally it&#39;d be free or single purchase that doesn&#39;t break the bank. Anything with a subscription I will not consider.</p>\n\n<p>Edit for clairty: I&#39;m <em>not</em> looking for software that can simply add text annotations or that can fill in form fields that are already there, I&#39;m looking for software that can create the form fields in the first place on existing PDFs that I&#39;ve designed in Affinity.</p>\n\n<p>Edit2: Here&#39;s a list of software I&#39;ve tried and have found wanting so far.</p>\n\n<ul>\n<li>UPDF: Closest to what I actually need, but for some reason it doesn&#39;t apply any font I&#39;ve installed myself to the form fields.</li>\n<li>WPS Office: Similar problem to UPDF, though much easier to use, but then hits you with a subscription ad if you try to save the file even though there&#39;s supposed to be a fully free version. Turns out there isn&#39;t</li>\n<li>PDF24 and PDFgear, which don&#39;t allow for form field creation, at least in the offline version of the software. It exists on the online version apparently, but that would mean I can&#39;t access custom fonts at all</li>\n<li>PDFfill does do form field creation, but doesn&#39;t seem to load any custom installed fonts.</li>\n<li>LibreOffice lets you create form fillable PDFs, but only from blank documents in Writer, not from existing PDFs, which is what I&#39;d need</li>\n</ul>\n\n<p>Edit3: I give up. I managed to find an old 2020 Acrobat key for cheap that works. Fuck Adobe but it&#39;s the only viable option there is.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Can you share what tool/software improved your way of using internet or anything related to computers?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
+      "pubDate": "Tue, 25 Nov 2025 16:38:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, here is one from me: DuckDuckGo browser on phone. I can browse internet without annoying ads, pop-ups, cookies prompts.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -139,12 +148,21 @@
       "thumbnail": null
     },
     {
-      "title": "Can you share what tool/software improved your way of using internet or anything related to computers?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
-      "pubDate": "Tue, 25 Nov 2025 16:38:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, here is one from me: DuckDuckGo browser on phone. I can browse internet without annoying ads, pop-ups, cookies prompts.</p>\n</div><!-- SC_ON -->",
+      "title": "I built a content aggregator (RSS, Podcasts, YouTube) that helps you \"drip-feed\" old archives. Meet ReWindByPaul.com",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p741it/i_built_a_content_aggregator_rss_podcasts_youtube/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p741it/i_built_a_content_aggregator_rss_podcasts_youtube/",
+      "pubDate": "Wed, 26 Nov 2025 10:06:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741it/i_built_a_content_aggregator_rss_podcasts_youtube/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I built a content aggregator called <a href=\"http://rewindbypaul.com\"><strong>ReWindByPaul.com</strong></a>. It handles RSS, Podcasts, and YouTube, but it has a specific feature called &quot;ReWind&quot; that handles content that has already been added in the past. It&#39;s entirely web-based.</p>\n\n<p>For those who don&#39;t know what RSS is (I knew what it was for years but never actually used it until I got interested in this project, and now I use it every day for my news consumption), RSS allows you to collect information, articles, or podcasts from various websites all in one place - a reader.</p>\n\n<p>The existing RSS readers I found felt overwhelming with too many options and complex settings. I just wanted something simple that works straight away, without needing a manual to set up.</p>\n\n<p><strong>What makes my app different?</strong><br/>\nIt is, I hope, much simpler to use. It includes full podcast support, including a queue and an audio player. But it also has a unique feature that I haven&#39;t seen elsewhere. It&#39;s my own invention.</p>\n\n<p><strong>How does the &quot;ReWind&quot; feature work?</strong><br/>\nIt sends you notifications about old content - for example, older YouTube videos, or older RSS items.</p>\n\n<p>Let’s say you discover a new YouTube channel. You like it, or maybe you want to re-watch videos from your favorite creator. But they have over 100 videos. You don&#39;t have time to watch them all right now, and realistically, you never will. My app answers this problem.</p>\n\n<p><strong>You simply choose:</strong></p>\n\n<ul>\n<li><strong>Where to start:</strong> From the very beginning (the first video), or maybe just the last 50.</li>\n<li><strong>The interval:</strong> Every 1 to 7 days.</li>\n</ul>\n\n<p>Then, every day (or every week, depending on your setting), you will receive these &quot;old&quot; videos in your <a href=\"http://rewindbypaul.com/userfeed\"><strong>ReWindByPaul.com/userfeed</strong></a> panel, as if they were new.</p>\n\n<p>For example, if you find a history channel with hundreds of documentaries, you get the first one immediately, and then one video a day for the next 250 days. (Note: I limit YouTube archives to 250 items due to technical reasons).</p>\n\n<p><strong>If that sounds good, you can test these examples:</strong></p>\n\n<ul>\n<li><strong>60 Minutes</strong> (Famous news magazine): <a href=\"https://rewindbypaul.com/channel/yt/?link=68dab97a030e94470c1916cf\">Link</a></li>\n<li><strong>Macroblank</strong> (Cool music): <a href=\"https://rewindbypaul.com/channel/yt/?link=68d58251633c9c558fabd34e\">Link</a></li>\n<li><strong>The Jordan Harbinger Show</strong> (General interest podcast): <a href=\"https://rewindbypaul.com/channel/podcast/?link=691a5297f4549433ef5049d3\">Link</a></li>\n<li><strong>Noah Smith</strong> (Popular economic blogger): <a href=\"https://rewindbypaul.com/channel/rss/?link=691667e863caeed9af930803\">Link</a></li>\n</ul>\n\n<p>Or you can add your favorite stuff.</p>\n\n<p><strong>Regarding features:</strong><br/>\nI aimed for simplicity for regular users. It doesn&#39;t have AI summarization or complex nested folders right now - just a clean feed of the content you want, though you can filter it by RSS, Podcast, or YouTube.&quot;</p>\n\n<p><strong>If this sounds interesting, please create an account and test it out:</strong><br/>\n<a href=\"https://rewindbypaul.com\">https://ReWindByPaul.com</a></p>\n\n<p>If you like it, you can support the project at <strong>ReWindByPaul.com/premium</strong>. Supporters get higher limits and no ads.</p>\n\n<p><strong>Roadmap:</strong></p>\n\n<ul>\n<li><strong>Android App:</strong> Currently on the way. You can sign up for early access on the main page.</li>\n<li><strong>iOS App:</strong> In the future plans (you can express interest on the main page).</li>\n</ul>\n\n<p><strong>Feedback:</strong><br/>\nIn case of problems, suggestions, or questions about pricing/limits, you can send your feedback via <a href=\"http://rewindbypaul.com/reportproblem\"><strong>ReWindByPaul.com/reportproblem</strong></a>, email me at [<a href=\"mailto:rewindbypaul@gmail.com\">rewindbypaul@gmail.com</a>](mailto:<a href=\"mailto:rewindbypaul@gmail.com\">rewindbypaul@gmail.com</a>), or at [<a href=\"mailto:contact@rewindbypaul.com\">contact@rewindbypaul.com</a>](mailto:<a href=\"mailto:contact@rewindbypaul.com\">contact@rewindbypaul.com</a>).</p>\n\n<p>For the power users among you: if you like the ReWind feature, you can also create your own public curated collections of links that others can &quot;ReWind&quot; through.</p>\n\n<p>Thanks for checking it out!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Introducing my Windows App: MySorty",
+      "link": "https://www.tkbitsupport.de/products/mysorty-en/",
+      "guid": "https://www.tkbitsupport.de/products/mysorty-en/",
+      "pubDate": "Wed, 26 Nov 2025 10:06:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741am/introducing_my_windows_app_mysorty/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>The idea came from my everyday life here in Germany, lots of paperwork, lots of scanning, and not enough time. I started with a tiny Python OCR script, but the project kept growing… and now it turned into a full Windows app built with WinUI 3.</p>\n\n<p>Here’s what MySorty can do:</p>\n\n<p>🔍 OCR &amp; Automation: \nOCR for PDFs and images → creates searchable PDFs .\n• Automatic language detection.\n• Watches an Input Folder and processes new files instantly.</p>\n\n<p>🗂️ Smart Sorting:\n• Create tag rules with keywords &amp; priorities.\n• Automatically sorts PDFs into subfolders based on matching keywords.\n• Automatically archives the original PDFs in the same folder structure as the OCRed PDFs.</p>\n\n<p>📧 Email Integration:\n• Fetch PDFs from IMAP or Microsoft OAuth2 mail accounts.\n• Add “allowed senders” so only trusted PDFs are downloaded.\n• Everything is then OCRed, sorted, and archived automatically.</p>\n\n<p>📄 Merge &amp; Organize:\n• Automatic PDF merging (I built this because my scanner isn’t duplex).\n• Watches a Merge Folder and combines all PDFs into one document.\n• Merged PDFs are also OCRed, sorted, and archived.</p>\n\n<p>👀 Built-in PDF Viewer:\n• Preview PDFs directly inside the app.\n• Rotate pages and save changes.\n• No need for external PDF software</p>\n\n<p>And the best part everything is done locally so no Cloud Uploads!</p>\n\n<p>Basically, every feature in MySorty exists because I needed it myself, and now it’s become a tool that handles my entire document workflow.</p>\n\n<p>If you’d like to check it out: 👉 <a href=\"http://www.tkbitsupport.de\">www.tkbitsupport.de</a></p>\n\n<p>Happy to hear any thoughts or feedback! 😁</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6skvf/guys_is_there_any_free_software_to_remap_the/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I hope you’re doing well.<br/>\nI’m looking for software that allows me to customize keys. For example:</p>\n\n<ul>\n<li>Ctrl + 0 = @</li>\n<li>Ctrl + ^ = {</li>\n<li>Ctrl + $ = }</li>\n</ul>\n\n<p>Thank you.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "How do I allow the camera to verify age? because nothing is working",
-      "link": "/gallery/1p6w3oa",
-      "guid": "/gallery/1p6w3oa",
-      "pubDate": "Wed, 26 Nov 2025 02:41:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Free alternative to Miro, A flowchart app.",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6gfn0/free_alternative_to_miro_a_flowchart_app/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6gfn0/free_alternative_to_miro_a_flowchart_app/",
-      "pubDate": "Tue, 25 Nov 2025 16:08:53 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6gfn0/free_alternative_to_miro_a_flowchart_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><ol>\n<li>I want to use it to make flow chart for my team 2. Free tool which has the  shape dedicated for start sto and make decision 3. And it should allow to export files in editable format. </li>\n</ol>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T19:26:06.669Z"
+  "lastFetched": "2025-11-26T20:35:54.522Z"
 }
