@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Help with transcription software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
+      "pubDate": "Wed, 26 Nov 2025 06:49:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, does anyone have suggestions for a good transcription software (ideally free but paid also works) that can run locally and transcribe non-English language (hindi, tamil, kannada) audio accurately? </p>\n\n<p>I tried the free small model MacWhisper but the generated transcript was really bad. The most accurate one was notebooklm by far, but I don&#39;t want to upload my data online if possible as it is for a research project and needs to be kept confidential (sensitive info, personal details of people). Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Can you share what tool/software improved your way of using internet or anything related to computers?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/",
@@ -46,24 +55,6 @@
       "pubDate": "Wed, 26 Nov 2025 03:24:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6x5an/please_help_me_with_this_old_awful_software/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s a very old version of Unreal Engine (I think unreal tournament was made on it) I downloaded <a href=\"https://www.moddb.com/engines/unreal-development-kit/downloads/february-2015-unreal-development-kit-udk\">this</a> software for college, (It&#39;s worth noting I downloaded a different version (UDKInstall-2015-01) from my college, as I was told I had to use the colleges specific version). Which I did, but I can only open the playable version, and not the actual editor itself, I was told by my lecturer last week to make a shortcut to a file I can&#39;t remember, and change the shortcut target from &quot;bla\\bla\\bla\\UDK.exe&quot; to &quot;bla\\bla\\bla\\UDKEditor.exe&quot;. Someone online also said change the filepath to &quot;UDK.exe editor&quot;. Didn&#39;t help.</p>\n\n<p>Tried this for multiple different files to no avail as it just says the file path does not exist. ChatGPT can&#39;t help, and the very little bit of advice I could find online from 10 years ago is just &quot;Open the UDK Editor file&quot; (Gee thanks (I don&#39;t have this file btw, I THOROUGHLY checked)). I know that a maximum of 3 people have even heard of this software before, nevermind used it, but would anyone know how to access the editor?</p>\n\n<p>(Also might be useful I am using the Win64 version, but the files are identical to the Win32 version). Any help would be massively appreciated</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Help with transcription software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
-      "pubDate": "Wed, 26 Nov 2025 06:49:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, does anyone have suggestions for a good transcription software (ideally free but paid also works) that can run locally and transcribe non-English language (hindi, tamil, kannada) audio accurately? </p>\n\n<p>I tried the free small model MacWhisper but the generated transcript was really bad. The most accurate one was notebooklm by far, but I don&#39;t want to upload my data online if possible as it is for a research project and needs to be kept confidential (sensitive info, personal details of people). Thanks in advance!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "How do I allow the camera to verify age? because nothing is working",
-      "link": "/gallery/1p6w3oa",
-      "guid": "/gallery/1p6w3oa",
-      "pubDate": "Wed, 26 Nov 2025 02:41:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -103,12 +94,39 @@
       "thumbnail": null
     },
     {
+      "title": "How do I allow the camera to verify age? because nothing is working",
+      "link": "/gallery/1p6w3oa",
+      "guid": "/gallery/1p6w3oa",
+      "pubDate": "Wed, 26 Nov 2025 02:41:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Free alternative to Miro, A flowchart app.",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p6gfn0/free_alternative_to_miro_a_flowchart_app/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p6gfn0/free_alternative_to_miro_a_flowchart_app/",
       "pubDate": "Tue, 25 Nov 2025 16:08:53 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6gfn0/free_alternative_to_miro_a_flowchart_app/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><ol>\n<li>I want to use it to make flow chart for my team 2. Free tool which has the  shape dedicated for start sto and make decision 3. And it should allow to export files in editable format. </li>\n</ol>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Reliable alternatives to Thaiphoon Burner to check RAM SPD/Authenticity?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6r8s1/reliable_alternatives_to_thaiphoon_burner_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6r8s1/reliable_alternatives_to_thaiphoon_burner_to/",
+      "pubDate": "Tue, 25 Nov 2025 22:54:22 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6r8s1/reliable_alternatives_to_thaiphoon_burner_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys, does anyone know of a reliable alternative to Thaiphoon Burner?</p>\n\n<p>I tried downloading it from the official website, but I couldn&#39;t get it to work at all—the site just won&#39;t load.</p>\n\n<p>I want to check detailed info about my RAM (like the real manufacturer, the chips used, manufacturing dates, and full specs) and also verify if the module is genuine, as I&#39;ve heard some software doesn&#39;t play well with newer Windows versions.</p>\n\n<p>Is there any good, up-to-date alternative that does the same thing?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is realtekaudioconsole.com a scam?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6pksg/is_realtekaudioconsolecom_a_scam/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6pksg/is_realtekaudioconsolecom_a_scam/",
+      "pubDate": "Tue, 25 Nov 2025 21:47:34 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6pksg/is_realtekaudioconsolecom_a_scam/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Everything about it looks sketchy so I&#39;d like to know if it&#39;s a scam or not</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -139,6 +157,15 @@
       "thumbnail": null
     },
     {
+      "title": "Open source projects to contribute to",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
+      "pubDate": "Tue, 25 Nov 2025 11:04:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi I am just looking at some projects to, but don’t really know which ones to look at. I was looking at some recommendations to start looking at.</p>\n\n<p>Background: Currently in big tech with 5-6 months of experience (intern/new grad level). \nDomains interested in: Web dev, Cloud, maybe some higher level Linux things \nExperience: Python, Java, Go, JavaScript/Typescript, some C/C++ (but not comfortable with heavy code bases in these languages) and C#</p>\n\n<p>Any pointers to youngish projects to look at would be a great help :)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Best free CD burner software that allows you to drag and drop files to CD-RW?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xsmr/best_free_cd_burner_software_that_allows_you_to/",
@@ -157,6 +184,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is there software that lets non technical teams generate simple internal apps just by describing their workflow?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p6aiv3/is_there_software_that_lets_non_technical_teams/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6aiv3/is_there_software_that_lets_non_technical_teams/",
+      "pubDate": "Tue, 25 Nov 2025 11:54:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6aiv3/is_there_software_that_lets_non_technical_teams/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This might be a strange question for this sub, but I am genuinely curious from a software perspective.</p>\n\n<p>In many companies, small internal workflows still run through an odd mix of spreadsheets, emails, shared folders, and random chat messages. Things like<br/>\ntask approvals<br/>\nrequest tracking<br/>\nticket handoffs<br/>\naudit steps<br/>\nare usually handled manually because building a custom internal tool is “not worth the dev time.</p>\n\n<p>But with AI getting better at understanding instructions, I keep wondering<br/>\nIs there software where a non technical person can just describe a workflow in plain English and it generates a basic internal app for them?</p>\n\n<p>Not full scale development<br/>\nJust something like<br/>\n“Create an app for our daily checklist process”<br/>\nand it builds a usable version that the user can refine.</p>\n\n<p>Curious if anyone here has seen tools that let end users generate workflow applications without needing engineering involvement.<br/>\nIf this exists already, I would love to know what people think about it from a software development standpoint.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Winget update broke my PDF-XChange license. Vendor unable to provide old installer. Need v10.6.0.396.",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p64h8b/winget_update_broke_my_pdfxchange_license_vendor/",
@@ -166,12 +202,12 @@
       "thumbnail": null
     },
     {
-      "title": "Open source projects to contribute to",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/",
-      "pubDate": "Tue, 25 Nov 2025 11:04:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p69oh5/open_source_projects_to_contribute_to/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi I am just looking at some projects to, but don’t really know which ones to look at. I was looking at some recommendations to start looking at.</p>\n\n<p>Background: Currently in big tech with 5-6 months of experience (intern/new grad level). \nDomains interested in: Web dev, Cloud, maybe some higher level Linux things \nExperience: Python, Java, Go, JavaScript/Typescript, some C/C++ (but not comfortable with heavy code bases in these languages) and C#</p>\n\n<p>Any pointers to youngish projects to look at would be a great help :)</p>\n</div><!-- SC_ON -->",
+      "title": "Quality Engineering Role",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p66yg4/quality_engineering_role/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p66yg4/quality_engineering_role/",
+      "pubDate": "Tue, 25 Nov 2025 08:10:22 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p66yg4/quality_engineering_role/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey yall,\nMy question to people working in Quality/Testing or have worked in Big Tech (MAANG). How does your responsibility differ from:\nProduct Document -&gt; Test Plan -&gt; Test Execution -&gt; Release Readiness.</p>\n\n<p>My Head of Engineering wants to adapt Quality Engineering to involve testing earlier in the cycle. According to my research only Meta has this role currently. Would appreciate any insights. Thanks. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5lba3/what_are_some_great_apps_you_love_that_are/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m looking for inspiration for a new project and I want to hear about apps you <em>wish</em> had a cheaper alternative, an open-source clone, or just… any update at all.</p>\n\n<p>Could be:<br/>\n• Amazing but insanely overpriced<br/>\n• Great idea but abandoned<br/>\n• Closed-source with no real competitors<br/>\n• Tools you rely on that desperately need a modern remake<br/>\n• Niche apps that have a small but loyal cult following</p>\n\n<p>What apps come to mind?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Burning CDs for car stereo",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/",
-      "pubDate": "Tue, 25 Nov 2025 00:30:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5y75v/burning_cds_for_car_stereo/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>This might be the wrong place but I have been trying to burn CDs to play in my 2009 Toyota Prius. I have done this successfully twice before with the first two discs I burned but every one since had not worked and will not play in my car. I am using Maxwell brand CD-R discs, I have tried MP3 files and WAV files and I am burning them at the lowest speed my computer will allow (10x) I don’t know what I am doing wrong but also how I was able to succeed with my first two attempts. Any help or ideas would be much appreciated. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Can you start a shut off or sleeping pc woth windows remote desktop?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/",
-      "pubDate": "Tue, 25 Nov 2025 00:00:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Software for measuring pupil dilation from 2 different frames of a video",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/",
-      "pubDate": "Tue, 25 Nov 2025 02:45:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p613ka/software_for_measuring_pupil_dilation_from_2/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m a veterinary PhD student, and I&#39;d like to ask for some tips on softwares that might help me measure the dilation of a cow&#39;s pupils. I&#39;m recording the moment of dilation in 4k quality with 60 frames per second, and my idea is to measure the distance between the borders of the pupils in different frames in order to stipulate dilation speed and intensity. I tried to illustrate my idea in the photo.</p>\n\n<p><a href=\"/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52\">/preview/pre/i3sypggwfb3g1.jpg?width=1181&amp;format=pjpg&amp;auto=webp&amp;s=e781298a56e922c5bf4843ee15e238351d2ead52</a></p>\n\n<p>Since the cows move a lot. using a scale in the video is a little difficult, so I plan on using the proportion between those two lines for the analysis. If someone could recommend me a software that enables me to move the video frame by frame (like a slideshow, perhaps?) and draw lines with measurements, either in the video or in images extracted from the video, that would be much appreciated. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "WPS Office doesnt work in free-mode anymore, whats a good alternative?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/",
-      "pubDate": "Mon, 24 Nov 2025 16:57:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5me4q/wps_office_doesnt_work_in_freemode_anymore_whats/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>been using WPS for almost a decade now, but now its requiring that i upgrade to pro to do anything, so im looking around for a good alternative</p>\n\n<p>the two options i see being recomended are OpenOffice and LibreOffice, but Open seems to be abandoned, and i dont really like how old-school Libre looks. I&#39;ll use Libre if there&#39;s no other alternative, but i&#39;d love to know if there&#39;s a better option out there for an office setup</p>\n\n<p>i use both the word and spreadsheet features very regularly</p>\n\n<p>and it needs to be free obviously</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T07:34:45.555Z"
+  "lastFetched": "2025-11-26T08:55:09.302Z"
 }
