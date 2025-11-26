@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Here are 3 big ideas to combat climate change, with or without COP",
+      "link": "https://www.sciencenews.org/article/3-ideas-combat-climate-change-cop-30-un",
+      "guid": "https://www.sciencenews.org/?p=3163020",
+      "pubDate": "Wed, 26 Nov 2025 16:59:51 +0000",
+      "description": "As action from the U.N.’s huge COP30 international meeting falls short, smaller groups are banding together to find ways to fight climate change.",
+      "content": "As action from the U.N.’s huge COP30 international meeting falls short, smaller groups are banding together to find ways to fight climate change.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112525_CMR_COP30_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "A foot fossil suggests a second early human relative lived alongside Lucy",
       "link": "https://www.sciencenews.org/article/foot-fossil-early-human-relative-lucy",
       "guid": "https://www.sciencenews.org/?p=3163056",
@@ -173,18 +182,9 @@
       "description": "Books about AI, Mars and infectious disease were among our top reads this year.",
       "content": "Books about AI, Mars and infectious disease were among our top reads this year.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_reviews_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "America risks losing its role as a space science pioneer",
-      "link": "https://www.sciencenews.org/article/america-space-spacex-nasa-planet-policy",
-      "guid": "https://www.sciencenews.org/?p=3162568",
-      "pubDate": "Thu, 20 Nov 2025 17:00:00 +0000",
-      "description": "Funding uncertainties are pushing U.S. space scientists out of the field and putting existing and future space missions on the chopping block.",
-      "content": "Funding uncertainties are pushing U.S. space scientists out of the field and putting existing and future space missions on the chopping block.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_fos_space_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-11-26T16:55:05.276Z"
+  "lastFetched": "2025-11-26T17:40:28.328Z"
 }

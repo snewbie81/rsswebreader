@@ -76,6 +76,15 @@
       "thumbnail": null
     },
     {
+      "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
+      "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
+      "guid": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
+      "pubDate": "Wed, 26 Nov 2025 07:12:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p71c0a/onsolve_codered_cyberattack_disrupts_emergency/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p71c0a/onsolve_codered_cyberattack_disrupts_emergency/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Toshiba Targets Motorcycles and Boats With Its Batteries",
       "link": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
       "guid": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
@@ -91,15 +100,6 @@
       "pubDate": "Tue, 25 Nov 2025 13:46:12 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
-      "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
-      "guid": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
-      "pubDate": "Wed, 26 Nov 2025 07:12:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p71c0a/onsolve_codered_cyberattack_disrupts_emergency/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p71c0a/onsolve_codered_cyberattack_disrupts_emergency/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T16:55:18.277Z"
+  "lastFetched": "2025-11-26T17:40:41.662Z"
 }
