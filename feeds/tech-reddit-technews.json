@@ -13,15 +13,6 @@
       "thumbnail": null
     },
     {
-      "title": "GPU prices are coming to earth just as RAM costs shoot into the stratosphere",
-      "link": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/",
-      "guid": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/",
-      "pubDate": "Wed, 26 Nov 2025 08:54:40 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p72xt7/gpu_prices_are_coming_to_earth_just_as_ram_costs/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p72xt7/gpu_prices_are_coming_to_earth_just_as_ram_costs/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Google is working on Android-based \"Aluminium OS\" to replace ChromeOS on laptops",
       "link": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
       "guid": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
@@ -40,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
-      "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
-      "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
-      "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "AI Agents Break Rules Under Everyday Pressure",
       "link": "https://spectrum.ieee.org/ai-agents-safety",
       "guid": "https://spectrum.ieee.org/ai-agents-safety",
       "pubDate": "Tue, 25 Nov 2025 17:37:14 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6iu6k/ai_agents_break_rules_under_everyday_pressure/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6iu6k/ai_agents_break_rules_under_everyday_pressure/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
+      "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
+      "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
+      "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -227,9 +218,18 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4mh7w/switching_off_ais_ability_to_lie_makes_it_more/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4mh7w/switching_off_ais_ability_to_lie_makes_it_more/'>Comments</a>",
       "thumbnail": null
+    },
+    {
+      "title": "Pinterest is leaning hard into AI. The strategy is alienating its most dedicated users",
+      "link": "https://edition.cnn.com/2025/11/22/business/pinterest-ai-social-media",
+      "guid": "https://edition.cnn.com/2025/11/22/business/pinterest-ai-social-media",
+      "pubDate": "Sun, 23 Nov 2025 14:34:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4o6gy/pinterest_is_leaning_hard_into_ai_the_strategy_is/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4o6gy/pinterest_is_leaning_hard_into_ai_the_strategy_is/'>Comments</a>",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T17:40:41.662Z"
+  "lastFetched": "2025-11-26T18:50:16.286Z"
 }
