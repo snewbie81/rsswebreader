@@ -40,12 +40,30 @@
       "thumbnail": null
     },
     {
+      "title": "I made a free tool to translate anything on Windows (Games, Apps, etc.) instantly using Gemini",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
+      "pubDate": "Wed, 26 Nov 2025 20:39:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I wanted to share a free, open-source tool I built called <strong>Transnap</strong>, a lightweight Windows utility designed to solve a specific annoyance: translating text inside applications or games that don&#39;t let you copy-paste.</p>\n\n<p>I built this because I play a lot of games with heavy dialogue (often in languages I&#39;m still learning), and I hated having to pull out my phone for Google Lens or Alt-Tab out to type text into a browser.</p>\n\n<p><strong>What it does:</strong> </p>\n\n<p>It works like the Windows Snipping Tool. You press a hotkey (<code>Win+Shift+A</code>), draw a box around any text on your screen, and it uses Google&#39;s Gemini AI to OCR and translate it instantly in a floating overlay.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li><strong>Universal:</strong> Works on anything visible on your screen (browsers, PDFs, UI elements).</li>\n<li><strong>Game Mode:</strong> Has a specific toggle to force it to work over exclusive full-screen games.</li>\n<li><strong>AI Powered:</strong> Since it uses Gemini, the translations are context-aware and much better than standard literal translations.</li>\n<li><strong>Portable:</strong> It’s a single <code>.exe</code>  with no installation required.</li>\n<li><strong>Open Source:</strong> Written in Python.</li>\n</ul>\n\n<p><strong>Cost:</strong> The app itself is completely free and open-source. It requires your own Google Gemini API key (which is currently free for personal use).</p>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub &amp; Download:</strong> <a href=\"https://github.com/Misaghlb/Transnap/releases/latest\">https://github.com/Misaghlb/Transnap/releases/latest</a></li>\n</ul>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Geek Uninstaller 1.5.3.170 is out!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
       "pubDate": "Wed, 26 Nov 2025 02:18:01 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 2 years since the last update, so I was surprised to see this pop up today. I&#39;ve always loved using this tiny portable uninstaller when I&#39;m experimenting with new software.</p>\n\n<p><strong>Changelog for 1.5.3.170:</strong></p>\n\n<ul>\n<li>Safer traces detection algorithm</li>\n<li>Improved icons detection</li>\n</ul>\n\n<p><strong>Homepage:</strong><br/>\n<a href=\"https://geekuninstaller.com/\">https://geekuninstaller.com/</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What is the best way to encrypt and compress many files?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -85,15 +103,6 @@
       "thumbnail": null
     },
     {
-      "title": "What is the best way to encrypt and compress many files?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "A Shortcut Launcher for Windows",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
@@ -109,15 +118,6 @@
       "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved. Thank you, everyone.<br/>\nI usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a><br/>\nThis site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for free/cheap software to CREATE PDF forms",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
-      "pubDate": "Wed, 26 Nov 2025 09:36:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! I&#39;m looking for software that lets me <em>create</em> (not only fill out) PDF forms. Obviously I&#39;m looking for an alternative to Adobe stuff. Big criteria is that it needs to be <strong>offline</strong> software, aka not browser-based stuff, since I want it to use custom fonts in the form fields. So far I&#39;ve tried UPDF, but it has some annoying quirks. I haven&#39;t been able to find anything else.</p>\n\n<p>Ideally it&#39;d be free or single purchase that doesn&#39;t break the bank. Anything with a subscription I will not consider.</p>\n\n<p>Edit for clairty: I&#39;m <em>not</em> looking for software that can simply add text annotations or that can fill in form fields that are already there, I&#39;m looking for software that can create the form fields in the first place on existing PDFs that I&#39;ve designed in Affinity.</p>\n\n<p>Edit2: Here&#39;s a list of software I&#39;ve tried and have found wanting so far.</p>\n\n<ul>\n<li>UPDF: Closest to what I actually need, but for some reason it doesn&#39;t apply any font I&#39;ve installed myself to the form fields.</li>\n<li>WPS Office: Similar problem to UPDF, though much easier to use, but then hits you with a subscription ad if you try to save the file even though there&#39;s supposed to be a fully free version. Turns out there isn&#39;t</li>\n<li>PDF24 and PDFgear, which don&#39;t allow for form field creation, at least in the offline version of the software. It exists on the online version apparently, but that would mean I can&#39;t access custom fonts at all</li>\n<li>PDFfill does do form field creation, but doesn&#39;t seem to load any custom installed fonts.</li>\n<li>LibreOffice lets you create form fillable PDFs, but only from blank documents in Writer, not from existing PDFs, which is what I&#39;d need</li>\n</ul>\n\n<p>Edit3: I give up. I managed to find an old 2020 Acrobat key for cheap that works. Fuck Adobe but it&#39;s the only viable option there is.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -163,6 +163,15 @@
       "pubDate": "Wed, 26 Nov 2025 10:06:09 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741am/introducing_my_windows_app_mysorty/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>The idea came from my everyday life here in Germany, lots of paperwork, lots of scanning, and not enough time. I started with a tiny Python OCR script, but the project kept growing… and now it turned into a full Windows app built with WinUI 3.</p>\n\n<p>Here’s what MySorty can do:</p>\n\n<p>🔍 OCR &amp; Automation: \nOCR for PDFs and images → creates searchable PDFs .\n• Automatic language detection.\n• Watches an Input Folder and processes new files instantly.</p>\n\n<p>🗂️ Smart Sorting:\n• Create tag rules with keywords &amp; priorities.\n• Automatically sorts PDFs into subfolders based on matching keywords.\n• Automatically archives the original PDFs in the same folder structure as the OCRed PDFs.</p>\n\n<p>📧 Email Integration:\n• Fetch PDFs from IMAP or Microsoft OAuth2 mail accounts.\n• Add “allowed senders” so only trusted PDFs are downloaded.\n• Everything is then OCRed, sorted, and archived automatically.</p>\n\n<p>📄 Merge &amp; Organize:\n• Automatic PDF merging (I built this because my scanner isn’t duplex).\n• Watches a Merge Folder and combines all PDFs into one document.\n• Merged PDFs are also OCRed, sorted, and archived.</p>\n\n<p>👀 Built-in PDF Viewer:\n• Preview PDFs directly inside the app.\n• Rotate pages and save changes.\n• No need for external PDF software</p>\n\n<p>And the best part everything is done locally so no Cloud Uploads!</p>\n\n<p>Basically, every feature in MySorty exists because I needed it myself, and now it’s become a tool that handles my entire document workflow.</p>\n\n<p>If you’d like to check it out: 👉 <a href=\"http://www.tkbitsupport.de\">www.tkbitsupport.de</a></p>\n\n<p>Happy to hear any thoughts or feedback! 😁</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for free/cheap software to CREATE PDF forms",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
+      "pubDate": "Wed, 26 Nov 2025 09:36:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! I&#39;m looking for software that lets me <em>create</em> (not only fill out) PDF forms. Obviously I&#39;m looking for an alternative to Adobe stuff. Big criteria is that it needs to be <strong>offline</strong> software, aka not browser-based stuff, since I want it to use custom fonts in the form fields. So far I&#39;ve tried UPDF, but it has some annoying quirks. I haven&#39;t been able to find anything else.</p>\n\n<p>Ideally it&#39;d be free or single purchase that doesn&#39;t break the bank. Anything with a subscription I will not consider.</p>\n\n<p>Edit for clairty: I&#39;m <em>not</em> looking for software that can simply add text annotations or that can fill in form fields that are already there, I&#39;m looking for software that can create the form fields in the first place on existing PDFs that I&#39;ve designed in Affinity.</p>\n\n<p>Edit2: Here&#39;s a list of software I&#39;ve tried and have found wanting so far.</p>\n\n<ul>\n<li>UPDF: Closest to what I actually need, but for some reason it doesn&#39;t apply any font I&#39;ve installed myself to the form fields.</li>\n<li>WPS Office: Similar problem to UPDF, though much easier to use, but then hits you with a subscription ad if you try to save the file even though there&#39;s supposed to be a fully free version. Turns out there isn&#39;t</li>\n<li>PDF24 and PDFgear, which don&#39;t allow for form field creation, at least in the offline version of the software. It exists on the online version apparently, but that would mean I can&#39;t access custom fonts at all</li>\n<li>PDFfill does do form field creation, but doesn&#39;t seem to load any custom installed fonts.</li>\n<li>LibreOffice lets you create form fillable PDFs, but only from blank documents in Writer, not from existing PDFs, which is what I&#39;d need</li>\n</ul>\n\n<p>Edit3: I give up. I managed to find an old 2020 Acrobat key for cheap that works. Fuck Adobe but it&#39;s the only viable option there is.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6xis9/topaz_black_friday_sale_2025save_up_to_170_for_ai/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://topazlabss.com/sale\">Topazlabs 2025 Black Friday</a> is now LIVE. It’s the biggest saving opportunity of the year! From <strong>November 18 to December 3</strong>, your can save big on Topaz Studio and all single apps. Details below:</p>\n\n<h1>For New Customers</h1>\n\n<ul>\n<li>43% off Topaz Studio and Topaz Studio Pro (from $399 → $229)</li>\n<li>15% off all single apps</li>\n</ul>\n\n<h1>For Existing Customers</h1>\n\n<ul>\n<li>If you already own Topaz Studio: 43% off Studio Pro (from $799 → $455)</li>\n<li>If you have 1+ active license or all apps expired: Upgrade to Studio or Studio Pro for 43% off</li>\n<li>15% off all single apps</li>\n</ul>\n\n<p>NOTE: Collections and cloud credit packs are not included in the sale.</p>\n\n<p><a href=\"/preview/pre/8sj7k9b3wi3g1.png?width=1304&amp;format=png&amp;auto=webp&amp;s=f7c42392de9a6d3308599bef78ba123b6a9f04ae\">/preview/pre/8sj7k9b3wi3g1.png?width=1304&amp;format=png&amp;auto=webp&amp;s=f7c42392de9a6d3308599bef78ba123b6a9f04ae</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Guys, is there any free software to remap the keyboard, for example, to make Ctrl + 0 output @?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6skvf/guys_is_there_any_free_software_to_remap_the/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6skvf/guys_is_there_any_free_software_to_remap_the/",
-      "pubDate": "Tue, 25 Nov 2025 23:51:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6skvf/guys_is_there_any_free_software_to_remap_the/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I hope you’re doing well.<br/>\nI’m looking for software that allows me to customize keys. For example:</p>\n\n<ul>\n<li>Ctrl + 0 = @</li>\n<li>Ctrl + ^ = {</li>\n<li>Ctrl + $ = }</li>\n</ul>\n\n<p>Thank you.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T20:35:54.522Z"
+  "lastFetched": "2025-11-26T21:32:22.575Z"
 }
