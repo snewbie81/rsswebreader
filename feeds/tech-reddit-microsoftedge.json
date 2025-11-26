@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Microsoft sign in",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/",
+      "pubDate": "Wed, 26 Nov 2025 13:56:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just tried to sign in to my microsoft account following a link I got from a microsoft notice and got the following message</p>\n\n<p><a href=\"/preview/pre/ric6g6d5xl3g1.png?width=869&amp;format=png&amp;auto=webp&amp;s=1c05ba9bf0f307f6559476f3e314e0d2c87a2d3f\">/preview/pre/ric6g6d5xl3g1.png?width=869&amp;format=png&amp;auto=webp&amp;s=1c05ba9bf0f307f6559476f3e314e0d2c87a2d3f</a></p>\n\n<p>Can&#39;t sign in from the microsoft page either. </p>\n\n<p>Anyonee know where I can find the correct sign in screen?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Edge vs packaged-media.redd.it = constant buffering",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p2z6wg/does_anyone_else_want_custom_dns_support_in_edge/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Is anyone else frustrated that Edge Mobile still doesn&#39;t support custom DNS settings inside the browser?</p>\n\n<p>I prefer setting my encrypted DNS (like NextDNS or ControlD) at the browser level rather than changing the global Android &quot;Private DNS&quot; setting. Using the global setting often breaks connectivity on public Wi-Fi (captive portals/ hotels/airports) or interferes with local network discovery.</p>\n\n<p>Other Chromium browsers like Chrome and Brave have had this setting for a long time. It seems like a major oversight for Edge, especially since the Desktop version handles this perfectly.</p>\n\n<p>I opened a request on the Microsoft Feedback Portal. If you use custom DNS for privacy or ad-blocking, please give this an upvote so the devs see that there is demand for it:</p>\n\n<p><a href=\"https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1\">https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1</a></p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "BUG: Right-Click \"Open in Sidebar\" is broken and not working",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/",
-      "pubDate": "Fri, 21 Nov 2025 18:17:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>The latest Microsoft Edge update broke the right click menu option in &quot;More Tools&quot; where you could Right-Click a tab (Vertical or Not) and go to &quot;More Tools&quot; and then  &quot;Open In sidebar&quot; and it would open a website in the sidebar.<br/>\nThis no longer works.<br/>\nI have tried this on 2 different laptops and 2 different accounts and the right click &quot;Open in sidebar&quot; no longer works even when all options in edge://settings are enabled including even trying to enable the copilot button.<br/>\nI have tried a fresh install on a third computer just to sanity check so this is not an windows version issue or a profile issue</p>\n\n<p>Please fix. Thank you</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-26T13:50:27.252Z"
+  "lastFetched": "2025-11-26T14:45:51.123Z"
 }

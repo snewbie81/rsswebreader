@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Google is working on Android-based \"Aluminium OS\" to replace ChromeOS on laptops",
+      "link": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
+      "guid": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
+      "pubDate": "Wed, 26 Nov 2025 14:06:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
       "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
       "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
@@ -49,21 +58,21 @@
       "thumbnail": null
     },
     {
-      "title": "Next Starliner flight will carry cargo instead of crew",
-      "link": "https://newatlas.com/space/starliner-cargo-no-crew/",
-      "guid": "https://newatlas.com/space/starliner-cargo-no-crew/",
-      "pubDate": "Tue, 25 Nov 2025 13:46:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Scientists say they've eliminated a major AI bottleneck — now they can process calculations 'at the speed of light'",
       "link": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
       "guid": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
       "pubDate": "Tue, 25 Nov 2025 19:17:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Next Starliner flight will carry cargo instead of crew",
+      "link": "https://newatlas.com/space/starliner-cargo-no-crew/",
+      "guid": "https://newatlas.com/space/starliner-cargo-no-crew/",
+      "pubDate": "Tue, 25 Nov 2025 13:46:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6cu0w/next_starliner_flight_will_carry_cargo_instead_of/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4o6gy/pinterest_is_leaning_hard_into_ai_the_strategy_is/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4o6gy/pinterest_is_leaning_hard_into_ai_the_strategy_is/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Anthropic's new warning: If you train AI to cheat, it'll hack and sabotage too | Models trained to cheat at coding tasks developed a propensity to plan and carry out malicious activities, such as hacking a customer database.",
-      "link": "https://www.zdnet.com/article/anthropics-new-warning-if-you-train-ai-to-cheat-itll-hack-and-sabotage-too/",
-      "guid": "https://www.zdnet.com/article/anthropics-new-warning-if-you-train-ai-to-cheat-itll-hack-and-sabotage-too/",
-      "pubDate": "Sun, 23 Nov 2025 14:52:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4ola5/anthropics_new_warning_if_you_train_ai_to_cheat/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4ola5/anthropics_new_warning_if_you_train_ai_to_cheat/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T13:50:34.895Z"
+  "lastFetched": "2025-11-26T14:45:58.569Z"
 }
