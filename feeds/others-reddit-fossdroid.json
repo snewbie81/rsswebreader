@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Let's Talk About The Weather",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/",
+      "pubDate": "Wed, 26 Nov 2025 06:02:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a privacy-focused FOSS weather app that does not record my location - just gives me weather data for a specified location.</p>\n\n<p>Bonus points if its accurate and aesthetic. TIA!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
@@ -85,21 +94,21 @@
       "thumbnail": null
     },
     {
-      "title": "Taison v1.1.0 release - A manga reader",
-      "link": "/img/nm08trt9113g1.png",
-      "guid": "/img/nm08trt9113g1.png",
-      "pubDate": "Sun, 23 Nov 2025 15:43:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4puf2/taison_v110_release_a_manga_reader/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed “active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Image search aka Google Lens alternative",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/",
       "pubDate": "Mon, 24 Nov 2025 06:07:30 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p59gdn/image_search_aka_google_lens_alternative/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So far got nothing.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Taison v1.1.0 release - A manga reader",
+      "link": "/img/nm08trt9113g1.png",
+      "guid": "/img/nm08trt9113g1.png",
+      "pubDate": "Sun, 23 Nov 2025 15:43:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4puf2/taison_v110_release_a_manga_reader/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed “active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p2w0wb/an_app_that_blocks_any_google_and_any_system_app/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>If it doesn&#39;t exist, I hope someone creates this simple app.</p>\n\n<p>For example I do not want phone phone by Google, Contacts by Google app to never update<br/>\nand not even be picked up by play store updates or anything else.<br/>\nPlain and simple.</p>\n\n<p>I do not care about security or safety updates. I want the app that came fresh out of the box to stay as is basically.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Looking for a to-do list that is continuously visible in the notification panel",
-      "link": "/gallery/1p27f56",
-      "guid": "/gallery/1p27f56",
-      "pubDate": "Thu, 20 Nov 2025 16:20:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p27f56/looking_for_a_todo_list_that_is_continuously/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using the app for 6 years and now with Android 16 the notifications (shown in the image above) are disappearing. \nThis means I have to find an alternative :(</p>\n\n<p>You can find more information and screenshots on the Github page: \n<a href=\"https://github.com/Jizzu/SimpleToDo\">https://github.com/Jizzu/SimpleToDo</a></p>\n\n<p>But I&#39;m really just concerned that it&#39;s really &quot;simple&quot; as in the picture above. \nDo you know of an alternative?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-26T05:41:03.900Z"
+  "lastFetched": "2025-11-26T06:58:12.664Z"
 }

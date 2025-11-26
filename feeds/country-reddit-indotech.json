@@ -49,6 +49,24 @@
       "thumbnail": null
     },
     {
+      "title": "Pengalaman Gagal KYC di Scaleway",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
+      "pubDate": "Wed, 26 Nov 2025 04:09:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ceritanya beberapa hari kemaren saya butuh akses ke macOS &amp; iOS bentar karena butuh reproduce issue web app yang cuma kejadian di Safari/WebKit. Karena saya ngga punya device Apple, jadinya rental cloud. Awalnya nyoba pake Device Farm dari AWS, tapi provision nya lama dan agak kurang fleksibel.</p>\n\n<p>Akhirnya nyoba nyari Mac Mini. Saya nemu Scaleway yang nawarin rental Mac Mini M1 sekitar ~2.6 EUR per hari, jauh lebih murah dari AWS dan MacinCloud. Saya daftarlah ke Scaleway pake data asli &amp; lengkap (yang biasa saya pake juga di provider hosting lain), masukin debit card Jago, lalu order. Order nya sukses, saya bisa akses device nya dan langsung pakai.</p>\n\n<p>Sekitar jam setengah 3 pagi, saya dapat notif Scaleway Account Assessment. Pas saya cek paginya, ternyata minta verifikasi dokumen identitas sama foto selfie &amp; megang identitas itu. </p>\n\n<p><a href=\"/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6\">/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6</a></p>\n\n<p>Agak shock sih sama foto selfie ini karena biasanya mentok cuma dimintain dokumen buat cocokin nama &amp; alamat, itupun yang ngga relevan biasanya ngga masalah kalo saya redact. Awalnya ragu buat lanjut karena KYC ini rasanya terlalu ekstrim. Tapi just-in-case saya butuh lagi, akhirnya saya nurut.</p>\n\n<p>Mereka nawarin dua (atau mungkin tiga) opsi buat verifikasinya:</p>\n\n<ol>\n<li>Self-service lewat third-party &quot;Jumio&quot;</li>\n<li>Kirim dokumen ke email</li>\n<li>Attach dokumen ke reply ke ticket</li>\n</ol>\n\n<p>Awalnya saya nyoba opsi 1 biar cepet. Tapi pas udah nyiapin dokumen, siap verifikasi, eh di list negaranya ngga ada Indonesia. Padahal pas daftar akun Scaleway ada Indonesia dan ada pilihan provinsinya juga. Karena ngga bisa lanjut, saya reply ke ticket tadi buat ngasih tau kalo ngga ada opsi negara Indonesia sama nanyain adakah opsi verifikasi yang ngga pake selfie (karena mereka juga udah sukses charge debit card saya dan dari Jago/Visa juga ngga ada issue).</p>\n\n<p>~8 jam kemudian mereka bales buat ngasih opsi ke-3 (kirim dokumennya di reply ticket). Ngikut lah saya buat kirim dokumennya dan juga ngasih pesan buat hapus dokumennya se-segera mungkin setelah selesai KYC.</p>\n\n<p>~8 jam kemudian, saya dapet reply ditolak dan akun saya di lock permanen tanpa dikasih tau kenapa. Lah gimana?</p>\n\n<p><a href=\"/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8\">/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8</a></p>\n\n<p>Apakah karena banyak fraud dari Indonesia? Dulu juga pernah mau nyoba beli VPS DigitalOcean ngga bisa juga karena alasan fraud.</p>\n\n<p>Adakah yang punya pengalaman serupa? atau mungkin malah sukses verifikasinya?</p>\n\n<p>Makasi udah membaca sejauh ini. Have a nice day!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Flashdisk atau HDD eksternal?",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p701jz/flashdisk_atau_hdd_eksternal/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p701jz/flashdisk_atau_hdd_eksternal/",
+      "pubDate": "Wed, 26 Nov 2025 05:57:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p701jz/flashdisk_atau_hdd_eksternal/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi sebenarnya kemarin pengen beli <a href=\"/r/indotech/comments/1no81r2/rekomendasi_ssd_nvme_1tb_untuk_laptop/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button\">SSD NVME</a>, tapi gajadi karena harganya pada naik karena ai. Nah jadinya pengen nyoba buat hdd eksternal pakai hdd copotan laptop terus dikasih enclosure. Cuman gw khawatir sama keawetannya, nanti takutnya setelah beberapa bulan langsung mati. Nyoba lihat lihat harga flashdisk ternyata harganya lumayan untuk ukuran 128gb. </p>\n\n<p>Buat para redditor yang pernah buat hdd eksternal pakai hdd copotan laptop gimana pengalamannya? Terus kalau boleh minta rekomendasi brand flashdisk atau olshop hdd yang trusted di toko oren?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Telkomsel rampok, sudah beli paket 2 tahun sekaligus setiap bulan dikenakan biaya ninja.",
       "link": "/img/ythe7b6jgd3g1.jpeg",
       "guid": "/img/ythe7b6jgd3g1.jpeg",
@@ -58,12 +76,12 @@
       "thumbnail": null
     },
     {
-      "title": "Pengalaman Gagal KYC di Scaleway",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
-      "pubDate": "Wed, 26 Nov 2025 04:09:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ceritanya beberapa hari kemaren saya butuh akses ke macOS &amp; iOS bentar karena butuh reproduce issue web app yang cuma kejadian di Safari/WebKit. Karena saya ngga punya device Apple, jadinya rental cloud. Awalnya nyoba pake Device Farm dari AWS, tapi provision nya lama dan agak kurang fleksibel.</p>\n\n<p>Akhirnya nyoba nyari Mac Mini. Saya nemu Scaleway yang nawarin rental Mac Mini M1 sekitar ~2.6 EUR per hari, jauh lebih murah dari AWS dan MacinCloud. Saya daftarlah ke Scaleway pake data asli &amp; lengkap (yang biasa saya pake juga di provider hosting lain), masukin debit card Jago, lalu order. Order nya sukses, saya bisa akses device nya dan langsung pakai.</p>\n\n<p>Sekitar jam setengah 3 pagi, saya dapat notif Scaleway Account Assessment. Pas saya cek paginya, ternyata minta verifikasi dokumen identitas sama foto selfie &amp; megang identitas itu. </p>\n\n<p><a href=\"/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6\">/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6</a></p>\n\n<p>Agak shock sih sama foto selfie ini karena biasanya mentok cuma dimintain dokumen buat cocokin nama &amp; alamat, itupun yang ngga relevan biasanya ngga masalah kalo saya redact. Awalnya ragu buat lanjut karena KYC ini rasanya terlalu ekstrim. Tapi just-in-case saya butuh lagi, akhirnya saya nurut.</p>\n\n<p>Mereka nawarin dua (atau mungkin tiga) opsi buat verifikasinya:</p>\n\n<ol>\n<li>Self-service lewat third-party &quot;Jumio&quot;</li>\n<li>Kirim dokumen ke email</li>\n<li>Attach dokumen ke reply ke ticket</li>\n</ol>\n\n<p>Awalnya saya nyoba opsi 1 biar cepet. Tapi pas udah nyiapin dokumen, siap verifikasi, eh di list negaranya ngga ada Indonesia. Padahal pas daftar akun Scaleway ada Indonesia dan ada pilihan provinsinya juga. Karena ngga bisa lanjut, saya reply ke ticket tadi buat ngasih tau kalo ngga ada opsi negara Indonesia sama nanyain adakah opsi verifikasi yang ngga pake selfie (karena mereka juga udah sukses charge debit card saya dan dari Jago/Visa juga ngga ada issue).</p>\n\n<p>~8 jam kemudian mereka bales buat ngasih opsi ke-3 (kirim dokumennya di reply ticket). Ngikut lah saya buat kirim dokumennya dan juga ngasih pesan buat hapus dokumennya se-segera mungkin setelah selesai KYC.</p>\n\n<p>~8 jam kemudian, saya dapet reply ditolak dan akun saya di lock permanen tanpa dikasih tau kenapa. Lah gimana?</p>\n\n<p><a href=\"/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8\">/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8</a></p>\n\n<p>Apakah karena banyak fraud dari Indonesia? Dulu juga pernah mau nyoba beli VPS DigitalOcean ngga bisa juga karena alasan fraud.</p>\n\n<p>Adakah yang punya pengalaman serupa? atau mungkin malah sukses verifikasinya?</p>\n\n<p>Makasi udah membaca sejauh ini. Have a nice day!</p>\n</div><!-- SC_ON -->",
+      "title": "Minta rekomen speaker untuk PC dengan budget 500k",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p711di/minta_rekomen_speaker_untuk_pc_dengan_budget_500k/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p711di/minta_rekomen_speaker_untuk_pc_dengan_budget_500k/",
+      "pubDate": "Wed, 26 Nov 2025 06:55:22 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p711di/minta_rekomen_speaker_untuk_pc_dengan_budget_500k/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Halo selamat siang semua,</p>\n\n<p>Ingin minta saran barusan abis ganti monitor karena monitor baru nya ini ga ada speaker bawaan jadinya mau minta rekomen speaker dengan budget 500k.   </p>\n\n<p>Ga ada spesifik kebutuhan / buat daily use yang penting bisa jadi opsi denger suara lain aja kalau abis pake headset lama pegel, terima kasih semua. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,21 +94,21 @@
       "thumbnail": null
     },
     {
-      "title": "Reflek mengira ini mysql ternyata bukan",
-      "link": "/img/2hw917glsb3g1.jpeg",
-      "guid": "/img/2hw917glsb3g1.jpeg",
-      "pubDate": "Tue, 25 Nov 2025 03:51:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p62gwx/reflek_mengira_ini_mysql_ternyata_bukan/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p62gwx/reflek_mengira_ini_mysql_ternyata_bukan/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Minta Pendapat ColorOS (Oppo FindX9) vs OriginOS (Vivo X300)",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6g4aa/minta_pendapat_coloros_oppo_findx9_vs_originos/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6g4aa/minta_pendapat_coloros_oppo_findx9_vs_originos/",
       "pubDate": "Tue, 25 Nov 2025 15:57:22 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6g4aa/minta_pendapat_coloros_oppo_findx9_vs_originos/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi dikarenakan A54 yang saya pakai sekarang rasanya sudah lemot, cepat panas, dan baterenya kurang, jadinya saya kepikiran untuk ganti HP. Awalnya sih pengen coba S25 Ultra, di tiktok bisa dapat sekitar 15jtan. Tapi somehow lihat review X300 dan Find X9 rasanya lebih menarik dari sisi baterenya yang 7500mAh dan 6500mAh. </p>\n\n<p>Terakhir pengalaman pakai OS Cina itu sama MIUI di Redmi Note 3, dan ini pengalaman yang cukup buruk, akhirnya saya belum nyentuh OS Cina lagi sampai sekarang. Tapi katanya sekarang untuk OriginOS dan ColorOS katanya sudah ok ya? Ada yang bisa kasih review?</p>\n\n<p>Kalau untuk device apakah mendingan Vivo X300, Oppo Find X9 atau S25 Ultra ya?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Reflek mengira ini mysql ternyata bukan",
+      "link": "/img/2hw917glsb3g1.jpeg",
+      "guid": "/img/2hw917glsb3g1.jpeg",
+      "pubDate": "Tue, 25 Nov 2025 03:51:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p62gwx/reflek_mengira_ini_mysql_ternyata_bukan/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p62gwx/reflek_mengira_ini_mysql_ternyata_bukan/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -130,21 +148,21 @@
       "thumbnail": null
     },
     {
-      "title": "7 Aplikasi Mirip IDM yang Gratis dan Bikin Download Ngebut - UrbanIdea ID",
-      "link": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
-      "guid": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
-      "pubDate": "Wed, 26 Nov 2025 04:45:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6yppj/7_aplikasi_mirip_idm_yang_gratis_dan_bikin/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Selain 7 app alternatif IDM ini ada yg menarik lagi gak ya</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Lebih bagus upgrade kapasitas NVME menjadi 1TB atau tambah SSD SATA 1TB?",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1p67ire/lebih_bagus_upgrade_kapasitas_nvme_menjadi_1tb/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p67ire/lebih_bagus_upgrade_kapasitas_nvme_menjadi_1tb/",
       "pubDate": "Tue, 25 Nov 2025 08:47:27 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p67ire/lebih_bagus_upgrade_kapasitas_nvme_menjadi_1tb/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Sekarang PC ane masih memakai NVME 512gb dan untuk game2 multiplayer dan singleplayer jaman sekarang SSD menjadi requirement agar smooth experience. Tapi kalau upgrade NVME 1TB harus install ulang Windows (?) dan kalau lebih bagus tambah SSD SATA 1TB ada rekomendasi merk? Mohon bantuannya.</p>\n\n<p>Terima kasih.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "7 Aplikasi Mirip IDM yang Gratis dan Bikin Download Ngebut - UrbanIdea ID",
+      "link": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
+      "guid": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
+      "pubDate": "Wed, 26 Nov 2025 04:45:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6yppj/7_aplikasi_mirip_idm_yang_gratis_dan_bikin/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Selain 7 app alternatif IDM ini ada yg menarik lagi gak ya</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -175,21 +193,21 @@
       "thumbnail": null
     },
     {
-      "title": "Sinyal Telkomsel (By.U) Hilang",
-      "link": "/img/x9jvyj106b3g1.jpeg",
-      "guid": "/img/x9jvyj106b3g1.jpeg",
-      "pubDate": "Tue, 25 Nov 2025 01:44:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p5ztvm/sinyal_telkomsel_byu_hilang/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Kenapa ya sinyal Telkomsel (ByU) suka banget putus tiba tiba? Dan harus nunggu sekitar 5-8 Menit buat balik normal lagi. Ini ngeganggu aplg TS sering make internet.</p>\n\n<p>Ntah cmn Di Area Sekitar RS Pelni yg lagi Aneh Jaringannya atau dari HP ku (Samsung A14 4G) yang bermasalah ya?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "2025 TV Buying Guide for ordinary for sweet-spot 43\" 4K UHD",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1p61l14/2025_tv_buying_guide_for_ordinary_for_sweetspot/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p61l14/2025_tv_buying_guide_for_ordinary_for_sweetspot/",
       "pubDate": "Tue, 25 Nov 2025 03:07:49 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p61l14/2025_tv_buying_guide_for_ordinary_for_sweetspot/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>One story short, my 2021 LG 43 4K TV panel died and nothing I can do except replacing the panel. So the most sensical thing to do is, just to buy another TV.</p>\n\n<p>Well this seems a very good time since 4K 43 inch is actually getting cheaper. It used to be around 6 jt Rupiah for Samsung brand in 2021. Nowadays you can get around 3.5 - 4 jt. But there are too many choices with same spec, can you guys give me any recommendation even better based on your experience on that particular brand:</p>\n\n<p>What I am looking for:<br/>\n- Longer panel warranty<br/>\n- Available service-at-home in my area (Denpasar) if needed<br/>\n- OS does not matter, as long as Netflix/Youtube are supported</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Sinyal Telkomsel (By.U) Hilang",
+      "link": "/img/x9jvyj106b3g1.jpeg",
+      "guid": "/img/x9jvyj106b3g1.jpeg",
+      "pubDate": "Tue, 25 Nov 2025 01:44:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p5ztvm/sinyal_telkomsel_byu_hilang/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Kenapa ya sinyal Telkomsel (ByU) suka banget putus tiba tiba? Dan harus nunggu sekitar 5-8 Menit buat balik normal lagi. Ini ngeganggu aplg TS sering make internet.</p>\n\n<p>Ntah cmn Di Area Sekitar RS Pelni yg lagi Aneh Jaringannya atau dari HP ku (Samsung A14 4G) yang bermasalah ya?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p5btj8/ada_warga_sini_yg_pernah_upload_ktp_nya_jadi_nft/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Seorang pria asal Bandung berinisial HS mendadak jadi sorotan Bareskrim Polri.</p>\n\n<p>Bukan karena jualan aksesoris komputernya laris manis, tapi karena ia sukses membobol situs jual beli mata uang kripto raksasa asal London, Inggris, Finalto International Limited (pemilik platform Markets).</p>\n\n<p>Aksi solo HS ini sukses bikin perusahaan bule itu rugi bandar hingga Rp 6,67 miliar hanya dalam waktu singkat (kejadian pada 15 September 2025).</p>\n\n<p>Wadirtipidsiber Bareskrim Polri, Kombes Andri Sudarmadi, membeberkan trik &quot;ajaib&quot; HS.</p>\n\n<p>Pelaku yang sudah main kripto sejak 2017 ini ternyata punya mata elang melihat celah kerentanan (bug) pada sistem input situs tersebut.</p>\n\n<p>Modusnya terdengar seperti mimpi para trader.</p>\n\n<p>&quot;Sistem memberikan nominal USDT... sesuai angka yang di-input oleh pelaku,&quot; jelas Andri.</p>\n\n<p>Singkatnya, HS hanya perlu mengetik angka deposit yang ia mau, dan simsalabim, sistem yang sedang eror itu langsung menganggapnya sebagai saldo nyata.</p>\n\n<p>Manipulasi ini ia lakukan berulang kali hingga saldonya jadi gendut.</p>\n\n<p>Sadar aksinya ilegal, HS tidak mau pakai nama asli.</p>\n\n<p>Ia menciptakan empat akun fiktif dengan nama samaran, yakni Hendra, Eko Saldi, Arif Prayoga, dan Tosin.</p>\n\n<p>Lalu, dari mana ia dapat data KTP untuk verifikasi akun-akun itu?</p>\n\n<p>Inilah bagian paling ironis dan &quot;lucu&quot;-nya.</p>\n\n<p>HS tidak perlu meretas Dukcapil, ia hanya perlu berselancar di internet.</p>\n\n<p>&quot;Data tersebut didapatkan tersangka dengan cara mencari data dalam bentuk e-KTP di website opensea,&quot; ungkap polisi.</p>\n\n<p>(Ini jadi peringatan keras bagi warga yang dulu iseng upload foto KTP jadi NFT di OpenSea, bisa saja data Anda sekarang dipakai buat membobol situs di luar negeri).</p>\n\n<p>Hasil dari &quot;perampokan digital&quot; ini langsung mengubah gaya hidup HS.</p>\n\n<p>Polisi menyita sejumlah barang bukti yang menunjukkan kenaikan status ekonominya.</p>\n\n<ul>\n<li><p>Cold Wallet: Dompet kripto keras berisi aset senilai Rp 4,45 Miliar.</p></li>\n<li><p>Properti: Sebuah Ruko seluas 152 m² di Kabupaten Bandung.</p></li>\n<li><p>Status Bank: Ditemukan 1 unit kartu ATM Prioritas (mendadak jadi VIP bank).</p></li>\n</ul>\n\n<p>Meski HS bermain sebagai solo player, polisi tetap mendalami kemungkinan keterlibatan pihak lain.</p>\n\n<p>Kini, &quot;pesta&quot; HS berakhir di sel tahanan Bareskrim.</p>\n\n<p>Ia dijerat dengan &quot;paket komplit&quot; pasal berlapis, yakni UU ITE (Manipulasi Data), KUHP (Pencurian), UU Transfer Dana, hingga UU TPPU (Pencucian Uang).</p>\n\n<p>Ancamannya bikin merinding, yaitu penjara maksimal 15 tahun dan denda maksimal Rp 15 miliar.</p>\n\n<p>(Hitungan kasar: untung 6,6 M, potensi denda 15 M. Fix rugi bandar).</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "thinkpad t14 gen 2 vs hp 845 g8",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6056n/thinkpad_t14_gen_2_vs_hp_845_g8/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6056n/thinkpad_t14_gen_2_vs_hp_845_g8/",
-      "pubDate": "Tue, 25 Nov 2025 01:59:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6056n/thinkpad_t14_gen_2_vs_hp_845_g8/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>bingung milih diantara 2 itu dan beli onlinenya dimana yang bener2 bagus second handnya</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "ClickFix attack uses fake Windows Update screen to push malware",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p60wny/clickfix_attack_uses_fake_windows_update_screen/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p60wny/clickfix_attack_uses_fake_windows_update_screen/",
-      "pubDate": "Tue, 25 Nov 2025 02:35:58 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p60wny/clickfix_attack_uses_fake_windows_update_screen/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>ClickFix attack variants have been observed where threat actors trick users with a realistic-looking Windows Update animation in a full-screen browser page and hide the malicious code inside images.</p>\n\n<p>ClickFix is a social-engineering attack where users are convinced to paste and execute in Windows Command Prompt code or commands that lead to running malware on the system.</p>\n\n<p>The attack has been widely adopted by cybercriminals across all tiers due to its high effectiveness and has continually evolved, with <a href=\"https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/\">increasingly</a> advanced and deceptive lures.</p>\n\n<h1>Fullscreen browser page</h1>\n\n<p>Since October 1st, researchers have observed ClickFix attacks where the pretense for executing dangerous commands was completing the installation of a critical Windows security update and the more common &quot;human verification&quot; lure [<a href=\"https://www.bleepingcomputer.com/news/security/clickfix-attack-delivers-infostealers-rats-in-fake-bookingcom-emails/\">1</a>, <a href=\"https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/\">2</a>].</p>\n\n<p>The fake update page instructs victims to press specific keys in a certain sequence, which pastes and executes commands from the attacker that were automatically copied to the clipboard via JavaScript running on the site.</p>\n\n<p><a href=\"/preview/pre/bjj776kieb3g1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=1f90240ba0689c0abef221c009dec46b7f84d062\">Fake Windows security update screen</a></p>\n\n<p>A report from managed security services provider Huntress notes that the new ClickFix variants drop the LummaC2 and Rhadamanthys information stealers.</p>\n\n<p>In one variant, the hackers use a human verification page, while in another they rely on the fake Windows Update screen.</p>\n\n<p>In both cases, though, the threat actors used steganography to encode the final malware payload inside an image.</p>\n\n<p>&quot;Rather than simply appending malicious data to a file, the malicious code is encoded directly within the pixel data of PNG images, relying on specific colour channels to reconstruct and decrypt the payload in memory,&quot; Huntress <a href=\"https://www.huntress.com/blog/clickfix-malware-buried-in-images\">researchers explain</a>.</p>\n\n<p>Delivering the final payload starts with using the <em>mshta</em> Windows-native binary to execute malicious JavaScript code.</p>\n\n<p>The entire process involves multiple stages that use PowerShell code and a .NET assembly (the Stego Loader) responsible for reconstructing the final payload embedded inside a PNG file in an encrypted state.</p>\n\n<p>Inside Stego Loader’s manifest resources, there is an AES-encrypted blob that is actually a steganographic PNG file containing shellcode that is reconstructed using custom C# code.</p>\n\n<p>Huntress researchers noticed that the threat actor used a dynamic evasion tactic, commonly referred to as ctrampoline, where the entry point function started calling 10,000 empty functions.</p>\n\n<p><a href=\"/preview/pre/rmw2fm5qeb3g1.jpg?width=729&amp;format=pjpg&amp;auto=webp&amp;s=74a3c68fd54721da0d3083ebc28b7fedee6e3ab3\">Trampoline call chain</a></p>\n\n<p>The shellcode holding the infostealer samples is extracted from the encrypted image and is packed using the Donut tool that allows executing VBScript, JScript, EXE, DLL files, and .NET assemblies in memory.</p>\n\n<p>After unpacking, Huntress researchers were able to retrieve the malware, which in the analyzed attacks was LummaC2 and Rhadamanthys.</p>\n\n<p>The diagram below serves as a visual representation of how the entire attack works:</p>\n\n<p><a href=\"/preview/pre/p6tmn4hveb3g1.jpg?width=1589&amp;format=pjpg&amp;auto=webp&amp;s=9072baab706448b7ee5e8fc7048c8bc871949afd\">Overview of the attack</a></p>\n\n<p>The Rhadamanthys variant that used the Windows Update lure was <a href=\"https://x.com/Reid0nly/status/1980416054204723413\">first spotted</a> by researchers back in October, before Operation Endgame took down parts of its infrastructure <a href=\"https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/\">on November 13</a>.</p>\n\n<p>Huntress reports that the law enforcement operation resulted in the payload not being delivered anymore on the fake Windows Update domains, which are still active.</p>\n\n<p>To stay safe from this type of ClickFix attacks, the researchers recommend disabling the Windows Run box and monitoring for suspicious process chains such as <em>explorer.exe</em> spawning <em>mshta.exe</em> or PowerShell.</p>\n\n<p>Additionally, when investigating a cybersecurity incident, analysts can check the RunMRU registry key to see if the user entered commands in the Windows Run box.</p>\n\n<p><a href=\"https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/\">https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/</a></p>\n\n<p><a href=\"/r/technews/comments/1p5ucmm/clickfix_attack_uses_fake_windows_update_screen/\">https://www.reddit.com/r/technews/comments/1p5ucmm/clickfix_attack_uses_fake_windows_update_screen/</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-26T05:40:39.938Z"
+  "lastFetched": "2025-11-26T06:57:49.784Z"
 }

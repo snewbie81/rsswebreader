@@ -49,12 +49,30 @@
       "thumbnail": null
     },
     {
+      "title": "Help with transcription software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
+      "pubDate": "Wed, 26 Nov 2025 06:49:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, does anyone have suggestions for a good transcription software (ideally free but paid also works) that can run locally and transcribe non-English language (hindi, tamil, kannada) audio accurately? </p>\n\n<p>I tried the free small model MacWhisper but the generated transcript was really bad. The most accurate one was notebooklm by far, but I don&#39;t want to upload my data online if possible as it is for a research project and needs to be kept confidential (sensitive info, personal details of people). Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "How do I allow the camera to verify age? because nothing is working",
       "link": "/gallery/1p6w3oa",
       "guid": "/gallery/1p6w3oa",
       "pubDate": "Wed, 26 Nov 2025 02:41:31 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6w9ba/how_do_i_allow_the_camera_to_verify_age_because/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "I'm looking for an RGB software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p70ci1/im_looking_for_an_rgb_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70ci1/im_looking_for_an_rgb_software/",
+      "pubDate": "Wed, 26 Nov 2025 06:14:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70ci1/im_looking_for_an_rgb_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find an RGB software because the one for my brand of motherboard doesn&#39;t work as it only works on my ram and not my RGB fans or wires I don&#39;t need it to work with my mouse or keyboard I just needed to work with things inside my computer. I&#39;m not very good with tech so having it be simple Is important </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p60cp5/looking_for_a_lightweightfast_pdf_reader/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I use adobe acrobat pro and I really like the software it works well it’s just painfully slow even with very capable computers is there any alternative out their with the same features (maybe less the ai bloat) that’s much quicker.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Can you start a shut off or sleeping pc woth windows remote desktop?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/",
-      "pubDate": "Tue, 25 Nov 2025 00:00:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5xilg/can_you_start_a_shut_off_or_sleeping_pc_woth/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for a media player with a specific function.",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p5ruth/looking_for_a_media_player_with_a_specific/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p5ruth/looking_for_a_media_player_with_a_specific/",
-      "pubDate": "Mon, 24 Nov 2025 20:16:22 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p5ruth/looking_for_a_media_player_with_a_specific/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m on windows 11, and currently use windows media player legacy. The version included with windows since at least XP.</p>\n\n<p>The feature legacy has, but nothing else I&#39;ve tried, is the ability to just press the play button and start playing a randomly generated 8 hour playlist from your library.</p>\n\n<p>So far, potplayer, vlc, musicbee, and a myriad of others do not offer this. Even the new media player that replaced legacy dropped that feature.</p>\n\n<p>Is there any music/media player that will generate a random playlist from my library and start playback from a single click of the play button?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T05:41:20.731Z"
+  "lastFetched": "2025-11-26T06:58:30.172Z"
 }
