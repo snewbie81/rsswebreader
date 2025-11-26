@@ -18,7 +18,7 @@
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/",
       "pubDate": "Wed, 26 Nov 2025 07:26:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m using the latest stable version of Microsoft Edge (version 142) on Windows 11 with a fast fiber connection. I&#39;m experiencing a persistent issue where videos served from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> load very slowly and buffer every couple of seconds during playback.</p>\n\n<p>This only happens in Edge. When I use Firefox or Chrome, they resolve <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> to the same IP address and load the same videos, whether via direct links or from the original Reddit posts, without any problems: no slowdowns, buffering or stuttering. Other video and streaming services, such as YouTube, Netflix, and Twitch, work flawlessly in Edge.</p>\n\n<p>Efficiency mode is disabled, hardware acceleration is enabled, and the only extensions I have active in Edge are Bitwarden and AdGuard. Their configurations are identical to those in Firefox and Chrome. What could be causing this issue with loading media from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> specifically in Edge?</p>\n\n<p>Here are the troubleshooting steps I&#39;ve already tried, none of which helped:</p>\n\n<ul>\n<li>Disabling all extensions</li>\n<li>Turning off hardware acceleration</li>\n<li>Resetting Edge settings to default</li>\n<li>Restarting my router, modem and PC</li>\n<li>Trying different DNS resolvers</li>\n<li>Changing the user agent to Chrome or Firefox</li>\n</ul>\n\n<p>Thanks in advance for any help.</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m using the latest stable version of Microsoft Edge (version 142) on Windows 11 with a fast fiber connection. I&#39;m experiencing a persistent issue where videos served from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> load very slowly and buffer every couple of seconds during playback.</p>\n\n<p>This only happens in Edge. When I use Firefox or Chrome, they resolve <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> to the same IP address and load the same videos, whether via direct links or from the original Reddit posts, without any problems: no slowdowns, buffering or stuttering. Other video and streaming services, such as YouTube, Netflix, and Twitch, work flawlessly in Edge.</p>\n\n<p>Efficiency mode is disabled, hardware acceleration is enabled, and the only extensions I have active in Edge are Bitwarden and AdGuard. Their configurations are identical to those in Firefox and Chrome. What could be causing this issue with loading media from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> specifically in Edge?</p>\n\n<p>Here are the troubleshooting steps I&#39;ve already tried, none of which helped:</p>\n\n<ul>\n<li>Disabling all extensions</li>\n<li>Turning off hardware acceleration</li>\n<li>Resetting Edge settings to default</li>\n<li>Restarting my router, modem and PC</li>\n<li>Trying different DNS resolvers</li>\n<li>Changing the user agent to Chrome or Firefox</li>\n<li>Disabling Enhance Videos option</li>\n</ul>\n\n<p>Thanks in advance for any help.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -94,7 +94,7 @@
       "thumbnail": null
     },
     {
-      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
+      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***��, anyone else seeing this?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-26T14:45:51.123Z"
+  "lastFetched": "2025-11-26T15:41:16.693Z"
 }
