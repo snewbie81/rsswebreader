@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "Telkomsel rampok, sudah beli paket 2 tahun sekaligus setiap bulan dikenakan biaya ninja.",
-      "link": "/img/ythe7b6jgd3g1.jpeg",
-      "guid": "/img/ythe7b6jgd3g1.jpeg",
-      "pubDate": "Tue, 25 Nov 2025 09:27:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p684bo/telkomsel_rampok_sudah_beli_paket_2_tahun/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada yang tau cara stop Telkomsel kenain biaya biaya rampok kayak gini? Kemakan promo beli paket 2 tahun kupikir udah gak perlu bayar bulanan.</p>\n\n<p>Setiap bulan masih aja ditagih biaya biaya gak jelas…</p>\n\n<p>Layanan digital 90 perak??</p>\n\n<p>Internasional 10,910??? Roaming udah dimatikan, maksudnya keluar negri tidak boleh nyala sama sekali?</p>\n\n<p>Rampok 10rb setiap pelanggan, estimasi user telkomsel 150jt-170jt</p>\n\n<p>100jt x 10rb aja udah 1T</p>\n\n<p>Nikmat sekali cara nambahin omsetnya.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "RTX 5060 Ti 16GB sepertinya sudah mulai naik harganya menjelang akhir tahun",
       "link": "/gallery/1p6wjim",
       "guid": "/gallery/1p6wjim",
@@ -49,12 +40,48 @@
       "thumbnail": null
     },
     {
+      "title": "Nyari kabel arctis 5 dimana?",
+      "link": "/img/ll59gk76zi3g1.png",
+      "guid": "/img/ll59gk76zi3g1.png",
+      "pubDate": "Wed, 26 Nov 2025 04:00:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6xv0g/nyari_kabel_arctis_5_dimana/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Nyari kabel ini dimana yak? Namanya apa? Sejauh ini nyari kabel arctis 5 dapetnya yg 3.5mm terus. Sayang soalnya pake 3.5mm jadi ga nyala tuning dan RGBnya hehe </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Telkomsel rampok, sudah beli paket 2 tahun sekaligus setiap bulan dikenakan biaya ninja.",
+      "link": "/img/ythe7b6jgd3g1.jpeg",
+      "guid": "/img/ythe7b6jgd3g1.jpeg",
+      "pubDate": "Tue, 25 Nov 2025 09:27:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p684bo/telkomsel_rampok_sudah_beli_paket_2_tahun/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada yang tau cara stop Telkomsel kenain biaya biaya rampok kayak gini? Kemakan promo beli paket 2 tahun kupikir udah gak perlu bayar bulanan.</p>\n\n<p>Setiap bulan masih aja ditagih biaya biaya gak jelas…</p>\n\n<p>Layanan digital 90 perak??</p>\n\n<p>Internasional 10,910??? Roaming udah dimatikan, maksudnya keluar negri tidak boleh nyala sama sekali?</p>\n\n<p>Rampok 10rb setiap pelanggan, estimasi user telkomsel 150jt-170jt</p>\n\n<p>100jt x 10rb aja udah 1T</p>\n\n<p>Nikmat sekali cara nambahin omsetnya.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Pengalaman Gagal KYC di Scaleway",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
+      "pubDate": "Wed, 26 Nov 2025 04:09:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ceritanya beberapa hari kemaren saya butuh akses ke macOS &amp; iOS bentar karena butuh reproduce issue web app yang cuma kejadian di Safari/WebKit. Karena saya ngga punya device Apple, jadinya rental cloud. Awalnya nyoba pake Device Farm dari AWS, tapi provision nya lama dan agak kurang fleksibel.</p>\n\n<p>Akhirnya nyoba nyari Mac Mini. Saya nemu Scaleway yang nawarin rental Mac Mini M1 sekitar ~2.6 EUR per hari, jauh lebih murah dari AWS dan MacinCloud. Saya daftarlah ke Scaleway pake data asli &amp; lengkap (yang biasa saya pake juga di provider hosting lain), masukin debit card Jago, lalu order. Order nya sukses, saya bisa akses device nya dan langsung pakai.</p>\n\n<p>Sekitar jam setengah 3 pagi, saya dapat notif Scaleway Account Assessment. Pas saya cek paginya, ternyata minta verifikasi dokumen identitas sama foto selfie &amp; megang identitas itu. </p>\n\n<p><a href=\"/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6\">/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6</a></p>\n\n<p>Agak shock sih sama foto selfie ini karena biasanya mentok cuma dimintain dokumen buat cocokin nama &amp; alamat, itupun yang ngga relevan biasanya ngga masalah kalo saya redact. Awalnya ragu buat lanjut karena KYC ini rasanya terlalu ekstrim. Tapi just-in-case saya butuh lagi, akhirnya saya nurut.</p>\n\n<p>Mereka nawarin dua (atau mungkin tiga) opsi buat verifikasinya:</p>\n\n<ol>\n<li>Self-service lewat third-party &quot;Jumio&quot;</li>\n<li>Kirim dokumen ke email</li>\n<li>Attach dokumen ke reply ke ticket</li>\n</ol>\n\n<p>Awalnya saya nyoba opsi 1 biar cepet. Tapi pas udah nyiapin dokumen, siap verifikasi, eh di list negaranya ngga ada Indonesia. Padahal pas daftar akun Scaleway ada Indonesia dan ada pilihan provinsinya juga. Karena ngga bisa lanjut, saya reply ke ticket tadi buat ngasih tau kalo ngga ada opsi negara Indonesia sama nanyain adakah opsi verifikasi yang ngga pake selfie (karena mereka juga udah sukses charge debit card saya dan dari Jago/Visa juga ngga ada issue).</p>\n\n<p>~8 jam kemudian mereka bales buat ngasih opsi ke-3 (kirim dokumennya di reply ticket). Ngikut lah saya buat kirim dokumennya dan juga ngasih pesan buat hapus dokumennya se-segera mungkin setelah selesai KYC.</p>\n\n<p>~8 jam kemudian, saya dapet reply ditolak dan akun saya di lock permanen tanpa dikasih tau kenapa. Lah gimana?</p>\n\n<p><a href=\"/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8\">/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8</a></p>\n\n<p>Apakah karena banyak fraud dari Indonesia? Dulu juga pernah mau nyoba beli VPS DigitalOcean ngga bisa juga karena alasan fraud.</p>\n\n<p>Adakah yang punya pengalaman serupa? atau mungkin malah sukses verifikasinya?</p>\n\n<p>Makasi udah membaca sejauh ini. Have a nice day!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Reflek mengira ini mysql ternyata bukan",
       "link": "/img/2hw917glsb3g1.jpeg",
       "guid": "/img/2hw917glsb3g1.jpeg",
       "pubDate": "Tue, 25 Nov 2025 03:51:29 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p62gwx/reflek_mengira_ini_mysql_ternyata_bukan/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p62gwx/reflek_mengira_ini_mysql_ternyata_bukan/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "7 Aplikasi Mirip IDM yang Gratis dan Bikin Download Ngebut - UrbanIdea ID",
+      "link": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
+      "guid": "https://urbanidea.id/tech/aplikasi-mirip-idm/",
+      "pubDate": "Wed, 26 Nov 2025 04:45:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6yppj/7_aplikasi_mirip_idm_yang_gratis_dan_bikin/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Selain 7 app alternatif IDM ini ada yg menarik lagi gak ya</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6do49/untuk_sesepuh_per_hp_an_minta_rekomendasinya_dong/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada gak sih hp di range 500k yang support nfc, support ldac, lumayan kuat buat main game kayak honkai star rail lah, ato gk storage 128gb, buat second phone. Second pun gapapa</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Rekomendasi laptop harga 4,5jt - 5,5jt",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p5gcfo/rekomendasi_laptop_harga_45jt_55jt/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p5gcfo/rekomendasi_laptop_harga_45jt_55jt/",
-      "pubDate": "Mon, 24 Nov 2025 12:56:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p5gcfo/rekomendasi_laptop_harga_45jt_55jt/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Butuh rekomendasi laptop untuk kebutuhan universal seperti edit video, dan kegiatan kantor(guru).</p>\n\n<p>untuk spesifikasi karena dipakai untuk istri mungkin seperti :</p>\n\n<ul>\n<li>Umur panjang</li>\n<li>Pembongkaran mudah karena jelas butuh pembersihan berkala</li>\n<li>Batre badak atau bagus karena kalo perempuan kayaknya malas atau lupa yg mau ngecharge</li>\n<li>compact atau padat</li>\n</ul>\n\n<p>mungkin itu aja karena kalo udah dapat yg fix mau berangkat ke surabaya untuk beli, karena istri gk mau buat beli barang online dengan harga yang besar seperti tadi.</p>\n\n<p>terima kasih </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Filen akan meniadakan plan lifetime dan black friday ini akan menjadi terakhir kalinya plan ini ada",
-      "link": "/gallery/1p64sfx",
-      "guid": "/gallery/1p64sfx",
-      "pubDate": "Tue, 25 Nov 2025 05:56:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p64sfx/filen_akan_meniadakan_plan_lifetime_dan_black/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://filen.io/hub/black-friday-2025-the-final-return-of-pro-lifetime-plans/\">https://filen.io/hub/black-friday-2025-the-final-return-of-pro-lifetime-plans/</a></p>\n\n<p>This year’s Black Friday is going to be a special one.<br/>\nFor the very last time we are bringing back our Pro Lifetime Plans: Pro 1, Pro 2, Pro 3 and Pro X.</p>\n\n<p>Once Black Friday is over these plans will be gone, most likely for good.<br/>\nThe Starter Lifetime Plan will stay available as usual (for now), but all Pro Lifetime tiers will be retired after this final round.</p>\n\n<h1>What to expect this Black Friday</h1>\n\n<p>Here is what you need to know:</p>\n\n<ul>\n<li>The 2025 &quot;Black Friday sale&quot; will begin on Monday, November 24</li>\n<li><strong>Pro Lifetime Plans return one last time:</strong> Pro 1, Pro 2, Pro 3 and Pro X</li>\n<li>They will be sold at their <strong>regular price</strong></li>\n<li>There will be special discounts on all regular <strong>monthly and yearly subscription plans</strong></li>\n<li>After Black Friday, <strong>Pro</strong> Lifetime Plans will be gone for good</li>\n<li><strong>The Starter Lifetime Plan stays available even after Black Friday!</strong></li>\n</ul>\n\n<h1>Why we are saying goodbye to Lifetime Plans</h1>\n\n<p>If you have read <a href=\"https://filen.io/hub/lifetime-plans-an-update/\">our post from June</a> you already know why we started moving away from Lifetime Plans.<br/>\nThey have been a huge part of Filen’s story and allowed us to fund our own infrastructure early on without outside investors.</p>\n\n<p>But as Filen continues to grow, it’s become clear that the concept doesn’t scale forever. Selling long-term service commitments for a one-time payment may work for a while, but it’s not a model that supports ongoing development, infrastructure, and support costs indefinitely.</p>\n\n<p>In that post we wrote:<br/>\n&quot;It does not really make sense to withhold Lifetime Plans all year for the sake of financial stability only to then sell a larger number at a lower price within just a couple of weeks. It is like cutting back consistently only to overcompensate in a short burst which does not align with the original goal.&quot;</p>\n\n<p>That is still true today. If we want to keep Filen sustainable and keep improving the service, we have to move on.</p>\n\n<p>This isn’t a reaction to problems, it’s a deliberate, forward-looking step to keep Filen sustainable, independent, and continually improving.<br/>\nLifetime Plans helped us get here, and we’re thankful for that. But continuing to rely on them long-term would eventually create more risk than benefit, both for us and for users who depend on Filen every day.</p>\n\n<p>We’d rather evolve now, while we’re in a strong position, than stretch a model that was never designed to last forever.</p>\n\n<p>We know it’s a bit unusual to address this so directly, but transparency matters to us. We’d rather speak clearly about our decisions than surprise anyone later.</p>\n\n<p>We are incredibly grateful to everyone who has supported Filen over the years, whether through a Lifetime Plan or a subscription. Your support has allowed us to stay independent and keep growing.  </p>\n\n<p>Thank you for your attention.<br/>\n-Team Filen</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Alternatif Whatsapp for Windows? Yang Versi Terbaru di Win 11 Jelek Banget",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p52pzk/alternatif_whatsapp_for_windows_yang_versi/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p52pzk/alternatif_whatsapp_for_windows_yang_versi/",
-      "pubDate": "Mon, 24 Nov 2025 00:28:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p52pzk/alternatif_whatsapp_for_windows_yang_versi/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Versi terbaru makan ram banyak banget, sering freeze dan tiba-tiba ngilang. Selain Whatsapp Web, adakah alternatif lainnya? \nGabisa pakai Signal or program lain, kantor pakenya WA untuk semua jenis koordinasi. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-26T03:41:20.620Z"
+  "lastFetched": "2025-11-26T04:48:01.296Z"
 }

@@ -76,21 +76,21 @@
       "thumbnail": null
     },
     {
-      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
-      "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Copilot stalls on every answer",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
       "pubDate": "Mon, 24 Nov 2025 09:18:56 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Literally anything I ask is left half answered and I&#39;m forced to hit stop. Then I&#39;ll ask it again or ask it to repeat and it stalls again! Completely useless. Anyone else facing the same issues?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
+      "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-26T03:41:56.509Z"
+  "lastFetched": "2025-11-26T04:48:35.972Z"
 }
