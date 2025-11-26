@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Edge vs packaged-media.redd.it = constant buffering",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/",
+      "pubDate": "Wed, 26 Nov 2025 07:26:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m using the latest stable version of Microsoft Edge (version 142) on Windows 11 with a fast fiber connection. I&#39;m experiencing a persistent issue where videos served from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> load very slowly and buffer every couple of seconds during playback.</p>\n\n<p>This only happens in Edge. When I use Firefox or Chrome, they resolve <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> to the same IP address and load the same videos, whether via direct links or from the original Reddit posts, without any problems: no slowdowns, buffering or stuttering. Other video and streaming services, such as YouTube, Netflix, and Twitch, work flawlessly in Edge.</p>\n\n<p>Efficiency mode is disabled, hardware acceleration is enabled, and the only extensions I have active in Edge are Bitwarden and AdGuard. Their configurations are identical to those in Firefox and Chrome. What could be causing this issue with loading media from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> specifically in Edge?</p>\n\n<p>Here are the troubleshooting steps I&#39;ve already tried, none of which helped:</p>\n\n<ul>\n<li>Disabling all extensions</li>\n<li>Turning off hardware acceleration</li>\n<li>Resetting Edge settings to default</li>\n<li>Restarting my router, modem and PC</li>\n<li>Trying different DNS resolvers</li>\n<li>Changing the user agent to Chrome or Firefox</li>\n</ul>\n\n<p>Thanks in advance for any help.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "edge opening randomly??",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p6fbwt/edge_opening_randomly/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p6fbwt/edge_opening_randomly/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p2z6wg/does_anyone_else_want_custom_dns_support_in_edge/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Is anyone else frustrated that Edge Mobile still doesn&#39;t support custom DNS settings inside the browser?</p>\n\n<p>I prefer setting my encrypted DNS (like NextDNS or ControlD) at the browser level rather than changing the global Android &quot;Private DNS&quot; setting. Using the global setting often breaks connectivity on public Wi-Fi (captive portals/ hotels/airports) or interferes with local network discovery.</p>\n\n<p>Other Chromium browsers like Chrome and Brave have had this setting for a long time. It seems like a major oversight for Edge, especially since the Desktop version handles this perfectly.</p>\n\n<p>I opened a request on the Microsoft Feedback Portal. If you use custom DNS for privacy or ad-blocking, please give this an upvote so the devs see that there is demand for it:</p>\n\n<p><a href=\"https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1\">https://feedbackportal.microsoft.com/feedback/idea/6ee7ee95-57be-f011-aa44-7c1e5298a4a1</a></p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "BUG: Right-Click \"Open in Sidebar\" is broken and not working",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/",
-      "pubDate": "Fri, 21 Nov 2025 18:17:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p361d5/bug_rightclick_open_in_sidebar_is_broken_and_not/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>The latest Microsoft Edge update broke the right click menu option in &quot;More Tools&quot; where you could Right-Click a tab (Vertical or Not) and go to &quot;More Tools&quot; and then  &quot;Open In sidebar&quot; and it would open a website in the sidebar.<br/>\nThis no longer works.<br/>\nI have tried this on 2 different laptops and 2 different accounts and the right click &quot;Open in sidebar&quot; no longer works even when all options in edge://settings are enabled including even trying to enable the copilot button.<br/>\nI have tried a fresh install on a third computer just to sanity check so this is not an windows version issue or a profile issue</p>\n\n<p>Please fix. Thank you</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-26T06:58:24.205Z"
+  "lastFetched": "2025-11-26T07:34:40.195Z"
 }
