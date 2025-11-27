@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Password manager primary password is not being recognized",
+      "link": "/img/44482m61nv3g1.png",
+      "guid": "/img/44482m61nv3g1.png",
+      "pubDate": "Thu, 27 Nov 2025 22:56:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8fdol/password_manager_primary_password_is_not_being/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hopefully this isn&#39;t just happening to me. My set password for my browser to access password manager is giving me an authentication failed error. I have not changed the password and it was working fine as of yesterday. I am wondering if this is just a bug or my system is somehow not recognizing the password. I saw there was an article stating this issue as of November 3, 2025 with version 142.0.3595.53</p>\n\n<p>The suggestion is to backup my passwords and other stuff and delete the profile from my browser. I am just unsure if it will resolve the issue and give me more problems of losing potential data.</p>\n\n<p>I am on version 142.0.3595.94 (Official build) (64-bit). I have also already sent a help and feedback in.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Microsoft Edge Crashing AMD Drivers",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p89kwz/microsoft_edge_crashing_amd_drivers/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p89kwz/microsoft_edge_crashing_amd_drivers/",
@@ -198,7 +207,7 @@
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt�� on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p50xjg/copilot_actions_is_a_rather_lackluster_experience/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It either believes it cannot control the browser, doesn&#39;t want to, or stops after a single trivial step. Anyone else feel the same? Any tips or tricks to get it to work better?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Problems with copilot mode in new page",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p4zxzq/problems_with_copilot_mode_in_new_page/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p4zxzq/problems_with_copilot_mode_in_new_page/",
-      "pubDate": "Sun, 23 Nov 2025 22:26:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p4zxzq/problems_with_copilot_mode_in_new_page/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/link/1p4zxzq/video/wzminwzd133g1/player\">https://reddit.com/link/1p4zxzq/video/wzminwzd133g1/player</a></p>\n\n<p>Any of you have experimented this?</p>\n\n<p>In copilot mode, the browser should to know when is a question or a simple web search, but when it&#39;s a question it just opens another copilot web and I have to write the question again. I think this is broken, because before it works smoothly.</p>\n\n<p>Any help? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-27T22:39:04.259Z"
+  "lastFetched": "2025-11-27T23:32:49.557Z"
 }
