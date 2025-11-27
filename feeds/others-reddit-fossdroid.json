@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Anyone having issues with IzzyOnDroid repo syncing in droid-ify?",
+      "link": "/img/invclnjtcr3g1.png",
+      "guid": "/img/invclnjtcr3g1.png",
+      "pubDate": "Thu, 27 Nov 2025 08:11:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7wtn4/anyone_having_issues_with_izzyondroid_repo/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7wtn4/anyone_having_issues_with_izzyondroid_repo/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Android TV alternatives",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
@@ -46,6 +55,15 @@
       "pubDate": "Wed, 26 Nov 2025 15:19:41 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7ady7/my_project_trudido_task_and_notes/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, Hola, Hello,</p>\n\n<p>in the past I wrote here about my project <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>. It is an App for Android to take Notes or Tasks and we reached now over 400 downloads. I know there are many (fantastic) Apps like this outside but it always annoyed me that many of those Apps are from China or the US or not fully offline, ad-free or private e.g.</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a> is the opposite to that because I dont care about your data or anything.</p>\n\n<p>With Version 1.2.1 I enhanced the Markdown Editor in Notes with a WYSIWYG rich text editor. (Quill) And it got other new features like you can insert media like photos, videos, voicenotes eg.</p>\n\n<p>For the Notes it also has a function called &quot;Vault&quot; in which you can store sensitive notes and media encrypted on your device.</p>\n\n<p>And there is finally a new app icon! And it has the GPL-3.0 license.</p>\n\n<p>I hope you would like to try my App <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>.</p>\n\n<p>Thanks all for reading this and maybe see you in the comments!</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">https://github.com/dominikmuellr/trudido</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is IzzyOnDroid Down ? Its just showing me too long too respond page for few days",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7xaxl/is_izzyondroid_down_its_just_showing_me_too_long/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7xaxl/is_izzyondroid_down_its_just_showing_me_too_long/",
+      "pubDate": "Thu, 27 Nov 2025 08:42:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7xaxl/is_izzyondroid_down_its_just_showing_me_too_long/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Is IzzyOnDroid down as i am getting &quot;too long too respond&quot; page , dont know why ? do have anybody else have this same issue ?</p>\n\n<p><a href=\"/preview/pre/tqwzhufwhr3g1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=637348fc515e048fcd7c253d0334ad95d1b5607f\">/preview/pre/tqwzhufwhr3g1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=637348fc515e048fcd7c253d0334ad95d1b5607f</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p50vcm/any_foss_android_app_to_manage_notifications/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Just got so many notifications and was wondering if there was a good open source app to deal with it</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Modes &amp; Routines App",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p4l2hv/modes_routines_app/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p4l2hv/modes_routines_app/",
-      "pubDate": "Sun, 23 Nov 2025 12:02:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4l2hv/modes_routines_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I been using the modes and routines app of my Samsung phone. But I&#39;m willing to change it for a FOSS app. What&#39;s are your recomendations?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "[ALPHA]Looking for testers for MemGallery - Your external brain for Android (inspired by Nothing Essential Space &amp; OPPO Mind Space)",
-      "link": "/gallery/1p4b9tx",
-      "guid": "/gallery/1p4b9tx",
-      "pubDate": "Sun, 23 Nov 2025 02:32:24 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4b9tx/alphalooking_for_testers_for_memgallery_your/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p>\n\n<p>I&#39;m looking for testers for my app <strong>MemGallery</strong>, which is currently in alpha.</p>\n\n<p>MemGallery is inspired by Nothing Essential Space and OPPO Mind Space. It works pretty much the same way, but obviously not as polished since it&#39;s not a first-party app. Also, this is my first Android app, so any help would be much appreciated</p>\n\n<p>It&#39;s basically your external brain. You save stuff to it and it processes everything with AI.</p>\n\n<ul>\n<li>You can upload images</li>\n<li>Turn on auto screenshot indexing (off by default for privacy, you gotta enable it yourself)</li>\n<li>When you take a screenshot it gets sent to the app and analyzed</li>\n<li>Saves bookmarks, audio notes, text notes, whatever</li>\n<li>The AI looks at everything and suggests tasks or events based on what you saved</li>\n<li>Like if you screenshot a concert poster it&#39;ll pull out the date and suggest adding it to your calendar</li>\n</ul>\n\n<p><strong>The task stuff:</strong></p>\n\n<p>It can suggest actions from your memories. You can either use the built-in task manager (which is pretty basic, still working on it) or just send it to whatever you already use - Google Calendar, your own task app, whatever. </p>\n\n<p>You can also just turn off the whole task manager section if you don&#39;t want it. Then it&#39;s just the memory gallery.</p>\n\n<p><strong>Customization:</strong></p>\n\n<ul>\n<li>Uses Material You so it&#39;s dynamic based on your wallpaper</li>\n<li>But you can also manually pick colors if you want</li>\n<li>Has AMOLED mode for pure blacks</li>\n<li>Pretty much everything can be toggled on/off</li>\n</ul>\n\n<p>If you wanna test it, you can get it here: <a href=\"https://github.com/Past-da-king/MemGallery/releases\">https://github.com/Past-da-king/MemGallery/releases</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-27T07:36:40.396Z"
+  "lastFetched": "2025-11-27T08:54:24.470Z"
 }
