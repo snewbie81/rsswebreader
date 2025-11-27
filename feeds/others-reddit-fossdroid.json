@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Android TV alternatives",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
+      "pubDate": "Thu, 27 Nov 2025 06:00:33 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a xiaomi tv with android on it with a lot of bloatware and, I guess, privacy issues.<br/>\nIs there an open source alternative than I can flash on my device ? I already flashed some custom roms on my phones but idk for android tv.</p>\n\n<p>Thanks a lot</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "My project Trudido Task and Notes",
       "link": "/gallery/1p7ady7",
       "guid": "/gallery/1p7ady7",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p486nh/keyboard_with_swipe_to_type/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>whats your favorite keyboard that has this feature?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Contrary to their claim FOSS",
-      "link": "/img/kmmqml8z8p2g1.jpeg",
-      "guid": "/img/kmmqml8z8p2g1.jpeg",
-      "pubDate": "Sat, 22 Nov 2025 00:02:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p3elrk/contrary_to_their_claim_foss/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use Duckduckgo to block FOSS Mobile Apps, trackers I found this.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-27T05:42:37.706Z"
+  "lastFetched": "2025-11-27T06:58:06.200Z"
 }
