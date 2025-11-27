@@ -49,12 +49,12 @@
       "thumbnail": null
     },
     {
-      "title": "Utility: Video Capture",
-      "link": "/img/4hqlh1vjcd3g1.png",
-      "guid": "/img/4hqlh1vjcd3g1.png",
-      "pubDate": "Tue, 25 Nov 2025 09:08:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p67ufg/utility_video_capture/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>What is this? does it record my screen, and someone is seeing it?<br/>\nI had a simulation test that shouldn&#39;t be using screen recording as I was told unlike the actual exam so, is this what they use or is it just a normal utility that edge always uses?</p>\n</div><!-- SC_ON -->",
+      "title": "Edge keeps signing me out from everything.",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/",
+      "pubDate": "Mon, 24 Nov 2025 22:32:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says. It happens almost every time, but not quite. It was doing it for some time now, but only once a day every other day. Lately it got to a point where it signs me out multiple times a day.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -64,15 +64,6 @@
       "pubDate": "Mon, 24 Nov 2025 08:50:19 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5c2la/just_upgraded_my_new_tab_extension_again_home/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve just pushed a new update for Home Sweet Home, and I wanted to share what’s new. This release focuses on making the new tab page feel more dynamic, more polished, and easier to customize.</p>\n\n<p>Here’s what’s new:</p>\n\n<ul>\n<li>Daily Wallpaper : Your new tab now shows a different background every day, automatically.</li>\n<li>Adaptive Wallpapers : Wallpapers can now change depending on the time of day: morning, afternoon, evening, and night.</li>\n<li>New Wallpaper Collection : I’ve added several new wallpapers to give you more choices when customizing your page.</li>\n<li>Cleaner Interface : Category titles have been replaced with icons for a more modern and simple layout.</li>\n<li>Improved Home Assistant Setup : A new documentation page is now available to help you connect Home Sweet Home with Home Assistant easily.</li>\n<li>Bug Fixes</li>\n</ul>\n\n<p>Thanks to everyone who reported issues. Your feedback really helps.</p>\n\n<p>If you’ve never heard of the extension before: Home Sweet Home is a small project I started recently, and it lets you customize your new tab page with widgets, your favorite links, custom icons, bookmarks, and even Home Assistant controls. It’s still modest in scale (about 45 users), but I’m doing my best to make it better update after update.</p>\n\n<p>Here are the links if you want to try it or update:</p>\n\n<p>Chrome: <a href=\"https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh\">https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh</a></p>\n\n<p>Edge: <a href=\"https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko\">https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko</a></p>\n\n<p>Firefox: <a href=\"https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/\">https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/</a></p>\n\n<p>If you have suggestions, ideas for new widgets, or anything else, I’d love to hear it. Thanks for the support!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Edge keeps signing me out from everything.",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/",
-      "pubDate": "Mon, 24 Nov 2025 22:32:13 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says. It happens almost every time, but not quite. It was doing it for some time now, but only once a day every other day. Lately it got to a point where it signs me out multiple times a day.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -227,9 +218,18 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p3tz7o/ridiculous_amount_of_ram_usage_with_just_3_tabs/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>might be memory leak from youtube(just keeps on increasing), been happening for a long while now. any fixes?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
+    },
+    {
+      "title": "Is there any way to stop search bar highlighting (blue)?",
+      "link": "/img/ta862bjm1s2g1.png",
+      "guid": "/img/ta862bjm1s2g1.png",
+      "pubDate": "Sat, 22 Nov 2025 09:26:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p3p1kd/is_there_any_way_to_stop_search_bar_highlighting/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It happens every time I open new tab OR I reopen edge after exiting the browser. It&#39;s really annoying. Please help</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-27T08:54:37.081Z"
+  "lastFetched": "2025-11-27T09:41:25.676Z"
 }

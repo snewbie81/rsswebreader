@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "[Natsumi + Floorp] Now with transparency!",
-      "link": "/img/zqld3f0ctn3g1.png",
-      "guid": "/img/zqld3f0ctn3g1.png",
-      "pubDate": "Wed, 26 Nov 2025 20:18:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7ianm/natsumi_floorp_now_with_transparency/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>My post yesterday got some decent attention, so I thought I&#39;d follow up with my final touches to Natsumi. New features are getting added all the time, v6 is just around the corner and I&#39;m so excited!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "google’s Chromium team decides it will add JPEG XL support, reverses ‘obsolete’ declaration",
       "link": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
       "guid": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
       "pubDate": "Thu, 27 Nov 2025 07:36:12 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "[Natsumi + Floorp] Now with transparency!",
+      "link": "/img/zqld3f0ctn3g1.png",
+      "guid": "/img/zqld3f0ctn3g1.png",
+      "pubDate": "Wed, 26 Nov 2025 20:18:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7ianm/natsumi_floorp_now_with_transparency/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>My post yesterday got some decent attention, so I thought I&#39;d follow up with my final touches to Natsumi. New features are getting added all the time, v6 is just around the corner and I&#39;m so excited!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -46,6 +46,15 @@
       "pubDate": "Wed, 26 Nov 2025 22:42:51 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7lw2z/now_that_cromite_has_extension_support_and_can/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7lw2z/now_that_cromite_has_extension_support_and_can/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "The Truth About Browser Privacy: The Good, Bad &amp; Dangerous - Business Reform",
+      "link": "https://www.youtube.com/watch?v=mCE-LB167ng",
+      "guid": "https://www.youtube.com/watch?v=mCE-LB167ng",
+      "pubDate": "Thu, 27 Nov 2025 09:01:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7xlz2/the_truth_about_browser_privacy_the_good_bad/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>TL;DW</p>\n\n<p><strong>Best privacy focused desktop browsers</strong></p>\n\n<ol>\n<li><p>Tor</p></li>\n<li><p>Mullvad</p></li>\n<li><p>Librewolf</p></li>\n<li><p>Brave</p></li>\n<li><p>Ungoogled Chromium</p></li>\n</ol>\n\n<p><strong><em>Avoid</em></strong>: Opera, Safari, Yandex, Microsoft Edge, Google Chrome</p>\n\n<p><strong>Best privacy focused mobile browsers</strong></p>\n\n<ol>\n<li><p>Tor</p></li>\n<li><p>Mull (no longer available)</p></li>\n<li><p>Firefox Focus</p></li>\n<li><p>Brave</p></li>\n<li><p>DuckDuckGo</p></li>\n</ol>\n\n<p><strong><em>Avoid</em></strong>: Samsung Internet, Opera (mobile), Safari, Microsoft Edge, Google Chrome</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p73tf0/non_chromium_with_ai_for_5g_on_redmi_note_14_pro/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi I&#39;m looking for a browser with good AI for Android. I&#39;m using edge but it keeps saying can&#39;t connect or search. There is no connection problem at all but most of the time it says AI isn&#39;t available. Also are non chromium browsers better, e. g security,? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What’s your most wanted feature in modern browsers",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/",
-      "pubDate": "Tue, 25 Nov 2025 18:45:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6kpt2/whats_your_most_wanted_feature_in_modern_browsers/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Browsers hold too much legacies in the new world of AI. What would you like browsers have while not available today?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-27T08:54:39.444Z"
+  "lastFetched": "2025-11-27T09:41:28.066Z"
 }
