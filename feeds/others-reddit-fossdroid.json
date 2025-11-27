@@ -139,6 +139,15 @@
       "thumbnail": null
     },
     {
+      "title": "Remote PC Unlock/Authentication App?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
+      "pubDate": "Tue, 25 Nov 2025 20:34:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious if there&#39;s some kind of app that allows you to securely authenticate yourself with a workstation (such as Windows PC) with an Android device&#39;s user authentication method(s). Like <a href=\"https://www.xda-developers.com/unlock-windows-pc-fingerprint-scanner-android/\">Remote Fingerprint Unlock</a>, but without installing  proprietary binaries. Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Building Ai apps for everyday use",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/",
@@ -154,15 +163,6 @@
       "pubDate": "Tue, 25 Nov 2025 20:45:34 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>as the title says, my yt music albums are missing from all of the &#39;library&#39; tabs. in the home page some of the albums show under the &#39;including your  imported playlists&#39; title but i cant access the full list anywhere. is there a way to find my albums or does SimpMusic lack this feature ?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Remote PC Unlock/Authentication App?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
-      "pubDate": "Tue, 25 Nov 2025 20:34:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious if there&#39;s some kind of app that allows you to securely authenticate yourself with a workstation (such as Windows PC) with an Android device&#39;s user authentication method(s). Like <a href=\"https://www.xda-developers.com/unlock-windows-pc-fingerprint-scanner-android/\">Remote Fingerprint Unlock</a>, but without installing  proprietary binaries. Thanks in advance!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-27T13:45:52.071Z"
+  "lastFetched": "2025-11-27T15:40:11.248Z"
 }
