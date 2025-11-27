@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "What's working best for DVD to MKV when you need H.264/H.265 compression and reliable chapters",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
+      "pubDate": "Thu, 27 Nov 2025 03:13:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve spent the last few weeks converting a shelf of DVDs to MKVs for a living-room player and a travel SSD. It&#39;s a mix of movies and TV box sets; some discs are perfectly normal, others… not so much. I&#39;m trying to end up with uniform, chapter-accurate MKVs, and (only when it&#39;s worth it) a clean H.264/H.265 transcode to save space.</p>\n\n<p>I&#39;m after a one-stop workflow because jumping between tools keeps creating tiny failure points and inconsistent results. I&#39;ve had episodes lose chapters, or the codec/container change because I had to rescue a few by hand. Rip here, fix subs/chapters elsewhere, then remux again - works for a handful of discs…but not for hundreds.</p>\n\n<p>What&#39;s your best tool to convert DVDs to MKVs and encoding to H.264/H.265? If you have a setup that stays stable across lots of discs, I&#39;d love the exact steps and settings (chapters/forced-sub handling, bitrate/CRF for SD, etc).</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Duplicate file finder",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
@@ -31,21 +40,21 @@
       "thumbnail": null
     },
     {
-      "title": "What's working best for DVD to MKV when you need H.264/H.265 compression and reliable chapters",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
-      "pubDate": "Thu, 27 Nov 2025 03:13:30 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve spent the last few weeks converting a shelf of DVDs to MKVs for a living-room player and a travel SSD. It&#39;s a mix of movies and TV box sets; some discs are perfectly normal, others… not so much. I&#39;m trying to end up with uniform, chapter-accurate MKVs, and (only when it&#39;s worth it) a clean H.264/H.265 transcode to save space.</p>\n\n<p>I&#39;m after a one-stop workflow because jumping between tools keeps creating tiny failure points and inconsistent results. I&#39;ve had episodes lose chapters, or the codec/container change because I had to rescue a few by hand. Rip here, fix subs/chapters elsewhere, then remux again - works for a handful of discs…but not for hundreds.</p>\n\n<p>What&#39;s your best tool to convert DVDs to MKVs and encoding to H.264/H.265? If you have a setup that stays stable across lots of discs, I&#39;d love the exact steps and settings (chapters/forced-sub handling, bitrate/CRF for SD, etc).</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Offline and Free Background Remover Site (No signups, No hidden fees)",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/",
       "pubDate": "Thu, 27 Nov 2025 00:37:05 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, with all the latest SOTA models out there I found it weird that some people are still charging to remove background from an image. so I created an offline and free one, no signup, no hidden fees. You just need to simply upload your picture, execute (it will run locally with your GPU), then it&#39;ll spit out the result.</p>\n\n<p>feel free to give me any feedback, this is a static site and I&#39;m planning on keeping this free forever. I&#39;ll update the site with new models in the future as well</p>\n\n<p>You can visit the site here: <a href=\"https://bgremovefree.com\">https://bgremovefree.com</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Are there any good CMMS software available for my team?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7snnb/are_there_any_good_cmms_software_available_for_my/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7snnb/are_there_any_good_cmms_software_available_for_my/",
+      "pubDate": "Thu, 27 Nov 2025 04:13:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7snnb/are_there_any_good_cmms_software_available_for_my/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I’m on the hunt for a good Computerized Maintenance Management System (CMMS) for my team. We handle maintenance scheduling, equipment tracking, and maintenance history logs. I’d love to hear from anyone who has real-world experience with CMMS tools which one you use, what you like about it, what sucks, pricing, and whether it was easy to get started.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -85,21 +94,21 @@
       "thumbnail": null
     },
     {
-      "title": "What is the best way to encrypt and compress many files?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Geek Uninstaller 1.5.3.170 is out!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
       "pubDate": "Wed, 26 Nov 2025 02:18:01 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 2 years since the last update, so I was surprised to see this pop up today. I&#39;ve always loved using this tiny portable uninstaller when I&#39;m experimenting with new software.</p>\n\n<p><strong>Changelog for 1.5.3.170:</strong></p>\n\n<ul>\n<li>Safer traces detection algorithm</li>\n<li>Improved icons detection</li>\n</ul>\n\n<p><strong>Homepage:</strong><br/>\n<a href=\"https://geekuninstaller.com/\">https://geekuninstaller.com/</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What is the best way to encrypt and compress many files?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p72z3t/a_free_tool_i_built_to_speed_up_testing_forms/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Since it&#39;s Self-Promotion Wednesday, I wanted to share something I&#39;ve been building that may be useful if you work with <strong>web forms</strong> regularly. I&#39;d appreciate feedback, especially from developers and QA testers.</p>\n\n<p><strong>FakerFill — a free browser extension for filling forms instantly with test data</strong></p>\n\n<p><a href=\"/img/mbsaqi1ffk3g1.gif\">/img/mbsaqi1ffk3g1.gif</a></p>\n\n<p>I built it because I was constantly typing the same information while testing signup flows, checkout forms, onboarding steps, admin panels and internal tools.</p>\n\n<p><strong>Here&#39;s what FakerFill does, step by step:</strong></p>\n\n<ol>\n<li>Automatically detects input fields</li>\n</ol>\n\n<p>It scans the DOM and identifies field types such as:</p>\n\n<ul>\n<li>name</li>\n<li>email</li>\n<li>phone</li>\n<li>address</li>\n<li>date</li>\n<li>password</li>\n<li>numbers</li>\n<li>country</li>\n<li>NIT / RUT</li>\n<li>and more</li>\n</ul>\n\n<p>It works with modern front-end frameworks including React, Vue, Angular, Next.js, SPA apps, and Shadow DOM.</p>\n\n<p><strong>2. Generates realistic test data locally</strong></p>\n\n<p>Using Faker.js, it produces valid test values directly in your browser. No data is sent anywhere - everything runs locally.</p>\n\n<p><strong>3. Fills the entire form with one click</strong></p>\n\n<p>Press a button and every field is populated instantly. Useful when testing:</p>\n\n<ul>\n<li>registration</li>\n<li>login</li>\n<li>checkout</li>\n<li>onboarding flows</li>\n<li>admin dashboards</li>\n<li>multi-step and dynamic forms</li>\n</ul>\n\n<p><strong>Who it&#39;s for</strong></p>\n\n<ul>\n<li>developers testing forms during feature development</li>\n<li>QA testers repeating flows daily</li>\n<li>indie makers building dashboards or CRUD apps</li>\n<li>teams working with internal tools</li>\n<li>anyone who wants to avoid repetitive manual typing</li>\n</ul>\n\n<p><strong>Link</strong>  </p>\n\n<p>If you want to try it: <a href=\"https://www.fakerfill.com\">https://www.fakerfill.com</a></p>\n\n<p><strong>Feedback wanted</strong></p>\n\n<ol>\n<li><p>Do you use similar tools? Which ones?</p></li>\n<li><p>What do you wish those tools handled better? Detection, UI, custom rules, validation, workflows, something else?</p></li>\n</ol>\n\n<p><strong>I&#39;d like to improve the tool based on real use cases, not just my own.</strong></p>\n\n<p>Happy to hear any thoughts — even critical ones. Thanks for reading!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "PLEASE help me with this old, awful software called Unreal Development Kit (UDK)",
-      "link": "/gallery/1p6x5an",
-      "guid": "/gallery/1p6x5an",
-      "pubDate": "Wed, 26 Nov 2025 03:24:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6x5an/please_help_me_with_this_old_awful_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s a very old version of Unreal Engine (I think unreal tournament was made on it) I downloaded <a href=\"https://www.moddb.com/engines/unreal-development-kit/downloads/february-2015-unreal-development-kit-udk\">this</a> software for college, (It&#39;s worth noting I downloaded a different version (UDKInstall-2015-01) from my college, as I was told I had to use the colleges specific version). Which I did, but I can only open the playable version, and not the actual editor itself, I was told by my lecturer last week to make a shortcut to a file I can&#39;t remember, and change the shortcut target from &quot;bla\\bla\\bla\\UDK.exe&quot; to &quot;bla\\bla\\bla\\UDKEditor.exe&quot;. Someone online also said change the filepath to &quot;UDK.exe editor&quot;. Didn&#39;t help.</p>\n\n<p>Tried this for multiple different files to no avail as it just says the file path does not exist. ChatGPT can&#39;t help, and the very little bit of advice I could find online from 10 years ago is just &quot;Open the UDK Editor file&quot; (Gee thanks (I don&#39;t have this file btw, I THOROUGHLY checked)). I know that a maximum of 3 people have even heard of this software before, nevermind used it, but would anyone know how to access the editor?</p>\n\n<p>(Also might be useful I am using the Win64 version, but the files are identical to the Win32 version). Any help would be massively appreciated</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-27T03:38:40.839Z"
+  "lastFetched": "2025-11-27T04:47:31.599Z"
 }
