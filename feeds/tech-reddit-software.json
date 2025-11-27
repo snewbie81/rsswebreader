@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "What's working best for DVD to MKV when you need H.264/H.265 compression and reliable chapters",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
-      "pubDate": "Thu, 27 Nov 2025 03:13:30 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve spent the last few weeks converting a shelf of DVDs to MKVs for a living-room player and a travel SSD. It&#39;s a mix of movies and TV box sets; some discs are perfectly normal, others… not so much. I&#39;m trying to end up with uniform, chapter-accurate MKVs, and (only when it&#39;s worth it) a clean H.264/H.265 transcode to save space.</p>\n\n<p>I&#39;m after a one-stop workflow because jumping between tools keeps creating tiny failure points and inconsistent results. I&#39;ve had episodes lose chapters, or the codec/container change because I had to rescue a few by hand. Rip here, fix subs/chapters elsewhere, then remux again - works for a handful of discs…but not for hundreds.</p>\n\n<p>What&#39;s your best tool to convert DVDs to MKVs and encoding to H.264/H.265? If you have a setup that stays stable across lots of discs, I&#39;d love the exact steps and settings (chapters/forced-sub handling, bitrate/CRF for SD, etc).</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "If you're neither a hyper or hater for AI, I would like your opinion on the state of it",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
       "pubDate": "Thu, 27 Nov 2025 04:52:15 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>tl;dr: I&#39;d like to read opinions from people who neither hate or hype AI and its current state, what you expect for the near, mid future</p>\n\n<p>I am a software engineer myself, although now more into managing, mentoring. I was a hater first because with my limited understanding I felt its being overhyped, so I looked into it, installed and trained some local models, spent some time learning about how they are trained, what is the transformers architecture etc. I have arrived to a point where I have my opinion but I notice massive parties on both sides.</p>\n\n<p>So if you consider yourself neither pro or contra AI, but rather somewhere in between, please tell me what you think about this tech, how you think it can be used, what effects its gonna have, are you using it, etc</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What's working best for DVD to MKV when you need H.264/H.265 compression and reliable chapters",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
+      "pubDate": "Thu, 27 Nov 2025 03:13:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve spent the last few weeks converting a shelf of DVDs to MKVs for a living-room player and a travel SSD. It&#39;s a mix of movies and TV box sets; some discs are perfectly normal, others… not so much. I&#39;m trying to end up with uniform, chapter-accurate MKVs, and (only when it&#39;s worth it) a clean H.264/H.265 transcode to save space.</p>\n\n<p>I&#39;m after a one-stop workflow because jumping between tools keeps creating tiny failure points and inconsistent results. I&#39;ve had episodes lose chapters, or the codec/container change because I had to rescue a few by hand. Rip here, fix subs/chapters elsewhere, then remux again - works for a handful of discs…but not for hundreds.</p>\n\n<p>What&#39;s your best tool to convert DVDs to MKVs and encoding to H.264/H.265? If you have a setup that stays stable across lots of discs, I&#39;d love the exact steps and settings (chapters/forced-sub handling, bitrate/CRF for SD, etc).</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -67,6 +67,15 @@
       "thumbnail": null
     },
     {
+      "title": "\"What’s the dumbest software \"feature\" you deal with every day?",
+      "link": "https://redlib.perennialte.ch//r/AskReddit/comments/1p7v8bm/whats_the_dumbest_software_feature_you_deal_with/",
+      "guid": "https://redlib.perennialte.ch//r/AskReddit/comments/1p7v8bm/whats_the_dumbest_software_feature_you_deal_with/",
+      "pubDate": "Thu, 27 Nov 2025 07:10:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7vufq/whats_the_dumbest_software_feature_you_deal_with/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7vufq/whats_the_dumbest_software_feature_you_deal_with/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Keylogger for Android 19.1",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7uom9/keylogger_for_android_191/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7uom9/keylogger_for_android_191/",
@@ -82,6 +91,15 @@
       "pubDate": "Thu, 27 Nov 2025 00:30:06 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>This is my first time sharing here, so I’ll briefly explain what I built, the problem it solves, and why people started using it.</p>\n\n<p>I created Offday.app to solve a surprisingly common issue:\nfiguring out how to combine public holidays, weekends, and personal vacation days to get the longest possible break with the fewest days off.</p>\n\n<p>For example:\n1 day off → 4-day weekend\n2 days off → 9-day break\nBut identifying these patterns manually takes time and varies heavily by country.</p>\n\n<p>What the app does</p>\n\n<p>Offday analyzes a country’s official holidays and automatically calculates:\n    • Longest break length\n    • Required number of off days\n    • Efficiency score\n    • Holiday chains with gaps\n    • Best combinations for the next months</p>\n\n<p>Essentially: It finds the “optimal vacation opportunities” for any supported country.</p>\n\n<p>Why people started using it</p>\n\n<p>I built it for myself, but in just a few days the numbers grew faster than expected:\n    • Users from 55 countries\n    • More than 1,100 plans created\n    • Over 3,000 users, fully organic\n    • No ads or promotion yet</p>\n\n<p>This made it clear that many people face the same planning problem.</p>\n\n<p>Key features</p>\n\n<p>Here’s what’s currently implemented:</p>\n\n<p>• Smart suggestion engine\nRedesigned logic that removes noise and surfaces only meaningful holiday combinations.</p>\n\n<p>• Multi-country support (JSON-driven)\nAdding or updating holiday calendars takes seconds.</p>\n\n<p>• Automatic email reports\nUsers can receive the best opportunities for the next 60 days, delivered every two weeks.</p>\n\n<p>• Embeddable widget\nBlogs, travel websites, and internal portals can embed both the form and the results.</p>\n\n<p>• Performance-focused architecture\nCaching, fast queries, lightweight UI.</p>\n\n<p>Why I’m sharing</p>\n\n<p>It’s still a one-person project, but it’s gaining traction much faster than I expected.\nI’m sharing it here to gather feedback from people who build and work with software professionally — especially around UX, architecture, and feature direction.</p>\n\n<p>If you want to take a look:\n<a href=\"https://offday.app\">https://offday.app</a></p>\n\n<p>Happy to hear thoughts, suggestions, or criticism</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I made a free tool to translate anything on Windows (Games, Apps, etc.) instantly using Gemini",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
+      "pubDate": "Wed, 26 Nov 2025 20:39:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I wanted to share a free, open-source tool I built called <strong>Transnap</strong>, a lightweight Windows utility designed to solve a specific annoyance: translating text inside applications or games that don&#39;t let you copy-paste.</p>\n\n<p>I built this because I play a lot of games with heavy dialogue (often in languages I&#39;m still learning), and I hated having to pull out my phone for Google Lens or Alt-Tab out to type text into a browser.</p>\n\n<p><strong>What it does:</strong> </p>\n\n<p>It works like the Windows Snipping Tool. You press a hotkey (<code>Win+Shift+A</code>), draw a box around any text on your screen, and it uses Google&#39;s Gemini AI to OCR and translate it instantly in a floating overlay.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li><strong>Universal:</strong> Works on anything visible on your screen (browsers, PDFs, UI elements).</li>\n<li><strong>Game Mode:</strong> Has a specific toggle to force it to work over exclusive full-screen games.</li>\n<li><strong>AI Powered:</strong> Since it uses Gemini, the translations are context-aware and much better than standard literal translations.</li>\n<li><strong>Portable:</strong> It’s a single <code>.exe</code>  with no installation required.</li>\n<li><strong>Open Source:</strong> Written in Python.</li>\n</ul>\n\n<p><strong>Cost:</strong> The app itself is completely free and open-source. It requires your own Google Gemini API key (which is currently free for personal use).</p>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub &amp; Download:</strong> <a href=\"https://github.com/Misaghlb/Transnap/releases/latest\">https://github.com/Misaghlb/Transnap/releases/latest</a></li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -118,15 +136,6 @@
       "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved. Thank you, everyone.<br/>\nI usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a><br/>\nThis site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I made a free tool to translate anything on Windows (Games, Apps, etc.) instantly using Gemini",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
-      "pubDate": "Wed, 26 Nov 2025 20:39:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I wanted to share a free, open-source tool I built called <strong>Transnap</strong>, a lightweight Windows utility designed to solve a specific annoyance: translating text inside applications or games that don&#39;t let you copy-paste.</p>\n\n<p>I built this because I play a lot of games with heavy dialogue (often in languages I&#39;m still learning), and I hated having to pull out my phone for Google Lens or Alt-Tab out to type text into a browser.</p>\n\n<p><strong>What it does:</strong> </p>\n\n<p>It works like the Windows Snipping Tool. You press a hotkey (<code>Win+Shift+A</code>), draw a box around any text on your screen, and it uses Google&#39;s Gemini AI to OCR and translate it instantly in a floating overlay.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li><strong>Universal:</strong> Works on anything visible on your screen (browsers, PDFs, UI elements).</li>\n<li><strong>Game Mode:</strong> Has a specific toggle to force it to work over exclusive full-screen games.</li>\n<li><strong>AI Powered:</strong> Since it uses Gemini, the translations are context-aware and much better than standard literal translations.</li>\n<li><strong>Portable:</strong> It’s a single <code>.exe</code>  with no installation required.</li>\n<li><strong>Open Source:</strong> Written in Python.</li>\n</ul>\n\n<p><strong>Cost:</strong> The app itself is completely free and open-source. It requires your own Google Gemini API key (which is currently free for personal use).</p>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub &amp; Download:</strong> <a href=\"https://github.com/Misaghlb/Transnap/releases/latest\">https://github.com/Misaghlb/Transnap/releases/latest</a></li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p741am/introducing_my_windows_app_mysorty/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>The idea came from my everyday life here in Germany, lots of paperwork, lots of scanning, and not enough time. I started with a tiny Python OCR script, but the project kept growing… and now it turned into a full Windows app built with WinUI 3.</p>\n\n<p>Here’s what MySorty can do:</p>\n\n<p>🔍 OCR &amp; Automation: \nOCR for PDFs and images → creates searchable PDFs .\n• Automatic language detection.\n• Watches an Input Folder and processes new files instantly.</p>\n\n<p>🗂️ Smart Sorting:\n• Create tag rules with keywords &amp; priorities.\n• Automatically sorts PDFs into subfolders based on matching keywords.\n• Automatically archives the original PDFs in the same folder structure as the OCRed PDFs.</p>\n\n<p>📧 Email Integration:\n• Fetch PDFs from IMAP or Microsoft OAuth2 mail accounts.\n• Add “allowed senders” so only trusted PDFs are downloaded.\n• Everything is then OCRed, sorted, and archived automatically.</p>\n\n<p>📄 Merge &amp; Organize:\n• Automatic PDF merging (I built this because my scanner isn’t duplex).\n• Watches a Merge Folder and combines all PDFs into one document.\n• Merged PDFs are also OCRed, sorted, and archived.</p>\n\n<p>👀 Built-in PDF Viewer:\n• Preview PDFs directly inside the app.\n• Rotate pages and save changes.\n• No need for external PDF software</p>\n\n<p>And the best part everything is done locally so no Cloud Uploads!</p>\n\n<p>Basically, every feature in MySorty exists because I needed it myself, and now it’s become a tool that handles my entire document workflow.</p>\n\n<p>If you’d like to check it out: 👉 <a href=\"http://www.tkbitsupport.de\">www.tkbitsupport.de</a></p>\n\n<p>Happy to hear any thoughts or feedback! 😁</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Looking for free/cheap software to CREATE PDF forms",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/",
-      "pubDate": "Wed, 26 Nov 2025 09:36:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p73ki8/looking_for_freecheap_software_to_create_pdf_forms/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there! I&#39;m looking for software that lets me <em>create</em> (not only fill out) PDF forms. Obviously I&#39;m looking for an alternative to Adobe stuff. Big criteria is that it needs to be <strong>offline</strong> software, aka not browser-based stuff, since I want it to use custom fonts in the form fields. So far I&#39;ve tried UPDF, but it has some annoying quirks. I haven&#39;t been able to find anything else.</p>\n\n<p>Ideally it&#39;d be free or single purchase that doesn&#39;t break the bank. Anything with a subscription I will not consider.</p>\n\n<p>Edit for clairty: I&#39;m <em>not</em> looking for software that can simply add text annotations or that can fill in form fields that are already there, I&#39;m looking for software that can create the form fields in the first place on existing PDFs that I&#39;ve designed in Affinity.</p>\n\n<p>Edit2: Here&#39;s a list of software I&#39;ve tried and have found wanting so far.</p>\n\n<ul>\n<li>UPDF: Closest to what I actually need, but for some reason it doesn&#39;t apply any font I&#39;ve installed myself to the form fields.</li>\n<li>WPS Office: Similar problem to UPDF, though much easier to use, but then hits you with a subscription ad if you try to save the file even though there&#39;s supposed to be a fully free version. Turns out there isn&#39;t</li>\n<li>PDF24 and PDFgear, which don&#39;t allow for form field creation, at least in the offline version of the software. It exists on the online version apparently, but that would mean I can&#39;t access custom fonts at all</li>\n<li>PDFfill does do form field creation, but doesn&#39;t seem to load any custom installed fonts.</li>\n<li>LibreOffice lets you create form fillable PDFs, but only from blank documents in Writer, not from existing PDFs, which is what I&#39;d need</li>\n</ul>\n\n<p>Edit3: I give up. I managed to find an old 2020 Acrobat key for cheap that works. Fuck Adobe but it&#39;s the only viable option there is.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-27T06:58:24.290Z"
+  "lastFetched": "2025-11-27T07:36:57.100Z"
 }

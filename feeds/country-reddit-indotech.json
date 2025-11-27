@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "Experience with this monitor?",
+      "link": "/img/ila3nwaf3r3g1.png",
+      "guid": "/img/ila3nwaf3r3g1.png",
+      "pubDate": "Thu, 27 Nov 2025 07:20:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p7vzxq/experience_with_this_monitor/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Halo gua lagi cari gaming monitor buat main di 1440p. Minta opini nya untuk orang yang pernah pake monitor ini ato ada rekomendasi monitor lain. Lagi cari OLED +1440p+240hz. Thank you.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Forecast harga RAM &amp; SSD?",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1p7uxap/forecast_harga_ram_ssd/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p7uxap/forecast_harga_ram_ssd/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6wjim/rtx_5060_ti_16gb_sepertinya_sudah_mulai_naik/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6wjim/rtx_5060_ti_16gb_sepertinya_sudah_mulai_naik/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Pengalaman Gagal KYC di Scaleway",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/",
-      "pubDate": "Wed, 26 Nov 2025 04:09:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p6y0x8/pengalaman_gagal_kyc_di_scaleway/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ceritanya beberapa hari kemaren saya butuh akses ke macOS &amp; iOS bentar karena butuh reproduce issue web app yang cuma kejadian di Safari/WebKit. Karena saya ngga punya device Apple, jadinya rental cloud. Awalnya nyoba pake Device Farm dari AWS, tapi provision nya lama dan agak kurang fleksibel.</p>\n\n<p>Akhirnya nyoba nyari Mac Mini. Saya nemu Scaleway yang nawarin rental Mac Mini M1 sekitar ~2.6 EUR per hari, jauh lebih murah dari AWS dan MacinCloud. Saya daftarlah ke Scaleway pake data asli &amp; lengkap (yang biasa saya pake juga di provider hosting lain), masukin debit card Jago, lalu order. Order nya sukses, saya bisa akses device nya dan langsung pakai.</p>\n\n<p>Sekitar jam setengah 3 pagi, saya dapat notif Scaleway Account Assessment. Pas saya cek paginya, ternyata minta verifikasi dokumen identitas sama foto selfie &amp; megang identitas itu. </p>\n\n<p><a href=\"/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6\">/preview/pre/ik9t7g0p2j3g1.png?width=2316&amp;format=png&amp;auto=webp&amp;s=cdafbe0d806ce3166bd1088451dc1b6eb65e06b6</a></p>\n\n<p>Agak shock sih sama foto selfie ini karena biasanya mentok cuma dimintain dokumen buat cocokin nama &amp; alamat, itupun yang ngga relevan biasanya ngga masalah kalo saya redact. Awalnya ragu buat lanjut karena KYC ini rasanya terlalu ekstrim. Tapi just-in-case saya butuh lagi, akhirnya saya nurut.</p>\n\n<p>Mereka nawarin dua (atau mungkin tiga) opsi buat verifikasinya:</p>\n\n<ol>\n<li>Self-service lewat third-party &quot;Jumio&quot;</li>\n<li>Kirim dokumen ke email</li>\n<li>Attach dokumen ke reply ke ticket</li>\n</ol>\n\n<p>Awalnya saya nyoba opsi 1 biar cepet. Tapi pas udah nyiapin dokumen, siap verifikasi, eh di list negaranya ngga ada Indonesia. Padahal pas daftar akun Scaleway ada Indonesia dan ada pilihan provinsinya juga. Karena ngga bisa lanjut, saya reply ke ticket tadi buat ngasih tau kalo ngga ada opsi negara Indonesia sama nanyain adakah opsi verifikasi yang ngga pake selfie (karena mereka juga udah sukses charge debit card saya dan dari Jago/Visa juga ngga ada issue).</p>\n\n<p>~8 jam kemudian mereka bales buat ngasih opsi ke-3 (kirim dokumennya di reply ticket). Ngikut lah saya buat kirim dokumennya dan juga ngasih pesan buat hapus dokumennya se-segera mungkin setelah selesai KYC.</p>\n\n<p>~8 jam kemudian, saya dapet reply ditolak dan akun saya di lock permanen tanpa dikasih tau kenapa. Lah gimana?</p>\n\n<p><a href=\"/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8\">/preview/pre/32rde2g7zi3g1.png?width=2402&amp;format=png&amp;auto=webp&amp;s=b257acc1bea205a2c4ca3ecb76d181d5d41db9a8</a></p>\n\n<p>Apakah karena banyak fraud dari Indonesia? Dulu juga pernah mau nyoba beli VPS DigitalOcean ngga bisa juga karena alasan fraud.</p>\n\n<p>Adakah yang punya pengalaman serupa? atau mungkin malah sukses verifikasinya?</p>\n\n<p>Makasi udah membaca sejauh ini. Have a nice day!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-27T06:57:43.301Z"
+  "lastFetched": "2025-11-27T07:36:15.714Z"
 }

@@ -49,6 +49,24 @@
       "thumbnail": null
     },
     {
+      "title": "Is it possible to have this show, even when the case is open? I want an app that shows all three batteries; Gadget Bridge only shows the lowest battery, and not the case.",
+      "link": "/img/73rkhm3r4r3g1.png",
+      "guid": "/img/73rkhm3r4r3g1.png",
+      "pubDate": "Thu, 27 Nov 2025 07:30:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Anysoft Keyboard emoji search",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7voza/anysoft_keyboard_emoji_search/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7voza/anysoft_keyboard_emoji_search/",
+      "pubDate": "Thu, 27 Nov 2025 07:01:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7voza/anysoft_keyboard_emoji_search/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>the : for suggest emoji does not work for me. Is it a bug?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Let's Talk About The Weather",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4b9tx/alphalooking_for_testers_for_memgallery_your/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p>\n\n<p>I&#39;m looking for testers for my app <strong>MemGallery</strong>, which is currently in alpha.</p>\n\n<p>MemGallery is inspired by Nothing Essential Space and OPPO Mind Space. It works pretty much the same way, but obviously not as polished since it&#39;s not a first-party app. Also, this is my first Android app, so any help would be much appreciated</p>\n\n<p>It&#39;s basically your external brain. You save stuff to it and it processes everything with AI.</p>\n\n<ul>\n<li>You can upload images</li>\n<li>Turn on auto screenshot indexing (off by default for privacy, you gotta enable it yourself)</li>\n<li>When you take a screenshot it gets sent to the app and analyzed</li>\n<li>Saves bookmarks, audio notes, text notes, whatever</li>\n<li>The AI looks at everything and suggests tasks or events based on what you saved</li>\n<li>Like if you screenshot a concert poster it&#39;ll pull out the date and suggest adding it to your calendar</li>\n</ul>\n\n<p><strong>The task stuff:</strong></p>\n\n<p>It can suggest actions from your memories. You can either use the built-in task manager (which is pretty basic, still working on it) or just send it to whatever you already use - Google Calendar, your own task app, whatever. </p>\n\n<p>You can also just turn off the whole task manager section if you don&#39;t want it. Then it&#39;s just the memory gallery.</p>\n\n<p><strong>Customization:</strong></p>\n\n<ul>\n<li>Uses Material You so it&#39;s dynamic based on your wallpaper</li>\n<li>But you can also manually pick colors if you want</li>\n<li>Has AMOLED mode for pure blacks</li>\n<li>Pretty much everything can be toggled on/off</li>\n</ul>\n\n<p>If you wanna test it, you can get it here: <a href=\"https://github.com/Past-da-king/MemGallery/releases\">https://github.com/Past-da-king/MemGallery/releases</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Spotify playlist import besides Bloomee",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p4w7uj/spotify_playlist_import_besides_bloomee/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p4w7uj/spotify_playlist_import_besides_bloomee/",
-      "pubDate": "Sun, 23 Nov 2025 19:55:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4w7uj/spotify_playlist_import_besides_bloomee/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently came acrosss a unfornatly buggy app but with an amazing feature. Bloomee. It has a feature to import not only YT music playlists but also Spоtify ones. Unfortunately bloomee is full of problems,  like shuffle always starts from the first playlist song, lyrics are unreadable in some instances depending on album background, download folder can&#39;t be changed, music doesn&#39;t stop on BT disconnect.  Just to name some issues. But since then I&#39;ve gone and tried a ton of other apps. Most of them require a Google login just to even import a list. A few do offer importing but only YT music. I have yet to find a single player that allows the importing of a Spotify list besides bloomee (or a couple identical bloomee forks with the same bugs) \nIf anyone knows of such a FOSS app with this specific feature it he amazing! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Keyboard with swipe to type",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p486nh/keyboard_with_swipe_to_type/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p486nh/keyboard_with_swipe_to_type/",
-      "pubDate": "Sun, 23 Nov 2025 00:02:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p486nh/keyboard_with_swipe_to_type/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>whats your favorite keyboard that has this feature?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-27T06:58:06.200Z"
+  "lastFetched": "2025-11-27T07:36:40.396Z"
 }
