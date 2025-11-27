@@ -49,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "Android TV alternatives",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
-      "pubDate": "Thu, 27 Nov 2025 06:00:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a xiaomi tv with android on it with a lot of bloatware and, I guess, privacy issues.<br/>\nIs there an open source alternative than I can flash on my device ? I already flashed some custom roms on my phones but idk for android tv.</p>\n\n<p>Thanks a lot</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "My project Trudido Task and Notes",
       "link": "/gallery/1p7ady7",
       "guid": "/gallery/1p7ady7",
       "pubDate": "Wed, 26 Nov 2025 15:19:41 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7ady7/my_project_trudido_task_and_notes/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, Hola, Hello,</p>\n\n<p>in the past I wrote here about my project <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>. It is an App for Android to take Notes or Tasks and we reached now over 400 downloads. I know there are many (fantastic) Apps like this outside but it always annoyed me that many of those Apps are from China or the US or not fully offline, ad-free or private e.g.</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a> is the opposite to that because I dont care about your data or anything.</p>\n\n<p>With Version 1.2.1 I enhanced the Markdown Editor in Notes with a WYSIWYG rich text editor. (Quill) And it got other new features like you can insert media like photos, videos, voicenotes eg.</p>\n\n<p>For the Notes it also has a function called &quot;Vault&quot; in which you can store sensitive notes and media encrypted on your device.</p>\n\n<p>And there is finally a new app icon! And it has the GPL-3.0 license.</p>\n\n<p>I hope you would like to try my App <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>.</p>\n\n<p>Thanks all for reading this and maybe see you in the comments!</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">https://github.com/dominikmuellr/trudido</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Android TV alternatives",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
+      "pubDate": "Thu, 27 Nov 2025 06:00:33 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a xiaomi tv with android on it with a lot of bloatware and, I guess, privacy issues.<br/>\nIs there an open source alternative than I can flash on my device ? I already flashed some custom roms on my phones but idk for android tv.</p>\n\n<p>Thanks a lot</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-27T11:32:48.911Z"
+  "lastFetched": "2025-11-27T13:45:52.071Z"
 }
