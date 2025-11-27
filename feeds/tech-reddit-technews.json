@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Google is working on Android-based \"Aluminium OS\" to replace ChromeOS on laptops",
-      "link": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
-      "guid": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
-      "pubDate": "Wed, 26 Nov 2025 14:06:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
       "pubDate": "Wed, 26 Nov 2025 22:49:59 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7m26f/microsoft_to_secure_entra_id_signins_from_script/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7m26f/microsoft_to_secure_entra_id_signins_from_script/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Google is working on Android-based \"Aluminium OS\" to replace ChromeOS on laptops",
+      "link": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
+      "guid": "https://www.techspot.com/news/110383-google-working-android-based-aluminium-os-replace-chrome.html",
+      "pubDate": "Wed, 26 Nov 2025 14:06:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p78lgn/google_is_working_on_androidbased_aluminium_os_to/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -58,21 +58,21 @@
       "thumbnail": null
     },
     {
-      "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
-      "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
-      "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
-      "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
       "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
       "guid": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
       "pubDate": "Wed, 26 Nov 2025 07:12:36 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p71c0a/onsolve_codered_cyberattack_disrupts_emergency/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p71c0a/onsolve_codered_cyberattack_disrupts_emergency/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "In wake of Windows 10 retirement, over 780,000 Windows users skip Win 11 for Linux, says Zorin OS developers — distro hits unprecedented 1 million downloads in five weeks",
+      "link": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
+      "guid": "https://www.tomshardware.com/software/linux/in-the-wake-of-windows-10-eol-over-780-000-windows-users-skip-11-for-linux-says-zorin-os-developers-distro-hits-unprecedented-1-million-downloads-in-five-weeks",
+      "pubDate": "Tue, 25 Nov 2025 06:21:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-26T23:33:33.994Z"
+  "lastFetched": "2025-11-27T03:38:43.174Z"
 }

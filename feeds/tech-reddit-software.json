@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Duplicate file finder",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
+      "pubDate": "Wed, 26 Nov 2025 20:20:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for something free that finds duplicate files. Hoping to find something highly rated here to save me from trying everything I can get my hands on.  TIA</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I made an unlimited, offline background remover! (no subscriptions or credits)",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
@@ -22,12 +31,30 @@
       "thumbnail": null
     },
     {
-      "title": "Duplicate file finder",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
-      "pubDate": "Wed, 26 Nov 2025 20:20:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for something free that finds duplicate files. Hoping to find something highly rated here to save me from trying everything I can get my hands on.  TIA</p>\n</div><!-- SC_ON -->",
+      "title": "What's working best for DVD to MKV when you need H.264/H.265 compression and reliable chapters",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/",
+      "pubDate": "Thu, 27 Nov 2025 03:13:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7riv7/whats_working_best_for_dvd_to_mkv_when_you_need/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve spent the last few weeks converting a shelf of DVDs to MKVs for a living-room player and a travel SSD. It&#39;s a mix of movies and TV box sets; some discs are perfectly normal, others… not so much. I&#39;m trying to end up with uniform, chapter-accurate MKVs, and (only when it&#39;s worth it) a clean H.264/H.265 transcode to save space.</p>\n\n<p>I&#39;m after a one-stop workflow because jumping between tools keeps creating tiny failure points and inconsistent results. I&#39;ve had episodes lose chapters, or the codec/container change because I had to rescue a few by hand. Rip here, fix subs/chapters elsewhere, then remux again - works for a handful of discs…but not for hundreds.</p>\n\n<p>What&#39;s your best tool to convert DVDs to MKVs and encoding to H.264/H.265? If you have a setup that stays stable across lots of discs, I&#39;d love the exact steps and settings (chapters/forced-sub handling, bitrate/CRF for SD, etc).</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Offline and Free Background Remover Site (No signups, No hidden fees)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/",
+      "pubDate": "Thu, 27 Nov 2025 00:37:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, with all the latest SOTA models out there I found it weird that some people are still charging to remove background from an image. so I created an offline and free one, no signup, no hidden fees. You just need to simply upload your picture, execute (it will run locally with your GPU), then it&#39;ll spit out the result.</p>\n\n<p>feel free to give me any feedback, this is a static site and I&#39;m planning on keeping this free forever. I&#39;ll update the site with new models in the future as well</p>\n\n<p>You can visit the site here: <a href=\"https://bgremovefree.com\">https://bgremovefree.com</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A Tool That Calculates the Most Efficient Holiday Opportunities — Offday.app (55 countries, 3,000 users)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
+      "pubDate": "Thu, 27 Nov 2025 00:30:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>This is my first time sharing here, so I’ll briefly explain what I built, the problem it solves, and why people started using it.</p>\n\n<p>I created Offday.app to solve a surprisingly common issue:\nfiguring out how to combine public holidays, weekends, and personal vacation days to get the longest possible break with the fewest days off.</p>\n\n<p>For example:\n1 day off → 4-day weekend\n2 days off → 9-day break\nBut identifying these patterns manually takes time and varies heavily by country.</p>\n\n<p>What the app does</p>\n\n<p>Offday analyzes a country’s official holidays and automatically calculates:\n    • Longest break length\n    • Required number of off days\n    • Efficiency score\n    • Holiday chains with gaps\n    • Best combinations for the next months</p>\n\n<p>Essentially: It finds the “optimal vacation opportunities” for any supported country.</p>\n\n<p>Why people started using it</p>\n\n<p>I built it for myself, but in just a few days the numbers grew faster than expected:\n    • Users from 55 countries\n    • More than 1,100 plans created\n    • Over 3,000 users, fully organic\n    • No ads or promotion yet</p>\n\n<p>This made it clear that many people face the same planning problem.</p>\n\n<p>Key features</p>\n\n<p>Here’s what’s currently implemented:</p>\n\n<p>• Smart suggestion engine\nRedesigned logic that removes noise and surfaces only meaningful holiday combinations.</p>\n\n<p>• Multi-country support (JSON-driven)\nAdding or updating holiday calendars takes seconds.</p>\n\n<p>• Automatic email reports\nUsers can receive the best opportunities for the next 60 days, delivered every two weeks.</p>\n\n<p>• Embeddable widget\nBlogs, travel websites, and internal portals can embed both the form and the results.</p>\n\n<p>• Performance-focused architecture\nCaching, fast queries, lightweight UI.</p>\n\n<p>Why I’m sharing</p>\n\n<p>It’s still a one-person project, but it’s gaining traction much faster than I expected.\nI’m sharing it here to gather feedback from people who build and work with software professionally — especially around UX, architecture, and feature direction.</p>\n\n<p>If you want to take a look:\n<a href=\"https://offday.app\">https://offday.app</a></p>\n\n<p>Happy to hear thoughts, suggestions, or criticism</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -40,12 +67,30 @@
       "thumbnail": null
     },
     {
+      "title": "Webstudio's Black Friday offer is Live 🔴",
+      "link": "https://webstudio.is/black-friday",
+      "guid": "https://webstudio.is/black-friday",
+      "pubDate": "Wed, 26 Nov 2025 23:49:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7neg9/webstudios_black_friday_offer_is_live/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7neg9/webstudios_black_friday_offer_is_live/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "I made a free tool to translate anything on Windows (Games, Apps, etc.) instantly using Gemini",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
       "pubDate": "Wed, 26 Nov 2025 20:39:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I wanted to share a free, open-source tool I built called <strong>Transnap</strong>, a lightweight Windows utility designed to solve a specific annoyance: translating text inside applications or games that don&#39;t let you copy-paste.</p>\n\n<p>I built this because I play a lot of games with heavy dialogue (often in languages I&#39;m still learning), and I hated having to pull out my phone for Google Lens or Alt-Tab out to type text into a browser.</p>\n\n<p><strong>What it does:</strong> </p>\n\n<p>It works like the Windows Snipping Tool. You press a hotkey (<code>Win+Shift+A</code>), draw a box around any text on your screen, and it uses Google&#39;s Gemini AI to OCR and translate it instantly in a floating overlay.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li><strong>Universal:</strong> Works on anything visible on your screen (browsers, PDFs, UI elements).</li>\n<li><strong>Game Mode:</strong> Has a specific toggle to force it to work over exclusive full-screen games.</li>\n<li><strong>AI Powered:</strong> Since it uses Gemini, the translations are context-aware and much better than standard literal translations.</li>\n<li><strong>Portable:</strong> It’s a single <code>.exe</code>  with no installation required.</li>\n<li><strong>Open Source:</strong> Written in Python.</li>\n</ul>\n\n<p><strong>Cost:</strong> The app itself is completely free and open-source. It requires your own Google Gemini API key (which is currently free for personal use).</p>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub &amp; Download:</strong> <a href=\"https://github.com/Misaghlb/Transnap/releases/latest\">https://github.com/Misaghlb/Transnap/releases/latest</a></li>\n</ul>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What is the best way to encrypt and compress many files?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
+      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -58,12 +103,12 @@
       "thumbnail": null
     },
     {
-      "title": "What is the best way to encrypt and compress many files?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
+      "title": "Software that can convert JPG to PNG and resize PNG files",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
+      "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved. Thank you, everyone.<br/>\nI usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a><br/>\nThis site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -112,12 +157,12 @@
       "thumbnail": null
     },
     {
-      "title": "Software that can convert JPG to PNG and resize PNG files",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
-      "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved. Thank you, everyone.<br/>\nI usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a><br/>\nThis site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.</p>\n</div><!-- SC_ON -->",
+      "title": "Help with transcription software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
+      "pubDate": "Wed, 26 Nov 2025 06:49:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, does anyone have suggestions for a good transcription software (ideally free but paid also works) that can run locally and transcribe non-English language (hindi, tamil, kannada) audio accurately? </p>\n\n<p>I tried the free small model MacWhisper but the generated transcript was really bad. The most accurate one was notebooklm by far, but I don&#39;t want to upload my data online if possible as it is for a research project and needs to be kept confidential (sensitive info, personal details of people). Thanks in advance!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -127,24 +172,6 @@
       "pubDate": "Tue, 25 Nov 2025 16:38:50 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6h8s4/can_you_share_what_toolsoftware_improved_your_way/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, here is one from me: DuckDuckGo browser on phone. I can browse internet without annoying ads, pop-ups, cookies prompts.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A tool to verify startup traffic analytics :)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6m7dg/a_tool_to_verify_startup_traffic_analytics/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6m7dg/a_tool_to_verify_startup_traffic_analytics/",
-      "pubDate": "Tue, 25 Nov 2025 19:39:49 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6m7dg/a_tool_to_verify_startup_traffic_analytics/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I built a tool called TrustTraffic.co that lets founders verify their website traffic using GA4 → and it automatically creates a public dashboard that updates daily. Before I go deeper into development, I genuinely want to know:</p>\n\n<p>Is this useful?</p>\n\n<p>I got tired of seeing traction claims with no validation. Screenshots are too easy to fake. Charts are often cherry-picked. So I wanted something more objective and tamper-proof.</p>\n\n<p>The dashboard only pulls a few metrics:</p>\n\n<p>monthly users</p>\n\n<p>monthly sessions</p>\n\n<p>traffic growth charts for various timeframes</p>\n\n<p>top sources</p>\n\n<p>engagement rate, bounce rate, average session duration</p>\n\n<p>My goal is to create a public directory of startups with verified traffic.</p>\n\n<p>Would you use something like this? Would you list your own project?</p>\n\n<p>If you are an entrepreneur, would love to see your website added on the site :)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Help with transcription software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/",
-      "pubDate": "Wed, 26 Nov 2025 06:49:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70y0g/help_with_transcription_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, does anyone have suggestions for a good transcription software (ideally free but paid also works) that can run locally and transcribe non-English language (hindi, tamil, kannada) audio accurately? </p>\n\n<p>I tried the free small model MacWhisper but the generated transcript was really bad. The most accurate one was notebooklm by far, but I don&#39;t want to upload my data online if possible as it is for a research project and needs to be kept confidential (sensitive info, personal details of people). Thanks in advance!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6x5an/please_help_me_with_this_old_awful_software/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s a very old version of Unreal Engine (I think unreal tournament was made on it) I downloaded <a href=\"https://www.moddb.com/engines/unreal-development-kit/downloads/february-2015-unreal-development-kit-udk\">this</a> software for college, (It&#39;s worth noting I downloaded a different version (UDKInstall-2015-01) from my college, as I was told I had to use the colleges specific version). Which I did, but I can only open the playable version, and not the actual editor itself, I was told by my lecturer last week to make a shortcut to a file I can&#39;t remember, and change the shortcut target from &quot;bla\\bla\\bla\\UDK.exe&quot; to &quot;bla\\bla\\bla\\UDKEditor.exe&quot;. Someone online also said change the filepath to &quot;UDK.exe editor&quot;. Didn&#39;t help.</p>\n\n<p>Tried this for multiple different files to no avail as it just says the file path does not exist. ChatGPT can&#39;t help, and the very little bit of advice I could find online from 10 years ago is just &quot;Open the UDK Editor file&quot; (Gee thanks (I don&#39;t have this file btw, I THOROUGHLY checked)). I know that a maximum of 3 people have even heard of this software before, nevermind used it, but would anyone know how to access the editor?</p>\n\n<p>(Also might be useful I am using the Win64 version, but the files are identical to the Win32 version). Any help would be massively appreciated</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I'm looking for an RGB software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p70ci1/im_looking_for_an_rgb_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p70ci1/im_looking_for_an_rgb_software/",
-      "pubDate": "Wed, 26 Nov 2025 06:14:23 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p70ci1/im_looking_for_an_rgb_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find an RGB software because the one for my brand of motherboard doesn&#39;t work as it only works on my ram and not my RGB fans or wires I don&#39;t need it to work with my mouse or keyboard I just needed to work with things inside my computer. I&#39;m not very good with tech so having it be simple Is important </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Let it Snow Desktop",
-      "link": "https://apps.apple.com/us/app/let-it-snow-desktop/id6755482420?mt=12",
-      "guid": "https://apps.apple.com/us/app/let-it-snow-desktop/id6755482420?mt=12",
-      "pubDate": "Wed, 26 Nov 2025 03:54:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6xqpj/let_it_snow_desktop/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A free and highly optimized program for adding snow to your desktop, supporting any number of displays.</p>\n\n<p>Only 20mb ram per display and 0% battery impact! </p>\n\n<p>You can control snow parameters and choose what do you prefer.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Topaz Black Friday Sale 2025-Save Up to 170% for AI Photo/Video Enhancing",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6xis9/topaz_black_friday_sale_2025save_up_to_170_for_ai/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6xis9/topaz_black_friday_sale_2025save_up_to_170_for_ai/",
-      "pubDate": "Wed, 26 Nov 2025 03:43:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6xis9/topaz_black_friday_sale_2025save_up_to_170_for_ai/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://topazlabss.com/sale\">Topazlabs 2025 Black Friday</a> is now LIVE. It’s the biggest saving opportunity of the year! From <strong>November 18 to December 3</strong>, your can save big on Topaz Studio and all single apps. Details below:</p>\n\n<h1>For New Customers</h1>\n\n<ul>\n<li>43% off Topaz Studio and Topaz Studio Pro (from $399 → $229)</li>\n<li>15% off all single apps</li>\n</ul>\n\n<h1>For Existing Customers</h1>\n\n<ul>\n<li>If you already own Topaz Studio: 43% off Studio Pro (from $799 → $455)</li>\n<li>If you have 1+ active license or all apps expired: Upgrade to Studio or Studio Pro for 43% off</li>\n<li>15% off all single apps</li>\n</ul>\n\n<p>NOTE: Collections and cloud credit packs are not included in the sale.</p>\n\n<p><a href=\"/preview/pre/8sj7k9b3wi3g1.png?width=1304&amp;format=png&amp;auto=webp&amp;s=f7c42392de9a6d3308599bef78ba123b6a9f04ae\">/preview/pre/8sj7k9b3wi3g1.png?width=1304&amp;format=png&amp;auto=webp&amp;s=f7c42392de9a6d3308599bef78ba123b6a9f04ae</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-26T23:33:31.581Z"
+  "lastFetched": "2025-11-27T03:38:40.839Z"
 }
