@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
+      "guid": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
+      "pubDate": "Thu, 27 Nov 2025 21:04:10 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8d0l3/asus_warns_of_new_critical_auth_bypass_flaw_in/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8d0l3/asus_warns_of_new_critical_auth_bypass_flaw_in/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
       "guid": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4ndty/doge_laid_off_the_humans_now_the_irs_is_deploying/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p4ndty/doge_laid_off_the_humans_now_the_irs_is_deploying/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Core Ultra 400 \"Nova Lake-S\" desktop CPUs to feature NPU6 over 5x faster than Arrow Lake's - VideoCardz.com",
-      "link": "https://videocardz.com/newz/core-ultra-400-nova-lake-s-desktop-cpus-to-feature-npu6-over-5x-faster-than-arrow-lakes",
-      "guid": "https://videocardz.com/newz/core-ultra-400-nova-lake-s-desktop-cpus-to-feature-npu6-over-5x-faster-than-arrow-lakes",
-      "pubDate": "Mon, 24 Nov 2025 19:31:11 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5qn4c/core_ultra_400_nova_lakes_desktop_cpus_to_feature/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p5qn4c/core_ultra_400_nova_lakes_desktop_cpus_to_feature/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-27T20:35:58.719Z"
+  "lastFetched": "2025-11-27T21:31:48.492Z"
 }

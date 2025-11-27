@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "The perfect browser doesn't exist for my case",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
+      "pubDate": "Thu, 27 Nov 2025 20:30:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It irritates me not to find the perfect browser. It seems no one wants to do it. Many come close, in fact, ARC would be the closest to a perfect browser, but it&#39;s not perfect.</p>\n\n<p>I&#39;m looking for a browser that is like ARC, exactly like ARC, but with the possibility of opening web panels, as Vivaldi or Edge have.</p>\n\n<p>Edge or Vivaldi, or even Brave (although it doesn&#39;t have web panels yet, its sidebar is &quot;prepared&quot; for it) lack features that ARC has, such as profile management in the same window or a good design for vertical tabs.</p>\n\n<p>So there&#39;s no way to find the perfect browser, which for me would be ARC with web panels and the ability to open extensions in the side panel like Claude.</p>\n\n<p>In any case, this is just a venting post. For now, I&#39;ll stick with Brave, which lacks a lot, but at least has almost everything I&#39;m looking for.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "google’s Chromium team decides it will add JPEG XL support, reverses ‘obsolete’ declaration",
       "link": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
       "guid": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
@@ -22,12 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "The perfect browser doesn't exist for my case",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
-      "pubDate": "Thu, 27 Nov 2025 20:30:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It irritates me not to find the perfect browser. It seems no one wants to do it. Many come close, in fact, ARC would be the closest to a perfect browser, but it&#39;s not perfect.</p>\n\n<p>I&#39;m looking for a browser that is like ARC, exactly like ARC, but with the possibility of opening web panels, as Vivaldi or Edge have.</p>\n\n<p>Edge or Vivaldi, or even Brave (although it doesn&#39;t have web panels yet, its sidebar is &quot;prepared&quot; for it) lack features that ARC has, such as profile management in the same window or a good design for vertical tabs.</p>\n\n<p>So there&#39;s no way to find the perfect browser, which for me would be ARC with web panels and the ability to open extensions in the side panel like Claude.</p>\n\n<p>In any case, this is just a venting post. For now, I&#39;ll stick with Brave, which lacks a lot, but at least has almost everything I&#39;m looking for.</p>\n</div><!-- SC_ON -->",
+      "title": "A Movement--To ask for \"Borderless Windows\" Option in Arc Browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/",
+      "pubDate": "Thu, 27 Nov 2025 21:01:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I hate ARC...SOLELY for the fact it doesn&#39;t allow<br/>\n<strong>&quot;a hide border option&quot;</strong>...like what the heck?<br/>\nI&#39;d say it&#39;s a perfect browser (UI-wise) if it just had that.</p>\n\n<p>- I say, we bombard TheBrowserCompany with request to add this feature<br/>\n- High Utility Feature w/ a Low Amt. of Code on their end.<br/>\nWhose with me? Can we start a mvmt, here? 💙⚔️🔥</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is spoofing timezone and screen size really good for privacy?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ck21/is_spoofing_timezone_and_screen_size_really_good/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ck21/is_spoofing_timezone_and_screen_size_really_good/",
+      "pubDate": "Thu, 27 Nov 2025 20:43:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ck21/is_spoofing_timezone_and_screen_size_really_good/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been reading about browser fingerprinting and how trackers use things like timezone, screen size, fonts, and more to uniquely identify and track users across the web. Some privacy-focused browsers (and guides) suggest spoofing or faking your timezone and screen size to “confuse” trackers.\nBut I recently learned that doing this might actually make you more trackable rather than less. The logic is that if your timezone or screen size is unusual or “weird,” your browser becomes more unique compared to millions of “normal” users. Since fingerprinting relies on uniqueness, being an outlier could make you easier to track.\nSo, is it better to:\nSpoof these values to random or uncommon ones, or\nStick with “normal” and common values to blend in with the crowd?\nSome privacy browsers (like Tor Browser and Firefox with RFP) seem to take a different approach - either normalizing values across all users (everyone has the same fingerprint) or using very common settings.\nI’m a bit confused and would really appreciate insights from privacy experts or anyone experienced with browser fingerprinting. What are your thoughts? Does spoofing timezone/screen size help or hurt privacy in practice? Any recommended settings or browser configurations to stay as anonymous as possible?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,15 +94,6 @@
       "thumbnail": null
     },
     {
-      "title": "nixpheo9232",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8b03j/nixpheo9232/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8b03j/nixpheo9232/",
-      "pubDate": "Thu, 27 Nov 2025 19:35:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8b03j/nixpheo9232/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey baabe were to you at</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Hardened Firefox vs. Librewolf",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p859iv/hardened_firefox_vs_librewolf/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p859iv/hardened_firefox_vs_librewolf/",
@@ -100,6 +109,15 @@
       "pubDate": "Thu, 27 Nov 2025 15:17:12 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p84ouz/android_chromium_browsers_bug_black_bar/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/1tju4rs2gt3g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=a659926ecc3345317ddd79dee90b8969d36122ac\">/preview/pre/1tju4rs2gt3g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=a659926ecc3345317ddd79dee90b8969d36122ac</a></p>\n\n<p>I use my Android browser for almost anything.. Telegram, Facebook, YouTube, X,.. And you name it.</p>\n\n<p>I noticed recently that there&#39;s always a black bar with the address of the current Webpage just above the keyboard whenever I try to type a text. It shows up regardless which keyboard I use so it&#39;s almost certainly related to the browser.</p>\n\n<p>I tried both Opera and brave and this issue appears on both.</p>\n\n<p>Any idea how to remove it?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "nixpheo9232",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8b03j/nixpheo9232/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8b03j/nixpheo9232/",
+      "pubDate": "Thu, 27 Nov 2025 19:35:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8b03j/nixpheo9232/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey baabe were to you at</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7iv60/now_that_i_think_about_it_isnt_opera_gx_just/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>and ofc l preference </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Is Vivaldi the best alternative general purpose browser right now?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p6tt7m/is_vivaldi_the_best_alternative_general_purpose/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p6tt7m/is_vivaldi_the_best_alternative_general_purpose/",
-      "pubDate": "Wed, 26 Nov 2025 00:46:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p6tt7m/is_vivaldi_the_best_alternative_general_purpose/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I was looking for a way to replace google chrome for my phone and laptop with a browser that offers more privacy, less fingerprinting, telemetry an tracking(possilby nothing of these at all) and more transparency.</p>\n\n<p>Vivaldi seems to check most of these.</p>\n\n<p>As far as I read, it&#39;s sync across multiple devices is praised,</p>\n\n<p>it has a decent user base,</p>\n\n<p>it&#39;s located in Europe, which theoretically has stronger privacy laws.</p>\n\n<p>decent privacy set out out of the box, but you can customize it with extension like ublock origin, canvas blocker, etc.</p>\n\n<p>It has some telemetry but I read it can be totally disabled</p>\n\n<p>It was a tough choice between this and Brave, but Vivaldi also features a free vpn browser wide, proton vpn.</p>\n\n<p>What do you think?</p>\n\n<p>I was also considering hardened versions of firefox, but the catch is they all seem to broke many web sites and streming services.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for a browser with good privacy",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7hh4p/looking_for_a_browser_with_good_privacy/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7hh4p/looking_for_a_browser_with_good_privacy/",
-      "pubDate": "Wed, 26 Nov 2025 19:46:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7hh4p/looking_for_a_browser_with_good_privacy/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m currently using an MSI laptop with Windows 11 OS. My current browser is OperaGX, but after doing some research, it feels very sketchy to me. </p>\n\n<p>I&#39;ve found that Brave, Librewolf, and Mullvad (in no particular order) are good for privacy but I&#39;m not sure which is best. Ease of use would be nice to have, too. It&#39;d be appreciated for some help! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-27T20:35:53.421Z"
+  "lastFetched": "2025-11-27T21:31:43.528Z"
 }
