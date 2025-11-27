@@ -49,12 +49,12 @@
       "thumbnail": null
     },
     {
-      "title": "Are there any good CMMS software available for my team?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7snnb/are_there_any_good_cmms_software_available_for_my/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7snnb/are_there_any_good_cmms_software_available_for_my/",
-      "pubDate": "Thu, 27 Nov 2025 04:13:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7snnb/are_there_any_good_cmms_software_available_for_my/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I’m on the hunt for a good Computerized Maintenance Management System (CMMS) for my team. We handle maintenance scheduling, equipment tracking, and maintenance history logs. I’d love to hear from anyone who has real-world experience with CMMS tools which one you use, what you like about it, what sucks, pricing, and whether it was easy to get started.</p>\n</div><!-- SC_ON -->",
+      "title": "If you're neither a hyper or hater for AI, I would like your opinion on the state of it",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
+      "pubDate": "Thu, 27 Nov 2025 04:52:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>tl;dr: I&#39;d like to read opinions from people who neither hate or hype AI and its current state, what you expect for the near, mid future</p>\n\n<p>I am a software engineer myself, although now more into managing, mentoring. I was a hater first because with my limited understanding I felt its being overhyped, so I looked into it, installed and trained some local models, spent some time learning about how they are trained, what is the transformers architecture etc. I have arrived to a point where I have my opinion but I notice massive parties on both sides.</p>\n\n<p>So if you consider yourself neither pro or contra AI, but rather somewhere in between, please tell me what you think about this tech, how you think it can be used, what effects its gonna have, are you using it, etc</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-27T04:47:31.599Z"
+  "lastFetched": "2025-11-27T05:42:55.057Z"
 }
