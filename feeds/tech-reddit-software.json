@@ -13,12 +13,12 @@
       "thumbnail": null
     },
     {
-      "title": "If you're neither a hyper or hater for AI, I would like your opinion on the state of it",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
-      "pubDate": "Thu, 27 Nov 2025 04:52:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>tl;dr: I&#39;d like to read opinions from people who neither hate or hype AI and its current state, what you expect for the near, mid future</p>\n\n<p>I am a software engineer myself, although now more into managing, mentoring. I was a hater first because with my limited understanding I felt its being overhyped, so I looked into it, installed and trained some local models, spent some time learning about how they are trained, what is the transformers architecture etc. I have arrived to a point where I have my opinion but I notice massive parties on both sides.</p>\n\n<p>So if you consider yourself neither pro or contra AI, but rather somewhere in between, please tell me what you think about this tech, how you think it can be used, what effects its gonna have, are you using it, etc</p>\n</div><!-- SC_ON -->",
+      "title": "The software industry's dirty little secret: You're probably overpaying for everything",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
+      "pubDate": "Thu, 27 Nov 2025 20:12:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in IT, and something&#39;s been bothering me for a while now. I was helping a friend set up his new PC last weekend, and he casually mentioned he just dropped $60 on a Windows key from the Microsoft Store. Then he goes to Adobe&#39;s website and drops like $55 on a subscription Then another $40 on some productivity software. Then we started talking about the games he wanted to buy, and I realized... most people have absolutely no idea they&#39;re being massively overcharged for software.</p>\n\n<p>My friend is a smart guy. He&#39;s not careless with money. But he&#39;s been conditioned to believe that whatever price Steam or Adobe or Microsoft shows him is just &quot;the price.&quot; Like there&#39;s no alternative. No other option. You want the software? You pay what they tell you to pay. I tried explaining to him that you can get the same exact keys and licenses for way less if you just... look around. He didn&#39;t believe me at first. Thought I was talking about some shady grey-market stuff.</p>\n\n<p>Then I told him he can find same software/games across different authorized stores. The games he just bought for $70 each on Steam? Listed for $28-35 from legitimate retailers. Same exact keys. Same exact licenses. Just different stores with better regional pricing or bulk deals.</p>\n\n<p>The reality nobody talks about:</p>\n\n<ul>\n<li>Game keys: Steam/Epic prices vs authorized key sellers can differ by 40-70%</li>\n<li>Software licenses: Windows, Adobe, Office-all available way cheaper from legit resellers</li>\n<li>Subscriptions: Regional pricing differences are absolutely wild</li>\n<li>Everything else: If it&#39;s software, there&#39;s probably a better deal somewhere</li>\n</ul>\n\n<p>And this isn&#39;t sketchy stuff. These are authorized sellers. Legal keys. Everything above board. It&#39;s just that most people don&#39;t even know to look because we&#39;ve been trained to think there&#39;s only one &quot;official&quot; price. So... How many of you actually compare software prices before buying? Or do most of us just go straight to Steam/Adobe/Microsoft and pay whatever they ask because it&#39;s &quot;easier&quot;?</p>\n\n<p>I feel like this should be common knowledge, but apparently it&#39;s not. What am I missing here?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -28,6 +28,15 @@
       "pubDate": "Thu, 27 Nov 2025 11:25:40 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve got 40+ video lessons on how to use Azure DevOps, and I’d really like to turn them into written docs.</p>\n\n<p>What I’m looking for is some kind of AI tool that can:</p>\n\n<ul>\n<li>“Watch” each video</li>\n<li>Turn what I’m doing/saying into a clean Markdown file (one per video)</li>\n<li>Bonus points if it can also grab relevant screenshots and drop them into the doc as images</li>\n</ul>\n\n<p>Does anything like this exist? Any tools or AI workflows you’d recommend to make this happen?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "If you're neither a hyper or hater for AI, I would like your opinion on the state of it",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
+      "pubDate": "Thu, 27 Nov 2025 04:52:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>tl;dr: I&#39;d like to read opinions from people who neither hate or hype AI and its current state, what you expect for the near, mid future</p>\n\n<p>I am a software engineer myself, although now more into managing, mentoring. I was a hater first because with my limited understanding I felt its being overhyped, so I looked into it, installed and trained some local models, spent some time learning about how they are trained, what is the transformers architecture etc. I have arrived to a point where I have my opinion but I notice massive parties on both sides.</p>\n\n<p>So if you consider yourself neither pro or contra AI, but rather somewhere in between, please tell me what you think about this tech, how you think it can be used, what effects its gonna have, are you using it, etc</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -103,6 +112,15 @@
       "thumbnail": null
     },
     {
+      "title": "Duplicate file finder",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
+      "pubDate": "Wed, 26 Nov 2025 20:20:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for something free that finds duplicate files. Hoping to find something highly rated here to save me from trying everything I can get my hands on.  TIA</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I made an unlimited, offline background remover! (no subscriptions or credits)",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
@@ -121,12 +139,12 @@
       "thumbnail": null
     },
     {
-      "title": "Duplicate file finder",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
-      "pubDate": "Wed, 26 Nov 2025 20:20:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for something free that finds duplicate files. Hoping to find something highly rated here to save me from trying everything I can get my hands on.  TIA</p>\n</div><!-- SC_ON -->",
+      "title": "A Tool That Calculates the Most Efficient Holiday Opportunities — Offday.app (55 countries, 3,000 users)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
+      "pubDate": "Thu, 27 Nov 2025 00:30:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>This is my first time sharing here, so I’ll briefly explain what I built, the problem it solves, and why people started using it.</p>\n\n<p>I created Offday.app to solve a surprisingly common issue:\nfiguring out how to combine public holidays, weekends, and personal vacation days to get the longest possible break with the fewest days off.</p>\n\n<p>For example:\n1 day off → 4-day weekend\n2 days off → 9-day break\nBut identifying these patterns manually takes time and varies heavily by country.</p>\n\n<p>What the app does</p>\n\n<p>Offday analyzes a country’s official holidays and automatically calculates:\n    • Longest break length\n    • Required number of off days\n    • Efficiency score\n    • Holiday chains with gaps\n    • Best combinations for the next months</p>\n\n<p>Essentially: It finds the “optimal vacation opportunities” for any supported country.</p>\n\n<p>Why people started using it</p>\n\n<p>I built it for myself, but in just a few days the numbers grew faster than expected:\n    • Users from 55 countries\n    • More than 1,100 plans created\n    • Over 3,000 users, fully organic\n    • No ads or promotion yet</p>\n\n<p>This made it clear that many people face the same planning problem.</p>\n\n<p>Key features</p>\n\n<p>Here’s what’s currently implemented:</p>\n\n<p>• Smart suggestion engine\nRedesigned logic that removes noise and surfaces only meaningful holiday combinations.</p>\n\n<p>• Multi-country support (JSON-driven)\nAdding or updating holiday calendars takes seconds.</p>\n\n<p>• Automatic email reports\nUsers can receive the best opportunities for the next 60 days, delivered every two weeks.</p>\n\n<p>• Embeddable widget\nBlogs, travel websites, and internal portals can embed both the form and the results.</p>\n\n<p>• Performance-focused architecture\nCaching, fast queries, lightweight UI.</p>\n\n<p>Why I’m sharing</p>\n\n<p>It’s still a one-person project, but it’s gaining traction much faster than I expected.\nI’m sharing it here to gather feedback from people who build and work with software professionally — especially around UX, architecture, and feature direction.</p>\n\n<p>If you want to take a look:\n<a href=\"https://offday.app\">https://offday.app</a></p>\n\n<p>Happy to hear thoughts, suggestions, or criticism</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -136,15 +154,6 @@
       "pubDate": "Thu, 27 Nov 2025 09:01:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7xm15/we_just_released_a_free_ebook_on_realworld/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p>\n\n<p>Over the past few years I’ve been working with teams building AI/ML, IoT, and cloud-native systems across Europe.</p>\n\n<p>We kept running into one problem after another:<br/>\n<strong>people overcomplicate scalability,</strong> especially early in a project.</p>\n\n<p>So we wrote a short, practical eBook called <strong>“Stupid Simple Scalability”</strong> and decided to make it completely free.<br/>\nNo signup, no email, no marketing funnel.</p>\n\n<p>It covers things like</p>\n\n<ul>\n<li>scaling patterns that don’t create technical debt</li>\n<li>real examples from production systems</li>\n<li>how to think about performance before you even touch Kubernetes</li>\n<li>mistakes we made in early projects (and how we fixed them)</li>\n</ul>\n\n<p>If anyone is interested, you can grab it here:<br/>\n👉 <a href=\"https://humindz.tech/\">https://humindz.tech/</a> -&gt; download button</p>\n\n<p>I’d love feedback if you check it out, especially from people who’ve built high-load or distributed systems.</p>\n\n<p>Hope it’s useful to someone here!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A Tool That Calculates the Most Efficient Holiday Opportunities — Offday.app (55 countries, 3,000 users)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
-      "pubDate": "Thu, 27 Nov 2025 00:30:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>This is my first time sharing here, so I’ll briefly explain what I built, the problem it solves, and why people started using it.</p>\n\n<p>I created Offday.app to solve a surprisingly common issue:\nfiguring out how to combine public holidays, weekends, and personal vacation days to get the longest possible break with the fewest days off.</p>\n\n<p>For example:\n1 day off → 4-day weekend\n2 days off → 9-day break\nBut identifying these patterns manually takes time and varies heavily by country.</p>\n\n<p>What the app does</p>\n\n<p>Offday analyzes a country’s official holidays and automatically calculates:\n    • Longest break length\n    • Required number of off days\n    • Efficiency score\n    • Holiday chains with gaps\n    • Best combinations for the next months</p>\n\n<p>Essentially: It finds the “optimal vacation opportunities” for any supported country.</p>\n\n<p>Why people started using it</p>\n\n<p>I built it for myself, but in just a few days the numbers grew faster than expected:\n    • Users from 55 countries\n    • More than 1,100 plans created\n    • Over 3,000 users, fully organic\n    • No ads or promotion yet</p>\n\n<p>This made it clear that many people face the same planning problem.</p>\n\n<p>Key features</p>\n\n<p>Here’s what’s currently implemented:</p>\n\n<p>• Smart suggestion engine\nRedesigned logic that removes noise and surfaces only meaningful holiday combinations.</p>\n\n<p>• Multi-country support (JSON-driven)\nAdding or updating holiday calendars takes seconds.</p>\n\n<p>• Automatic email reports\nUsers can receive the best opportunities for the next 60 days, delivered every two weeks.</p>\n\n<p>• Embeddable widget\nBlogs, travel websites, and internal portals can embed both the form and the results.</p>\n\n<p>• Performance-focused architecture\nCaching, fast queries, lightweight UI.</p>\n\n<p>Why I’m sharing</p>\n\n<p>It’s still a one-person project, but it’s gaining traction much faster than I expected.\nI’m sharing it here to gather feedback from people who build and work with software professionally — especially around UX, architecture, and feature direction.</p>\n\n<p>If you want to take a look:\n<a href=\"https://offday.app\">https://offday.app</a></p>\n\n<p>Happy to hear thoughts, suggestions, or criticism</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -171,7 +180,7 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
       "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n\n<p>UPDATE: Thanks, everybody. Using 7-Zip and clicking &quot;Encrypt file names&quot; worked like a charm. That is all I needed!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7bcx9/free_website_to_compress_video_files_up_to_5_gb/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently built an online tool that can process large video files up to 5GB. It’s completely free to use and lets you upload two files per day. I couldn’t find any other service that lets you work with files this big without charging, so I decided to make one myself.</p>\n\n<p>It’s still pretty new, so I would really appreciate it if some of you could try it out and share your feedback. Anything that feels slow, confusing or broken is useful for me to know so I can improve it.</p>\n\n<p>If you get a chance to test it, thank you. Your input will help a lot.</p>\n\n<p><a href=\"http://www.squeezevid.com\">www.squeezevid.com</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What is the best data-mapping software for large enterprises preparing for AI and automation?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7aous/what_is_the_best_datamapping_software_for_large/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7aous/what_is_the_best_datamapping_software_for_large/",
-      "pubDate": "Wed, 26 Nov 2025 15:31:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7aous/what_is_the_best_datamapping_software_for_large/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for recommendations for good data-mapping software for large companies. It&#39;s best to have something that can automatically discover, map, and control data across multiple systems, especially as companies move toward AI agents and automation.</p>\n\n<p>Key requirements: reliable data discovery, cross-system mapping, scalability, and good integration with security/governance tools.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-27T19:27:23.482Z"
+  "lastFetched": "2025-11-27T20:35:56.373Z"
 }
