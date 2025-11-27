@@ -67,6 +67,15 @@
       "thumbnail": null
     },
     {
+      "title": "What’s the expected salary trajectory for a Jakarta corporate worker?",
+      "link": "https://redlib.perennialte.ch//r/finansial/comments/1p86ybb/whats_the_expected_salary_trajectory_for_a/",
+      "guid": "https://redlib.perennialte.ch//r/finansial/comments/1p86ybb/whats_the_expected_salary_trajectory_for_a/",
+      "pubDate": "Thu, 27 Nov 2025 16:48:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p86ybb/whats_the_expected_salary_trajectory_for_a/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hiya guys. Gue early-mid 20s not-so-fresh grad that needs a reality check on salaries.</p>\n\n<p>TLDR: Jakarta corporate folks of all backgrounds, on avg/estimated, how many years of experience would someone in your industry/career path need to make (gross) 20jt, 50jt, 100jt?</p>\n\n<p>Unnecessary context: </p>\n\n<p>I got into a debate with my parents recently on what I earn &amp; my spending habits. I do think I’m somewhat lucky yes, I make 20-30jt gross (fluctuates a bit but 20 is baseline), 1ish yr experience, by next year or so can make around double if i perform well</p>\n\n<p>But it still… doesn’t feel like much… when i said this to my parents they essentially went -_- and lectured me on how I need to be grateful. which i am. not that i’m not. </p>\n\n<p>i’m more… apa ya… blind aja sih on what a normal salary trajectory should look like. like for sure ini somewhere antara parents gue lebay &amp; gue ga napak tanah (i hate that term). so yeah, tell me as it is folks, genuinely curious here. specifically, jkt corporate though bc if we talk other regions or job types might be too different </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Understated jumlah aset saham tahun 2021 dan 2022 tapi tahun 2023 jual aset rugi, apa ini utang pajak?",
       "link": "https://redlib.perennialte.ch//r/finansial/comments/1p7irgn/understated_jumlah_aset_saham_tahun_2021_dan_2022/",
       "guid": "https://redlib.perennialte.ch//r/finansial/comments/1p7irgn/understated_jumlah_aset_saham_tahun_2021_dan_2022/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p58e8o/kalau_cloudflare_diblokir_akses_paypal_gimana_ya/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Emang konsekuensinya apa kalau proses WD PayPal ke BCA atau Jenius aku lakukan pakai VPN atau DNS encrypt?</p>\n\n<p>Emang konsekuensinya apa kalau buka PayPal dan update data kartu di PayPal pakai VPN atau DNS encrypt?</p>\n\n<p>Kalau DNS encrypt-ku itu barusan banget kemaren aku install tapi masih &quot;cek ombak&quot;.</p>\n\n<p>Karena yang terutama mau liat dulu dari sisi VPN. Saya pakai Proton yang berbayar, yang bisa milih server negara sendiri, yang bisa activate split tunneling dan kill switch.</p>\n\n<p>Cuman kalau split tunneling exclude PayPal (di mana PayPal ini hampir semua ekosistemnya pakai Cloudflare), emang buka PayPal tanpa VPN tetep bakal bisa diteruskan dananya ke rekening?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Asuransi Syariah untuk non Muslim",
-      "link": "https://redlib.perennialte.ch//r/finansial/comments/1p57058/asuransi_syariah_untuk_non_muslim/",
-      "guid": "https://redlib.perennialte.ch//r/finansial/comments/1p57058/asuransi_syariah_untuk_non_muslim/",
-      "pubDate": "Mon, 24 Nov 2025 03:54:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1p57058/asuransi_syariah_untuk_non_muslim/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello all\nSaya mau masuk asuransi jiwa. Agen saya menawarkan Pru Syariah. Sedangkan saya non Muslim. Apakah jika saya masuk asuransi ini kemungkinan akan ada masalah dikemudian hari? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/finansial.rss",
-  "lastFetched": "2025-11-27T16:49:28.110Z"
+  "lastFetched": "2025-11-27T17:33:54.840Z"
 }
