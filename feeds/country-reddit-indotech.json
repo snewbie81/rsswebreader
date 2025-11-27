@@ -112,6 +112,15 @@
       "thumbnail": null
     },
     {
+      "title": "No Wi-Fi networks found, ada yang pernah ngalamin?",
+      "link": "/img/vl4o36wdes3g1.jpeg",
+      "guid": "/img/vl4o36wdes3g1.jpeg",
+      "pubDate": "Thu, 27 Nov 2025 11:42:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p806if/no_wifi_networks_found_ada_yang_pernah_ngalamin/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada yg pernah ngalamin hal serupa gak disini? Kronologi nya abis di sleep semaleman, pas bangun nyalain laptop di kantor malah gak bisa detect jaringan. Sebelumnya pernah gitu juga, tapi solved dengan cuman di restart. Nah yaudah gw restart karna udah biasa juga sering kek gitu, ternyata kagak bisa bre, gw coba inul driver realtek nya juga kagak bisa, gw disable enable di devmgr juga tetep kagak nongol tuh jaringan. Pada akhirnya gw terpaksa nyolok hp gw terus buat tethering pake kabel colok ke laptop, cuma makin sini makin ribet. Ada yang tau cara solve nya? Btw device nya HP 14s FQ1135AU AMD Ryzen 5500U. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Komdigi siapkan aturan baru, pemilik HP wajib rekam wajah",
       "link": "/img/nn1i9c75ll3g1.jpeg",
       "guid": "/img/nn1i9c75ll3g1.jpeg",
@@ -136,15 +145,6 @@
       "pubDate": "Thu, 27 Nov 2025 06:17:40 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p7uxap/forecast_harga_ram_ssd/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Gue ada rencana upgrade RAM ke ddr5 antara akhir taun ini atau taun depan, tapi malah pada naik dan gue putusin buat WnS. Menurut kalian bakal gimana harga RAM dan SSD kedepannya?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "No Wi-Fi networks found, ada yang pernah ngalamin?",
-      "link": "/img/vl4o36wdes3g1.jpeg",
-      "guid": "/img/vl4o36wdes3g1.jpeg",
-      "pubDate": "Thu, 27 Nov 2025 11:42:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p806if/no_wifi_networks_found_ada_yang_pernah_ngalamin/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada yg pernah ngalamin hal serupa gak disini? Kronologi nya abis di sleep semaleman, pas bangun nyalain laptop di kantor malah gak bisa detect jaringan. Sebelumnya pernah gitu juga, tapi solved dengan cuman di restart. Nah yaudah gw restart karna udah biasa juga sering kek gitu, ternyata kagak bisa bre, gw coba inul driver realtek nya juga kagak bisa, gw disable enable di devmgr juga tetep kagak nongol tuh jaringan. Pada akhirnya gw terpaksa nyolok hp gw terus buat tethering pake kabel colok ke laptop, cuma makin sini makin ribet. Ada yang tau cara solve nya? Btw device nya HP 14s FQ1135AU AMD Ryzen 5500U. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-27T13:45:25.893Z"
+  "lastFetched": "2025-11-27T14:42:59.323Z"
 }
