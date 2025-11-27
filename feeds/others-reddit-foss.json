@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Geliştirmeye başladığım minecraft başlatıcı ProjT Launcher",
+      "link": "https://redlib.perennialte.ch//r/TurkDev/comments/1p7zlb0/geliştirmeye_başladığım_minecraft_başlatıcı_projt/",
+      "guid": "https://redlib.perennialte.ch//r/TurkDev/comments/1p7zlb0/geliştirmeye_başladığım_minecraft_başlatıcı_projt/",
+      "pubDate": "Thu, 27 Nov 2025 11:21:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p7zu8h/geliştirmeye_başladığım_minecraft_başlatıcı_projt/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p7zu8h/geliştirmeye_başladığım_minecraft_başlatıcı_projt/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Anybody else having Aurora Store issues?",
       "link": "/img/t7zvf6ys9o3g1.jpeg",
       "guid": "/img/t7zvf6ys9o3g1.jpeg",
@@ -189,7 +198,7 @@
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/",
       "pubDate": "Sun, 16 Nov 2025 09:57:18 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> 👋,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> �� Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> 👋,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> – Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxdm7p/looking_for_systemslevel_foss_projects_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all.  I&#39;m looking for interesting FOSS project(s) to contribute to (and ideally, learn from).  I have a corporate programming job, but I&#39;m at the brink of burning out due to the environment.  It&#39;s been more than a decade since I was able to do any programming I found interesting (my job so far has mostly consisted on dealing with non-essential complexity in huge, messy, over complicated, legacy codebases that someone else wrote).  So I need to &quot;touch grass&quot;, to do some intellectually interesting programming.  I&#39;m looking for suggestions of FOSS projects to contribute to that I could learn from and for which my skill set could be of use:</p>\n\n<ul>\n<li>Very analytical, skilled, well-rounded programmer (from systems-level, to scripting and Python REST APIs).</li>\n<li>~15y experience doing systems-level programming and troubleshooting (mostly Linux and C/asm).</li>\n<li>Data-oriented, performance-oriented programming (&quot;computer-aware&quot; programming).</li>\n</ul>\n\n<p>The ideal would be systems-level, Linux/Unix, C-lang project(s) with actual use in the industry (to feel I&#39;m doing &quot;meaningful work&quot;) but I&#39;m equally open for other interesting and/or funny projects.</p>\n\n<p>Any suggestions are welcome.  Thanks in advance.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Project Management Tool - Feedback!",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/",
-      "pubDate": "Fri, 14 Nov 2025 05:48:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1owogp6/project_management_tool_feedback/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on a suite of tools that work as a sort of &#39;google drive of tools&#39; interface. Users have their own personal drive and can create shared &#39;team&#39; drives.</p>\n\n<p>I have recently been doing a lot of updates/improvement on the project management tool (Project Board). I&#39;ve been looking for feedback for it, what works, what needs improvement, what features would be useful?</p>\n\n<p>This is designed as a free alternative so at the moment it doesn&#39;t have as many advanced features as some of the paid tools out there but I&#39;m striving to keep improving.</p>\n\n<p>The suite also contains and invoicer, book keeper and people manager, all of which are being built on.</p>\n\n<p>If any of these tools are something you would use I would love any feedback you have. It&#39;s available for free online (<a href=\"https://drive.tridah.cloud/\">https://drive.tridah.cloud</a>) or you can self-host: <a href=\"https://github.com/TridahCloud/TridahDrive\">https://github.com/TridahCloud/TridahDrive</a></p>\n\n<p>Tridah is a Non-Profit creating free open-source tools. Our goal is to provide free alternatives to paid subscription-based tools and host them free with no paywalls for users who are unable to self-host.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-27T10:47:29.307Z"
+  "lastFetched": "2025-11-27T11:32:45.944Z"
 }

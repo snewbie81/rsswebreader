@@ -40,6 +40,24 @@
       "thumbnail": null
     },
     {
+      "title": "Any AI that can turn my tutorial videos into Markdown docs?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/",
+      "pubDate": "Thu, 27 Nov 2025 11:25:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve got 40+ video lessons on how to use Azure DevOps, and I’d really like to turn them into written docs.</p>\n\n<p>What I’m looking for is some kind of AI tool that can:</p>\n\n<ul>\n<li>“Watch” each video</li>\n<li>Turn what I’m doing/saying into a clean Markdown file (one per video)</li>\n<li>Bonus points if it can also grab relevant screenshots and drop them into the doc as images</li>\n</ul>\n\n<p>Does anything like this exist? Any tools or AI workflows you’d recommend to make this happen?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "ICM, EEG E BCI. O ROUBO DA SUA PRIVACIDADE (MENTE) E SEGURANÇA PESSOAL.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7zmdr/icm_eeg_e_bci_o_roubo_da_sua_privacidade_mente_e/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7zmdr/icm_eeg_e_bci_o_roubo_da_sua_privacidade_mente_e/",
+      "pubDate": "Thu, 27 Nov 2025 11:08:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7zmdr/icm_eeg_e_bci_o_roubo_da_sua_privacidade_mente_e/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Boa tarde, qual sua opinião sobre icm eeg e bci? Acha que isso futuramente pode acabar com a privacidade das pessoas? Fiquei \nsabendo que existe uma máquina que lê pensamentos sem fio algum conectado a você. Lê seus pensamentos e faz a reconstrução de imagens que sua mente cria, com isso você testa a pessoa com associação de objetos, símbolos, palavras, cheiro para fazer a pessoa viver uma lembrança dela (Memória) (coisas pessoais) com isso você consegue descobrir a vida da pessoa toda. Tudo mesmo até de coisas que vc tinha quando criança, coisas que viu e n lembra, você consegue acessar todo o cérebro da pessoa e pode roubar os dados dela ainda. Tem no Brasil se n me engano</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I made an unlimited, offline background remover! (no subscriptions or credits)",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p79obc/continuous_scroll_enabled_by_default_in_sumatrapdf/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I just stumbled over the linked post via search engine and wanted to post a solution for everyone else who struggles with that as well. But the post is closed so I opened this new one.</p>\n\n<p>Go to settings&gt;advanced options</p>\n\n<p>In your text editor search for the line</p>\n\n<p>&quot;DefaultDisplayMode = facing&quot;</p>\n\n<p>and replace it with</p>\n\n<p>&quot;DefaultDisplayMode = continuous facing&quot;</p>\n\n<p>Save file and done.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I built an AI-based crypto trend tracker app. Looking for feedback from crypto users.",
-      "link": "/gallery/1p6z7li",
-      "guid": "/gallery/1p6z7li",
-      "pubDate": "Wed, 26 Nov 2025 14:19:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p78weh/i_built_an_aibased_crypto_trend_tracker_app/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p78weh/i_built_an_aibased_crypto_trend_tracker_app/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "A Shortcut Launcher for Windows",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/",
-      "pubDate": "Wed, 26 Nov 2025 13:48:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7863s/a_shortcut_launcher_for_windows/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a couple of commands using software like Setdpi and NirCmd mainly for settings like display resolution, scaling and more. Mainly they look like     </p>\n\n<p>&quot;SetDPI.exe 125&quot;<br/>\n&quot;nircmd.exe setdisplay 2560 1440 180&quot;  </p>\n\n<p>I have been using basic Windows shortcuts like .ink files and then I switched to using <strong>Biniware Run</strong> which is the closest thing to what I want which is just <strong>having a simple interface for creating commands and applications and then being able to launch those from the system tray or a floating button.</strong> I had difficulty finding something because searching &quot;Windows Launcher&quot; always brings up search based launchers. </p>\n\n<p>Thanks a bunch</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-27T10:47:48.946Z"
+  "lastFetched": "2025-11-27T11:33:06.028Z"
 }
