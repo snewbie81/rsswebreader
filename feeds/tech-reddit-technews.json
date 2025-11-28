@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
-      "guid": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
-      "pubDate": "Fri, 28 Nov 2025 07:11:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Passengers face disruption as Airbus makes software updates to planes",
       "link": "https://www.bbc.com/news/articles/c8e9d13x2z7o",
       "guid": "https://www.bbc.com/news/articles/c8e9d13x2z7o",
       "pubDate": "Fri, 28 Nov 2025 20:44:14 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p95lua/passengers_face_disruption_as_airbus_makes/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p95lua/passengers_face_disruption_as_airbus_makes/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
+      "guid": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
+      "pubDate": "Fri, 28 Nov 2025 07:11:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-28T21:34:52.712Z"
+  "lastFetched": "2025-11-28T22:37:50.440Z"
 }

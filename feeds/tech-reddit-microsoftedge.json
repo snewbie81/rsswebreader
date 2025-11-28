@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Where does Microsoft Edge get these accounts in the profile dropdown menu, and how can I remove them?",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p97rea/where_does_microsoft_edge_get_these_accounts_in/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p97rea/where_does_microsoft_edge_get_these_accounts_in/",
+      "pubDate": "Fri, 28 Nov 2025 22:14:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p97rea/where_does_microsoft_edge_get_these_accounts_in/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Since the last update, Microsoft Edge has been displaying my accounts in this drop-down menu. None of these accounts are listed in the Windows settings under “My accounts.”</p>\n\n<p>I logged into Teams once with these accounts, and now I&#39;m wondering how I can remove these accounts from there, and above all, where do they come from if they don&#39;t even appear in the Windows settings?</p>\n\n<p><a href=\"/preview/pre/47k8d1h0o24g1.jpg?width=294&amp;format=pjpg&amp;auto=webp&amp;s=a6586c1d45db6b3dc470310ab36478257bf2f1b7\">/preview/pre/47k8d1h0o24g1.jpg?width=294&amp;format=pjpg&amp;auto=webp&amp;s=a6586c1d45db6b3dc470310ab36478257bf2f1b7</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Edge keeps freezing every few seconds then jumps to where its supposed to be (1.5 year later repost)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5t9vs/delay_when_minimizingrestoring_edge_windows/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone else experienced a weird delay or lag when minimizing and restoring the Edge window? It happens whether hardware acceleration is on or off. No other app on my pc has this issue.</p>\n\n<p>Specs are Win10 // Ryzen 5600X // Nvidia RTX 4070 Super // 32 gb ram.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
-      "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-28T21:34:44.975Z"
+  "lastFetched": "2025-11-28T22:37:42.508Z"
 }

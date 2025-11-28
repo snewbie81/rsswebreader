@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "[Project] mindscribe - Local audio/video transcription with speaker diarization",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p97ff5/project_mindscribe_local_audiovideo_transcription/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p97ff5/project_mindscribe_local_audiovideo_transcription/",
+      "pubDate": "Fri, 28 Nov 2025 22:00:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p97ff5/project_mindscribe_local_audiovideo_transcription/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>Privacy-focused transcription tool that runs 100% locally:\n- WhisperX for transcription\n- pyannote.audio for speaker diarization\n- No cloud, no API calls\n- Works with audio files, videos, and YouTube URLs\n\nBuilt this as my first real Python project. All feedback welcome!\n\nGitHub: https://github.com/dev-without-borders/mindscribeMindScribe - Local audio/video transcription with speaker diarization\n\nPrivacy-focused transcription tool that runs 100% locally:\n- WhisperX for transcription\n- pyannote.audio for speaker diarization\n- No cloud, no API calls\n- Works with audio files, videos, and YouTube URLs\n\nBuilt this as my first real Python project. All feedback welcome!\n\nGitHub: https://github.com/dev-without-borders/mindscribe\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Built a Python CLI that analyzes GitHub repos and exports detailed metrics to CSV",
       "link": "https://redlib.perennialte.ch//r/sideprojects/comments/1p8wv1l/built_a_python_cli_that_analyzes_github_repos_and/",
       "guid": "https://redlib.perennialte.ch//r/sideprojects/comments/1p8wv1l/built_a_python_cli_that_analyzes_github_repos_and/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey reddit!</p>\n\n<p>I&#39;ve been working on a little software project for a while and now that it&#39;s getting pretty close to &quot;minimum viability&quot; (in other words I spend more time using it then working on it haha) I&#39;ve been trying to spend some time considering how I want to release it into the world...</p>\n\n<p>For one, there&#39;s a part of me which wishes I could recoup some of the time and money I&#39;ve dumped into it by releasing it as a paid app, but there&#39;s a much larger part of me which really wants to release it as FOSS. </p>\n\n<p>I love FOSS projects. I strongly agree with the principal of open source and have even donated to a couple OS projecs. In all honesty I know exactly how I want to release this software (btw, it&#39;s a Digital Asset Manager for songs in the ChordPro format which converts to chord over lyric, formats in a fun way, has some editors for both formats, metadata tracking and tagging, a chord generator so hovering over a chord shows a tooltip for the chord, tracks performances, etc. think if Ultimate Guitar and digikam had a baby), but I&#39;m anxious about releasing it at all.</p>\n\n<p>It&#39;s something i want to share because it brings me a ton of value, and I think especially if I collaborated with some other musicians it could really end up being a really nifty tool for some people, but also, my coding skills kinda suck so I relied pretty heavily on vibe coding  for a lot of it. I went off on several different tangents as I developed the vision, searched random pathways for solutions to stupid issues I was having, my code consistency is terrible because, well, vibe coding...</p>\n\n<p>So, while I do feel proud of the work I did put into it, and I&#39;m genuinely happy with the product I&#39;ve been able to kludge together (for myself), I also feel deeply self conscious of the quality of &quot;my code&quot;, and I almost don&#39;t want anyone looking under the hood to see what a mess it is.</p>\n\n<p>I realize at the end of the day I&#39;m just some dude who had a neat idea and put in hundreds of hours of his life using the tools available to him to make something come out if it rather than just watching TV or something, and that&#39;s nothing to be ashamed of, but idk.</p>\n\n<p>Maybe I&#39;m just looking for some inner clarity here. What are your thoughts on this?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What's the easiest way to contribute to Linux kernel?",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/",
-      "pubDate": "Sun, 16 Nov 2025 12:41:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like documentation? Know some low hanging fruits?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-28T21:34:30.460Z"
+  "lastFetched": "2025-11-28T22:37:27.784Z"
 }
