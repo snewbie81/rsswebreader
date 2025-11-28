@@ -13,12 +13,48 @@
       "thumbnail": null
     },
     {
+      "title": "Splitting large Pdfs,what do you all use?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
+      "pubDate": "Fri, 28 Nov 2025 07:23:44 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I deal with a lot of big scanned pdfs (100–300 pages), and most of the time I only need one section out of the whole thing. Kdan pdf lets me pull out specific page ranges without messing up the layout or reshuffling pages, which was a problem I kept running into. It’s been good enough for sending just a chapter to a client or trimming things down for platforms with size limits.</p>\n\n<p>Curious how others handle it, do you split by chapters, by size, or just whenever you need a smaller chunk?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "How do you actually manually install drivers? Windows 11 can't do it for me.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8q264/how_do_you_actually_manually_install_drivers/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8q264/how_do_you_actually_manually_install_drivers/",
+      "pubDate": "Fri, 28 Nov 2025 08:48:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8q264/how_do_you_actually_manually_install_drivers/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>If this is the wrong subreddit for this, please tell me which one would be better.</strong>  </p>\n\n<p>ASUSTek COMPUTER INC. - HIDClass<br/>\nASUSTek Computer Inc. - System<br/>\nRealtek - Extension<br/>\nRealtek - SoftwareComponent<br/>\nAdvanced Micro Devices Inc. - SecurityDevices</p>\n\n<p>Googling these will quickly give you &quot;error&quot; things, meaning other people had issues. Is there a free application I can use that would have better information on which are the newest drivers, and maybe even download them for me?</p>\n\n<p>Extra:</p>\n\n<p>I do have some signs of corrupted system files. Such as the desktop wallpaper sometimes being black which seems semi-common with windows 11. Yesterday I&#39;ve experienced one single crash, the pc automatically restarted so I couldn&#39;t read the error, but it only happenned once. I miss windows 7.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Any cool AI tools you’ve discovered recently?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
       "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I bought a coaching material but the language is in english",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
+      "pubDate": "Fri, 28 Nov 2025 07:41:07 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So any app or website I can use to transcribe the text and then put those text on language models and convert to my native?</p>\n\n<p>There is no option to download..either I need to watch recording and use transcribe or watch live lectures and transcribe </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is it too late to switch from software testing after 15 years? What should I do?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/",
+      "pubDate": "Fri, 28 Nov 2025 07:20:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have 15 years of experience in QA with a CTC of 40+ LPA. In my last 3 companies, I built automation frameworks from scratch. But in every job, manual testing becomes the top priority. Management wants automation, but they also want quick results, so I never get enough time to actually work on automation or AI-based improvements.</p>\n\n<p>I’m good at manual, backend, and frontend testing, but because of the org structure, I rarely get a chance to work with the automation team or upskill in automation/AI. And we all know — only manual won’t survive for long, especially with AI growing everywhere.</p>\n\n<p>Promotion opportunities are also limited because most companies don’t have a separate QA vertical anymore. And if I look outside, people at my experience level (40–50 LPA range) are struggling to find new QA roles.</p>\n\n<p>So I’m stuck wondering:</p>\n\n<p>What should I do next? Should I switch domains, focus on AI/automation, or something else?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -130,6 +166,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is there any software that autocompletes a word that I am typing?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p830qo/is_there_any_software_that_autocompletes_a_word/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p830qo/is_there_any_software_that_autocompletes_a_word/",
+      "pubDate": "Thu, 27 Nov 2025 14:05:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p830qo/is_there_any_software_that_autocompletes_a_word/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys, I am looking for a software where I can have my own dictionary of words, and then when I am typing, I want this software to suggest to me words that closely match the words given in my dictionary. Please note that the suggestion must be inline (maybe like pressing tab or enter to autocomplete) and not the ones where they give a drop-down menu to select from or suggestions above the text. </p>\n\n<p>To further narrow it down, I want it to be able to work with the text box of Discord website on any browser, but preferably Vivaldi.</p>\n\n<p>Thanks for your time. Any and every help is appreciated :) </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Looking to record a LAN party of myself and my friends playing black ops 1 zombies on the 360",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p82q6z/looking_to_record_a_lan_party_of_myself_and_my/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p82q6z/looking_to_record_a_lan_party_of_myself_and_my/",
@@ -182,54 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, with all the latest SOTA models out there I found it weird that some people are still charging to remove background from an image. so I created an offline and free one, no signup, no hidden fees. You just need to simply upload your picture, execute (it will run locally with your GPU), then it&#39;ll spit out the result.</p>\n\n<p>feel free to give me any feedback, this is a static site and I&#39;m planning on keeping this free forever. I&#39;ll update the site with new models in the future as well</p>\n\n<p>You can visit the site here: <a href=\"https://bgremovefree.com\">https://bgremovefree.com</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "ICM, EEG E BCI. O ROUBO DA SUA PRIVACIDADE (MENTE) E SEGURANÇA PESSOAL.",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7zmdr/icm_eeg_e_bci_o_roubo_da_sua_privacidade_mente_e/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7zmdr/icm_eeg_e_bci_o_roubo_da_sua_privacidade_mente_e/",
-      "pubDate": "Thu, 27 Nov 2025 11:08:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7zmdr/icm_eeg_e_bci_o_roubo_da_sua_privacidade_mente_e/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Boa tarde, qual sua opinião sobre icm eeg e bci? Acha que isso futuramente pode acabar com a privacidade das pessoas? Fiquei \nsabendo que existe uma máquina que lê pensamentos sem fio algum conectado a você. Lê seus pensamentos e faz a reconstrução de imagens que sua mente cria, com isso você testa a pessoa com associação de objetos, símbolos, palavras, cheiro para fazer a pessoa viver uma lembrança dela (Memória) (coisas pessoais) com isso você consegue descobrir a vida da pessoa toda. Tudo mesmo até de coisas que vc tinha quando criança, coisas que viu e n lembra, você consegue acessar todo o cérebro da pessoa e pode roubar os dados dela ainda. Tem no Brasil se n me engano</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Duplicate file finder",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/",
-      "pubDate": "Wed, 26 Nov 2025 20:20:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ick2/duplicate_file_finder/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for something free that finds duplicate files. Hoping to find something highly rated here to save me from trying everything I can get my hands on.  TIA</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "\"What’s the dumbest software \"feature\" you deal with every day?",
-      "link": "https://redlib.perennialte.ch//r/AskReddit/comments/1p7v8bm/whats_the_dumbest_software_feature_you_deal_with/",
-      "guid": "https://redlib.perennialte.ch//r/AskReddit/comments/1p7v8bm/whats_the_dumbest_software_feature_you_deal_with/",
-      "pubDate": "Thu, 27 Nov 2025 07:10:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7vufq/whats_the_dumbest_software_feature_you_deal_with/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7vufq/whats_the_dumbest_software_feature_you_deal_with/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "The software industry's dirty little secret: You're probably overpaying for everything",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
-      "pubDate": "Thu, 27 Nov 2025 20:12:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in IT, and something&#39;s been bothering me for a while now. I was helping a friend set up his new PC last weekend, and he casually mentioned he just dropped $60 on a Windows key from the Microsoft Store. Then he goes to Adobe&#39;s website and drops like $55 on a subscription Then another $40 on some productivity software. Then we started talking about the games he wanted to buy, and I realized... most people have absolutely no idea they&#39;re being massively overcharged for software.</p>\n\n<p>My friend is a smart guy. He&#39;s not careless with money. But he&#39;s been conditioned to believe that whatever price Steam or Adobe or Microsoft shows him is just &quot;the price.&quot; Like there&#39;s no alternative. No other option. You want the software? You pay what they tell you to pay. I tried explaining to him that you can get the same exact keys and licenses for way less if you just... look around. He didn&#39;t believe me at first. Thought I was talking about some shady grey-market stuff.</p>\n\n<p>Then I told him he can find same software/games across different authorized stores. The games he just bought for $70 each on Steam? Listed for $28-35 from legitimate retailers. Same exact keys. Same exact licenses. Just different stores with better regional pricing or bulk deals.</p>\n\n<p>The reality nobody talks about:</p>\n\n<ul>\n<li>Game keys: Steam/Epic prices vs authorized key sellers can differ by 40-70%</li>\n<li>Software licenses: Windows, Adobe, Office-all available way cheaper from legit resellers</li>\n<li>Subscriptions: Regional pricing differences are absolutely wild</li>\n<li>Everything else: If it&#39;s software, there&#39;s probably a better deal somewhere</li>\n</ul>\n\n<p>And this isn&#39;t sketchy stuff. These are authorized sellers. Legal keys. Everything above board. It&#39;s just that most people don&#39;t even know to look because we&#39;ve been trained to think there&#39;s only one &quot;official&quot; price. So... How many of you actually compare software prices before buying? Or do most of us just go straight to Steam/Adobe/Microsoft and pay whatever they ask because it&#39;s &quot;easier&quot;?</p>\n\n<p>I feel like this should be common knowledge, but apparently it&#39;s not. What am I missing here?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A Tool That Calculates the Most Efficient Holiday Opportunities — Offday.app (55 countries, 3,000 users)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/",
-      "pubDate": "Thu, 27 Nov 2025 00:30:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>This is my first time sharing here, so I’ll briefly explain what I built, the problem it solves, and why people started using it.</p>\n\n<p>I created Offday.app to solve a surprisingly common issue:\nfiguring out how to combine public holidays, weekends, and personal vacation days to get the longest possible break with the fewest days off.</p>\n\n<p>For example:\n1 day off → 4-day weekend\n2 days off → 9-day break\nBut identifying these patterns manually takes time and varies heavily by country.</p>\n\n<p>What the app does</p>\n\n<p>Offday analyzes a country’s official holidays and automatically calculates:\n    • Longest break length\n    • Required number of off days\n    • Efficiency score\n    • Holiday chains with gaps\n    • Best combinations for the next months</p>\n\n<p>Essentially: It finds the “optimal vacation opportunities” for any supported country.</p>\n\n<p>Why people started using it</p>\n\n<p>I built it for myself, but in just a few days the numbers grew faster than expected:\n    • Users from 55 countries\n    • More than 1,100 plans created\n    • Over 3,000 users, fully organic\n    • No ads or promotion yet</p>\n\n<p>This made it clear that many people face the same planning problem.</p>\n\n<p>Key features</p>\n\n<p>Here’s what’s currently implemented:</p>\n\n<p>• Smart suggestion engine\nRedesigned logic that removes noise and surfaces only meaningful holiday combinations.</p>\n\n<p>• Multi-country support (JSON-driven)\nAdding or updating holiday calendars takes seconds.</p>\n\n<p>• Automatic email reports\nUsers can receive the best opportunities for the next 60 days, delivered every two weeks.</p>\n\n<p>• Embeddable widget\nBlogs, travel websites, and internal portals can embed both the form and the results.</p>\n\n<p>• Performance-focused architecture\nCaching, fast queries, lightweight UI.</p>\n\n<p>Why I’m sharing</p>\n\n<p>It’s still a one-person project, but it’s gaining traction much faster than I expected.\nI’m sharing it here to gather feedback from people who build and work with software professionally — especially around UX, architecture, and feature direction.</p>\n\n<p>If you want to take a look:\n<a href=\"https://offday.app\">https://offday.app</a></p>\n\n<p>Happy to hear thoughts, suggestions, or criticism</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T07:35:00.318Z"
+  "lastFetched": "2025-11-28T08:55:08.340Z"
 }
