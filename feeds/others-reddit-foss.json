@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Built a Python CLI that analyzes GitHub repos and exports detailed metrics to CSV",
+      "link": "https://redlib.perennialte.ch//r/sideprojects/comments/1p8wv1l/built_a_python_cli_that_analyzes_github_repos_and/",
+      "guid": "https://redlib.perennialte.ch//r/sideprojects/comments/1p8wv1l/built_a_python_cli_that_analyzes_github_repos_and/",
+      "pubDate": "Fri, 28 Nov 2025 15:26:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p8xkzy/built_a_python_cli_that_analyzes_github_repos_and/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p8xkzy/built_a_python_cli_that_analyzes_github_repos_and/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "[Pre-release] We are open-sourcing Wavefront, a fully capable AI middleware which can connect to all your data and automate workflows &amp; perform agentic voice automations.",
       "link": "/img/hp8hk0ds9u3g1.png",
       "guid": "/img/hp8hk0ds9u3g1.png",
@@ -198,7 +207,7 @@
       "guid": "/img/97i2xjpm8s1g1.png",
       "pubDate": "Mon, 17 Nov 2025 09:02:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ozbih9/privmeta_an_opensource_metadata_removal_tool_for/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey peeps,</p>\n\n<p>Ever used a site like SmallPDF or PDFtoDoc and felt weird about uploading your files to a random server just to do something simple?</p>\n\n<p>That&#39;s why I made<a href=\"https://www.privmeta.com/\"> PrivMeta</a> — an open-source lightweight browser app that removes metadata from docs, images and PDFs right on your device.</p>\n\n<ul>\n<li>Works completely in-browser — your files never leave your computer</li>\n<li>You can even turn off your Wi-Fi while using it</li>\n<li>It’s free and open source (Here&#39;s my <a href=\"https://github.com/DScaife/privmeta\">repo</a>)</li>\n</ul>\n\n<p>It’s meant to be a super-simple privacy tool. In the future, I’m thinking of making more tools like this — maybe file converters, PDF redaction, that kind of thing — all running locally, with zero server-side processing.</p>\n\n<p>I’d love to hear your thoughts. Are there any features you��d find useful in something like this? </p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey peeps,</p>\n\n<p>Ever used a site like SmallPDF or PDFtoDoc and felt weird about uploading your files to a random server just to do something simple?</p>\n\n<p>That&#39;s why I made<a href=\"https://www.privmeta.com/\"> PrivMeta</a> — an open-source lightweight browser app that removes metadata from docs, images and PDFs right on your device.</p>\n\n<ul>\n<li>Works completely in-browser — your files never leave your computer</li>\n<li>You can even turn off your Wi-Fi while using it</li>\n<li>It’s free and open source (Here&#39;s my <a href=\"https://github.com/DScaife/privmeta\">repo</a>)</li>\n</ul>\n\n<p>It’s meant to be a super-simple privacy tool. In the future, I’m thinking of making more tools like this — maybe file converters, PDF redaction, that kind of thing — all running locally, with zero server-side processing.</p>\n\n<p>I’d love to hear your thoughts. Are there any features you’d find useful in something like this? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oykrmv/whats_the_easiest_way_to_contribute_to_linux/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Like documentation? Know some low hanging fruits?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I created Wabe : an open-source Firebase alternative + full-stack ecosystem in TypeScript 🚀",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/",
-      "pubDate": "Sun, 16 Nov 2025 09:57:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> 👋,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> – Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-28T14:41:57.058Z"
+  "lastFetched": "2025-11-28T15:36:52.574Z"
 }

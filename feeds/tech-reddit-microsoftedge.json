@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Edge keeps freezing every few seconds then jumps to where its supposed to be (1.5 year later repost)",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/",
+      "pubDate": "Fri, 28 Nov 2025 15:19:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am reposting because its been almost A YEAR AND A HALF since my first post and STILL waiting for a fix. And on one post someone said they fixed it in a newer version but im on latest and it still occurs.</p>\n\n<p>Only happens during certain times of day, half the time I can use Edge for hours without this. Does not affect if the laptop (HP Victus 15) is on charge or not. I am on latest nvidia drivers but unsure if this is the cause. I havent been able to check task manager as I only have 1 screen and edge must be kept still for me to use the task manager without it dissapearing, but I think I did catch it once and there was no spike in usage.</p>\n\n<p>Even YouTube videos (audio is fine and 0 dropped frames reported) and even OTHER applications hovering (but not full screen) over Edge have the freezing too (e.g. if i hover over the calculator buttons, after the freeze those buttons all light up at the same time like it tries to catch up to where my cursor currently is)</p>\n\n<p>Title explanation: especially when scrolling, edge will lag for 1 second then &quot;jumps&quot; to where i would of scrolled to, youtube videos also pause then skip, and also effects hovering over buttons too (including other apps as long as edge is behind them), Basically unusable</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "HELP - half the screen is BLANK when typing",
       "link": "/img/4irskdffvu3g1.jpeg",
       "guid": "/img/4irskdffvu3g1.jpeg",
@@ -202,15 +211,6 @@
       "thumbnail": null
     },
     {
-      "title": "Copilot stalls on every answer",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
-      "pubDate": "Mon, 24 Nov 2025 09:18:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Literally anything I ask is left half answered and I&#39;m forced to hit stop. Then I&#39;ll ask it again or ask it to repeat and it stalls again! Completely useless. Anyone else facing the same issues?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Fresh Edge install, typing “ch” in the address bar suggests “c**** p***”, anyone else seeing this?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
@@ -220,16 +220,16 @@
       "thumbnail": null
     },
     {
-      "title": "PDF tts issue",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5hcrm/pdf_tts_issue/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5hcrm/pdf_tts_issue/",
-      "pubDate": "Mon, 24 Nov 2025 13:41:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5hcrm/pdf_tts_issue/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey,</p>\n\n<p>I’ve been using Edge’s built-in “Read Aloud” function for PDFs for about two years, and it has worked great until recently. For the past 1–2 months, I’ve been running into a problem: it starts reading normally, but after a while it suddenly skips an entire paragraph. Then it reads the next paragraph and stops completely. It won’t continue unless I scroll up or down, or pause and resume the reading.</p>\n\n<p>Has anyone found a fix for this? I couldn’t find anything online or in this forum.</p>\n\n<p>I’m on the latest version (142.0.3595.94, official ARM64 build). I’ve already tried reinstalling Edge and disabling the experimental PDF viewer via <code>edge://flags/</code>. I also tested extensions like Flexi PDF Reader—while they partially help, they introduce different issues.</p>\n\n<p>My next idea is to try downgrading Edge, but I’m hoping there’s a better solution.</p>\n\n<p>Thanks in advance to anyone who can offer suggestions or help. This issue has been bothering me for a while.</p>\n</div><!-- SC_ON -->",
+      "title": "Copilot stalls on every answer",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
+      "pubDate": "Mon, 24 Nov 2025 09:18:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Literally anything I ask is left half answered and I&#39;m forced to hit stop. Then I&#39;ll ask it again or ask it to repeat and it stalls again! Completely useless. Anyone else facing the same issues?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-28T14:42:11.497Z"
+  "lastFetched": "2025-11-28T15:37:07.059Z"
 }

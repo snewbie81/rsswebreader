@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Canada just lost its measles elimination status. Is the U.S. next?",
+      "link": "https://www.sciencenews.org/article/canada-measles-elimination-us-vaccine",
+      "guid": "https://www.sciencenews.org/?p=3162993",
+      "pubDate": "Fri, 28 Nov 2025 15:30:00 +0000",
+      "description": "Canada has had more than a year of continuous measles transmission. The United States has until January to limit cases before losing status.",
+      "content": "Canada has had more than a year of continuous measles transmission. The United States has until January to limit cases before losing status.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112425_EG_measles_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Here are 3 big ideas to combat climate change, with or without COP",
       "link": "https://www.sciencenews.org/article/3-ideas-combat-climate-change-cop-30-un",
       "guid": "https://www.sciencenews.org/?p=3163020",
@@ -173,18 +182,9 @@
       "description": "People with Gulf War Illness found relief from migraines after a month on a low-glutamate diet, hinting at a new way to ease symptoms.",
       "content": "People with Gulf War Illness found relief from migraines after a month on a low-glutamate diet, hinting at a new way to ease symptoms.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111825_LS_glutamate_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "These are Science News’ favorite books of 2025",
-      "link": "https://www.sciencenews.org/article/favorite-science-books-2025-review-shop",
-      "guid": "https://www.sciencenews.org/?p=3162660",
-      "pubDate": "Thu, 20 Nov 2025 18:00:00 +0000",
-      "description": "Books about AI, Mars and infectious disease were among our top reads this year.",
-      "content": "Books about AI, Mars and infectious disease were among our top reads this year.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_reviews_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-11-28T14:42:06.512Z"
+  "lastFetched": "2025-11-28T15:37:01.925Z"
 }

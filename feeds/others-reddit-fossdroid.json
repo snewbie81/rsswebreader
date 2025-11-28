@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Help needed with updating Refreezer ( newbie)",
+      "link": "https://redlib.perennialte.ch//r/opensource/comments/1p8wha4/help_needed_with_updating_refreezer_newbie/",
+      "guid": "https://redlib.perennialte.ch//r/opensource/comments/1p8wha4/help_needed_with_updating_refreezer_newbie/",
+      "pubDate": "Fri, 28 Nov 2025 14:49:53 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8woq4/help_needed_with_updating_refreezer_newbie/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8woq4/help_needed_with_updating_refreezer_newbie/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "How to play the music that I uploaded to YTM in OuterTune",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8ssj0/how_to_play_the_music_that_i_uploaded_to_ytm_in/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8ssj0/how_to_play_the_music_that_i_uploaded_to_ytm_in/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey,so I&#39;ve been searching for an Android free music player that can play local files and also has auto volume leveling (replayGain or whatever works) because all my songs have very different volume levels. Foobar does it, but listening in it so uncomfortable</p>\n\n<p>I tried a bunch of apps and most of them either ignore ReplayGain or say they support it but nothing actually changes.</p>\n\n<p>Basically I just need:</p>\n\n<p>Android app</p>\n\n<p>local music</p>\n\n<p>volume normalization</p>\n\n<p>Not so unusable like foobar</p>\n\n<p>thanks</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Multi track audio recorder?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p5yynw/multi_track_audio_recorder/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p5yynw/multi_track_audio_recorder/",
-      "pubDate": "Tue, 25 Nov 2025 01:04:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p5yynw/multi_track_audio_recorder/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Something like bandlab or walkcake. i only need very basic features. I cannot currently find out</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-28T14:41:59.565Z"
+  "lastFetched": "2025-11-28T15:36:55.197Z"
 }

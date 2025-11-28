@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "Any cool AI tools you’ve discovered recently?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "I bought a coaching material but the language is in english",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
@@ -64,6 +55,15 @@
       "pubDate": "Fri, 28 Nov 2025 07:20:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have 15 years of experience in QA with a CTC of 40+ LPA. In my last 3 companies, I built automation frameworks from scratch. But in every job, manual testing becomes the top priority. Management wants automation, but they also want quick results, so I never get enough time to actually work on automation or AI-based improvements.</p>\n\n<p>I’m good at manual, backend, and frontend testing, but because of the org structure, I rarely get a chance to work with the automation team or upskill in automation/AI. And we all know — only manual won’t survive for long, especially with AI growing everywhere.</p>\n\n<p>Promotion opportunities are also limited because most companies don’t have a separate QA vertical anymore. And if I look outside, people at my experience level (40–50 LPA range) are struggling to find new QA roles.</p>\n\n<p>So I’m stuck wondering:</p>\n\n<p>What should I do next? Should I switch domains, focus on AI/automation, or something else?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any cool AI tools you’ve discovered recently?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T14:42:16.686Z"
+  "lastFetched": "2025-11-28T15:37:12.011Z"
 }
