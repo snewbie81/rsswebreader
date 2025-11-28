@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "background services",
+      "link": "/img/nxcb418z414g1.png",
+      "guid": "/img/nxcb418z414g1.png",
+      "pubDate": "Fri, 28 Nov 2025 17:06:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p904t8/background_services/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I no longer use Brave, but I want to keep it installed. How can I prevent these services from running?</p>\n\n<p>I already tried removing them from the task scheduler, but it didn&#39;t work.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Quick fact check",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7zcv8/cromite_vs_firefox_nightly/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>both on android, which is better (within the scope of privacy/security)?</p>\n\n<p>Cromite now has extensions btw, so ublock origin is functioning, although it&#39;s not as good as it&#39;s on FF nightly bc of MV3 restrictions. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Which Would You Recommend: Brave or Firefox?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/",
-      "pubDate": "Wed, 26 Nov 2025 17:14:58 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! I&#39;m a master student, and I&#39;m looking for a new browser.</p>\n\n<p>In the past, I used Chrome, then went to Zen, but due to Zen&#39;s terrible performance, I went back to Chrome. However, Chrome seems more and more sluggish in the past few months: some websites just freezes, the tabs sometimes take forever to load and last week, Chrome just reset itself: I lost all my tabs, all my logins, etc. </p>\n\n<p>(I don&#39;t think the problem is my PC, since I have an Intel i7, 512SSD and 32GB of RAM.)</p>\n\n<p>Searching for an alternative or better option to Chrome/Zen, I got to Brave or Firefox. I took some look in Vivaldi too, but the interface it&#39;s sooooo ugly. I know that Firefox has some issues with render some websites (also that DRM issue) and that Brave has all that crypto-stuff, but which would you recommend: Brave or Firefox?</p>\n\n<p>(Ps.: I don&#39;t think I care much about privacy since all my work is made inside GSuite, so Google already took all the data they can from me, lol)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T16:49:55.780Z"
+  "lastFetched": "2025-11-28T17:36:48.562Z"
 }
