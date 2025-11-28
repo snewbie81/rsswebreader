@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "I spent 5 days building a Windows “Unf**k-O-Meter” that tells you how screwed your PC is - and I'm giving it away for Black Friday",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8kqme/i_spent_5_days_building_a_windows_unfkometer_that/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8kqme/i_spent_5_days_building_a_windows_unfkometer_that/",
+      "pubDate": "Fri, 28 Nov 2025 03:34:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8kqme/i_spent_5_days_building_a_windows_unfkometer_that/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Hey everyone!</strong></p>\n\n<p>I spent the past 5 days building a ridiculous Windows utility called the <strong>Unf</strong>k-O-Meter** - a tiny animated app that reads system stats and translates your PC’s “mood” into 5 profanity levels.</p>\n\n<p>It doesn’t fix anything.<br/>\nIt doesn’t optimize anything.<br/>\nIt just <strong>judges you</strong>, loudly, proudly, and in real time.</p>\n\n<p>To celebrate Black Friday week, I made the special edition <strong>100% free to claim permanently</strong> on itch.io:</p>\n\n<p>👉 [<strong><a href=\"https://unfuckometer.itch.io/unfuck-o-meter-free-black-friday-edition\">https://unfuckometer.itch.io/unfuck-o-meter-free-black-friday-edition</a></strong>]()<br/>\n(Click “Download or Claim” while the giveaway is active)</p>\n\n<p>Features:</p>\n\n<ul>\n<li>Fully animated UI</li>\n<li>Slam-in boot intro</li>\n<li>Real-time orb status</li>\n<li>Free Edition audio sting</li>\n<li>“Task Destroyer” teaser button for the paid version coming later</li>\n</ul>\n\n<p>Hope it gives you a laugh - enjoy roasting your PC for the holidays.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a GUI for hashcat with hashes.com escrow service integration.",
+      "link": "/gallery/1p8gc3d",
+      "guid": "/gallery/1p8gc3d",
+      "pubDate": "Thu, 27 Nov 2025 23:44:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8gc3d/i_built_a_gui_for_hashcat_with_hashescom_escrow/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s an hashcat GUI with pack analysis features and hashes.com escrow service integration for easy recovered hash uploads.</p>\n\n<p>GitHub: <a href=\"https://github.com/jjsvs/Hashcat-Reactor.git\">https://github.com/jjsvs/Hashcat-Reactor.git</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Translation",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/",
@@ -22,12 +40,21 @@
       "thumbnail": null
     },
     {
-      "title": "The software industry's dirty little secret: You're probably overpaying for everything",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
-      "pubDate": "Thu, 27 Nov 2025 20:12:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in IT, and something&#39;s been bothering me for a while now. I was helping a friend set up his new PC last weekend, and he casually mentioned he just dropped $60 on a Windows key from the Microsoft Store. Then he goes to Adobe&#39;s website and drops like $55 on a subscription Then another $40 on some productivity software. Then we started talking about the games he wanted to buy, and I realized... most people have absolutely no idea they&#39;re being massively overcharged for software.</p>\n\n<p>My friend is a smart guy. He&#39;s not careless with money. But he&#39;s been conditioned to believe that whatever price Steam or Adobe or Microsoft shows him is just &quot;the price.&quot; Like there&#39;s no alternative. No other option. You want the software? You pay what they tell you to pay. I tried explaining to him that you can get the same exact keys and licenses for way less if you just... look around. He didn&#39;t believe me at first. Thought I was talking about some shady grey-market stuff.</p>\n\n<p>Then I told him he can find same software/games across different authorized stores. The games he just bought for $70 each on Steam? Listed for $28-35 from legitimate retailers. Same exact keys. Same exact licenses. Just different stores with better regional pricing or bulk deals.</p>\n\n<p>The reality nobody talks about:</p>\n\n<ul>\n<li>Game keys: Steam/Epic prices vs authorized key sellers can differ by 40-70%</li>\n<li>Software licenses: Windows, Adobe, Office-all available way cheaper from legit resellers</li>\n<li>Subscriptions: Regional pricing differences are absolutely wild</li>\n<li>Everything else: If it&#39;s software, there&#39;s probably a better deal somewhere</li>\n</ul>\n\n<p>And this isn&#39;t sketchy stuff. These are authorized sellers. Legal keys. Everything above board. It&#39;s just that most people don&#39;t even know to look because we&#39;ve been trained to think there&#39;s only one &quot;official&quot; price. So... How many of you actually compare software prices before buying? Or do most of us just go straight to Steam/Adobe/Microsoft and pay whatever they ask because it&#39;s &quot;easier&quot;?</p>\n\n<p>I feel like this should be common knowledge, but apparently it&#39;s not. What am I missing here?</p>\n</div><!-- SC_ON -->",
+      "title": "Purchase-software.com",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8h90w/purchasesoftwarecom/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8h90w/purchasesoftwarecom/",
+      "pubDate": "Fri, 28 Nov 2025 00:30:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8h90w/purchasesoftwarecom/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Bonjour à tous,</p>\n\n<p>Je suis très intéressé par un logiciel sur ce site, le logiciel est a un prix imbattable.</p>\n\n<p>Quelqu&#39;un connait ? Possible d&#39;avoir un avis ?</p>\n\n<p>Merci.</p>\n\n<pre><code>Hello everyone,\nI&#39;m very interested in a piece of software on this site; the price is unbeatable.\n\nDoes anyone know it? Could you give me your opinion?\n\nThanks\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any cool AI tools you’ve discovered recently?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,21 +103,21 @@
       "thumbnail": null
     },
     {
-      "title": "The way that some software like DiskDrill markets is unethical",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
-      "pubDate": "Thu, 27 Nov 2025 05:46:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sorry if this is a bit of a rant, but I really have to say this somewhere, and I think it also applies to much more than just this specific program. I had deleted a bunch of photos that hold great importance to me on a flash drive at a time when I had much less regard for their importance. I had the idea to use data recovery software, since I didn&#39;t believe I overwrote the data at any point. Nothing I had tried was working until I found Disk Drill, and after scanning for something like 15 minutes, I was finally able to see photos I hadn&#39;t seen in years. I was nearly to the point of tears. After looking through them on the program and selecting the ones I wanted to recover, I clicked the button to recover and was hit by this pop-up that said that I couldn&#39;t recover the images that I literally saw right on my screen unless I upgraded to the pro plan, which I can&#39;t afford. They could&#39;ve put the paywall at download or at least made it clear you couldn&#39;t do much of anything unless you got the pro plan, but instead they decided to dangle the recovered files in my face before telling me I couldn&#39;t have them unless I paid. At this point, it&#39;s basically glorified ransomware for files I accidentally deleted. It&#39;s one thing to have a paid file recovery program, but a whole other thing for one to act free (their website calls it a free app) and then make you pay when it&#39;s already loaded the files that you need to recover (it showed the thumbnails of the deleted files). Worst part is that Disk Drill isn&#39;t the only program doing this, this seems to be a trend.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Looking to record a LAN party of myself and my friends playing black ops 1 zombies on the 360",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p82q6z/looking_to_record_a_lan_party_of_myself_and_my/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p82q6z/looking_to_record_a_lan_party_of_myself_and_my/",
       "pubDate": "Thu, 27 Nov 2025 13:52:44 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p82q6z/looking_to_record_a_lan_party_of_myself_and_my/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>My question is i have the roxio capture card but cannot find the software. Does anyone know where i can get it please?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "The way that some software like DiskDrill markets is unethical",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
+      "pubDate": "Thu, 27 Nov 2025 05:46:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sorry if this is a bit of a rant, but I really have to say this somewhere, and I think it also applies to much more than just this specific program. I had deleted a bunch of photos that hold great importance to me on a flash drive at a time when I had much less regard for their importance. I had the idea to use data recovery software, since I didn&#39;t believe I overwrote the data at any point. Nothing I had tried was working until I found Disk Drill, and after scanning for something like 15 minutes, I was finally able to see photos I hadn&#39;t seen in years. I was nearly to the point of tears. After looking through them on the program and selecting the ones I wanted to recover, I clicked the button to recover and was hit by this pop-up that said that I couldn&#39;t recover the images that I literally saw right on my screen unless I upgraded to the pro plan, which I can&#39;t afford. They could&#39;ve put the paywall at download or at least made it clear you couldn&#39;t do much of anything unless you got the pro plan, but instead they decided to dangle the recovered files in my face before telling me I couldn&#39;t have them unless I paid. At this point, it&#39;s basically glorified ransomware for files I accidentally deleted. It&#39;s one thing to have a paid file recovery program, but a whole other thing for one to act free (their website calls it a free app) and then make you pay when it&#39;s already loaded the files that you need to recover (it showed the thumbnails of the deleted files). Worst part is that Disk Drill isn&#39;t the only program doing this, this seems to be a trend.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -109,6 +136,15 @@
       "pubDate": "Thu, 27 Nov 2025 11:57:02 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p80fvm/is_there_a_way_to_do_pair_with_few_bluetooth/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>As in the tittle I wonder is there a way to pair few Bluetooth speakers to make some kind of surround set. I have three cheap Bluetooth soundbars (one is different brand) and two basic wireless speakers. Best I managed to do in windows was to connect two soundbars at once and couldn’t even make stereo with those. Is there any program that can make it possible or maybe some cheap hardware that do such things. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "The software industry's dirty little secret: You're probably overpaying for everything",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/",
+      "pubDate": "Thu, 27 Nov 2025 20:12:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8bvtk/the_software_industrys_dirty_little_secret_youre/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in IT, and something&#39;s been bothering me for a while now. I was helping a friend set up his new PC last weekend, and he casually mentioned he just dropped $60 on a Windows key from the Microsoft Store. Then he goes to Adobe&#39;s website and drops like $55 on a subscription Then another $40 on some productivity software. Then we started talking about the games he wanted to buy, and I realized... most people have absolutely no idea they&#39;re being massively overcharged for software.</p>\n\n<p>My friend is a smart guy. He&#39;s not careless with money. But he&#39;s been conditioned to believe that whatever price Steam or Adobe or Microsoft shows him is just &quot;the price.&quot; Like there&#39;s no alternative. No other option. You want the software? You pay what they tell you to pay. I tried explaining to him that you can get the same exact keys and licenses for way less if you just... look around. He didn&#39;t believe me at first. Thought I was talking about some shady grey-market stuff.</p>\n\n<p>Then I told him he can find same software/games across different authorized stores. The games he just bought for $70 each on Steam? Listed for $28-35 from legitimate retailers. Same exact keys. Same exact licenses. Just different stores with better regional pricing or bulk deals.</p>\n\n<p>The reality nobody talks about:</p>\n\n<ul>\n<li>Game keys: Steam/Epic prices vs authorized key sellers can differ by 40-70%</li>\n<li>Software licenses: Windows, Adobe, Office-all available way cheaper from legit resellers</li>\n<li>Subscriptions: Regional pricing differences are absolutely wild</li>\n<li>Everything else: If it&#39;s software, there&#39;s probably a better deal somewhere</li>\n</ul>\n\n<p>And this isn&#39;t sketchy stuff. These are authorized sellers. Legal keys. Everything above board. It&#39;s just that most people don&#39;t even know to look because we&#39;ve been trained to think there&#39;s only one &quot;official&quot; price. So... How many of you actually compare software prices before buying? Or do most of us just go straight to Steam/Adobe/Microsoft and pay whatever they ask because it&#39;s &quot;easier&quot;?</p>\n\n<p>I feel like this should be common knowledge, but apparently it&#39;s not. What am I missing here?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ilj7/problem_with_videos_in_opera_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>HI, just joined this groupchat, because i think i could find a solution here. I will put an image so you can understand better. In every youtube video (ONLY IN OPERA) browser i have this purple line which is glued to my crosshair, and wherever i put my crosshair, the line goes with it.</p>\n\n<p><a href=\"/preview/pre/kf8qf9c4wn3g1.png?width=1886&amp;format=png&amp;auto=webp&amp;s=6a506e12674e9cd075b06793cacbdeedfca31fee\">/preview/pre/kf8qf9c4wn3g1.png?width=1886&amp;format=png&amp;auto=webp&amp;s=6a506e12674e9cd075b06793cacbdeedfca31fee</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What is the best way to encrypt and compress many files?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n\n<p>UPDATE: Thanks, everybody. Using 7-Zip and clicking &quot;Encrypt file names&quot; worked like a charm. That is all I needed!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Keylogger for Android 19.1",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7uom9/keylogger_for_android_191/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7uom9/keylogger_for_android_191/",
-      "pubDate": "Thu, 27 Nov 2025 06:04:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7uom9/keylogger_for_android_191/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m beginning to suspect my phone is being used by roommates when I’m not aware. Are there any free or cheap keyloggers available to keep track? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Software that can convert JPG to PNG and resize PNG files",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/",
-      "pubDate": "Wed, 26 Nov 2025 13:40:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7803v/software_that_can_convert_jpg_to_png_and_resize/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved. Thank you, everyone.<br/>\nI usually use this online tool:<br/>\nConvert JPG to PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png\">https://www.iloveimg.com/ja/jpg-to-image/jpg-to-png</a><br/>\nResize PNG<br/>\n<a href=\"https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage\">https://www.iloveimg.com/ja/resize-image/resize-png#resize-options,percentage</a><br/>\nThis site slows down significantly as more images are added.<br/>\nIf possible, I&#39;d prefer to do this offline.<br/>\nIt would be great if there were a feature like easily reducing the size by 75%, 50%, or 25%.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Geek Uninstaller 1.5.3.170 is out!",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/",
-      "pubDate": "Wed, 26 Nov 2025 02:18:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p6vrl7/geek_uninstaller_153170_is_out/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 2 years since the last update, so I was surprised to see this pop up today. I&#39;ve always loved using this tiny portable uninstaller when I&#39;m experimenting with new software.</p>\n\n<p><strong>Changelog for 1.5.3.170:</strong></p>\n\n<ul>\n<li>Safer traces detection algorithm</li>\n<li>Improved icons detection</li>\n</ul>\n\n<p><strong>Homepage:</strong><br/>\n<a href=\"https://geekuninstaller.com/\">https://geekuninstaller.com/</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-27T23:32:54.443Z"
+  "lastFetched": "2025-11-28T03:38:26.512Z"
 }
