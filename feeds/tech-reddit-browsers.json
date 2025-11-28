@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "background services",
-      "link": "/img/nxcb418z414g1.png",
-      "guid": "/img/nxcb418z414g1.png",
-      "pubDate": "Fri, 28 Nov 2025 17:06:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p904t8/background_services/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I no longer use Brave, but I want to keep it installed. How can I prevent these services from running?</p>\n\n<p>I already tried removing them from the task scheduler, but it didn&#39;t work.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Chrome eats my RAM, recommend me another browser",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
       "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "background services",
+      "link": "/img/nxcb418z414g1.png",
+      "guid": "/img/nxcb418z414g1.png",
+      "pubDate": "Fri, 28 Nov 2025 17:06:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p904t8/background_services/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I no longer use Brave, but I want to keep it installed. How can I prevent these services from running?</p>\n\n<p>I already tried removing them from the task scheduler, but it didn&#39;t work.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -58,21 +58,21 @@
       "thumbnail": null
     },
     {
-      "title": "browsers with these requirements",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/",
-      "pubDate": "Fri, 28 Nov 2025 05:46:07 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>For some time now, I have been needing more features that I consider necessary for my daily life. I use Brave, but for years the community has been asking for certain features, but apparently they don&#39;t care, so I need to change browsers.</p>\n\n<p>I only ask for these requirements:</p>\n\n<ul>\n<li>Optimal use of resources</li>\n<li>Ability to hibernate tabs</li>\n<li>Workspaces</li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Vivaldi and new tabs",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/",
       "pubDate": "Fri, 28 Nov 2025 13:31:24 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently switched to Vivaldi as my main browser and it fits almost perfectly... But one thing makes me go insane. \nEach new tab is opening in a completely new window – it only transforms to a tab after I close it with X. \nI&#39;ve even reinstalled the whole thing, and for a few days it worked fine. Then the problem came back. I&#39;ve never heard anyone mentioning this. \nI work on different workspaces if it&#39;s relevant. The new window problem regards all of them... </p>\n\n<p>Could anyone share a fix or explain what is the source of the problem. It borderline makes me want to swap browsers completely. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "browsers with these requirements",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/",
+      "pubDate": "Fri, 28 Nov 2025 05:46:07 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>For some time now, I have been needing more features that I consider necessary for my daily life. I use Brave, but for years the community has been asking for certain features, but apparently they don&#39;t care, so I need to change browsers.</p>\n\n<p>I only ask for these requirements:</p>\n\n<ul>\n<li>Optimal use of resources</li>\n<li>Ability to hibernate tabs</li>\n<li>Workspaces</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -112,6 +112,15 @@
       "thumbnail": null
     },
     {
+      "title": "The perfect browser doesn't exist for my case",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
+      "pubDate": "Thu, 27 Nov 2025 20:30:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It irritates me not to find the perfect browser. It seems no one wants to do it. Many come close, in fact, ARC would be the closest to a perfect browser, but it&#39;s not perfect.</p>\n\n<p>I&#39;m looking for a browser that is like ARC, exactly like ARC, but with the possibility of opening web panels, as Vivaldi or Edge have.</p>\n\n<p>Edge or Vivaldi, or even Brave (although it doesn&#39;t have web panels yet, its sidebar is &quot;prepared&quot; for it) lack features that ARC has, such as profile management in the same window or a good design for vertical tabs.</p>\n\n<p>So there&#39;s no way to find the perfect browser, which for me would be ARC with web panels and the ability to open extensions in the side panel like Claude.</p>\n\n<p>In any case, this is just a venting post. For now, I&#39;ll stick with Brave, which lacks a lot, but at least has almost everything I&#39;m looking for.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "SnapText - Free Text Expander: Shortcuts, Snippets &amp; Templates for Productivity",
       "link": "https://chromewebstore.google.com/detail/snaptext-lightning-fast-t/efhoenaaemdphicpkiocfigdopekcgfc",
       "guid": "https://chromewebstore.google.com/detail/snaptext-lightning-fast-t/efhoenaaemdphicpkiocfigdopekcgfc",
@@ -130,12 +139,12 @@
       "thumbnail": null
     },
     {
-      "title": "The perfect browser doesn't exist for my case",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
-      "pubDate": "Thu, 27 Nov 2025 20:30:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It irritates me not to find the perfect browser. It seems no one wants to do it. Many come close, in fact, ARC would be the closest to a perfect browser, but it&#39;s not perfect.</p>\n\n<p>I&#39;m looking for a browser that is like ARC, exactly like ARC, but with the possibility of opening web panels, as Vivaldi or Edge have.</p>\n\n<p>Edge or Vivaldi, or even Brave (although it doesn&#39;t have web panels yet, its sidebar is &quot;prepared&quot; for it) lack features that ARC has, such as profile management in the same window or a good design for vertical tabs.</p>\n\n<p>So there&#39;s no way to find the perfect browser, which for me would be ARC with web panels and the ability to open extensions in the side panel like Claude.</p>\n\n<p>In any case, this is just a venting post. For now, I&#39;ll stick with Brave, which lacks a lot, but at least has almost everything I&#39;m looking for.</p>\n</div><!-- SC_ON -->",
+      "title": "Private Mobile browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8e3an/private_mobile_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8e3an/private_mobile_browser/",
+      "pubDate": "Thu, 27 Nov 2025 21:54:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8e3an/private_mobile_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>What is a good PRIVATE browser for android.I don&#39;t want to hear Brave or Tor (Tor is too slow it&#39;s good but slow) something good,working and private.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -145,15 +154,6 @@
       "pubDate": "Fri, 28 Nov 2025 03:51:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8l1zd/waterfox_and_user_javascript/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to install Waterfox <a href=\"http://6.6.5.1\">6.6.5.1</a> alongside Firefox 145.0.2 and use them for different purposes, but the user JavaScript (*.us.js) loader that works in Firefox doesn’t function at all in Waterfox.</p>\n\n<p><a href=\"https://github.com/xiaoxiaoflood/firefox-scripts\">https://github.com/xiaoxiaoflood/firefox-scripts</a></p>\n\n<p><a href=\"https://github.com/alice0775/userChrome.js\">https://github.com/alice0775/userChrome.js</a></p>\n\n<p>The icon for managing user scripts (rebuild_userChrome.uc.js) also doesn’t appear.<br/>\nI’ve checked the file locations repeatedly, and even copied the contents of the chrome folder that works in Firefox, but it was useless.</p>\n\n<p>toolkit.legacyUserProfileCustomizations.stylesheets is set to TRUE, but it’s grayed out and I can’t change it.<br/>\nIs there anyone who’s been able to use the custom scripts mentioned above in Waterfox?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Private Mobile browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8e3an/private_mobile_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8e3an/private_mobile_browser/",
-      "pubDate": "Thu, 27 Nov 2025 21:54:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8e3an/private_mobile_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>What is a good PRIVATE browser for android.I don&#39;t want to hear Brave or Tor (Tor is too slow it&#39;s good but slow) something good,working and private.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T22:37:44.949Z"
+  "lastFetched": "2025-11-28T23:32:10.313Z"
 }
