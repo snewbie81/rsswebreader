@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "I have 21k stars on GitHub",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p8kxx9/i_have_21k_stars_on_github/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p8kxx9/i_have_21k_stars_on_github/",
+      "pubDate": "Fri, 28 Nov 2025 03:45:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p8kxx9/i_have_21k_stars_on_github/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an open source project with over 21k stars on gh, ask me any question</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Geliştirmeye başladığım minecraft başlatıcı ProjT Launcher",
       "link": "https://redlib.perennialte.ch//r/TurkDev/comments/1p7zlb0/geliştirmeye_başladığım_minecraft_başlatıcı_projt/",
       "guid": "https://redlib.perennialte.ch//r/TurkDev/comments/1p7zlb0/geliştirmeye_başladığım_minecraft_başlatıcı_projt/",
@@ -207,7 +216,7 @@
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/",
       "pubDate": "Sun, 16 Nov 2025 09:57:18 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> ����,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> – Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> 👋,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> – Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So, I tried signing up with a new number for my Telegram account. The version I downloaded is from F-Droid, called Forkgram, because I needed it for downloading. When I opened it, it asked me to sign up for a Telegram fee and requested my credit card information including my CVV, credit card number, expiry date, name, state, postal code, etc. I was like what the hell. I thought Telegram was supposed to be private and here it is asking me for all this stuff.</p>\n\n<p>I’d like to know if this has happened to any of you. Did you go through with it or is this most likely a scam? Did I download a fake Telegram app? This one is from Forkgram, by the way, not the official Telegram app. I downloaded it from F-Droid and I have a feeling I downloaded the wrong thing or the developers of this fork might be doing phishing. I’m not sure.</p>\n\n<p>I tried signing up on the official Telegram app and it doesn’t ask for anything like this.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "UDU: Extremely Fast GNU du Alternative",
-      "link": "https://github.com/makestatic/udu",
-      "guid": "https://github.com/makestatic/udu",
-      "pubDate": "Sat, 15 Nov 2025 02:37:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oxg6zv/udu_extremely_fast_gnu_du_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/makestatic/udu\">UDU</a> is a cross-platform, multithreaded tool for measuring file and directory sizes that implements a parallel traversal engine using <a href=\"https://www.openmp.org/\">OpenMP</a> to recursively scan directories extremely fast.</p>\n\n<h2>Benchmarks</h2>\n\n<p>Tested on the <code>/usr</code> directory using <a href=\"https://github.com/sharkdp/hyperfine\">hyperfine</a>:</p>\n\n<p><code>\nhyperfine --warmup 1 -r 3 &#39;du -h -d 0 /usr/&#39; &#39;./zig/zig-out/bin/udu /usr/&#39; &#39;./build/udu /usr/&#39;\n</code></p>\n\n<table><thead>\n<tr>\n<th>Program</th>\n<th>Mean Time</th>\n<th>Speedup</th>\n</tr>\n</thead><tbody>\n<tr>\n<td>GNU du (9.0)</td>\n<td>47.018 s</td>\n<td>baseline</td>\n</tr>\n<tr>\n<td>UDU (Zig)</td>\n<td>18.488 s</td>\n<td>2.54× (~61% faster)</td>\n</tr>\n<tr>\n<td>UDU (C)</td>\n<td>12.036 s</td>\n<td>3.91× (~74% faster)</td>\n</tr>\n</tbody></table>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-28T03:38:06.449Z"
+  "lastFetched": "2025-11-28T04:45:40.045Z"
 }
