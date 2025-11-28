@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Help with buckwheat",
+      "link": "/img/w3jl4eo89y3g1.png",
+      "guid": "/img/w3jl4eo89y3g1.png",
+      "pubDate": "Fri, 28 Nov 2025 07:23:58 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8ork4/help_with_buckwheat/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>In the buckwheat app, it shows the amount that is left for the day, i.e., it takes the set budget and distributes it even for the number of days. But is there a setting that I can toggle to get the complete budget of the month instead of just for the day? I&#39;m attaching the photo of what I mean</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Is IzzyOnDroid Down ? Its just showing me too long too respond page for few days",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7xaxl/is_izzyondroid_down_its_just_showing_me_too_long/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7xaxl/is_izzyondroid_down_its_just_showing_me_too_long/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p4puf2/taison_v110_release_a_manga_reader/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Taison</strong> - A manga reader with quality of life upgrades that focus on control and oversight.</p>\n\n<p>New Release: <strong>Taison</strong> <em>v1.1.0</em></p>\n\n<blockquote>\n<p>Available on GitHub and F-droid: <a href=\"https://github.com/Gent8/Taison/releases/tag/v1.1.0\">https://github.com/Gent8/Taison/releases/tag/v1.1.0</a></p>\n</blockquote>\n\n<h1>Added</h1>\n\n<ul>\n<li>History category navigation (Settings › Library): syncs categories between Library &amp; History</li>\n<li>Toolbar “eye” toggle in History to include/hide non-library entries</li>\n<li>Scoped history deletion: delete only current category, non-library items, or everything</li>\n</ul>\n\n<h1>Changed</h1>\n\n<ul>\n<li>Replaced “show category tabs at top” with new Category navigation type (tabs vs dropdown)</li>\n<li>Renamed “active category” to Scope history to respective category for clarity</li>\n</ul>\n\n<h1>Improvements</h1>\n\n<ul>\n<li>History filter logic keeps uncategorized favorites separate from non-library items</li>\n<li>Filtering respects the include non-library entries toggle</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Any FOSS android app to manage notifications?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p50vcm/any_foss_android_app_to_manage_notifications/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p50vcm/any_foss_android_app_to_manage_notifications/",
-      "pubDate": "Sun, 23 Nov 2025 23:06:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p50vcm/any_foss_android_app_to_manage_notifications/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just got so many notifications and was wondering if there was a good open source app to deal with it</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-28T06:59:16.502Z"
+  "lastFetched": "2025-11-28T07:34:41.706Z"
 }

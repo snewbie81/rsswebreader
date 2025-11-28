@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "'Hey guys I found this Software named pluely It's basically like cluely but it's cheaper and it open source and has the added functionality of choosing your own models It's crazyy value for money go check it out",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p8nof0/hey_guys_i_found_this_software_named_pluely_its/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p8nof0/hey_guys_i_found_this_software_named_pluely_its/",
+      "pubDate": "Fri, 28 Nov 2025 06:18:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p8nof0/hey_guys_i_found_this_software_named_pluely_its/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"http://pluely.com\">pluely.com</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I have 21k stars on GitHub",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1p8kxx9/i_have_21k_stars_on_github/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1p8kxx9/i_have_21k_stars_on_github/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oyhw2f/i_created_wabe_an_opensource_firebase_alternative/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/FOSS\">r/FOSS</a> 👋,</p>\n\n<p>I want to share <strong>the Palixir OSS ecosystem</strong>, a set of open-source projects I’ve been building to provide developers with <strong>ready-to-use, self-hostable backends and full-stack tools</strong>:</p>\n\n<p><strong>Projects:</strong></p>\n\n<ul>\n<li><strong>Wabe</strong> – Fully open-source Firebase alternative in TypeScript</li>\n<li><strong>Wobe</strong> – Lightweight full-stack framework designed to pair seamlessly with Wabe</li>\n<li><strong>GraphQL Server</strong> (coming soon) – Type-safe, modular, and plug-and-play</li>\n</ul>\n\n<p><strong>Why it’s relevant for FOSS:</strong><br/>\nMany BaaS solutions are proprietary or difficult to self-host. Wabe and the ecosystem are <strong>100% open-source</strong>, modular, and designed for self-hosting anywhere: Docker, Node, Bun, <a href=\"http://Fly.io\">Fly.io</a>, Raspberry Pi…</p>\n\n<p><strong>Key features:</strong></p>\n\n<ul>\n<li>Auto-generated GraphQL CRUD API from your models</li>\n<li>Authentication &amp; permissions system (email/password, OAuth, OTP)</li>\n<li>Hooks system for custom logic before/after CRUD operations</li>\n<li>Modular adapters for database, email, and storage</li>\n</ul>\n\n<p><strong>Try it out:</strong><br/>\nGitHub: <a href=\"https://github.com/palixir/wabe?utm_source=chatgpt.com\">https://github.com/palixir/wabe</a></p>\n\n<p>NPM: <a href=\"https://www.npmjs.com/package/wabe\">https://www.npmjs.com/package/wabe</a></p>\n\n<p>If you like the project, you can star the repo ⭐</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Is Forkgram asking for credit card Info a scam?",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/",
-      "pubDate": "Sun, 16 Nov 2025 08:50:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oygtwc/is_forkgram_asking_for_credit_card_info_a_scam/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So, I tried signing up with a new number for my Telegram account. The version I downloaded is from F-Droid, called Forkgram, because I needed it for downloading. When I opened it, it asked me to sign up for a Telegram fee and requested my credit card information including my CVV, credit card number, expiry date, name, state, postal code, etc. I was like what the hell. I thought Telegram was supposed to be private and here it is asking me for all this stuff.</p>\n\n<p>I’d like to know if this has happened to any of you. Did you go through with it or is this most likely a scam? Did I download a fake Telegram app? This one is from Forkgram, by the way, not the official Telegram app. I downloaded it from F-Droid and I have a feeling I downloaded the wrong thing or the developers of this fork might be doing phishing. I’m not sure.</p>\n\n<p>I tried signing up on the official Telegram app and it doesn’t ask for anything like this.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-28T05:42:20.613Z"
+  "lastFetched": "2025-11-28T07:34:39.215Z"
 }

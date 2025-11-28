@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "what are the best proton deals for black friday and cyber monday?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8hdt7/what_are_the_best_proton_deals_for_black_friday/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8hdt7/what_are_the_best_proton_deals_for_black_friday/",
+      "pubDate": "Fri, 28 Nov 2025 00:37:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8hdt7/what_are_the_best_proton_deals_for_black_friday/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>hey everyone, i&#39;m looking to switch my vpn and email setup to something more private and i&#39;ve been hearing good things about proton. with black friday and cyber monday coming up, i&#39;m hoping to catch some deals on their services.</p>\n\n<p>does anyone here have experience with proton&#39;s seasonal promotions? i&#39;m mainly interested in their vpn and mail products but i&#39;m curious if they offer discounts on their bundle plans or longer subscription periods during these shopping events.</p>\n\n<p>if you&#39;ve grabbed any proton deals in the past, what were you able to score and did you think it was worth it? any tips on whether to wait for black friday specific deals or if cyber monday usually has better offers? also wondering if their pricing is competitive compared to other providers when you get the holiday discounts.</p>\n\n<p>would appreciate any insights from people who have used their services or picked up deals before. trying to make an informed decision before the sales hit.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Purchase-software.com",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8h90w/purchasesoftwarecom/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8h90w/purchasesoftwarecom/",
@@ -73,6 +82,15 @@
       "pubDate": "Thu, 27 Nov 2025 21:50:09 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8e09n/possible_scam/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, Reddit Community! I’m new here, and I have a question about something that happened recently. I’ve been asked to go to a job interview, and they’re requesting that I create a profile on TransUnion, pay a $30 fee to access the details of the interview because they required a Credit-Based Identity Verification (CBIV) and said &quot;This is the <strong>standard method used in the U.S.</strong> for remote roles involving confidential access — including finance, insurance, data management, and compliance-sensitive positions.</p>\n\n<p>Because TransUnion verifies identity through their credit-report system, you will see <strong>credit score and credit report information</strong>. This is <strong>normal</strong> and part of the identity-matching process.&quot;, and then provide some personal information. I’m wondering if it’s really necessary to pay that fee and share that info, and if it’s a common practice, or if it’s potentially a scam.</p>\n\n<p>I&#39;m Sorftware Engineer from LATAM (b1/b2 english level /self learning), i don’t really know how the legal processes work to be able to work with a company in the USA. I only graduated from university a couple of years ago. but I&#39;m looking for a remote job opportunity. (I tried LinkedIn, but it feels like there isn’t a single soul over there.)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Anyone know tools that are simple, friendly, and integrate nicely with Teams/Slack?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8acwo/anyone_know_tools_that_are_simple_friendly_and/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8acwo/anyone_know_tools_that_are_simple_friendly_and/",
+      "pubDate": "Thu, 27 Nov 2025 19:07:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8acwo/anyone_know_tools_that_are_simple_friendly_and/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We’re growing way faster than expected and I’m running HR solo. The execs want a proper performance review system, but I really want to avoid rolling out something that feels heavy or formal.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7oa92/a_tool_that_calculates_the_most_efficient_holiday/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>This is my first time sharing here, so I’ll briefly explain what I built, the problem it solves, and why people started using it.</p>\n\n<p>I created Offday.app to solve a surprisingly common issue:\nfiguring out how to combine public holidays, weekends, and personal vacation days to get the longest possible break with the fewest days off.</p>\n\n<p>For example:\n1 day off → 4-day weekend\n2 days off → 9-day break\nBut identifying these patterns manually takes time and varies heavily by country.</p>\n\n<p>What the app does</p>\n\n<p>Offday analyzes a country’s official holidays and automatically calculates:\n    • Longest break length\n    • Required number of off days\n    • Efficiency score\n    • Holiday chains with gaps\n    • Best combinations for the next months</p>\n\n<p>Essentially: It finds the “optimal vacation opportunities” for any supported country.</p>\n\n<p>Why people started using it</p>\n\n<p>I built it for myself, but in just a few days the numbers grew faster than expected:\n    • Users from 55 countries\n    • More than 1,100 plans created\n    • Over 3,000 users, fully organic\n    • No ads or promotion yet</p>\n\n<p>This made it clear that many people face the same planning problem.</p>\n\n<p>Key features</p>\n\n<p>Here’s what’s currently implemented:</p>\n\n<p>• Smart suggestion engine\nRedesigned logic that removes noise and surfaces only meaningful holiday combinations.</p>\n\n<p>• Multi-country support (JSON-driven)\nAdding or updating holiday calendars takes seconds.</p>\n\n<p>• Automatic email reports\nUsers can receive the best opportunities for the next 60 days, delivered every two weeks.</p>\n\n<p>• Embeddable widget\nBlogs, travel websites, and internal portals can embed both the form and the results.</p>\n\n<p>• Performance-focused architecture\nCaching, fast queries, lightweight UI.</p>\n\n<p>Why I’m sharing</p>\n\n<p>It’s still a one-person project, but it’s gaining traction much faster than I expected.\nI’m sharing it here to gather feedback from people who build and work with software professionally — especially around UX, architecture, and feature direction.</p>\n\n<p>If you want to take a look:\n<a href=\"https://offday.app\">https://offday.app</a></p>\n\n<p>Happy to hear thoughts, suggestions, or criticism</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "We just released a free eBook on real-world scalability; hope it helps someone here",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7xm15/we_just_released_a_free_ebook_on_realworld/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7xm15/we_just_released_a_free_ebook_on_realworld/",
-      "pubDate": "Thu, 27 Nov 2025 09:01:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7xm15/we_just_released_a_free_ebook_on_realworld/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p>\n\n<p>Over the past few years I’ve been working with teams building AI/ML, IoT, and cloud-native systems across Europe.</p>\n\n<p>We kept running into one problem after another:<br/>\n<strong>people overcomplicate scalability,</strong> especially early in a project.</p>\n\n<p>So we wrote a short, practical eBook called <strong>“Stupid Simple Scalability”</strong> and decided to make it completely free.<br/>\nNo signup, no email, no marketing funnel.</p>\n\n<p>It covers things like</p>\n\n<ul>\n<li>scaling patterns that don’t create technical debt</li>\n<li>real examples from production systems</li>\n<li>how to think about performance before you even touch Kubernetes</li>\n<li>mistakes we made in early projects (and how we fixed them)</li>\n</ul>\n\n<p>If anyone is interested, you can grab it here:<br/>\n👉 <a href=\"https://humindz.tech/\">https://humindz.tech/</a> -&gt; download button</p>\n\n<p>I’d love feedback if you check it out, especially from people who’ve built high-load or distributed systems.</p>\n\n<p>Hope it’s useful to someone here!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I made a free tool to translate anything on Windows (Games, Apps, etc.) instantly using Gemini",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/",
-      "pubDate": "Wed, 26 Nov 2025 20:39:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ityb/i_made_a_free_tool_to_translate_anything_on/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I wanted to share a free, open-source tool I built called <strong>Transnap</strong>, a lightweight Windows utility designed to solve a specific annoyance: translating text inside applications or games that don&#39;t let you copy-paste.</p>\n\n<p>I built this because I play a lot of games with heavy dialogue (often in languages I&#39;m still learning), and I hated having to pull out my phone for Google Lens or Alt-Tab out to type text into a browser.</p>\n\n<p><strong>What it does:</strong> </p>\n\n<p>It works like the Windows Snipping Tool. You press a hotkey (<code>Win+Shift+A</code>), draw a box around any text on your screen, and it uses Google&#39;s Gemini AI to OCR and translate it instantly in a floating overlay.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li><strong>Universal:</strong> Works on anything visible on your screen (browsers, PDFs, UI elements).</li>\n<li><strong>Game Mode:</strong> Has a specific toggle to force it to work over exclusive full-screen games.</li>\n<li><strong>AI Powered:</strong> Since it uses Gemini, the translations are context-aware and much better than standard literal translations.</li>\n<li><strong>Portable:</strong> It’s a single <code>.exe</code>  with no installation required.</li>\n<li><strong>Open Source:</strong> Written in Python.</li>\n</ul>\n\n<p><strong>Cost:</strong> The app itself is completely free and open-source. It requires your own Google Gemini API key (which is currently free for personal use).</p>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub &amp; Download:</strong> <a href=\"https://github.com/Misaghlb/Transnap/releases/latest\">https://github.com/Misaghlb/Transnap/releases/latest</a></li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T07:00:04.573Z"
+  "lastFetched": "2025-11-28T07:35:00.318Z"
 }

@@ -193,21 +193,21 @@
       "thumbnail": null
     },
     {
-      "title": "firefox should use chromium",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/",
-      "pubDate": "Thu, 27 Nov 2025 22:17:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>and abandon its gecko engine. so it can be just as fast as any chromium browsers. and have no weird problems with websites.</p>\n\n<p>also make ublock origin mv2 an integrated browser adblock like brave shields. not an extension. that way firefox would blow any chromium browser out of proportion.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Which Would You Recommend: Brave or Firefox?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/",
       "pubDate": "Wed, 26 Nov 2025 17:14:58 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! I&#39;m a master student, and I&#39;m looking for a new browser.</p>\n\n<p>In the past, I used Chrome, then went to Zen, but due to Zen&#39;s terrible performance, I went back to Chrome. However, Chrome seems more and more sluggish in the past few months: some websites just freezes, the tabs sometimes take forever to load and last week, Chrome just reset itself: I lost all my tabs, all my logins, etc. </p>\n\n<p>(I don&#39;t think the problem is my PC, since I have an Intel i7, 512SSD and 32GB of RAM.)</p>\n\n<p>Searching for an alternative or better option to Chrome/Zen, I got to Brave or Firefox. I took some look in Vivaldi too, but the interface it&#39;s sooooo ugly. I know that Firefox has some issues with render some websites (also that DRM issue) and that Brave has all that crypto-stuff, but which would you recommend: Brave or Firefox?</p>\n\n<p>(Ps.: I don&#39;t think I care much about privacy since all my work is made inside GSuite, so Google already took all the data they can from me, lol)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "firefox should use chromium",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/",
+      "pubDate": "Thu, 27 Nov 2025 22:17:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>and abandon its gecko engine. so it can be just as fast as any chromium browsers. and have no weird problems with websites.</p>\n\n<p>also make ublock origin mv2 an integrated browser adblock like brave shields. not an extension. that way firefox would blow any chromium browser out of proportion.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T07:00:01.899Z"
+  "lastFetched": "2025-11-28T07:34:56.535Z"
 }
