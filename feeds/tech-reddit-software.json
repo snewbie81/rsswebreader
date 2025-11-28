@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Anyone into jigsaw puzzles?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/",
-      "pubDate": "Fri, 28 Nov 2025 17:40:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Not sure if this is the right place to post this, but I recently started getting into puzzles as a 30 year old and had no idea how addicting they could be. I feel like it scratches that same part of my brain that software development does.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "So I finally uninstalled CCleaner",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/",
       "pubDate": "Fri, 28 Nov 2025 11:57:04 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>That crap became awful since the last forced updated (version 7), it messed with my computer, now I still have all my music folder charging tags for long seconds each time I open one,...</p>\n\n<p>Questions: </p>\n\n<p>-Is Windows Disk Cleanup enough to replace CCleaner I was using for decades or must I install an alternative to CCleaner ? </p>\n\n<p>-How can I fix my music folders freezing when I open them ? Here&#39;s what happens: I open a music folder, and the tags for each file slowly disappear one by one, then reappear, and only after that am I able to open the files</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Anyone into jigsaw puzzles?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/",
+      "pubDate": "Fri, 28 Nov 2025 17:40:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Not sure if this is the right place to post this, but I recently started getting into puzzles as a 30 year old and had no idea how addicting they could be. I feel like it scratches that same part of my brain that software development does.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T18:55:13.231Z"
+  "lastFetched": "2025-11-28T19:27:40.826Z"
 }
