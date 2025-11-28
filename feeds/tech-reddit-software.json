@@ -103,15 +103,6 @@
       "thumbnail": null
     },
     {
-      "title": "I built a GUI for hashcat with hashes.com escrow service integration.",
-      "link": "/gallery/1p8gc3d",
-      "guid": "/gallery/1p8gc3d",
-      "pubDate": "Thu, 27 Nov 2025 23:44:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8gc3d/i_built_a_gui_for_hashcat_with_hashescom_escrow/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s an hashcat GUI with pack analysis features and hashes.com escrow service integration for easy recovered hash uploads.</p>\n\n<p>GitHub: <a href=\"https://github.com/jjsvs/Hashcat-Reactor.git\">https://github.com/jjsvs/Hashcat-Reactor.git</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "what are the best proton deals for black friday and cyber monday?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8hdt7/what_are_the_best_proton_deals_for_black_friday/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8hdt7/what_are_the_best_proton_deals_for_black_friday/",
@@ -127,6 +118,15 @@
       "pubDate": "Fri, 28 Nov 2025 00:30:50 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8h90w/purchasesoftwarecom/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Bonjour à tous,</p>\n\n<p>Je suis très intéressé par un logiciel sur ce site, le logiciel est a un prix imbattable.</p>\n\n<p>Quelqu&#39;un connait ? Possible d&#39;avoir un avis ?</p>\n\n<p>Merci.</p>\n\n<pre><code>Hello everyone,\nI&#39;m very interested in a piece of software on this site; the price is unbeatable.\n\nDoes anyone know it? Could you give me your opinion?\n\nThanks\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a GUI for hashcat with hashes.com escrow service integration.",
+      "link": "/gallery/1p8gc3d",
+      "guid": "/gallery/1p8gc3d",
+      "pubDate": "Thu, 27 Nov 2025 23:44:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8gc3d/i_built_a_gui_for_hashcat_with_hashescom_escrow/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s an hashcat GUI with pack analysis features and hashes.com escrow service integration for easy recovered hash uploads.</p>\n\n<p>GitHub: <a href=\"https://github.com/jjsvs/Hashcat-Reactor.git\">https://github.com/jjsvs/Hashcat-Reactor.git</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T13:41:20.021Z"
+  "lastFetched": "2025-11-28T14:42:16.686Z"
 }
