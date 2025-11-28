@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Any cool AI tools you’ve discovered recently?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I built a GUI for hashcat with hashes.com escrow service integration.",
       "link": "/gallery/1p8gc3d",
       "guid": "/gallery/1p8gc3d",
@@ -22,21 +31,21 @@
       "thumbnail": null
     },
     {
+      "title": "getscreen",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8msu4/getscreen/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8msu4/getscreen/",
+      "pubDate": "Fri, 28 Nov 2025 05:27:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8msu4/getscreen/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>getscreen is a n excellent remote device access app which is very helpful</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Translation",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/",
       "pubDate": "Thu, 27 Nov 2025 20:36:13 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello! New here um Is there like a website or certain software that I can download that does auto translation and overlay the text and recognizes speech for my pc for playing a non English game? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Any cool AI tools you’ve discovered recently?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ilj7/problem_with_videos_in_opera_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>HI, just joined this groupchat, because i think i could find a solution here. I will put an image so you can understand better. In every youtube video (ONLY IN OPERA) browser i have this purple line which is glued to my crosshair, and wherever i put my crosshair, the line goes with it.</p>\n\n<p><a href=\"/preview/pre/kf8qf9c4wn3g1.png?width=1886&amp;format=png&amp;auto=webp&amp;s=6a506e12674e9cd075b06793cacbdeedfca31fee\">/preview/pre/kf8qf9c4wn3g1.png?width=1886&amp;format=png&amp;auto=webp&amp;s=6a506e12674e9cd075b06793cacbdeedfca31fee</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What is the best way to encrypt and compress many files?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/",
-      "pubDate": "Wed, 26 Nov 2025 14:26:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7926z/what_is_the_best_way_to_encrypt_and_compress_many/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a good program that I can use to encrypt many files at once and also make it not possible to see what&#39;s inside once you clicked on the encrypted compressed file. What is the best way to do this? \nPreferably I want it to be open source, free and easy to use. I used 7-Zip but you can still see what&#39;s inside a locked compressed file. </p>\n\n<p>UPDATE: Thanks, everybody. Using 7-Zip and clicking &quot;Encrypt file names&quot; worked like a charm. That is all I needed!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T04:45:59.867Z"
+  "lastFetched": "2025-11-28T05:42:41.444Z"
 }
