@@ -139,21 +139,21 @@
       "thumbnail": null
     },
     {
-      "title": "If you're neither a hyper or hater for AI, I would like your opinion on the state of it",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
-      "pubDate": "Thu, 27 Nov 2025 04:52:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>tl;dr: I&#39;d like to read opinions from people who neither hate or hype AI and its current state, what you expect for the near, mid future</p>\n\n<p>I am a software engineer myself, although now more into managing, mentoring. I was a hater first because with my limited understanding I felt its being overhyped, so I looked into it, installed and trained some local models, spent some time learning about how they are trained, what is the transformers architecture etc. I have arrived to a point where I have my opinion but I notice massive parties on both sides.</p>\n\n<p>So if you consider yourself neither pro or contra AI, but rather somewhere in between, please tell me what you think about this tech, how you think it can be used, what effects its gonna have, are you using it, etc</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Any AI that can turn my tutorial videos into Markdown docs?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/",
       "pubDate": "Thu, 27 Nov 2025 11:25:40 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve got 40+ video lessons on how to use Azure DevOps, and I’d really like to turn them into written docs.</p>\n\n<p>What I’m looking for is some kind of AI tool that can:</p>\n\n<ul>\n<li>“Watch” each video</li>\n<li>Turn what I’m doing/saying into a clean Markdown file (one per video)</li>\n<li>Bonus points if it can also grab relevant screenshots and drop them into the doc as images</li>\n</ul>\n\n<p>Does anything like this exist? Any tools or AI workflows you’d recommend to make this happen?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "If you're neither a hyper or hater for AI, I would like your opinion on the state of it",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/",
+      "pubDate": "Thu, 27 Nov 2025 04:52:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7td3b/if_youre_neither_a_hyper_or_hater_for_ai_i_would/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>tl;dr: I&#39;d like to read opinions from people who neither hate or hype AI and its current state, what you expect for the near, mid future</p>\n\n<p>I am a software engineer myself, although now more into managing, mentoring. I was a hater first because with my limited understanding I felt its being overhyped, so I looked into it, installed and trained some local models, spent some time learning about how they are trained, what is the transformers architecture etc. I have arrived to a point where I have my opinion but I notice massive parties on both sides.</p>\n\n<p>So if you consider yourself neither pro or contra AI, but rather somewhere in between, please tell me what you think about this tech, how you think it can be used, what effects its gonna have, are you using it, etc</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T10:45:09.813Z"
+  "lastFetched": "2025-11-28T11:31:32.602Z"
 }
