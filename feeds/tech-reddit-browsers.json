@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "This YouTube video summarizes all browsers",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8qm2t/this_youtube_video_summarizes_all_browsers/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8qm2t/this_youtube_video_summarizes_all_browsers/",
+      "pubDate": "Fri, 28 Nov 2025 09:23:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8qm2t/this_youtube_video_summarizes_all_browsers/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=YrxhVA5NVQ4\">https://www.youtube.com/watch?v=YrxhVA5NVQ4</a></p>\n\n<p>Edit: Based on the UI</p>\n\n<p><a href=\"/preview/pre/pizgzrubwy3g1.png?width=1650&amp;format=png&amp;auto=webp&amp;s=8845a8444eca30efc22ea801bf822d7985d7dccf\">/preview/pre/pizgzrubwy3g1.png?width=1650&amp;format=png&amp;auto=webp&amp;s=8845a8444eca30efc22ea801bf822d7985d7dccf</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Looking for a fast and customizable browser",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
@@ -64,6 +73,15 @@
       "pubDate": "Fri, 28 Nov 2025 03:51:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8l1zd/waterfox_and_user_javascript/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to install Waterfox <a href=\"http://6.6.5.1\">6.6.5.1</a> alongside Firefox 145.0.2 and use them for different purposes, but the user JavaScript (*.us.js) loader that works in Firefox doesn’t function at all in Waterfox.</p>\n\n<p><a href=\"https://github.com/xiaoxiaoflood/firefox-scripts\">https://github.com/xiaoxiaoflood/firefox-scripts</a></p>\n\n<p><a href=\"https://github.com/alice0775/userChrome.js\">https://github.com/alice0775/userChrome.js</a></p>\n\n<p>The icon for managing user scripts (rebuild_userChrome.uc.js) also doesn’t appear.<br/>\nI’ve checked the file locations repeatedly, and even copied the contents of the chrome folder that works in Firefox, but it was useless.</p>\n\n<p>toolkit.legacyUserProfileCustomizations.stylesheets is set to TRUE, but it’s grayed out and I can’t change it.<br/>\nIs there anyone who’s been able to use the custom scripts mentioned above in Waterfox?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "why do people still use firefox?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/",
+      "pubDate": "Fri, 28 Nov 2025 09:22:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>it ranks worse on every speed benchmark than any chromium browser. brave has an adblocker,and so does other chromium browsers. </p>\n\n<p>idk why people still support firefox.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! I&#39;m a master student, and I&#39;m looking for a new browser.</p>\n\n<p>In the past, I used Chrome, then went to Zen, but due to Zen&#39;s terrible performance, I went back to Chrome. However, Chrome seems more and more sluggish in the past few months: some websites just freezes, the tabs sometimes take forever to load and last week, Chrome just reset itself: I lost all my tabs, all my logins, etc. </p>\n\n<p>(I don&#39;t think the problem is my PC, since I have an Intel i7, 512SSD and 32GB of RAM.)</p>\n\n<p>Searching for an alternative or better option to Chrome/Zen, I got to Brave or Firefox. I took some look in Vivaldi too, but the interface it&#39;s sooooo ugly. I know that Firefox has some issues with render some websites (also that DRM issue) and that Brave has all that crypto-stuff, but which would you recommend: Brave or Firefox?</p>\n\n<p>(Ps.: I don&#39;t think I care much about privacy since all my work is made inside GSuite, so Google already took all the data they can from me, lol)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "firefox should use chromium",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/",
-      "pubDate": "Thu, 27 Nov 2025 22:17:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ekoy/firefox_should_use_chromium/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>and abandon its gecko engine. so it can be just as fast as any chromium browsers. and have no weird problems with websites.</p>\n\n<p>also make ublock origin mv2 an integrated browser adblock like brave shields. not an extension. that way firefox would blow any chromium browser out of proportion.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Mozilla Firefox or Brave?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7e3zg/mozilla_firefox_or_brave/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7e3zg/mozilla_firefox_or_brave/",
-      "pubDate": "Wed, 26 Nov 2025 17:39:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7e3zg/mozilla_firefox_or_brave/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, everyone. Mozilla Firefox or Brave? Which browser should I choose if I care about privacy, synchronising Windows with Android, and have an old, slow laptop? I am tempted by Firefox because it is different from Chromium, but I am afraid it will be too slow for this laptop. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T08:55:05.755Z"
+  "lastFetched": "2025-11-28T09:40:13.944Z"
 }

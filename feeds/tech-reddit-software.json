@@ -13,12 +13,12 @@
       "thumbnail": null
     },
     {
-      "title": "Splitting large Pdfs,what do you all use?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
-      "pubDate": "Fri, 28 Nov 2025 07:23:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I deal with a lot of big scanned pdfs (100–300 pages), and most of the time I only need one section out of the whole thing. Kdan pdf lets me pull out specific page ranges without messing up the layout or reshuffling pages, which was a problem I kept running into. It’s been good enough for sending just a chapter to a client or trimming things down for platforms with size limits.</p>\n\n<p>Curious how others handle it, do you split by chapters, by size, or just whenever you need a smaller chunk?</p>\n</div><!-- SC_ON -->",
+      "title": "A clean tool that converts any picture into a PDF in seconds",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
+      "pubDate": "Fri, 28 Nov 2025 09:02:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I couldn’t find a fast and clean image-to-PDF converter, so I built one.</p>\n\n<p>no tracking, just pick your pictures and get a PDF instantly.</p>\n\n<p>Link:</p>\n\n<p><a href=\"https://picturetopdf.in\">https://picturetopdf.in</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "Any cool AI tools you’ve discovered recently?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "I bought a coaching material but the language is in english",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
@@ -49,12 +40,30 @@
       "thumbnail": null
     },
     {
+      "title": "Splitting large Pdfs,what do you all use?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
+      "pubDate": "Fri, 28 Nov 2025 07:23:44 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I deal with a lot of big scanned pdfs (100–300 pages), and most of the time I only need one section out of the whole thing. Kdan pdf lets me pull out specific page ranges without messing up the layout or reshuffling pages, which was a problem I kept running into. It’s been good enough for sending just a chapter to a client or trimming things down for platforms with size limits.</p>\n\n<p>Curious how others handle it, do you split by chapters, by size, or just whenever you need a smaller chunk?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Is it too late to switch from software testing after 15 years? What should I do?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/",
       "pubDate": "Fri, 28 Nov 2025 07:20:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have 15 years of experience in QA with a CTC of 40+ LPA. In my last 3 companies, I built automation frameworks from scratch. But in every job, manual testing becomes the top priority. Management wants automation, but they also want quick results, so I never get enough time to actually work on automation or AI-based improvements.</p>\n\n<p>I’m good at manual, backend, and frontend testing, but because of the org structure, I rarely get a chance to work with the automation team or upskill in automation/AI. And we all know — only manual won’t survive for long, especially with AI growing everywhere.</p>\n\n<p>Promotion opportunities are also limited because most companies don’t have a separate QA vertical anymore. And if I look outside, people at my experience level (40–50 LPA range) are struggling to find new QA roles.</p>\n\n<p>So I’m stuck wondering:</p>\n\n<p>What should I do next? Should I switch domains, focus on AI/automation, or something else?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any cool AI tools you’ve discovered recently?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>!!</p>\n\n<p>I was super frustrated that background removers like removebg and photoroom have recurring subscriptions or credits. Because of this, I decided to create <a href=\"https://www.magicdrop.io/\">Magicdrop</a> a fully offline background remover that lets you remove backgrounds from unlimited images.</p>\n\n<p><a href=\"/preview/pre/vpb5585c7n3g1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=14d60f4d7f76e3b746f48b430968d3f264efadd2\">/preview/pre/vpb5585c7n3g1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=14d60f4d7f76e3b746f48b430968d3f264efadd2</a></p>\n\n<p>Features include:</p>\n\n<ul>\n<li>AI background removal</li>\n<li>Custom background</li>\n<li>Custom aspect ratio</li>\n<li>Two removal models (fast for fast processing, base for slower but higher quality processing)</li>\n<li>Batch processing (up to 100 images at once)</li>\n</ul>\n\n<p>You can try it free for seven days here: <a href=\"https://www.magicdrop.io/\">https://www.magicdrop.io/</a></p>\n\n<p>It&#39;s my first time ever launching a product so I would really love any feedback!! You can use my discount code LAUNCH40 to get 40% off your purchase &lt;3</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Offline and Free Background Remover Site (No signups, No hidden fees)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/",
-      "pubDate": "Thu, 27 Nov 2025 00:37:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ofc6/offline_and_free_background_remover_site_no/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, with all the latest SOTA models out there I found it weird that some people are still charging to remove background from an image. so I created an offline and free one, no signup, no hidden fees. You just need to simply upload your picture, execute (it will run locally with your GPU), then it&#39;ll spit out the result.</p>\n\n<p>feel free to give me any feedback, this is a static site and I&#39;m planning on keeping this free forever. I&#39;ll update the site with new models in the future as well</p>\n\n<p>You can visit the site here: <a href=\"https://bgremovefree.com\">https://bgremovefree.com</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T08:55:08.340Z"
+  "lastFetched": "2025-11-28T09:40:16.637Z"
 }
