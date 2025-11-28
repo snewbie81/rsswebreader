@@ -58,21 +58,21 @@
       "thumbnail": null
     },
     {
-      "title": "How Safe Is Shift Browser?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/",
-      "pubDate": "Fri, 28 Nov 2025 03:27:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I just installed shift browser, from the official website <a href=\"http://shift.com\">shift.com</a> </p>\n\n<p>And I have just been wondering if it was malware, or spyware. Mainly because I have seen people getting their into stolen, or having it installed on people&#39;s computer without them doing anything. </p>\n\n<p>So is it safe, is it malware?</p>\n\n<p>P.S. I have had a good experience so far, nothing bad. But very customizable.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Vivaldi and new tabs",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/",
       "pubDate": "Fri, 28 Nov 2025 13:31:24 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently switched to Vivaldi as my main browser and it fits almost perfectly... But one thing makes me go insane. \nEach new tab is opening in a completely new window – it only transforms to a tab after I close it with X. \nI&#39;ve even reinstalled the whole thing, and for a few days it worked fine. Then the problem came back. I&#39;ve never heard anyone mentioning this. \nI work on different workspaces if it&#39;s relevant. The new window problem regards all of them... </p>\n\n<p>Could anyone share a fix or explain what is the source of the problem. It borderline makes me want to swap browsers completely. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "How Safe Is Shift Browser?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/",
+      "pubDate": "Fri, 28 Nov 2025 03:27:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I just installed shift browser, from the official website <a href=\"http://shift.com\">shift.com</a> </p>\n\n<p>And I have just been wondering if it was malware, or spyware. Mainly because I have seen people getting their into stolen, or having it installed on people&#39;s computer without them doing anything. </p>\n\n<p>So is it safe, is it malware?</p>\n\n<p>P.S. I have had a good experience so far, nothing bad. But very customizable.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -103,6 +103,15 @@
       "thumbnail": null
     },
     {
+      "title": "google’s Chromium team decides it will add JPEG XL support, reverses ‘obsolete’ declaration",
+      "link": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
+      "guid": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
+      "pubDate": "Thu, 27 Nov 2025 07:36:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "The perfect browser doesn't exist for my case",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
@@ -118,24 +127,6 @@
       "pubDate": "Fri, 28 Nov 2025 03:51:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8l1zd/waterfox_and_user_javascript/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to install Waterfox <a href=\"http://6.6.5.1\">6.6.5.1</a> alongside Firefox 145.0.2 and use them for different purposes, but the user JavaScript (*.us.js) loader that works in Firefox doesn’t function at all in Waterfox.</p>\n\n<p><a href=\"https://github.com/xiaoxiaoflood/firefox-scripts\">https://github.com/xiaoxiaoflood/firefox-scripts</a></p>\n\n<p><a href=\"https://github.com/alice0775/userChrome.js\">https://github.com/alice0775/userChrome.js</a></p>\n\n<p>The icon for managing user scripts (rebuild_userChrome.uc.js) also doesn’t appear.<br/>\nI’ve checked the file locations repeatedly, and even copied the contents of the chrome folder that works in Firefox, but it was useless.</p>\n\n<p>toolkit.legacyUserProfileCustomizations.stylesheets is set to TRUE, but it’s grayed out and I can’t change it.<br/>\nIs there anyone who’s been able to use the custom scripts mentioned above in Waterfox?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "google’s Chromium team decides it will add JPEG XL support, reverses ‘obsolete’ declaration",
-      "link": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
-      "guid": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
-      "pubDate": "Thu, 27 Nov 2025 07:36:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "My therapist couldn’t help me, but r/browsers did",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ssph/my_therapist_couldnt_help_me_but_rbrowsers_did/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ssph/my_therapist_couldnt_help_me_but_rbrowsers_did/",
-      "pubDate": "Fri, 28 Nov 2025 11:41:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ssph/my_therapist_couldnt_help_me_but_rbrowsers_did/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I don’t really know where else to put this, and I swear I’m sober while typing this, even if what follows might suggest otherwise.</p>\n\n<p>When my girlfriend left, everything collapsed fast. Therapy felt scripted, friends gave surface-level advice, and I felt like I was dissolving.</p>\n\n<p>So for whatever reason… I ended up here.</p>\n\n<p>But then… I don’t know what happened. Something rewired itself.</p>\n\n<p>I wasn’t reading <a href=\"/r/browsers\">r/browsers</a> anymore.<br/>\nI was mainlining it.</p>\n\n<p>And then it escalated.</p>\n\n<p>I caught myself refreshing the sub at 4AM with this tight, electric pulse in my chest like I was waiting for a divine command.</p>\n\n<p>Then it got… weird.</p>\n\n<p>Like, I’d lock the doors, close the curtains, dim the lights, and whisper  </p>\n\n<p>“Alright. Nightly build time.”<br/>\nin a tone that should concern every mental health professional alive.  </p>\n\n<p>One time I caught myself saying <em>“Show me that about:config, baby”</em> out loud to an empty room.</p>\n\n<p>I started gooning to Firefox updates.</p>\n\n<p>Lmao this one time i was wanking off for 4 hrs and things weren&#39;t working out so I switched my p*** window to empty firefox tab and now all the orange walls in my room are white</p>\n\n<p>I can’t even walk past a person using Edge without feeling… something.  </p>\n\n<p>Something I’m afraid of acknowledging.</p>\n\n<p>But after the breakup, after the mental spiral, after my therapist basically rage-quit on me… this sub kept me alive.</p>\n\n<p>Not in a healthy way.<br/>\nNot in a normal way.<br/>\nNot in a way I’ll ever admit to anyone with a medical license.</p>\n\n<p>But <a href=\"/r/browsers\">r/browsers</a> saved me.<br/>\nIn the most deranged, unstable, browser-feral way possible.</p>\n\n<p>And I’m not sure I want to be saved from it.  </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -227,9 +218,18 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ff2a/i_think_microsoft_is_killing_other_browsers/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Used Chrome well, suddenly it freezes all the time. Picked up Vivaldi, it crashes everyday. Go back to Chrome, same freezing and now crashing.</p>\n\n<p>Edge is fine during all this, and I use a Windows computer. Vivaldi and Chrome are configured differently but still break. Only one that doesn&#39;t break is TOR, and that might be considered not a browser. Maybe I should check the extensions but something is up.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
+    },
+    {
+      "title": "Cromite VS firefox nightly",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7zcv8/cromite_vs_firefox_nightly/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7zcv8/cromite_vs_firefox_nightly/",
+      "pubDate": "Thu, 27 Nov 2025 10:52:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7zcv8/cromite_vs_firefox_nightly/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>both on android, which is better (within the scope of privacy/security)?</p>\n\n<p>Cromite now has extensions btw, so ublock origin is functioning, although it&#39;s not as good as it&#39;s on FF nightly bc of MV3 restrictions. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T19:27:38.275Z"
+  "lastFetched": "2025-11-28T20:39:54.108Z"
 }
