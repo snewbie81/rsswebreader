@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
-      "guid": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
-      "pubDate": "Fri, 28 Nov 2025 07:11:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "BlackSky captures high-quality photos of Earth less than a day after launching its new satellite",
       "link": "https://www.techspot.com/news/110408-blacksky-captures-high-quality-photos-earth-less-than.html",
       "guid": "https://www.techspot.com/news/110408-blacksky-captures-high-quality-photos-earth-less-than.html",
       "pubDate": "Fri, 28 Nov 2025 14:33:30 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8wax6/blacksky_captures_highquality_photos_of_earth/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8wax6/blacksky_captures_highquality_photos_of_earth/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
+      "guid": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
+      "pubDate": "Fri, 28 Nov 2025 07:11:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-28T15:37:14.350Z"
+  "lastFetched": "2025-11-28T16:50:01.047Z"
 }

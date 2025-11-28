@@ -4,21 +4,30 @@
   "link": "",
   "items": [
     {
-      "title": "Freeze when watching YouTube on Edge",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
-      "pubDate": "Fri, 28 Nov 2025 10:25:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an AMD laptop, and lately my laptop sometimes freeze, not BSOD, the screen freeze, I cannot do anything except hold the power button to shutdown and turn it back on. The only common detail is that it&#39;s always happen when I watch YouTube on Edge?. This has happen before, and then don&#39;t happen for awhile, after 25H2 update (and some drivers auto update, some Edge updates too, honestly I have no idea what is the cause), it happen again, really frustrated. My laptop is Ideapad 5 Pro ryzen 7 6800HS, no dgpu, not open too much thing, just the browser.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Edge keeps freezing every few seconds then jumps to where its supposed to be (1.5 year later repost)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/",
       "pubDate": "Fri, 28 Nov 2025 15:19:40 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am reposting because its been almost A YEAR AND A HALF since my first post and STILL waiting for a fix. And on one post someone said they fixed it in a newer version but im on latest and it still occurs.</p>\n\n<p>Only happens during certain times of day, half the time I can use Edge for hours without this. Does not affect if the laptop (HP Victus 15) is on charge or not. I am on latest nvidia drivers but unsure if this is the cause. I havent been able to check task manager as I only have 1 screen and edge must be kept still for me to use the task manager without it dissapearing, but I think I did catch it once and there was no spike in usage.</p>\n\n<p>Even YouTube videos (audio is fine and 0 dropped frames reported) and even OTHER applications hovering (but not full screen) over Edge have the freezing too (e.g. if i hover over the calculator buttons, after the freeze those buttons all light up at the same time like it tries to catch up to where my cursor currently is)</p>\n\n<p>Title explanation: especially when scrolling, edge will lag for 1 second then &quot;jumps&quot; to where i would of scrolled to, youtube videos also pause then skip, and also effects hovering over buttons too (including other apps as long as edge is behind them), Basically unusable</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Should this be fixed?",
+      "link": "/img/bz89pmsox04g1.jpeg",
+      "guid": "/img/bz89pmsox04g1.jpeg",
+      "pubDate": "Fri, 28 Nov 2025 16:32:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8z93z/should_this_be_fixed/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m experiencing an issue when trying to open a new tab in Microsoft Edge. Error codes appear and the tab doesn’t load properly. Could you please let me know how I might resolve this problem, and if there is an expected timeline for a fix? Thank you for your help.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Freeze when watching YouTube on Edge",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
+      "pubDate": "Fri, 28 Nov 2025 10:25:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an AMD laptop, and lately my laptop sometimes freeze, not BSOD, the screen freeze, I cannot do anything except hold the power button to shutdown and turn it back on. The only common detail is that it&#39;s always happen when I watch YouTube on Edge?. This has happen before, and then don&#39;t happen for awhile, after 25H2 update (and some drivers auto update, some Edge updates too, honestly I have no idea what is the cause), it happen again, really frustrated. My laptop is Ideapad 5 Pro ryzen 7 6800HS, no dgpu, not open too much thing, just the browser.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Copilot stalls on every answer",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/",
-      "pubDate": "Mon, 24 Nov 2025 09:18:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5ci6r/copilot_stalls_on_every_answer/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Literally anything I ask is left half answered and I&#39;m forced to hit stop. Then I&#39;ll ask it again or ask it to repeat and it stalls again! Completely useless. Anyone else facing the same issues?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-28T15:37:07.059Z"
+  "lastFetched": "2025-11-28T16:49:53.213Z"
 }
