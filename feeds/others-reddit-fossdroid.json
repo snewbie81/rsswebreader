@@ -58,21 +58,21 @@
       "thumbnail": null
     },
     {
-      "title": "Is it possible to have this show, even when the case is open? I want an app that shows all three batteries; Gadget Bridge only shows the lowest battery, and not the case.",
-      "link": "/img/73rkhm3r4r3g1.png",
-      "guid": "/img/73rkhm3r4r3g1.png",
-      "pubDate": "Thu, 27 Nov 2025 07:30:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Android TV alternatives",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/",
       "pubDate": "Thu, 27 Nov 2025 06:00:33 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a xiaomi tv with android on it with a lot of bloatware and, I guess, privacy issues.<br/>\nIs there an open source alternative than I can flash on my device ? I already flashed some custom roms on my phones but idk for android tv.</p>\n\n<p>Thanks a lot</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is it possible to have this show, even when the case is open? I want an app that shows all three batteries; Gadget Bridge only shows the lowest battery, and not the case.",
+      "link": "/img/73rkhm3r4r3g1.png",
+      "guid": "/img/73rkhm3r4r3g1.png",
+      "pubDate": "Thu, 27 Nov 2025 07:30:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-28T05:42:23.155Z"
+  "lastFetched": "2025-11-28T06:59:16.502Z"
 }
