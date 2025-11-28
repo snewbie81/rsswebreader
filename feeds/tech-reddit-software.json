@@ -4,30 +4,21 @@
   "link": "",
   "items": [
     {
-      "title": "Weekly Discovery Thread - November 21, 2025",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p2wsms/weekly_discovery_thread_november_21_2025/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p2wsms/weekly_discovery_thread_november_21_2025/",
-      "pubDate": "Fri, 21 Nov 2025 12:01:11 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p2wsms/weekly_discovery_thread_november_21_2025/'>Comments</a>",
+      "title": "Weekly Discovery Thread - November 28, 2025",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8t51q/weekly_discovery_thread_november_28_2025/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8t51q/weekly_discovery_thread_november_28_2025/",
+      "pubDate": "Fri, 28 Nov 2025 12:01:11 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8t51q/weekly_discovery_thread_november_28_2025/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><h1>Share what’s new, useful, or just interesting</h1>\n\n<p>Welcome to the Weekly Discovery Thread, where you can share software-related finds that caught your attention this week - especially the stuff that’s cool, helpful, or thought-provoking but might not be thread-worthy on its own.</p>\n\n<p>This thread is your space for:</p>\n\n<ul>\n<li>Neat tools, libraries, or packages</li>\n<li>Articles, blog posts, or talks worth reading</li>\n<li>Experiments or side projects you’re working on</li>\n<li>Tips, workflows, or obscure features you discovered</li>\n<li>Questions or ideas you&#39;re chewing on</li>\n</ul>\n\n<p>If it relates to software and sparked your curiosity, drop it in.</p>\n\n<hr/>\n\n<h1>A few quick guidelines</h1>\n\n<ul>\n<li>Keep it civil and constructive - this is for learning and discovery.</li>\n<li>Self-promotion? Totally fine if it’s relevant and adds value. Just be transparent.</li>\n<li>No link spam or AI-generated content dumps. We’ll remove low-effort submissions.</li>\n<li>Upvote what’s useful so others see it!</li>\n</ul>\n\n<hr/>\n\n<p>This thread will be posted weekly and stickied. If you want to suggest a change or addition to this format, feel free to comment or <a href=\"/message/compose?to=/r/software\">message the mods</a>.</p>\n\n<p>Now, what did you find this week?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
-      "title": "Any cool AI tools you’ve discovered recently?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A clean tool that converts any picture into a PDF in seconds",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
-      "pubDate": "Fri, 28 Nov 2025 09:02:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I couldn’t find a fast and clean image-to-PDF converter, so I built one.</p>\n\n<p>no tracking, just pick your pictures and get a PDF instantly.</p>\n\n<p>Link:</p>\n\n<p><a href=\"https://picturetopdf.in\">https://picturetopdf.in</a></p>\n</div><!-- SC_ON -->",
+      "title": "So I finally uninstalled CCleaner",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/",
+      "pubDate": "Fri, 28 Nov 2025 11:57:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>That crap became awful since the last forced updated (version 7), it messed with my computer, now I still have all my music folder charging tags for long seconds each time I open one,...</p>\n\n<p>Questions: </p>\n\n<p>-Is Windows Disk Cleanup enough to replace CCleaner I was using for decades or must I install an alternative to CCleaner ? </p>\n\n<p>-How can I fix my music folders freezing when I open them ? Here&#39;s what happens: I open a music folder, and the tags for each file slowly disappear one by one, then reappear, and only after that am I able to open the files</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -37,6 +28,15 @@
       "pubDate": "Fri, 28 Nov 2025 08:48:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8q264/how_do_you_actually_manually_install_drivers/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>If this is the wrong subreddit for this, please tell me which one would be better.</strong>  </p>\n\n<p>ASUSTek COMPUTER INC. - HIDClass<br/>\nASUSTek Computer Inc. - System<br/>\nRealtek - Extension<br/>\nRealtek - SoftwareComponent<br/>\nAdvanced Micro Devices Inc. - SecurityDevices</p>\n\n<p>Googling these will quickly give you &quot;error&quot; things, meaning other people had issues. Is there a free application I can use that would have better information on which are the newest drivers, and maybe even download them for me?</p>\n\n<p>Extra:</p>\n\n<p>I do have some signs of corrupted system files. Such as the desktop wallpaper sometimes being black which seems semi-common with windows 11. Yesterday I&#39;ve experienced one single crash, the pc automatically restarted so I couldn&#39;t read the error, but it only happenned once. I miss windows 7.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any cool AI tools you’ve discovered recently?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
+      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,15 +76,6 @@
       "thumbnail": null
     },
     {
-      "title": "I built a GUI for hashcat with hashes.com escrow service integration.",
-      "link": "/gallery/1p8gc3d",
-      "guid": "/gallery/1p8gc3d",
-      "pubDate": "Thu, 27 Nov 2025 23:44:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8gc3d/i_built_a_gui_for_hashcat_with_hashescom_escrow/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s an hashcat GUI with pack analysis features and hashes.com escrow service integration for easy recovered hash uploads.</p>\n\n<p>GitHub: <a href=\"https://github.com/jjsvs/Hashcat-Reactor.git\">https://github.com/jjsvs/Hashcat-Reactor.git</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "getscreen",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p8msu4/getscreen/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p8msu4/getscreen/",
@@ -100,6 +91,24 @@
       "pubDate": "Thu, 27 Nov 2025 20:36:13 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello! New here um Is there like a website or certain software that I can download that does auto translation and overlay the text and recognizes speech for my pc for playing a non English game? </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A clean tool that converts any picture into a PDF in seconds",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
+      "pubDate": "Fri, 28 Nov 2025 09:02:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I couldn’t find a fast and clean image-to-PDF converter, so I built one.</p>\n\n<p>no tracking, just pick your pictures and get a PDF instantly.</p>\n\n<p>Link:</p>\n\n<p><a href=\"https://picturetopdf.in\">https://picturetopdf.in</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a GUI for hashcat with hashes.com escrow service integration.",
+      "link": "/gallery/1p8gc3d",
+      "guid": "/gallery/1p8gc3d",
+      "pubDate": "Thu, 27 Nov 2025 23:44:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8gc3d/i_built_a_gui_for_hashcat_with_hashescom_escrow/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s an hashcat GUI with pack analysis features and hashes.com escrow service integration for easy recovered hash uploads.</p>\n\n<p>GitHub: <a href=\"https://github.com/jjsvs/Hashcat-Reactor.git\">https://github.com/jjsvs/Hashcat-Reactor.git</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -175,6 +184,15 @@
       "thumbnail": null
     },
     {
+      "title": "The way that some software like DiskDrill markets is unethical",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
+      "pubDate": "Thu, 27 Nov 2025 05:46:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sorry if this is a bit of a rant, but I really have to say this somewhere, and I think it also applies to much more than just this specific program. I had deleted a bunch of photos that hold great importance to me on a flash drive at a time when I had much less regard for their importance. I had the idea to use data recovery software, since I didn&#39;t believe I overwrote the data at any point. Nothing I had tried was working until I found Disk Drill, and after scanning for something like 15 minutes, I was finally able to see photos I hadn&#39;t seen in years. I was nearly to the point of tears. After looking through them on the program and selecting the ones I wanted to recover, I clicked the button to recover and was hit by this pop-up that said that I couldn&#39;t recover the images that I literally saw right on my screen unless I upgraded to the pro plan, which I can&#39;t afford. They could&#39;ve put the paywall at download or at least made it clear you couldn&#39;t do much of anything unless you got the pro plan, but instead they decided to dangle the recovered files in my face before telling me I couldn&#39;t have them unless I paid. At this point, it&#39;s basically glorified ransomware for files I accidentally deleted. It&#39;s one thing to have a paid file recovery program, but a whole other thing for one to act free (their website calls it a free app) and then make you pay when it&#39;s already loaded the files that you need to recover (it showed the thumbnails of the deleted files). Worst part is that Disk Drill isn&#39;t the only program doing this, this seems to be a trend.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Is there any software that autocompletes a word that I am typing?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p830qo/is_there_any_software_that_autocompletes_a_word/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p830qo/is_there_any_software_that_autocompletes_a_word/",
@@ -190,15 +208,6 @@
       "pubDate": "Thu, 27 Nov 2025 13:52:44 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p82q6z/looking_to_record_a_lan_party_of_myself_and_my/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>My question is i have the roxio capture card but cannot find the software. Does anyone know where i can get it please?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "The way that some software like DiskDrill markets is unethical",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/",
-      "pubDate": "Thu, 27 Nov 2025 05:46:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7ud5k/the_way_that_some_software_like_diskdrill_markets/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sorry if this is a bit of a rant, but I really have to say this somewhere, and I think it also applies to much more than just this specific program. I had deleted a bunch of photos that hold great importance to me on a flash drive at a time when I had much less regard for their importance. I had the idea to use data recovery software, since I didn&#39;t believe I overwrote the data at any point. Nothing I had tried was working until I found Disk Drill, and after scanning for something like 15 minutes, I was finally able to see photos I hadn&#39;t seen in years. I was nearly to the point of tears. After looking through them on the program and selecting the ones I wanted to recover, I clicked the button to recover and was hit by this pop-up that said that I couldn&#39;t recover the images that I literally saw right on my screen unless I upgraded to the pro plan, which I can&#39;t afford. They could&#39;ve put the paywall at download or at least made it clear you couldn&#39;t do much of anything unless you got the pro plan, but instead they decided to dangle the recovered files in my face before telling me I couldn&#39;t have them unless I paid. At this point, it&#39;s basically glorified ransomware for files I accidentally deleted. It&#39;s one thing to have a paid file recovery program, but a whole other thing for one to act free (their website calls it a free app) and then make you pay when it&#39;s already loaded the files that you need to recover (it showed the thumbnails of the deleted files). Worst part is that Disk Drill isn&#39;t the only program doing this, this seems to be a trend.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p80fvm/is_there_a_way_to_do_pair_with_few_bluetooth/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>As in the tittle I wonder is there a way to pair few Bluetooth speakers to make some kind of surround set. I have three cheap Bluetooth soundbars (one is different brand) and two basic wireless speakers. Best I managed to do in windows was to connect two soundbars at once and couldn’t even make stereo with those. Is there any program that can make it possible or maybe some cheap hardware that do such things. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I made an unlimited, offline background remover! (no subscriptions or credits)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/",
-      "pubDate": "Wed, 26 Nov 2025 18:15:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7f2hb/i_made_an_unlimited_offline_background_remover_no/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>!!</p>\n\n<p>I was super frustrated that background removers like removebg and photoroom have recurring subscriptions or credits. Because of this, I decided to create <a href=\"https://www.magicdrop.io/\">Magicdrop</a> a fully offline background remover that lets you remove backgrounds from unlimited images.</p>\n\n<p><a href=\"/preview/pre/vpb5585c7n3g1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=14d60f4d7f76e3b746f48b430968d3f264efadd2\">/preview/pre/vpb5585c7n3g1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=14d60f4d7f76e3b746f48b430968d3f264efadd2</a></p>\n\n<p>Features include:</p>\n\n<ul>\n<li>AI background removal</li>\n<li>Custom background</li>\n<li>Custom aspect ratio</li>\n<li>Two removal models (fast for fast processing, base for slower but higher quality processing)</li>\n<li>Batch processing (up to 100 images at once)</li>\n</ul>\n\n<p>You can try it free for seven days here: <a href=\"https://www.magicdrop.io/\">https://www.magicdrop.io/</a></p>\n\n<p>It&#39;s my first time ever launching a product so I would really love any feedback!! You can use my discount code LAUNCH40 to get 40% off your purchase &lt;3</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-28T11:31:32.602Z"
+  "lastFetched": "2025-11-28T13:41:20.021Z"
 }
