@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Freeze when watching YouTube on Edge",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
+      "pubDate": "Fri, 28 Nov 2025 10:25:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an AMD laptop, and lately my laptop sometimes freeze, not BSOD, the screen freeze, I cannot do anything except hold the power button to shutdown and turn it back on. The only common detail is that it&#39;s always happen when I watch YouTube on Edge?. This has happen before, and then don&#39;t happen for awhile, after 25H2 update (and some drivers auto update, some Edge updates too, honestly I have no idea what is the cause), it happen again, really frustrated. My laptop is Ideapad 5 Pro ryzen 7 6800HS, no dgpu, not open too much thing, just the browser.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "HELP - half the screen is BLANK when typing",
       "link": "/img/4irskdffvu3g1.jpeg",
       "guid": "/img/4irskdffvu3g1.jpeg",
@@ -207,7 +216,7 @@
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/",
       "pubDate": "Mon, 24 Nov 2025 20:42:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5skeq/fresh_edge_install_typing_ch_in_the_address_bar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt�� on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Today, while my coworker and I were trying to search for “chat gpt” on a freshly reset office computer with a newly reset Edge browser, the moment we typed “ch”, Edge suggested <strong>c</strong>** p*** as the first result. We just stared at each other, and then tried the same search on the other computers in the office, and got the same result on all of them. This is horrifying; I have no idea what could be causing it, but I’m hoping some of you might know.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5hcrm/pdf_tts_issue/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey,</p>\n\n<p>I’ve been using Edge’s built-in “Read Aloud” function for PDFs for about two years, and it has worked great until recently. For the past 1–2 months, I’ve been running into a problem: it starts reading normally, but after a while it suddenly skips an entire paragraph. Then it reads the next paragraph and stops completely. It won’t continue unless I scroll up or down, or pause and resume the reading.</p>\n\n<p>Has anyone found a fix for this? I couldn’t find anything online or in this forum.</p>\n\n<p>I’m on the latest version (142.0.3595.94, official ARM64 build). I’ve already tried reinstalling Edge and disabling the experimental PDF viewer via <code>edge://flags/</code>. I also tested extensions like Flexi PDF Reader—while they partially help, they introduce different issues.</p>\n\n<p>My next idea is to try downgrading Edge, but I’m hoping there’s a better solution.</p>\n\n<p>Thanks in advance to anyone who can offer suggestions or help. This issue has been bothering me for a while.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Copilot Actions is a rather lackluster experience",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p50xjg/copilot_actions_is_a_rather_lackluster_experience/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p50xjg/copilot_actions_is_a_rather_lackluster_experience/",
-      "pubDate": "Sun, 23 Nov 2025 23:08:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p50xjg/copilot_actions_is_a_rather_lackluster_experience/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It either believes it cannot control the browser, doesn&#39;t want to, or stops after a single trivial step. Anyone else feel the same? Any tips or tricks to get it to work better?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-28T09:40:11.560Z"
+  "lastFetched": "2025-11-28T10:45:04.855Z"
 }

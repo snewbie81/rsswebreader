@@ -22,15 +22,6 @@
       "thumbnail": null
     },
     {
-      "title": "This YouTube video summarizes all browsers",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8qm2t/this_youtube_video_summarizes_all_browsers/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8qm2t/this_youtube_video_summarizes_all_browsers/",
-      "pubDate": "Fri, 28 Nov 2025 09:23:49 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8qm2t/this_youtube_video_summarizes_all_browsers/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=YrxhVA5NVQ4\">https://www.youtube.com/watch?v=YrxhVA5NVQ4</a></p>\n\n<p>Edit: Based on the UI</p>\n\n<p><a href=\"/preview/pre/pizgzrubwy3g1.png?width=1650&amp;format=png&amp;auto=webp&amp;s=8845a8444eca30efc22ea801bf822d7985d7dccf\">/preview/pre/pizgzrubwy3g1.png?width=1650&amp;format=png&amp;auto=webp&amp;s=8845a8444eca30efc22ea801bf822d7985d7dccf</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Looking for a fast and customizable browser",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
@@ -76,15 +67,6 @@
       "thumbnail": null
     },
     {
-      "title": "why do people still use firefox?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/",
-      "pubDate": "Fri, 28 Nov 2025 09:22:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>it ranks worse on every speed benchmark than any chromium browser. brave has an adblocker,and so does other chromium browsers. </p>\n\n<p>idk why people still support firefox.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "google’s Chromium team decides it will add JPEG XL support, reverses ‘obsolete’ declaration",
       "link": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
       "guid": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
@@ -112,21 +94,21 @@
       "thumbnail": null
     },
     {
+      "title": "why do people still use firefox?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/",
+      "pubDate": "Fri, 28 Nov 2025 09:22:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8ql4v/why_do_people_still_use_firefox/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>it ranks worse on every speed benchmark than any chromium browser. brave has an adblocker,and so does other chromium browsers. </p>\n\n<p>idk why people still support firefox.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Need help running legacy IE VBA macro on modern Windows / Edge",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/",
       "pubDate": "Thu, 27 Nov 2025 20:07:19 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a VBA macro in Excel that used to extract data from a web page using Internet Explorer COM automation. The macro works by finding an existing IE window (Shell.Application + ie.document) and reading values from HTML elements.</p>\n\n<p>Since Internet Explorer was retired and replaced by Microsoft Edge, the macro no longer works. My attempts so far:</p>\n\n<p>Opening the page in IE Mode on Edge → macro cannot detect the page, still gives: &quot;Please open the eReferral page in IE first.&quot;</p>\n\n<p>Trying Selenium/Edge automation → works only by opening a new browser, but I really need the macro to work with the page already open like before.</p>\n\n<p>Enabling Internet Explorer in Windows Features → opening IE redirects automatically to Edge, so the macro still cannot detect the IE window.</p>\n\n<p>Essentially, the macro relies on the old IE COM object, and there seems to be no way to connect to an already open page in Edge or IE Mode.</p>\n\n<p>Question: Is there any way to:</p>\n\n<p>Re-enable a “real” Internet Explorer on Windows 10/11 so that VBA COM automation works like before? (Optimal solution).</p>\n\n<p>Or maybe make a legacy VBA macro detect and read a page in IE Mode on Edge?</p>\n\n<p>Any advice or workaround to keep this macro working as it did with IE would be greatly appreciated!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for an alternative to VBA + Internet Explorer COM automation — any way to restore IE or use another browser?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8bp9o/looking_for_an_alternative_to_vba_internet/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8bp9o/looking_for_an_alternative_to_vba_internet/",
-      "pubDate": "Thu, 27 Nov 2025 20:05:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8bp9o/looking_for_an_alternative_to_vba_internet/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,<br/>\nI used to have an Excel VBA macro that relied on the Internet Explorer COM interface. The macro detected an already-open IE window, accessed the webpage through <code>IE.Document</code>, and copied certain data into Excel.</p>\n\n<p>Now that Internet Explorer is fully deprecated, the macro no longer works. I&#39;m trying to figure out what my options are.</p>\n\n<p>My questions:</p>\n\n<ul>\n<li>Is there <em>any</em> way to restore or re-enable Internet Explorer just for VBA automation purposes?</li>\n<li>Does any modern browser expose a COM interface that VBA can attach to in the same way IE did?</li>\n<li>I know Selenium exists, but (as far as I understand) Selenium can’t attach to an already open browser window — it only controls the browsers it launches itself. So it doesn’t quite fit my old workflow.</li>\n<li>Are there recommended alternatives or libraries for pulling data from a webpage into Excel using VBA? Maybe something like WebView2, an embedded browser control, or another approach?</li>\n</ul>\n\n<p>Any suggestions or experience would be really appreciated.<br/>\nThanks!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -184,15 +166,6 @@
       "thumbnail": null
     },
     {
-      "title": "Ok so i made 2 other posts few minutes ago",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8eaf3/ok_so_i_made_2_other_posts_few_minutes_ago/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8eaf3/ok_so_i_made_2_other_posts_few_minutes_ago/",
-      "pubDate": "Thu, 27 Nov 2025 22:03:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8eaf3/ok_so_i_made_2_other_posts_few_minutes_ago/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>If i cant downgrade ios or bypass restricted content any browser that i can use to still watch hentai</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "I think Microsoft is killing other browsers.",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8ff2a/i_think_microsoft_is_killing_other_browsers/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8ff2a/i_think_microsoft_is_killing_other_browsers/",
@@ -211,15 +184,6 @@
       "thumbnail": null
     },
     {
-      "title": "why do brave users jerk their dogs off?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8h3nr/why_do_brave_users_jerk_their_dogs_off/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8h3nr/why_do_brave_users_jerk_their_dogs_off/",
-      "pubDate": "Fri, 28 Nov 2025 00:23:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8h3nr/why_do_brave_users_jerk_their_dogs_off/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8h3nr/why_do_brave_users_jerk_their_dogs_off/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Which Would You Recommend: Brave or Firefox?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/",
@@ -227,9 +191,45 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7dfuw/which_would_you_recommend_brave_or_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys! I&#39;m a master student, and I&#39;m looking for a new browser.</p>\n\n<p>In the past, I used Chrome, then went to Zen, but due to Zen&#39;s terrible performance, I went back to Chrome. However, Chrome seems more and more sluggish in the past few months: some websites just freezes, the tabs sometimes take forever to load and last week, Chrome just reset itself: I lost all my tabs, all my logins, etc. </p>\n\n<p>(I don&#39;t think the problem is my PC, since I have an Intel i7, 512SSD and 32GB of RAM.)</p>\n\n<p>Searching for an alternative or better option to Chrome/Zen, I got to Brave or Firefox. I took some look in Vivaldi too, but the interface it&#39;s sooooo ugly. I know that Firefox has some issues with render some websites (also that DRM issue) and that Brave has all that crypto-stuff, but which would you recommend: Brave or Firefox?</p>\n\n<p>(Ps.: I don&#39;t think I care much about privacy since all my work is made inside GSuite, so Google already took all the data they can from me, lol)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
+    },
+    {
+      "title": "Mozilla Firefox or Brave?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7e3zg/mozilla_firefox_or_brave/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7e3zg/mozilla_firefox_or_brave/",
+      "pubDate": "Wed, 26 Nov 2025 17:39:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7e3zg/mozilla_firefox_or_brave/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, everyone. Mozilla Firefox or Brave? Which browser should I choose if I care about privacy, synchronising Windows with Android, and have an old, slow laptop? I am tempted by Firefox because it is different from Chromium, but I am afraid it will be too slow for this laptop. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "The best font settings currently available in Chrome, for rendering speed and design. Try them out!",
+      "link": "/img/ixr7ny146u3g1.png",
+      "guid": "/img/ixr7ny146u3g1.png",
+      "pubDate": "Thu, 27 Nov 2025 17:39:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p887v6/the_best_font_settings_currently_available_in/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p887v6/the_best_font_settings_currently_available_in/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Leaving Chrome and Edge",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7cxvk/leaving_chrome_and_edge/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7cxvk/leaving_chrome_and_edge/",
+      "pubDate": "Wed, 26 Nov 2025 16:56:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7cxvk/leaving_chrome_and_edge/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>For the longest time I had been using Google Chrome and Microsoft Edge; initially I had started with Chrome but realized how it took a toll on my computer which led to Edge. Recently decided to try another browser; however I&#39;m not sure where to start, I&#39;ve heard of Firefox, Brave, and Zen browser. Customization, Ad-block, and low resource use (if that makes sense) are what I prefer in a browser.</p>\n\n<p>What are your thoughts on Firefox, Brave, and Zen? Feel free to recommend any other browser besides them too.</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any Android browsers with stable extension support on chromium 138 (Android 9)?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7qlp9/any_android_browsers_with_stable_extension/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7qlp9/any_android_browsers_with_stable_extension/",
+      "pubDate": "Thu, 27 Nov 2025 02:25:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7qlp9/any_android_browsers_with_stable_extension/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an old phone with Android 9 , chromium browsers after 138 stopped supporting it. Bootloader locked no updates .</p>\n\n<p>So , currently I use Firefox ,Edge version 138 for Android extensions .But ,I prefer more simplistic chromium ui like Kiwi,Cromite which can support my device .</p>\n\n<p>Does there exist any such browser currently ?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T09:40:13.944Z"
+  "lastFetched": "2025-11-28T10:45:07.287Z"
 }

@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "A new study claims to have found the strongest evidence yet for dark matter annihilation",
-      "link": "https://www.techspot.com/news/110406-new-study-claims-have-found-strongest-evidence-dark.html",
-      "guid": "https://www.techspot.com/news/110406-new-study-claims-have-found-strongest-evidence-dark.html",
-      "pubDate": "Thu, 27 Nov 2025 14:58:13 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p848h8/a_new_study_claims_to_have_found_the_strongest/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p848h8/a_new_study_claims_to_have_found_the_strongest/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
       "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
       "guid": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
       "pubDate": "Fri, 28 Nov 2025 07:11:06 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8ok5j/openai_discloses_api_customer_data_breach_via/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "A new study claims to have found the strongest evidence yet for dark matter annihilation",
+      "link": "https://www.techspot.com/news/110406-new-study-claims-have-found-strongest-evidence-dark.html",
+      "guid": "https://www.techspot.com/news/110406-new-study-claims-have-found-strongest-evidence-dark.html",
+      "pubDate": "Thu, 27 Nov 2025 14:58:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p848h8/a_new_study_claims_to_have_found_the_strongest/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p848h8/a_new_study_claims_to_have_found_the_strongest/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-28T09:40:19.176Z"
+  "lastFetched": "2025-11-28T10:45:12.135Z"
 }
