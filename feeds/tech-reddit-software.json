@@ -22,6 +22,33 @@
       "thumbnail": null
     },
     {
+      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Microsoft Expression Web Replacement",
+      "link": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
+      "guid": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
+      "pubDate": "Sat, 29 Nov 2025 19:33:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a Windows POS &amp; Inventory app for small shops — 5-day free trial (feedback welcome)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/",
+      "pubDate": "Sat, 29 Nov 2025 19:26:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I spent months building my own POS system for small stores. Would love some feedback!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9xehw/i_spent_months_building_my_own_pos_system_for/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xehw/i_spent_months_building_my_own_pos_system_for/",
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8q264/how_do_you_actually_manually_install_drivers/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>If this is the wrong subreddit for this, please tell me which one would be better.</strong>  </p>\n\n<p>ASUSTek COMPUTER INC. - HIDClass<br/>\nASUSTek Computer Inc. - System<br/>\nRealtek - Extension<br/>\nRealtek - SoftwareComponent<br/>\nAdvanced Micro Devices Inc. - SecurityDevices</p>\n\n<p>Googling these will quickly give you &quot;error&quot; things, meaning other people had issues. Is there a free application I can use that would have better information on which are the newest drivers, and maybe even download them for me?</p>\n\n<p>Extra:</p>\n\n<p>I do have some signs of corrupted system files. Such as the desktop wallpaper sometimes being black which seems semi-common with windows 11. Yesterday I&#39;ve experienced one single crash, the pc automatically restarted so I couldn&#39;t read the error, but it only happenned once. I miss windows 7.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I bought a coaching material but the language is in english",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/",
-      "pubDate": "Fri, 28 Nov 2025 07:41:07 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8p0wl/i_bought_a_coaching_material_but_the_language_is/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So any app or website I can use to transcribe the text and then put those text on language models and convert to my native?</p>\n\n<p>There is no option to download..either I need to watch recording and use transcribe or watch live lectures and transcribe </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Splitting large Pdfs,what do you all use?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/",
-      "pubDate": "Fri, 28 Nov 2025 07:23:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8orfa/splitting_large_pdfswhat_do_you_all_use/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I deal with a lot of big scanned pdfs (100–300 pages), and most of the time I only need one section out of the whole thing. Kdan pdf lets me pull out specific page ranges without messing up the layout or reshuffling pages, which was a problem I kept running into. It’s been good enough for sending just a chapter to a client or trimming things down for platforms with size limits.</p>\n\n<p>Curious how others handle it, do you split by chapters, by size, or just whenever you need a smaller chunk?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Is it too late to switch from software testing after 15 years? What should I do?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/",
-      "pubDate": "Fri, 28 Nov 2025 07:20:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have 15 years of experience in QA with a CTC of 40+ LPA. In my last 3 companies, I built automation frameworks from scratch. But in every job, manual testing becomes the top priority. Management wants automation, but they also want quick results, so I never get enough time to actually work on automation or AI-based improvements.</p>\n\n<p>I’m good at manual, backend, and frontend testing, but because of the org structure, I rarely get a chance to work with the automation team or upskill in automation/AI. And we all know — only manual won’t survive for long, especially with AI growing everywhere.</p>\n\n<p>Promotion opportunities are also limited because most companies don’t have a separate QA vertical anymore. And if I look outside, people at my experience level (40–50 LPA range) are struggling to find new QA roles.</p>\n\n<p>So I’m stuck wondering:</p>\n\n<p>What should I do next? Should I switch domains, focus on AI/automation, or something else?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-29T19:27:18.875Z"
+  "lastFetched": "2025-11-29T20:39:10.637Z"
 }

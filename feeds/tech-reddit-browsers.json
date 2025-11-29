@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "What Android browsers don't have tab discarding?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
+      "pubDate": "Sat, 29 Nov 2025 17:19:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Samsung Internet often refreshes tabs when I return to them from another tab or app even if I only have 1 tab. I&#39;ve read Chrome and Firefox do too.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Need a browser with good sync for payment methods and integrated translator",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9tx3p/need_a_browser_with_good_sync_for_payment_methods/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9tx3p/need_a_browser_with_good_sync_for_payment_methods/",
@@ -37,15 +46,6 @@
       "pubDate": "Sat, 29 Nov 2025 15:16:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9rddp/playing_get_to_the_top_although_there_gtttatint/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This is a browser game</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What Android browsers don't have tab discarding?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
-      "pubDate": "Sat, 29 Nov 2025 17:19:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Samsung Internet often refreshes tabs when I return to them from another tab or app even if I only have 1 tab. I&#39;ve read Chrome and Firefox do too.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T19:27:16.060Z"
+  "lastFetched": "2025-11-29T20:39:07.890Z"
 }

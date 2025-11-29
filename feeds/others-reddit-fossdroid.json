@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is there an app to track games? Something like Showly",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/",
+      "pubDate": "Sat, 29 Nov 2025 20:33:24 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, does someone knows if there is a foss app like Showly (movies/Tv shows tracker) but for videogames?</p>\n\n<p>You could add games to a list (playing, played or to play), from different systems, or add games to other list like &quot;owned&quot; or &quot;wish list &quot;.</p>\n\n<p>Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "different number of \"liked music\" in OuterTune and YTM",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9mzlm/different_number_of_liked_music_in_outertune_and/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9mzlm/different_number_of_liked_music_in_outertune_and/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So I wanted to just share some humble feedback for the open source community. As you might have read in the news there are a few articles now circulating that &quot;thinking have become a luxury.&quot; </p>\n\n<p>You might have also read articles that say that even Ai detection and plagiarism detection tools are flagging genuine human input as Ai. Often right here on reddit is redditers claim their responses to be Ai when they are using higher vocabulary.</p>\n\n<p>So it is my humble plea that when you think of Ai projects to do. Here are some ideas that you should not really chase after. As in think of better use cases, ideation, and brainstorm better value proposition and empathy driven ideas, instead of these:</p>\n\n<ol>\n<li>Predefined text template based keyboard apps.</li>\n<li>Predefined text templates within email and chatting apps.</li>\n<li>Quick response suggestions in Android clipboard and general copy-paste based apps.</li>\n<li>Personalization templates in any word processing apps and their addons.</li>\n<li>Grammerly types that use composing entire paragraphs and sections of text.</li>\n<li>Anything adding more than 3 words on its own based on Ai logic.</li>\n</ol>\n\n<p>Why I say this?<br/>\nThese tools while helping neurodivergent (dyslexic and ADD/ADHD) users is actually harming users in the long run with effects very similar to that of prolonged social media use.</p>\n\n<p>A drawback I immediately see with users who maybe prone to chronic anxiety, trauma response (besides neurodivergent users) is that during anxiety they quickly input the suggested prompt and send, only to find some time later, &quot;oh dam, this is not what I wanted to say.&quot;</p>\n\n<p>So please it is my humble plea, build and design better. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "albums from yt music not showing in SimpMusic",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
-      "pubDate": "Tue, 25 Nov 2025 20:45:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>as the title says, my yt music albums are missing from all of the &#39;library&#39; tabs. in the home page some of the albums show under the &#39;including your  imported playlists&#39; title but i cant access the full list anywhere. is there a way to find my albums or does SimpMusic lack this feature ?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T19:27:00.909Z"
+  "lastFetched": "2025-11-29T20:38:53.412Z"
 }
