@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Introducing Veylune Music Player — a fast, fluid, local-only Android music app built with Material Expressive Design | COMING SOON.",
+      "link": "https://redlib.perennialte.ch//r/HowToMen/comments/1pa1tpa/introducing_veylune_music_player_a_fast_fluid/",
+      "guid": "https://redlib.perennialte.ch//r/HowToMen/comments/1pa1tpa/introducing_veylune_music_player_a_fast_fluid/",
+      "pubDate": "Sat, 29 Nov 2025 22:34:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pa1u2r/introducing_veylune_music_player_a_fast_fluid/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pa1u2r/introducing_veylune_music_player_a_fast_fluid/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "different number of \"liked music\" in OuterTune and YTM",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9mzlm/different_number_of_liked_music_in_outertune_and/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9mzlm/different_number_of_liked_music_in_outertune_and/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious if there&#39;s some kind of app that allows you to securely authenticate yourself with a workstation (such as Windows PC) with an Android device&#39;s user authentication method(s). Like <a href=\"https://www.xda-developers.com/unlock-windows-pc-fingerprint-scanner-android/\">Remote Fingerprint Unlock</a>, but without installing  proprietary binaries. Thanks in advance!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Building Ai apps for everyday use",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/",
-      "pubDate": "Wed, 26 Nov 2025 10:24:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I wanted to just share some humble feedback for the open source community. As you might have read in the news there are a few articles now circulating that &quot;thinking have become a luxury.&quot; </p>\n\n<p>You might have also read articles that say that even Ai detection and plagiarism detection tools are flagging genuine human input as Ai. Often right here on reddit is redditers claim their responses to be Ai when they are using higher vocabulary.</p>\n\n<p>So it is my humble plea that when you think of Ai projects to do. Here are some ideas that you should not really chase after. As in think of better use cases, ideation, and brainstorm better value proposition and empathy driven ideas, instead of these:</p>\n\n<ol>\n<li>Predefined text template based keyboard apps.</li>\n<li>Predefined text templates within email and chatting apps.</li>\n<li>Quick response suggestions in Android clipboard and general copy-paste based apps.</li>\n<li>Personalization templates in any word processing apps and their addons.</li>\n<li>Grammerly types that use composing entire paragraphs and sections of text.</li>\n<li>Anything adding more than 3 words on its own based on Ai logic.</li>\n</ol>\n\n<p>Why I say this?<br/>\nThese tools while helping neurodivergent (dyslexic and ADD/ADHD) users is actually harming users in the long run with effects very similar to that of prolonged social media use.</p>\n\n<p>A drawback I immediately see with users who maybe prone to chronic anxiety, trauma response (besides neurodivergent users) is that during anxiety they quickly input the suggested prompt and send, only to find some time later, &quot;oh dam, this is not what I wanted to say.&quot;</p>\n\n<p>So please it is my humble plea, build and design better. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T21:31:45.924Z"
+  "lastFetched": "2025-11-29T22:38:43.604Z"
 }

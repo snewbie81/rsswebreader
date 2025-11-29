@@ -85,21 +85,21 @@
       "thumbnail": null
     },
     {
-      "title": "I built a Windows POS &amp; Inventory app for small shops — 5-day free trial (feedback welcome)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/",
-      "pubDate": "Sat, 29 Nov 2025 19:26:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "How I’m Organizing Software &amp; API Documentation in one place using DevScribe",
       "link": "/gallery/1p9p550",
       "guid": "/gallery/1p9p550",
       "pubDate": "Sat, 29 Nov 2025 13:37:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9p64d/how_im_organizing_software_api_documentation_in/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9p64d/how_im_organizing_software_api_documentation_in/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a Windows POS &amp; Inventory app for small shops — 5-day free trial (feedback welcome)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/",
+      "pubDate": "Sat, 29 Nov 2025 19:26:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xggq/i_built_a_windows_pos_inventory_app_for_small/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-29T21:32:03.655Z"
+  "lastFetched": "2025-11-29T22:39:01.951Z"
 }
