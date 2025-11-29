@@ -22,15 +22,6 @@
       "thumbnail": null
     },
     {
-      "title": "What Android browsers don't have tab discarding?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
-      "pubDate": "Sat, 29 Nov 2025 17:19:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Samsung Internet often refreshes tabs when I return to them from another tab or app even if I only have 1 tab. I&#39;ve read Chrome does too.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Need a browser with good sync for payment methods and integrated translator",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9tx3p/need_a_browser_with_good_sync_for_payment_methods/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9tx3p/need_a_browser_with_good_sync_for_payment_methods/",
@@ -46,6 +37,15 @@
       "pubDate": "Sat, 29 Nov 2025 15:16:17 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9rddp/playing_get_to_the_top_although_there_gtttatint/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This is a browser game</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What Android browsers don't have tab discarding?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/",
+      "pubDate": "Sat, 29 Nov 2025 17:19:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ucdq/what_android_browsers_dont_have_tab_discarding/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Samsung Internet often refreshes tabs when I return to them from another tab or app even if I only have 1 tab. I&#39;ve read Chrome and Firefox do too.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -130,15 +130,6 @@
       "thumbnail": null
     },
     {
-      "title": "Chrome eats my RAM, recommend me another browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Quick fact check",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
@@ -163,6 +154,15 @@
       "pubDate": "Fri, 28 Nov 2025 05:46:07 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>For some time now, I have been needing more features that I consider necessary for my daily life. I use Brave, but for years the community has been asking for certain features, but apparently they don&#39;t care, so I need to change browsers.</p>\n\n<p>I only ask for these requirements:</p>\n\n<ul>\n<li>Optimal use of resources</li>\n<li>Ability to hibernate tabs</li>\n<li>Workspaces</li>\n</ul>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Chrome eats my RAM, recommend me another browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T17:33:44.326Z"
+  "lastFetched": "2025-11-29T18:51:31.696Z"
 }

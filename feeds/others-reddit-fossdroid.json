@@ -40,12 +40,12 @@
       "thumbnail": null
     },
     {
-      "title": "YT Music Player",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
-      "pubDate": "Sat, 29 Nov 2025 10:06:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find a new music streaming player, because Outertune, Vivi and Metro list all don&#39;t work for various reasons. For me, outertune keeps displaying the error that it requires my sign in, any help with this will be great too </p>\n</div><!-- SC_ON -->",
+      "title": "Is there any self-hosted foss alternative to otter AI voice notes?",
+      "link": "https://redlib.perennialte.ch//r/selfhosted/comments/1p9ub8b/is_there_any_selfhosted_alternative_to_otter_ai/",
+      "guid": "https://redlib.perennialte.ch//r/selfhosted/comments/1p9ub8b/is_there_any_selfhosted_alternative_to_otter_ai/",
+      "pubDate": "Sat, 29 Nov 2025 17:40:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9uud3/is_there_any_selfhosted_foss_alternative_to_otter/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9uud3/is_there_any_selfhosted_foss_alternative_to_otter/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -55,6 +55,15 @@
       "pubDate": "Sat, 29 Nov 2025 13:47:00 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>When I add a physical keyboard to my Android tablet and switch to PC mode, Heliboard crashes. It happens within moments after I start typing. Even a Ctrl+V is enough to cause this. Is that a known issue with Heliboard? If I can&#39;t fix it, is there an alternative FOSS keyboard app that is known to work better with physical keyboards? I’d rather not have to lose Heliboard and certainly I don&#39;t want to re-activate Google’s keyboard.</p>\n\n<p>EDIT: Minutes after I posted this Heliboard 3.6 which solved the crashes and other issues associated with physical keyboard. Now it won&#39;t switch to another language. </p>\n\n<p>Lenovo Ideatab, Android 15.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "YT Music Player",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
+      "pubDate": "Sat, 29 Nov 2025 10:06:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find a new music streaming player, because Outertune, Vivi and Metro list all don&#39;t work for various reasons. For me, outertune keeps displaying the error that it requires my sign in, any help with this will be great too </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p74bx3/building_ai_apps_for_everyday_use/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So I wanted to just share some humble feedback for the open source community. As you might have read in the news there are a few articles now circulating that &quot;thinking have become a luxury.&quot; </p>\n\n<p>You might have also read articles that say that even Ai detection and plagiarism detection tools are flagging genuine human input as Ai. Often right here on reddit is redditers claim their responses to be Ai when they are using higher vocabulary.</p>\n\n<p>So it is my humble plea that when you think of Ai projects to do. Here are some ideas that you should not really chase after. As in think of better use cases, ideation, and brainstorm better value proposition and empathy driven ideas, instead of these:</p>\n\n<ol>\n<li>Predefined text template based keyboard apps.</li>\n<li>Predefined text templates within email and chatting apps.</li>\n<li>Quick response suggestions in Android clipboard and general copy-paste based apps.</li>\n<li>Personalization templates in any word processing apps and their addons.</li>\n<li>Grammerly types that use composing entire paragraphs and sections of text.</li>\n<li>Anything adding more than 3 words on its own based on Ai logic.</li>\n</ol>\n\n<p>Why I say this?<br/>\nThese tools while helping neurodivergent (dyslexic and ADD/ADHD) users is actually harming users in the long run with effects very similar to that of prolonged social media use.</p>\n\n<p>A drawback I immediately see with users who maybe prone to chronic anxiety, trauma response (besides neurodivergent users) is that during anxiety they quickly input the suggested prompt and send, only to find some time later, &quot;oh dam, this is not what I wanted to say.&quot;</p>\n\n<p>So please it is my humble plea, build and design better. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "albums from yt music not showing in SimpMusic",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/",
-      "pubDate": "Tue, 25 Nov 2025 20:45:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>as the title says, my yt music albums are missing from all of the &#39;library&#39; tabs. in the home page some of the albums show under the &#39;including your  imported playlists&#39; title but i cant access the full list anywhere. is there a way to find my albums or does SimpMusic lack this feature ?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T17:33:29.346Z"
+  "lastFetched": "2025-11-29T18:51:17.138Z"
 }
