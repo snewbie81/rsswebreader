@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "YT Music Player",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
+      "pubDate": "Sat, 29 Nov 2025 10:06:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find a new music streaming player, because Outertune, Vivi and Metro list all don&#39;t work for various reasons. For me, outertune keeps displaying the error that it requires my sign in, any help with this will be great too </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Heliboard",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p64nj9/hey_outertune_users/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Is there any way to get an outertune widget on home screen .</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Any free Android music player with volume normalization for local files? (ReplayGain etc)",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/",
-      "pubDate": "Tue, 25 Nov 2025 05:29:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p64b6l/any_free_android_music_player_with_volume/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey,so I&#39;ve been searching for an Android free music player that can play local files and also has auto volume leveling (replayGain or whatever works) because all my songs have very different volume levels. Foobar does it, but listening in it so uncomfortable</p>\n\n<p>I tried a bunch of apps and most of them either ignore ReplayGain or say they support it but nothing actually changes.</p>\n\n<p>Basically I just need:</p>\n\n<p>Android app</p>\n\n<p>local music</p>\n\n<p>volume normalization</p>\n\n<p>Not so unusable like foobar</p>\n\n<p>thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T09:34:51.874Z"
+  "lastFetched": "2025-11-29T10:41:25.295Z"
 }
