@@ -22,12 +22,12 @@
       "thumbnail": null
     },
     {
-      "title": "What tools do you use to document and test APIs?",
-      "link": "/gallery/1p9u74x",
-      "guid": "/gallery/1p9u74x",
-      "pubDate": "Sat, 29 Nov 2025 17:16:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
+      "title": "I spent months building my own POS system for small stores. Would love some feedback!",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xehw/i_spent_months_building_my_own_pos_system_for/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xehw/i_spent_months_building_my_own_pos_system_for/",
+      "pubDate": "Sat, 29 Nov 2025 19:24:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xehw/i_spent_months_building_my_own_pos_system_for/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -46,6 +46,15 @@
       "pubDate": "Sat, 29 Nov 2025 07:35:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many here, I have several episodes on my PC and I&#39;d like a media player that, besides being aesthetically pleasing, has features like listing my episodes or allowing me to resume from where I left off... I want to know which media player offers the closest experience to watching Netflix, for example. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What tools do you use to document and test APIs?",
+      "link": "/gallery/1p9u74x",
+      "guid": "/gallery/1p9u74x",
+      "pubDate": "Sat, 29 Nov 2025 17:16:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -126,7 +135,7 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9an83/photo_editing_app_with_sticker_feature/",
       "pubDate": "Sat, 29 Nov 2025 00:22:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9an83/photo_editing_app_with_sticker_feature/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for an app that can help me make a collage that��s not a bunch of boxes. It could ideally take pictures of drawings with solid white backgrounds into stickers that I can then put several of those stickers into one image. </p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for an app that can help me make a collage that’s not a bunch of boxes. It could ideally take pictures of drawings with solid white backgrounds into stickers that I can then put several of those stickers into one image. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8opgi/is_it_too_late_to_switch_from_software_testing/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have 15 years of experience in QA with a CTC of 40+ LPA. In my last 3 companies, I built automation frameworks from scratch. But in every job, manual testing becomes the top priority. Management wants automation, but they also want quick results, so I never get enough time to actually work on automation or AI-based improvements.</p>\n\n<p>I’m good at manual, backend, and frontend testing, but because of the org structure, I rarely get a chance to work with the automation team or upskill in automation/AI. And we all know — only manual won’t survive for long, especially with AI growing everywhere.</p>\n\n<p>Promotion opportunities are also limited because most companies don’t have a separate QA vertical anymore. And if I look outside, people at my experience level (40–50 LPA range) are struggling to find new QA roles.</p>\n\n<p>So I’m stuck wondering:</p>\n\n<p>What should I do next? Should I switch domains, focus on AI/automation, or something else?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Does anyone know of a DVD authoring program that will let me manually write the code for the menus?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8nrqq/does_anyone_know_of_a_dvd_authoring_program_that/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8nrqq/does_anyone_know_of_a_dvd_authoring_program_that/",
-      "pubDate": "Fri, 28 Nov 2025 06:23:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8nrqq/does_anyone_know_of_a_dvd_authoring_program_that/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been looking into the DVD Video instruction set and would like to experiment making a small little thing with it. The problem is that I can&#39;t find a DVD authoring program that will let me write the code for the menus myself. Does anyone know of a program that allows this? Preferably free if possible.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-29T18:51:34.453Z"
+  "lastFetched": "2025-11-29T19:27:18.875Z"
 }
