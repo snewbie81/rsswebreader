@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "Is Firefox really reliable?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
-      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Some websites will not load on my PC why",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
@@ -58,12 +49,12 @@
       "thumbnail": null
     },
     {
-      "title": "Chrome eats my RAM, recommend me another browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
+      "title": "Is Firefox really reliable?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -82,6 +73,15 @@
       "pubDate": "Fri, 28 Nov 2025 11:19:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8sfid/are_there_any_other_android_browsers_besides/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8sfid/are_there_any_other_android_browsers_besides/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Chrome eats my RAM, recommend me another browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T03:37:47.315Z"
+  "lastFetched": "2025-11-29T04:44:25.246Z"
 }
