@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Playing Get to the Top Although There gtttatint BFDI LIVE",
+      "link": "https://youtube.com/live/DO61F2bIVds?si=oEHk9ZHMs5PTxjLy",
+      "guid": "https://youtube.com/live/DO61F2bIVds?si=oEHk9ZHMs5PTxjLy",
+      "pubDate": "Sat, 29 Nov 2025 15:16:17 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9rddp/playing_get_to_the_top_although_there_gtttatint/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This is a browser game</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I lost all my sessions/tabs after trying to move Brave's cache to another folder. And now I have learned.",
       "link": "/img/kaqvqjftd44g1.png",
       "guid": "/img/kaqvqjftd44g1.png",
@@ -85,21 +94,21 @@
       "thumbnail": null
     },
     {
-      "title": "Chrome eats my RAM, recommend me another browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Microsoft edge running 44 tabs when not open and taking all memory of pc",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
       "pubDate": "Sat, 29 Nov 2025 00:07:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Chrome eats my RAM, recommend me another browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7ianm/natsumi_floorp_now_with_transparency/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>My post yesterday got some decent attention, so I thought I&#39;d follow up with my final touches to Natsumi. New features are getting added all the time, v6 is just around the corner and I&#39;m so excited!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Need help running legacy IE VBA macro on modern Windows / Edge",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/",
-      "pubDate": "Thu, 27 Nov 2025 20:07:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a VBA macro in Excel that used to extract data from a web page using Internet Explorer COM automation. The macro works by finding an existing IE window (Shell.Application + ie.document) and reading values from HTML elements.</p>\n\n<p>Since Internet Explorer was retired and replaced by Microsoft Edge, the macro no longer works. My attempts so far:</p>\n\n<p>Opening the page in IE Mode on Edge → macro cannot detect the page, still gives: &quot;Please open the eReferral page in IE first.&quot;</p>\n\n<p>Trying Selenium/Edge automation → works only by opening a new browser, but I really need the macro to work with the page already open like before.</p>\n\n<p>Enabling Internet Explorer in Windows Features → opening IE redirects automatically to Edge, so the macro still cannot detect the IE window.</p>\n\n<p>Essentially, the macro relies on the old IE COM object, and there seems to be no way to connect to an already open page in Edge or IE Mode.</p>\n\n<p>Question: Is there any way to:</p>\n\n<p>Re-enable a “real” Internet Explorer on Windows 10/11 so that VBA COM automation works like before? (Optimal solution).</p>\n\n<p>Or maybe make a legacy VBA macro detect and read a page in IE Mode on Edge?</p>\n\n<p>Any advice or workaround to keep this macro working as it did with IE would be greatly appreciated!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T14:36:44.358Z"
+  "lastFetched": "2025-11-29T15:34:18.060Z"
 }

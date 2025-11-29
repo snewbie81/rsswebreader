@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Edge won't stop opening on windows startup (even after I disabled the setting)",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/",
+      "pubDate": "Sat, 29 Nov 2025 14:47:58 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I re-start (windows 11) Microsoft Edge opens automatically.<br/>\nI do not want this.</p>\n\n<p><strong>Things I have tried that did not work:</strong><br/>\n1) Disabled it under Startup Apps in Task Manager</p>\n\n<p>2) Confirmed that it is disabled under Widows Settings &gt; Startup<br/>\n- Disabled &quot;Automatically Save restartable Apps when I sign out</p>\n\n<p>3) Opened Edge Settings &gt; System &amp; Performance &gt;<br/>\n   - Disabled Startup Boost<br/>\n   - Disabled &quot;Continue Running Background Extensions when Edge is Closed&quot;</p>\n\n<p>4) Changed the Edge autostart settings in the registry  regedit.exe<br/>\n  (removed  Data:[address of Edge] from AutoRunOnLogon)</p>\n\n<p>5) Re-started (more than once) after these attempts.</p>\n\n<p>It&#39;s STILL popping up every time I start.<br/>\nDoes anyone have other suggestions?    </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Removed my Microsoft account and lost my favorites and history. Can they be recovered?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9ptkx/removed_my_microsoft_account_and_lost_my/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9ptkx/removed_my_microsoft_account_and_lost_my/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p71k0z/edge_vs_packagedmediareddit_constant_buffering/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m using the latest stable version of Microsoft Edge (version 142) on Windows 11 with a fast fiber connection. I&#39;m experiencing a persistent issue where videos served from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> load very slowly and buffer every couple of seconds during playback.</p>\n\n<p>This only happens in Edge. When I use Firefox or Chrome, they resolve <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> to the same IP address and load the same videos, whether via direct links or from the original Reddit posts, without any problems: no slowdowns, buffering or stuttering. Other video and streaming services, such as YouTube, Netflix, and Twitch, work flawlessly in Edge.</p>\n\n<p>Efficiency mode is disabled, hardware acceleration is enabled, and the only extensions I have active in Edge are Bitwarden and AdGuard. Their configurations are identical to those in Firefox and Chrome. What could be causing this issue with loading media from <a href=\"http://packaged-media.redd.it\"><code>packaged-media.redd.it</code></a> specifically in Edge?</p>\n\n<p>Here are the troubleshooting steps I&#39;ve already tried, none of which helped:</p>\n\n<ul>\n<li>Disabling all extensions</li>\n<li>Turning off hardware acceleration</li>\n<li>Resetting Edge settings to default</li>\n<li>Restarting my router, modem and PC</li>\n<li>Trying different DNS resolvers</li>\n<li>Changing the user agent to Chrome or Firefox</li>\n<li>Disabling Enhance Videos option</li>\n</ul>\n\n<p>Thanks in advance for any help.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "edge opening randomly??",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p6fbwt/edge_opening_randomly/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p6fbwt/edge_opening_randomly/",
-      "pubDate": "Tue, 25 Nov 2025 15:27:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p6fbwt/edge_opening_randomly/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>hi! edge just opened up randomly and looked up sawyeer sweeton &amp; then went to images?? edge isnt set to my default browser so i have zero clue why it would even be opening up, esp since i havent used edge in several months. . . anyone have any idea what mightve caused this ?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-29T14:36:41.874Z"
+  "lastFetched": "2025-11-29T15:34:15.563Z"
 }
