@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Unable to set Gmail as my default EMAIL handler in Microsoft Edge",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/",
+      "pubDate": "Sat, 29 Nov 2025 06:40:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It all began with opening mailto links. When I was trying to open a mailto link in Microsoft Edge it was not opening anything. </p>\n\n<p>So, I went to GMAIL for setting it as my default EMAIL HANDLER. The icon for the handler was appearing at first, I clicked at the wrong button (to navigate to settings instead of allowing). Now the icon has disappeared and is not appearing.</p>\n\n<p>I have tried to remove all site permissions and cookies also. I have not found any settings related to EMAIL HANDLER (or Protocol Handler) as AI suggested. Then, I have even tried the registry editor to add a string value (RegisteredProtocolHandlers) but all in vain. I am still unable to open mailto links. Please help 😥 </p>\n\n<p><a href=\"/preview/pre/qqksovjv554g1.png?width=1071&amp;format=png&amp;auto=webp&amp;s=8cd54ebfe39124270c985600a9c077946063833d\">EMAIL HANDLER icon disappeared</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Control P captures small portion of Facebook post instead of all of it",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5c2la/just_upgraded_my_new_tab_extension_again_home/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve just pushed a new update for Home Sweet Home, and I wanted to share what’s new. This release focuses on making the new tab page feel more dynamic, more polished, and easier to customize.</p>\n\n<p>Here’s what’s new:</p>\n\n<ul>\n<li>Daily Wallpaper : Your new tab now shows a different background every day, automatically.</li>\n<li>Adaptive Wallpapers : Wallpapers can now change depending on the time of day: morning, afternoon, evening, and night.</li>\n<li>New Wallpaper Collection : I’ve added several new wallpapers to give you more choices when customizing your page.</li>\n<li>Cleaner Interface : Category titles have been replaced with icons for a more modern and simple layout.</li>\n<li>Improved Home Assistant Setup : A new documentation page is now available to help you connect Home Sweet Home with Home Assistant easily.</li>\n<li>Bug Fixes</li>\n</ul>\n\n<p>Thanks to everyone who reported issues. Your feedback really helps.</p>\n\n<p>If you’ve never heard of the extension before: Home Sweet Home is a small project I started recently, and it lets you customize your new tab page with widgets, your favorite links, custom icons, bookmarks, and even Home Assistant controls. It’s still modest in scale (about 45 users), but I’m doing my best to make it better update after update.</p>\n\n<p>Here are the links if you want to try it or update:</p>\n\n<p>Chrome: <a href=\"https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh\">https://chromewebstore.google.com/detail/home-sweet-home/hliapbikacikepiaojmphlhndgjmlodh</a></p>\n\n<p>Edge: <a href=\"https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko\">https://microsoftedge.microsoft.com/addons/detail/home-sweet-home/dllgnjnckigifjgfiijdahnoohclacko</a></p>\n\n<p>Firefox: <a href=\"https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/\">https://addons.mozilla.org/fr/firefox/addon/home-sweet-home/</a></p>\n\n<p>If you have suggestions, ideas for new widgets, or anything else, I’d love to hear it. Thanks for the support!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Edge keeps signing me out from everything.",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/",
-      "pubDate": "Mon, 24 Nov 2025 22:32:13 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p5vemt/edge_keeps_signing_me_out_from_everything/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says. It happens almost every time, but not quite. It was doing it for some time now, but only once a day every other day. Lately it got to a point where it signs me out multiple times a day.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-29T05:41:02.006Z"
+  "lastFetched": "2025-11-29T06:54:42.409Z"
 }

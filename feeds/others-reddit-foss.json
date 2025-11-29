@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "NitroSense Alternative",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
+      "pubDate": "Sat, 29 Nov 2025 05:40:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an Acer Nitro 17 (AN17-41-R7G3) and I nuked Windows off it and installed CachyOS. Is a FOSS alternative to NitroSense? NitroSense is unfortunately, but understandably, only available on Windows.</p>\n\n<p>Also I am using KDE and Wayland</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "[Project] mindscribe - Local audio/video transcription with speaker diarization",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1p97ff5/project_mindscribe_local_audiovideo_transcription/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1p97ff5/project_mindscribe_local_audiovideo_transcription/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ozbih9/privmeta_an_opensource_metadata_removal_tool_for/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey peeps,</p>\n\n<p>Ever used a site like SmallPDF or PDFtoDoc and felt weird about uploading your files to a random server just to do something simple?</p>\n\n<p>That&#39;s why I made<a href=\"https://www.privmeta.com/\"> PrivMeta</a> — an open-source lightweight browser app that removes metadata from docs, images and PDFs right on your device.</p>\n\n<ul>\n<li>Works completely in-browser — your files never leave your computer</li>\n<li>You can even turn off your Wi-Fi while using it</li>\n<li>It’s free and open source (Here&#39;s my <a href=\"https://github.com/DScaife/privmeta\">repo</a>)</li>\n</ul>\n\n<p>It’s meant to be a super-simple privacy tool. In the future, I’m thinking of making more tools like this — maybe file converters, PDF redaction, that kind of thing — all running locally, with zero server-side processing.</p>\n\n<p>I’d love to hear your thoughts. Are there any features you’d find useful in something like this? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Debating releasing a baby as FOSS and I'm anxious...",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/",
-      "pubDate": "Mon, 17 Nov 2025 01:27:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1oz39f1/debating_releasing_a_baby_as_foss_and_im_anxious/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey reddit!</p>\n\n<p>I&#39;ve been working on a little software project for a while and now that it&#39;s getting pretty close to &quot;minimum viability&quot; (in other words I spend more time using it then working on it haha) I&#39;ve been trying to spend some time considering how I want to release it into the world...</p>\n\n<p>For one, there&#39;s a part of me which wishes I could recoup some of the time and money I&#39;ve dumped into it by releasing it as a paid app, but there&#39;s a much larger part of me which really wants to release it as FOSS. </p>\n\n<p>I love FOSS projects. I strongly agree with the principal of open source and have even donated to a couple OS projecs. In all honesty I know exactly how I want to release this software (btw, it&#39;s a Digital Asset Manager for songs in the ChordPro format which converts to chord over lyric, formats in a fun way, has some editors for both formats, metadata tracking and tagging, a chord generator so hovering over a chord shows a tooltip for the chord, tracks performances, etc. think if Ultimate Guitar and digikam had a baby), but I&#39;m anxious about releasing it at all.</p>\n\n<p>It&#39;s something i want to share because it brings me a ton of value, and I think especially if I collaborated with some other musicians it could really end up being a really nifty tool for some people, but also, my coding skills kinda suck so I relied pretty heavily on vibe coding  for a lot of it. I went off on several different tangents as I developed the vision, searched random pathways for solutions to stupid issues I was having, my code consistency is terrible because, well, vibe coding...</p>\n\n<p>So, while I do feel proud of the work I did put into it, and I&#39;m genuinely happy with the product I&#39;ve been able to kludge together (for myself), I also feel deeply self conscious of the quality of &quot;my code&quot;, and I almost don&#39;t want anyone looking under the hood to see what a mess it is.</p>\n\n<p>I realize at the end of the day I&#39;m just some dude who had a neat idea and put in hundreds of hours of his life using the tools available to him to make something come out if it rather than just watching TV or something, and that&#39;s nothing to be ashamed of, but idk.</p>\n\n<p>Maybe I&#39;m just looking for some inner clarity here. What are your thoughts on this?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-29T05:40:46.891Z"
+  "lastFetched": "2025-11-29T06:54:26.886Z"
 }
