@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is Firefox really reliable?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Some websites will not load on my PC why",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
@@ -46,15 +55,6 @@
       "pubDate": "Sat, 29 Nov 2025 00:07:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Is Firefox really reliable?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
-      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T04:44:25.246Z"
+  "lastFetched": "2025-11-29T05:41:04.755Z"
 }
