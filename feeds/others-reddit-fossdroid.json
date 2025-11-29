@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Anyone heard of 'PACE' app? Is this incredible project actually dead?",
+      "link": "/img/kpfc8q7wq34g1.png",
+      "guid": "/img/kpfc8q7wq34g1.png",
+      "pubDate": "Sat, 29 Nov 2025 02:00:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9coic/anyone_heard_of_pace_app_is_this_incredible/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>I thought it might be nice if we brought this project back into the light together - maybe someone would love to fork it and turn it into something meaningful again. :)</em></strong></p>\n\n<p>-</p>\n\n<p>Hey everyone,</p>\n\n<p>A couple of months ago, I stumbled across this app in an old Reddit thread about FOSS, privacy-friendly alternatives to popular everyday apps. PACE was recommended as one of the most well-rounded options for tracking walks and hikes (anything fitness related), with solid stats and features.</p>\n\n<p>Unfortunately, by the time I found it, development seemed to have stalled, and it&#39;s no longer available anywhere I can find. The <strong><em>website</em></strong> still has this &quot;update&quot; banner about a new version coming soon, but it&#39;s been up there for ages without any actual progress.</p>\n\n<ul>\n<li>Their website: <a href=\"https://withpace.io/\">https://withpace.io/</a></li>\n<li>Github page: <a href=\"https://github.com/withpaceio/pace-app\">https://github.com/withpaceio/pace-app</a></li>\n</ul>\n\n<p>Just wondering if anyone here knows more about it or if the app is officially dead. Any info would be appreciated!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Heliboard",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
@@ -157,15 +166,6 @@
       "thumbnail": null
     },
     {
-      "title": "Anyone heard of 'PACE' app? Is the project dead?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6z6qn/anyone_heard_of_pace_app_is_the_project_dead/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6z6qn/anyone_heard_of_pace_app_is_the_project_dead/",
-      "pubDate": "Wed, 26 Nov 2025 05:09:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6z6qn/anyone_heard_of_pace_app_is_the_project_dead/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>A couple of months ago, I stumbled across this app in an old Reddit thread about FOSS, privacy-friendly alternatives to popular everyday apps. PACE was recommended as one of the most well-rounded options for tracking walks and hikes (anything fitness related), with solid stats and features.</p>\n\n<p>Unfortunately, by the time I found it, development seemed to have stalled, and it&#39;s no longer available anywhere I can find. The <strong><em>website</em></strong> still has this &quot;update&quot; banner about a new version coming soon, but it&#39;s been up there for ages without any actual progress.</p>\n\n<ul>\n<li>Their website: <a href=\"https://withpace.io/\">https://withpace.io/</a></li>\n<li>Github page: <a href=\"https://github.com/withpaceio/pace-app\">https://github.com/withpaceio/pace-app</a></li>\n</ul>\n\n<p>Just wondering if anyone here knows more about it or if the project&#39;s officially dead. Any info would be appreciated!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "PassVault v0.8.0-beta - Open Source Password Manager now supports Argon2 Encryption and Better Import/Export",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/",
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-28T23:31:55.304Z"
+  "lastFetched": "2025-11-29T03:37:33.021Z"
 }

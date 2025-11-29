@@ -13,12 +13,12 @@
       "thumbnail": null
     },
     {
-      "title": "Chrome eats my RAM, recommend me another browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
-      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
+      "title": "X CountryBadge: See their real country and App Store region",
+      "link": "",
+      "guid": "",
+      "pubDate": "Sat, 29 Nov 2025 03:01:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9dxlq/x_countrybadge_see_their_real_country_and_app/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I built <a href=\"https://buildmelon.com/x-countrybadge/\">X CountryBadge</a> to help users verify account locations. </p>\n\n<p>When you click the new pin icon next to any username, the extension fetches that specific account&#39;s location information and displays it right there on your timeline.</p>\n\n<p><strong>Features:</strong></p>\n\n<ul>\n<li>Instantly reveals the country of origin for any account</li>\n<li>Toggle between Flag or Text display modes</li>\n<li>Hover over the badge to see the connected App Store region </li>\n<li>Unlimited fetches, free to use</li>\n<li>Runs entirely locally on your browser for privacy</li>\n</ul>\n\n<p>It is available now on the <a href=\"https://chromewebstore.google.com/detail/fldiebelpcgjgdlmkmbohiljpkdeillj?utm_source=item-share-cb\">Chrome Web Store</a> and <a href=\"https://addons.mozilla.org/en-US/firefox/addon/x-countrybadge/\">Firefox Add-ons</a>.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -28,6 +28,42 @@
       "pubDate": "Fri, 28 Nov 2025 17:06:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p904t8/background_services/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I no longer use Brave, but I want to keep it installed. How can I prevent these services from running?</p>\n\n<p>I already tried removing them from the task scheduler, but it didn&#39;t work.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is Firefox really reliable?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Some websites will not load on my PC why",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
+      "pubDate": "Sat, 29 Nov 2025 01:50:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Certain websites that I have previously been able to operate on perfectly will not work for me. I either get a &quot;404 Forbidden Cloudflare&quot;, just a wall of text where the content should be, or it just loads forever. I have tried 4 different browsers, removing all extentions, using a VPN, and reaching out to customer service where all they tell me is &quot;try different browsers and remove extentions&quot;. The sites work perfectly on my laptop and phone on the same network, but not my PC and its really really really really annoying. Am I getting detected as a bot or something idk</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Microsoft edge running 44 tabs when not open and taking all memory of pc",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
+      "pubDate": "Sat, 29 Nov 2025 00:07:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Chrome eats my RAM, recommend me another browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
+      "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -94,21 +130,21 @@
       "thumbnail": null
     },
     {
-      "title": "Use chrome, it's better!",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/",
-      "pubDate": "Fri, 28 Nov 2025 21:55:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello my name is Alfredovic Lickamaballszo and i am from Israel/Poland/Romania. Today i will tell you why chrome is the best browser. It invades your privacy, and we all know that the less privacy - the better. That&#39;s the first and also the main reason of why you should use it. No need for privacy anyways nowdays when you really think about it, because if goverment and social media companiesa re collecting your personal data, they can be more successful in providing you the correct ads, which you also should never block and watch every single one of them.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Looking for a fast and customizable browser",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
       "pubDate": "Fri, 28 Nov 2025 07:42:29 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently made the switch to Linux in an attempt to free myself from the mega-corporations and I&#39;ve been using Opera so far since that&#39;s what I used on Windows.</p>\n\n<p>I&#39;ve really enjoyed the amount of customization and unique features that Opera provides, but the whole browser feels a bit bloated and somewhat questionable <strong>in my opinion.</strong> Anyways I&#39;ve gotten tired of the mild inconveniences and weirdness that I have to deal with when using Opera, it feels like it&#39;s not in my best interest and I would like to switch to something possibly better.</p>\n\n<p>Productivity and workspace management features don&#39;t matter to me, I just want a light, fast and highly customizable chromium-based browser that I don&#39;t have to worry about.</p>\n\n<p>This request might be too specific but I would appreciate any suggestions that are similar to what I described, thanks!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Use chrome, it's better!",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/",
+      "pubDate": "Fri, 28 Nov 2025 21:55:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello my name is Alfredovic Lickamaballszo and i am from Israel/Poland/Romania. Today i will tell you why chrome is the best browser. It invades your privacy, and we all know that the less privacy - the better. That&#39;s the first and also the main reason of why you should use it. No need for privacy anyways nowdays when you really think about it, because if goverment and social media companiesa re collecting your personal data, they can be more successful in providing you the correct ads, which you also should never block and watch every single one of them.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I hate ARC...SOLELY for the fact it doesn&#39;t allow<br/>\n<strong>&quot;a hide border option&quot;</strong>...like what the heck?<br/>\nI&#39;d say it&#39;s a perfect browser (UI-wise) if it just had that.</p>\n\n<p>- I say, we bombard TheBrowserCompany with request to add this feature<br/>\n- High Utility Feature w/ a Low Amt. of Code on their end.<br/>\nWhose with me? Can we start a mvmt, here? 💙⚔️🔥</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Royalgames Alternative / Challenges, Tournaments",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p860dx/royalgames_alternative_challenges_tournaments/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p860dx/royalgames_alternative_challenges_tournaments/",
-      "pubDate": "Thu, 27 Nov 2025 16:10:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p860dx/royalgames_alternative_challenges_tournaments/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p>\n\n<p>Is there an alternative to the old RoyalGames website where you can challenge your family/friends? My family and I played royalgames for a long time. About 10 years and we miss challenging each other :D and playing tournaments and so on.. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Hardened Firefox vs. Librewolf",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p859iv/hardened_firefox_vs_librewolf/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p859iv/hardened_firefox_vs_librewolf/",
-      "pubDate": "Thu, 27 Nov 2025 15:40:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p859iv/hardened_firefox_vs_librewolf/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am using Librewolf for a long time, but I have problems with the browser, like Reddit or other social media platforms feel bad when scrolling or some websites have problems when loading, even sometimes websites won&#39;t load, and I don&#39;t know why.</p>\n\n<p>I heard Hardened Firefox recently but I am not sure what it&#39;s doing and is there any difference between them, and I don&#39;t know how to apply it myself. Plus I am not sure if I need to switch to Firefox.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Android Chromium Browsers bug (black bar) ?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p84ouz/android_chromium_browsers_bug_black_bar/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p84ouz/android_chromium_browsers_bug_black_bar/",
-      "pubDate": "Thu, 27 Nov 2025 15:17:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p84ouz/android_chromium_browsers_bug_black_bar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/1tju4rs2gt3g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=a659926ecc3345317ddd79dee90b8969d36122ac\">/preview/pre/1tju4rs2gt3g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=a659926ecc3345317ddd79dee90b8969d36122ac</a></p>\n\n<p>I use my Android browser for almost anything.. Telegram, Facebook, YouTube, X,.. And you name it.</p>\n\n<p>I noticed recently that there&#39;s always a black bar with the address of the current Webpage just above the keyboard whenever I try to type a text. It shows up regardless which keyboard I use so it&#39;s almost certainly related to the browser.</p>\n\n<p>I tried both Opera and brave and this issue appears on both.</p>\n\n<p>Any idea how to remove it?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Now that Cromite has extension support and can also run UserScripts is this now the best Android browser.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p7lw2z/now_that_cromite_has_extension_support_and_can/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p7lw2z/now_that_cromite_has_extension_support_and_can/",
-      "pubDate": "Wed, 26 Nov 2025 22:42:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7lw2z/now_that_cromite_has_extension_support_and_can/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7lw2z/now_that_cromite_has_extension_support_and_can/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-28T23:32:10.313Z"
+  "lastFetched": "2025-11-29T03:37:47.315Z"
 }
