@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "FOSS apps not showing up on my new Pixel 8a. (details within)",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p9ttue/foss_apps_not_showing_up_on_my_new_pixel_8a/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9ttue/foss_apps_not_showing_up_on_my_new_pixel_8a/",
+      "pubDate": "Sat, 29 Nov 2025 16:58:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p9ttue/foss_apps_not_showing_up_on_my_new_pixel_8a/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Edit:</strong> Title should read &quot;not showing up on my Android Auto&quot;. Sorry about that. I wish you could edit titles.</p>\n\n<p>I just got a new Pixel phone. A lot of the FOSS apps that I like to use are not showing up as options in the Android Launcher. </p>\n\n<p>On my older Pixel 6a that I recently had to stop using, I could go into Android Auto and Customize Launcher and all of the my FOSS apps that had Android Auto capabilities would show up. None of them are showing up on my new Pixel 8a though.  Is there something disabled in newer versions or is there something I&#39;m supposed to do to get those to show up?\nThanks</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "NitroSense Alternative",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Any suggestion for PDF reader/editor?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Building an open-source enterprise middleware over flo-ai",
-      "link": "https://redlib.perennialte.ch//r/LocalLLaMA/comments/1p0h3mi/building_an_opensource_enterprise_middleware_over/",
-      "guid": "https://redlib.perennialte.ch//r/LocalLLaMA/comments/1p0h3mi/building_an_opensource_enterprise_middleware_over/",
-      "pubDate": "Wed, 19 Nov 2025 01:56:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p0uw3d/building_an_opensource_enterprise_middleware_over/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p0uw3d/building_an_opensource_enterprise_middleware_over/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-29T16:45:15.111Z"
+  "lastFetched": "2025-11-29T17:33:26.826Z"
 }

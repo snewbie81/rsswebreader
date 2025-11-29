@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "Edge Dev crashes on the third press of the F11 key",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/",
+      "pubDate": "Sat, 29 Nov 2025 16:53:10 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m hoping some developers working on Edge read this and fix this bug. I like using Wikipedia and Reddit (and other sites too) on full-screen mode and I don&#39;t really like how attempting to do that causes the browser to crash.</p>\n\n<p>This bug is reproducible. Edge Dev crashes exactly on the third press of the <code>F11</code> key. The interval between the presses seems to be indefinite, i.e., be it half a second or 15 minutes between presses, the browser will still crash on the third press of the <code>F11</code> key. I tried it on two different PCs, and they exhibit the same bug. The action of opening the window in full-screen mode doesn&#39;t seem to cause this because interacting with some on-page component to turn on full-screen — such as a button — doesn&#39;t seem to be the cause. I tried repeatedly turning full-screen on and off on YouTube and also using my JavaScript script several times, and the browser does not crash due to those actions. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Copilot button and features missing",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
+      "pubDate": "Sat, 29 Nov 2025 16:46:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>For a few weeks, the copilot button has been missing, and I have tried my best to fix it, but I couldn&#39;t  </p>\n\n<p>Clue that might help:<br/>\n1. The AI innovations section and Ask Copilot (when reading a pdf) are also missing from the Edge settings<br/>\n2. When I installed Edge Beta, the button and AI innovations section were there at first launch, then they were gone after the second launch ( I did not log in to the same Microsoft account )<br/>\n3. Same thing as the second one, but for another pc user account<br/>\n4. Same thing as the second one, but when the edge was updated<br/>\n5. The Copilot website works completely fine, even when logged in<br/>\n6. Copilot Vision works completely fine  </p>\n\n<p>things I have tried:<br/>\n1. resetting edge settings<br/>\n2. logging out and in<br/>\n3. Turning the copilot off and on<br/>\n4. Reinstalling Edge from settings<br/>\n5. Turning everything on related to Copilot in edge://flags<br/>\n6. Forcefully deleting Edge and reinstalling it from the official webpage<br/>\n7. Removing sync data and turning sync completely off<br/>\n8. Switching Microsoft account</p>\n\n<p>Related information:<br/>\nWindows 11 Pro latest update (10.0.26200 Build 26200)<br/>\nMicrosoft Edge is updated (Version 142.0.3595.94 (Official build) (64-bit))  </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Hong Kong",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7hd44/how_to_remove_anoying_popup_at_microsoft_edge/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7hd44/how_to_remove_anoying_popup_at_microsoft_edge/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Let's get a true Google-style Discover Feed on the Microsoft Edge New Tab Page!",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7c09z/lets_get_a_true_googlestyle_discover_feed_on_the/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7c09z/lets_get_a_true_googlestyle_discover_feed_on_the/",
-      "pubDate": "Wed, 26 Nov 2025 16:21:30 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p7c09z/lets_get_a_true_googlestyle_discover_feed_on_the/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! </p>\n\n<p>If you use Microsoft Edge and are looking for a more personalized and useful browsing experience, we need your help to push for a great feature.</p>\n\n<p>I&#39;ve submitted feedback to Microsoft asking them to replace the current, often limited and &#39;affiliate-heavy&#39; feed on the Edge New Tab Page (NTP) with a true &quot;Discover feed.&quot; This would be similar to what Google Chrome offers— a feed genuinely based on your interests and providing a wider, more relevant variety of content on both mobile and desktop.</p>\n\n<p>Why Upvote?</p>\n\n<ol>\n<li><p>More Relevant Content: Get news and articles based on your interests, not just a handful of affiliated sites.</p></li>\n<li><p>A Better Start Page: Make your New Tab Page actually useful for discovering things every time you open a tab.</p></li>\n<li><p>Microsoft Listens: These feedback votes are actively monitored by the Edge development team, and high-demand features get prioritized.</p></li>\n</ol>\n\n<p>Please take a second to upvote the idea on the Microsoft Feedback Portal here: </p>\n\n<p><a href=\"https://feedbackportal.microsoft.com/feedback/idea/d3757858-e1ca-f011-ad8f-7c1e52f38cbc\">https://feedbackportal.microsoft.com/feedback/idea/d3757858-e1ca-f011-ad8f-7c1e52f38cbc</a></p>\n\n<p>Thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Microsoft sign in",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/",
-      "pubDate": "Wed, 26 Nov 2025 13:56:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p78co3/microsoft_sign_in/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just tried to sign in to my microsoft account following a link I got from a microsoft notice and got the following message</p>\n\n<p><a href=\"/preview/pre/ric6g6d5xl3g1.png?width=869&amp;format=png&amp;auto=webp&amp;s=1c05ba9bf0f307f6559476f3e314e0d2c87a2d3f\">/preview/pre/ric6g6d5xl3g1.png?width=869&amp;format=png&amp;auto=webp&amp;s=1c05ba9bf0f307f6559476f3e314e0d2c87a2d3f</a></p>\n\n<p>Can&#39;t sign in from the microsoft page either. </p>\n\n<p>Anyonee know where I can find the correct sign in screen?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-29T16:45:30.439Z"
+  "lastFetched": "2025-11-29T17:33:41.890Z"
 }
