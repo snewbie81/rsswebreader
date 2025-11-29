@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Built a free collection of 40+ dev tools that run entirely in your browser - would love feedback",
+      "link": "https://redlib.perennialte.ch//r/SideProject/comments/1p9oakk/built_a_free_collection_of_40_dev_tools_that_run/",
+      "guid": "https://redlib.perennialte.ch//r/SideProject/comments/1p9oakk/built_a_free_collection_of_40_dev_tools_that_run/",
+      "pubDate": "Sat, 29 Nov 2025 13:19:07 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1p9os0l/built_a_free_collection_of_40_dev_tools_that_run/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1p9os0l/built_a_free_collection_of_40_dev_tools_that_run/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "TilBuci version 18 comes with usability improvements and new image manipulation features",
       "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1p6eemb/tilbuci_version_18_comes_with_usability/",
       "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1p6eemb/tilbuci_version_18_comes_with_usability/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1om6555/looking_for_volunteers_to_help_with_charlotteos/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1om6555/looking_for_volunteers_to_help_with_charlotteos/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Does VR work within a 100% non proprietary environment?",
-      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1ol5j12/does_vr_work_within_a_100_non_proprietary/",
-      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1ol5j12/does_vr_work_within_a_100_non_proprietary/",
-      "pubDate": "Fri, 31 Oct 2025 20:34:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ol5j12/does_vr_work_within_a_100_non_proprietary/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>—x-- (TL;DR: skip to the last part) —x—</p>\n\n<p>So with Monado plus OpenHMD I can connect my oculus rift cv1 to my desktop. My desktop uses a non-free/proprietary distro of GNU/Linux but I am going to get a laptop with GNU Boot at some point.</p>\n\n<p>Monado proclaims that it is fully open source, and OpenHMD is also fully free/libre and open source.</p>\n\n<p>So, if I were to use the headset with Monado on a free system, there would be no proprietary code/blobs, right?</p>\n\n<p>As for applications, there’s vr-video-player. But I don’t know of any games that are libre for vr.</p>\n\n<p>The only game I play with VR is Minecraft with the vivecraft mod but of course Minecraft is not libre, and I don’t think there’s any workaround to overcome that.</p>\n\n<p>—x—</p>\n\n<p>I’m guessing the main issue will probably have to do with graphics drivers? I doubt software rendering would work period, and even with an older GPU like a gtx 780ti(iirc) without blobs is used (as eGPU in the case of a thinkpad T420) I don’t know if any free graphics drivers are vr compatible; nouveau did not work with vr on my arch pc.</p>\n\n<p>So the choke point is going to be, I’m guessing, the graphics driver.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/freesoftware.rss",
-  "lastFetched": "2025-11-29T13:19:51.050Z"
+  "lastFetched": "2025-11-29T14:36:35.316Z"
 }

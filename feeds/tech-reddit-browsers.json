@@ -85,21 +85,21 @@
       "thumbnail": null
     },
     {
-      "title": "Microsoft edge running 44 tabs when not open and taking all memory of pc",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
-      "pubDate": "Sat, 29 Nov 2025 00:07:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Chrome eats my RAM, recommend me another browser",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
       "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Microsoft edge running 44 tabs when not open and taking all memory of pc",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
+      "pubDate": "Sat, 29 Nov 2025 00:07:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T13:20:00.094Z"
+  "lastFetched": "2025-11-29T14:36:44.358Z"
 }

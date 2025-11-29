@@ -49,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "Heliboard crashes when a physical keyboard is connected",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/",
+      "pubDate": "Sat, 29 Nov 2025 13:47:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I add a physical keyboard to my Android tablet and switch to PC mode, Heliboard crashes. It happens within moments after I start typing. Even a Ctrl+V is enough to cause this. Is that a known issue with Heliboard? If I can&#39;t fix it, is there an alternative FOSS keyboard app that is known to work better with physical keyboards? I’d rather not have to lose Heliboard and certainly I don&#39;t want to re-activate Google’s keyboard.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Heliboard",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nykk/albums_from_yt_music_not_showing_in_simpmusic/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>as the title says, my yt music albums are missing from all of the &#39;library&#39; tabs. in the home page some of the albums show under the &#39;including your  imported playlists&#39; title but i cant access the full list anywhere. is there a way to find my albums or does SimpMusic lack this feature ?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Outertune source error (2000)",
-      "link": "/img/7bbyqp7kwe3g1.jpeg",
-      "guid": "/img/7bbyqp7kwe3g1.jpeg",
-      "pubDate": "Tue, 25 Nov 2025 14:19:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6dlm6/outertune_source_error_2000/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I can&#39;t play any songs, uninstall and reinstall doesn&#39;t do anything. I have already sing in to my Google account and it won&#39;t help. Any solution pls. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T13:19:45.599Z"
+  "lastFetched": "2025-11-29T14:36:29.774Z"
 }
