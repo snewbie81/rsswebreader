@@ -58,21 +58,21 @@
       "thumbnail": null
     },
     {
-      "title": "Should this be fixed?",
-      "link": "/img/bz89pmsox04g1.jpeg",
-      "guid": "/img/bz89pmsox04g1.jpeg",
-      "pubDate": "Fri, 28 Nov 2025 16:32:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8z93z/should_this_be_fixed/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m experiencing an issue when trying to open a new tab in Microsoft Edge. Error codes appear and the tab doesn’t load properly. Could you please let me know how I might resolve this problem, and if there is an expected timeline for a fix? Thank you for your help.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Freeze when watching YouTube on Edge",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
       "pubDate": "Fri, 28 Nov 2025 10:25:25 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an AMD laptop, and lately my laptop sometimes freeze, not BSOD, the screen freeze, I cannot do anything except hold the power button to shutdown and turn it back on. The only common detail is that it&#39;s always happen when I watch YouTube on Edge?. This has happen before, and then don&#39;t happen for awhile, after 25H2 update (and some drivers auto update, some Edge updates too, honestly I have no idea what is the cause), it happen again, really frustrated. My laptop is Ideapad 5 Pro ryzen 7 6800HS, no dgpu, not open too much thing, just the browser.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Should this be fixed?",
+      "link": "/img/bz89pmsox04g1.jpeg",
+      "guid": "/img/bz89pmsox04g1.jpeg",
+      "pubDate": "Fri, 28 Nov 2025 16:32:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8z93z/should_this_be_fixed/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m experiencing an issue when trying to open a new tab in Microsoft Edge. Error codes appear and the tab doesn’t load properly. Could you please let me know how I might resolve this problem, and if there is an expected timeline for a fix? Thank you for your help.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-29T11:28:41.529Z"
+  "lastFetched": "2025-11-29T13:19:57.924Z"
 }

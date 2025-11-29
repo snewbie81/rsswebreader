@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Shared calendar + notes with girlfriend...FOSS",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1p9o571/shared_calendar_notes_with_girlfriendfoss/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9o571/shared_calendar_notes_with_girlfriendfoss/",
+      "pubDate": "Sat, 29 Nov 2025 12:47:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p9o571/shared_calendar_notes_with_girlfriendfoss/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p>\n\n<p>i need a synced calendar and notes app, right now we both use joblin and its really great for syncing on individual devices (android, linux, mac and windows...), for sync i use a self hosted nextcloud server. </p>\n\n<p>only issue is that we cant work on the same document or notes, how would you solve that whats  a good and simple sollution?</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "NitroSense Alternative",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p0uw3d/building_an_opensource_enterprise_middleware_over/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p0uw3d/building_an_opensource_enterprise_middleware_over/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "PrivMeta: An open-source metadata removal tool for privacy-conscious people",
-      "link": "/img/97i2xjpm8s1g1.png",
-      "guid": "/img/97i2xjpm8s1g1.png",
-      "pubDate": "Mon, 17 Nov 2025 09:02:17 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1ozbih9/privmeta_an_opensource_metadata_removal_tool_for/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey peeps,</p>\n\n<p>Ever used a site like SmallPDF or PDFtoDoc and felt weird about uploading your files to a random server just to do something simple?</p>\n\n<p>That&#39;s why I made<a href=\"https://www.privmeta.com/\"> PrivMeta</a> — an open-source lightweight browser app that removes metadata from docs, images and PDFs right on your device.</p>\n\n<ul>\n<li>Works completely in-browser — your files never leave your computer</li>\n<li>You can even turn off your Wi-Fi while using it</li>\n<li>It’s free and open source (Here&#39;s my <a href=\"https://github.com/DScaife/privmeta\">repo</a>)</li>\n</ul>\n\n<p>It’s meant to be a super-simple privacy tool. In the future, I’m thinking of making more tools like this — maybe file converters, PDF redaction, that kind of thing — all running locally, with zero server-side processing.</p>\n\n<p>I’d love to hear your thoughts. Are there any features you’d find useful in something like this? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-29T11:28:27.199Z"
+  "lastFetched": "2025-11-29T13:19:42.977Z"
 }
