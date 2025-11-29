@@ -49,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "Some websites will not load on my PC why",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
-      "pubDate": "Sat, 29 Nov 2025 01:50:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Certain websites that I have previously been able to operate on perfectly will not work for me. I either get a &quot;404 Forbidden Cloudflare&quot;, just a wall of text where the content should be, or it just loads forever. I have tried 4 different browsers, removing all extentions, using a VPN, and reaching out to customer service where all they tell me is &quot;try different browsers and remove extentions&quot;. The sites work perfectly on my laptop and phone on the same network, but not my PC and its really really really really annoying. Am I getting detected as a bot or something idk</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Is Firefox really reliable?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
       "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Some websites will not load on my PC why",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
+      "pubDate": "Sat, 29 Nov 2025 01:50:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Certain websites that I have previously been able to operate on perfectly will not work for me. I either get a &quot;404 Forbidden Cloudflare&quot;, just a wall of text where the content should be, or it just loads forever. I have tried 4 different browsers, removing all extentions, using a VPN, and reaching out to customer service where all they tell me is &quot;try different browsers and remove extentions&quot;. The sites work perfectly on my laptop and phone on the same network, but not my PC and its really really really really annoying. Am I getting detected as a bot or something idk</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T08:48:21.719Z"
+  "lastFetched": "2025-11-29T09:35:09.172Z"
 }
