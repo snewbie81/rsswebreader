@@ -54,7 +54,7 @@
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/",
       "pubDate": "Sat, 29 Nov 2025 13:47:00 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I add a physical keyboard to my Android tablet and switch to PC mode, Heliboard crashes. It happens within moments after I start typing. Even a Ctrl+V is enough to cause this. Is that a known issue with Heliboard? If I can&#39;t fix it, is there an alternative FOSS keyboard app that is known to work better with physical keyboards? I’d rather not have to lose Heliboard and certainly I don&#39;t want to re-activate Google’s keyboard.</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I add a physical keyboard to my Android tablet and switch to PC mode, Heliboard crashes. It happens within moments after I start typing. Even a Ctrl+V is enough to cause this. Is that a known issue with Heliboard? If I can&#39;t fix it, is there an alternative FOSS keyboard app that is known to work better with physical keyboards? I’d rather not have to lose Heliboard and certainly I don&#39;t want to re-activate Google’s keyboard.</p>\n\n<p>EDIT: Minutes after I posted this Heliboard 3.6 which solved the crashes and other issues associated with physical keyboard. Now it won&#39;t switch to another language. </p>\n\n<p>Lenovo Ideatab, Android 15.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T15:34:03.048Z"
+  "lastFetched": "2025-11-29T16:45:17.795Z"
 }

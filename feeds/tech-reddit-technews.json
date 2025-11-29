@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Public GitLab repositories exposed more than 17,000 secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
-      "guid": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
-      "pubDate": "Fri, 28 Nov 2025 23:52:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p99yg4/public_gitlab_repositories_exposed_more_than/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p99yg4/public_gitlab_repositories_exposed_more_than/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Chinese scientists create super stable building block for quantum computers",
       "link": "https://www.scmp.com/news/china/science/article/3334549/chinese-scientists-create-super-stable-building-block-quantum-computers",
       "guid": "https://www.scmp.com/news/china/science/article/3334549/chinese-scientists-create-super-stable-building-block-quantum-computers",
       "pubDate": "Sat, 29 Nov 2025 12:16:06 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p9nju7/chinese_scientists_create_super_stable_building/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p9nju7/chinese_scientists_create_super_stable_building/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Public GitLab repositories exposed more than 17,000 secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
+      "guid": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
+      "pubDate": "Fri, 28 Nov 2025 23:52:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p99yg4/public_gitlab_repositories_exposed_more_than/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p99yg4/public_gitlab_repositories_exposed_more_than/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-29T15:34:23.233Z"
+  "lastFetched": "2025-11-29T16:45:38.132Z"
 }

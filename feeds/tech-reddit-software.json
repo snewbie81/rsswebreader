@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Built a Simple yt-dlp GUI Downloader for Videos/Audio – Windows/Linux (Mac Soon). Feedback Welcome!",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
+      "pubDate": "Sat, 29 Nov 2025 16:01:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Folks, I&#39;d appreciate your help testing my video/audio downloader app built around <strong>yt-dlp</strong>.</p>\n\n<p>For Windows and Linux users right now (portable zips or installers), Mac support dropping soon.</p>\n\n<p><strong>Quick Highlights:</strong></p>\n\n<p><strong>Batch downloads</strong> with pause/resume and speed limits (no hogging your bandwidth).</p>\n\n<p><strong>Format picks:</strong> Videos in MKV/MP4, audio in M4A/MP3.</p>\n\n<p><strong>Smart extras:</strong> Custom folders, browser cookie imports, and auto-yt-dlp updates.</p>\n\n<p><strong>Privacy-first:</strong> Open-source, no tracking, just you and your media.</p>\n\n<p>Please let me know if you see any issues. Thanks. </p>\n\n<p>🌐 Website: <a href=\"https://mediatools.tech/video/downloader.html\">https://mediatools.tech/video/downloader.html</a></p>\n\n<p>📦 GitHub: <a href=\"https://github.com/MediaTools-tech/mediatools/releases\">https://github.com/MediaTools-tech/mediatools/releases</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Which media player is most similar to a streaming service?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
@@ -22,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "A good software for animation making and rendering?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
-      "pubDate": "Sat, 29 Nov 2025 11:02:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I&#39;ve been searching to find an application to try and learn making animations,I have no experience with it so wanted to know what apps I should try and what hardware requirements they have</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "A tool for fast papers/articles/books tagging and personal knowledge base",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/",
       "pubDate": "Sat, 29 Nov 2025 10:58:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a tool over the past few months because I (and a lot of people around me) kept failing to keep our papers/articles/books organized. I was using Google drive all the time but the search bar always failed to get the right document out if i forgot the exact title.</p>\n\n<p>I built this tool based on my research that can very effectively tag a huge amount of text files (even the very long files) comprehensively and automatically organize all the files into a clearn structure. I also designed a tag-based searching algorithm that helps me easily find the files by their semantic meanings (even when your search query is very vague). This is very easy to use and a few friends are testing on it but i still don&#39;t know if this tool is useful for more people.</p>\n\n<p>I found that after i add some simple editor and more sophisticated searching functionalities, this tool in fact became a very nice personal knowledge base like i can store all the papers and articles i want to read to it and it can properly organize them. </p>\n\n<p>So I hope to get some people to test this tool and just give some feedback. I just released this tool on this website:</p>\n\n<p><a href=\"http://www.unidrive.ai\">www.unidrive.ai</a></p>\n\n<p>Thanks for reading — even a single comment helps.</p>\n\n<p>Below is a screenshot of how that tool looks like. I was using one of my friends example who gave me some law-related study cases. </p>\n\n<p><a href=\"/preview/pre/rbl2zx0qf64g1.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=94f7995861ad38db40d2751b519cf8a236b06487\">/preview/pre/rbl2zx0qf64g1.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=94f7995861ad38db40d2751b519cf8a236b06487</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A good software for animation making and rendering?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
+      "pubDate": "Sat, 29 Nov 2025 11:02:34 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I&#39;ve been searching to find an application to try and learn making animations,I have no experience with it so wanted to know what apps I should try and what hardware requirements they have</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8ceat/translation/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello! New here um Is there like a website or certain software that I can download that does auto translation and overlay the text and recognizes speech for my pc for playing a non English game? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "A clean tool that converts any picture into a PDF in seconds",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/",
-      "pubDate": "Fri, 28 Nov 2025 09:02:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8qa1z/a_clean_tool_that_converts_any_picture_into_a_pdf/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I couldn’t find a fast and clean image-to-PDF converter, so I built one.</p>\n\n<p>no tracking, just pick your pictures and get a PDF instantly.</p>\n\n<p>Link:</p>\n\n<p><a href=\"https://picturetopdf.in\">https://picturetopdf.in</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-29T15:34:20.754Z"
+  "lastFetched": "2025-11-29T16:45:35.754Z"
 }
