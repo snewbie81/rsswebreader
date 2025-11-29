@@ -13,12 +13,12 @@
       "thumbnail": null
     },
     {
-      "title": "Twitch On Browser Help",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
-      "pubDate": "Sat, 29 Nov 2025 02:00:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I open Twitch and click on a stream, it plays for about one minute and then starts loading forever until I refresh the page. It does this in Firefox and every other browser I try. I’m on PC. Can someone please help? It’s driving me crazy.</p>\n</div><!-- SC_ON -->",
+      "title": "Which media player is most similar to a streaming service?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
+      "pubDate": "Sat, 29 Nov 2025 07:35:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many here, I have several episodes on my PC and I&#39;d like a media player that, besides being aesthetically pleasing, has features like listing my episodes or allowing me to resume from where I left off... I want to know which media player offers the closest experience to watching Netflix, for example. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -28,6 +28,15 @@
       "pubDate": "Sat, 29 Nov 2025 06:43:59 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9i3se/document_generationworkflow/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Good afternoon, I’m trying to automate the document workflow for our equipment rental business and would like some suggestion for programs. I’m not super knowledgeable but am not in a huge rush and don’t mind learning</p>\n\n<p>Based off what I’ve read so far I’ve switched from using zapier to Make which I really like so far. The big issue I’ve come across is programs for auto generating forms for signature and custom receipts. They seem very expensive atleast the two I’ve tried pandadoc and signnow after using the monthly or yearly credit for automation it comes out to about $4 on pandadoc and $3 on signow per customer. If that’s not expensive please just let me know I’m being cheap</p>\n\n<p>Any suggestions on other programs for document generation? The main document workflow I’m trying is down below </p>\n\n<p>Form one- Trailer rental agreement- one signature and date with driver license photo</p>\n\n<p>Form two- custom receipt with order information/ gate codes etc. </p>\n\n<p>Stripe-&gt;Make-&gt; generate rental agreement-&gt;send/sign-&gt; once signed send receipt </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Twitch On Browser Help",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
+      "pubDate": "Sat, 29 Nov 2025 02:00:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I open Twitch and click on a stream, it plays for about one minute and then starts loading forever until I refresh the page. It does this in Firefox and every other browser I try. I’m on PC. Can someone please help? It’s driving me crazy.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8acwo/anyone_know_tools_that_are_simple_friendly_and/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>We’re growing way faster than expected and I’m running HR solo. The execs want a proper performance review system, but I really want to avoid rolling out something that feels heavy or formal.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Any AI that can turn my tutorial videos into Markdown docs?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/",
-      "pubDate": "Thu, 27 Nov 2025 11:25:40 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p7zwi4/any_ai_that_can_turn_my_tutorial_videos_into/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve got 40+ video lessons on how to use Azure DevOps, and I’d really like to turn them into written docs.</p>\n\n<p>What I’m looking for is some kind of AI tool that can:</p>\n\n<ul>\n<li>“Watch” each video</li>\n<li>Turn what I’m doing/saying into a clean Markdown file (one per video)</li>\n<li>Bonus points if it can also grab relevant screenshots and drop them into the doc as images</li>\n</ul>\n\n<p>Does anything like this exist? Any tools or AI workflows you’d recommend to make this happen?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-29T07:32:18.245Z"
+  "lastFetched": "2025-11-29T08:48:24.414Z"
 }

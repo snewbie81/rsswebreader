@@ -22,6 +22,24 @@
       "thumbnail": null
     },
     {
+      "title": "I lost all my sessions/tabs after trying to move Brave's cache to another folder. And now I have learned.",
+      "link": "/img/kaqvqjftd44g1.png",
+      "guid": "/img/kaqvqjftd44g1.png",
+      "pubDate": "Sat, 29 Nov 2025 07:37:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9iztz/i_lost_all_my_sessionstabs_after_trying_to_move/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been using Brave for many years without issues, but for the past few weeks whenever I use it to download files from MEGA, MEGA would sometimes pause midway to tell me to free up space. Now if anyone of you are familiar with MEGA, you know that it does not download the file directly and instead, downloads the whole file on a webpage (it writes to the browser&#39;s cache directory) before your choose a location to store that file (move cache to the destination folder). The issue with this way of downloading is that cache sometimes does not get deleted after file downloads, so you would have a massive data folder in brave&#39;s installation directory.</p>\n\n<p>I still have 15G left on my C drive so in theory this shouldn&#39;t be a problem (I always download to drive D and E, never drive C), but since this error keeps popping up, yesterday I decided to move Brave&#39;s entire data folder to drive D, which has more than 1T available. And this is when the nightmare starts.</p>\n\n<p> </p>\n\n<p>According to Google and even Brave themselves, this is where brave&#39;s data folder resides: C:\\Users\\&lt;Username&gt;\\AppData\\Local\\BraveSoftware\\Brave-Browser\\User Data. This folder contains your browsing history, sessions/tabs opened, bookmarks, everything. So all I have to do is to map this to a folder on drive D, right? Well sort of. After some failed attempts I was able to create a symbolic link that connects this folder to a folder on drive D. Once the link is correctly established, everything started working as they should, history is there, tabs are there. If the link isn’t done properly then I lose history, tabs, passwords, etc. basically all user data. That’s how I know the link works. Well, everything works, except when I download from MEGA it still writes to C drive.</p>\n\n<p> </p>\n\n<p>So I pulled up resource monitor to see where all that traffic is going, and when Brave downloads I can see it writing to a folder called data in Brave&#39;s installation directory, in my case C:\\SW\\Brave\\data, this is the location where I installed brave, and brave seems to keep cache here instead of the aforementioned users/appdata folder. But the confusing thing is, the contents in this folder is nearly identical to the aforementioned appdata folder. File and folder names were the same, even folder size were similar. I have never seen a browser keeping 2 identical copies of user data, but oh well. I created another symbolic link that redirects cache to drive D, and this time MEGA is finally writing to Drive D.</p>\n\n<p> </p>\n\n<p>Looking back I really wish I could have stopped here, but I was just too curious. I have never seen a browser keeping 2 identical copies of user data in different locations. I was not using any backup software, nor do I have windows restore point enabled, and that rules out the possibility of windows doing the backup for me. Everything tells me that one of the two folders isn’t being used.</p>\n\n<p> </p>\n\n<p>So, you guessed it, I deleted C:\\SW\\Brave\\data first, thinking it was this folder. Got a brave window with no prior sessions, tabs or history. Must be the other folder I thought, so I restored this folder and deleted the other one, and I was again greeted with the same blank page. I restored both folders, and guess what? Everything came back, the booksmarks, the history, the extensions, all there. Except the tabs. Before I started this whole thing I have 3 windows opened with around 40 tabs, and now they are gone.</p>\n\n<p> </p>\n\n<p>I spent the next 9 hours frantically googling, and came back with the reality that my tabs are really and truly, gone. Like a puff of smoke, never to be retrieved ever again. Brave stores your sessions in &lt;brave install directory&gt;\\data\\Default\\Sessions, in my case, C:\\SW\\Brave\\data\\Default\\Sessions. The unfortunate reality is they only keep 2 sessions. Your current session and your last session. What that means is, in the event of a crash, if you fail to restore the tabs (by clicking the restore last sessions button on the top right) and close Brave, your sessions are gone. Brave will overwrite the session files and no file recovery software will ever be able to retrieve these files ever again, because these files were not deleted, they were overwritten. If you have a hard drive there’s maybe a 0.5% chance that you can retrieve them. If like every laptop these days you have SSD, they are gone. TRIM makes sure everything that isn’t needed is wiped. You can put a person in there and the moment he isn’t needed he would dematerialize.  </p>\n\n<p> </p>\n\n<p>I have learnt my lesson. I have installed a session manager plugin that saves all my sessions at regular intervals, both locally and on cloud. I have made sure that I will never have another session/tab-related nightmare ever again, and I advise every chromium-based browser user to do the same, get an extension that backs up your tabs locally and on cloud at regular intervals. What happened today ruined my weekend, but it doesn’t have to ruin yours.</p>\n\n<p> </p>\n\n<p>To all the lost windows and tabs, I bid you farewell. You fought brilliantly on the forefront before losing to developer neglect and corporate incompetence. May we cross path again.</p>\n\n<p> </p>\n\n<p>To developers of chrome and all chromium-based browsers, for years a blue &#39;restore session&#39; button is all there is that separates a tiny island of hope from an unfathomable ocean of despair. The presence of such button inspires awe while the absence of it struck the deepest level of fear and terror. During these years, gigabytes have become terabytes, dialups have given way to fiber. Is it not finally time for you to move on from archiving a meager 2 sessions to the at least 200? Can us users finally not have to worry about losing all our cherished memories to the push of a button?</p>\n\n<p>TL;DR: brave browser using 2 folders in separate locations to store identical user data, including history, extensions, sessions, etc. Suspect one is not in use. Tried relocating both folders and was fine. Then tried deleting either of them. Lost all my tabs/sessions but not anything else. Despair. Installed tabs manager to prevent similar disasters. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Descarga cancelada sin motivo",
+      "link": "",
+      "guid": "",
+      "pubDate": "Sat, 29 Nov 2025 08:19:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9jorl/descarga_cancelada_sin_motivo/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Me pasa siempre que intento descargar algo, me tiene harto, no pude encontrar nunca una solución. Tengo conexión a internet y funciona perfectamente, no se por qué se me cancelan todas las descargas, solo me pasa en el PC, probé en todos los navegadores (Brave, OperaGX, Edge, Chrome) y tienen el mismo problema. Actualicé todos mis drivers y no ayudó para nada</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "background services",
       "link": "/img/nxcb418z414g1.png",
       "guid": "/img/nxcb418z414g1.png",
@@ -31,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "Is Firefox really reliable?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
-      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Some websites will not load on my PC why",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/",
       "pubDate": "Sat, 29 Nov 2025 01:50:03 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ch40/some_websites_will_not_load_on_my_pc_why/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Certain websites that I have previously been able to operate on perfectly will not work for me. I either get a &quot;404 Forbidden Cloudflare&quot;, just a wall of text where the content should be, or it just loads forever. I have tried 4 different browsers, removing all extentions, using a VPN, and reaching out to customer service where all they tell me is &quot;try different browsers and remove extentions&quot;. The sites work perfectly on my laptop and phone on the same network, but not my PC and its really really really really annoying. Am I getting detected as a bot or something idk</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is Firefox really reliable?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/",
+      "pubDate": "Sat, 29 Nov 2025 02:22:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9d56p/is_firefox_really_reliable/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I ask because, while searching seven or eight months ago, a problem arose with Firefox, It was discovered that it had changed its terms and conditions to sell your data and use it for AI. From that moment on, I thought it was untrustworthy, but now I want to know the opinion of people who are more knowledgeable about the subject. Has this problem been resolved? Am I exaggerating? Does Firefox have people&#39;s trust again?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,21 +94,21 @@
       "thumbnail": null
     },
     {
-      "title": "Quick fact check",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
-      "pubDate": "Fri, 28 Nov 2025 14:33:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I have seen a lot of RAM comparisons and used to believe them but now in recent times I believe that it depends and there is no right answer<br/>\nLike some browsers excel at multi tab low RAM usage other may seem to perform good but it is that they have better 1 tab RAM usage like CPU cores<br/>\nAnd also how much total and allocated RAM your system has and the RAM you have allocated</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Chrome eats my RAM, recommend me another browser",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/",
       "pubDate": "Fri, 28 Nov 2025 21:55:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97bas/chrome_eats_my_ram_recommend_me_another_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I need one that seamlessly integrates bookmarks etc and isn’t resource intensive</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Quick fact check",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
+      "pubDate": "Fri, 28 Nov 2025 14:33:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I have seen a lot of RAM comparisons and used to believe them but now in recent times I believe that it depends and there is no right answer<br/>\nLike some browsers excel at multi tab low RAM usage other may seem to perform good but it is that they have better 1 tab RAM usage like CPU cores<br/>\nAnd also how much total and allocated RAM your system has and the RAM you have allocated</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -136,15 +154,6 @@
       "pubDate": "Fri, 28 Nov 2025 07:42:29 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently made the switch to Linux in an attempt to free myself from the mega-corporations and I&#39;ve been using Opera so far since that&#39;s what I used on Windows.</p>\n\n<p>I&#39;ve really enjoyed the amount of customization and unique features that Opera provides, but the whole browser feels a bit bloated and somewhat questionable <strong>in my opinion.</strong> Anyways I&#39;ve gotten tired of the mild inconveniences and weirdness that I have to deal with when using Opera, it feels like it&#39;s not in my best interest and I would like to switch to something possibly better.</p>\n\n<p>Productivity and workspace management features don&#39;t matter to me, I just want a light, fast and highly customizable chromium-based browser that I don&#39;t have to worry about.</p>\n\n<p>This request might be too specific but I would appreciate any suggestions that are similar to what I described, thanks!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Use chrome, it's better!",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/",
-      "pubDate": "Fri, 28 Nov 2025 21:55:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p97b9d/use_chrome_its_better/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello my name is Alfredovic Lickamaballszo and i am from Israel/Poland/Romania. Today i will tell you why chrome is the best browser. It invades your privacy, and we all know that the less privacy - the better. That&#39;s the first and also the main reason of why you should use it. No need for privacy anyways nowdays when you really think about it, because if goverment and social media companiesa re collecting your personal data, they can be more successful in providing you the correct ads, which you also should never block and watch every single one of them.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8br7y/need_help_running_legacy_ie_vba_macro_on_modern/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a VBA macro in Excel that used to extract data from a web page using Internet Explorer COM automation. The macro works by finding an existing IE window (Shell.Application + ie.document) and reading values from HTML elements.</p>\n\n<p>Since Internet Explorer was retired and replaced by Microsoft Edge, the macro no longer works. My attempts so far:</p>\n\n<p>Opening the page in IE Mode on Edge → macro cannot detect the page, still gives: &quot;Please open the eReferral page in IE first.&quot;</p>\n\n<p>Trying Selenium/Edge automation → works only by opening a new browser, but I really need the macro to work with the page already open like before.</p>\n\n<p>Enabling Internet Explorer in Windows Features → opening IE redirects automatically to Edge, so the macro still cannot detect the IE window.</p>\n\n<p>Essentially, the macro relies on the old IE COM object, and there seems to be no way to connect to an already open page in Edge or IE Mode.</p>\n\n<p>Question: Is there any way to:</p>\n\n<p>Re-enable a “real” Internet Explorer on Windows 10/11 so that VBA COM automation works like before? (Optimal solution).</p>\n\n<p>Or maybe make a legacy VBA macro detect and read a page in IE Mode on Edge?</p>\n\n<p>Any advice or workaround to keep this macro working as it did with IE would be greatly appreciated!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "A Movement--To ask for \"Borderless Windows\" Option in Arc Browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/",
-      "pubDate": "Thu, 27 Nov 2025 21:01:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8cyfb/a_movementto_ask_for_borderless_windows_option_in/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I hate ARC...SOLELY for the fact it doesn&#39;t allow<br/>\n<strong>&quot;a hide border option&quot;</strong>...like what the heck?<br/>\nI&#39;d say it&#39;s a perfect browser (UI-wise) if it just had that.</p>\n\n<p>- I say, we bombard TheBrowserCompany with request to add this feature<br/>\n- High Utility Feature w/ a Low Amt. of Code on their end.<br/>\nWhose with me? Can we start a mvmt, here? 💙⚔️🔥</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T07:32:15.678Z"
+  "lastFetched": "2025-11-29T08:48:21.719Z"
 }

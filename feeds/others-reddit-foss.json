@@ -18,7 +18,7 @@
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/",
       "pubDate": "Sat, 29 Nov 2025 05:40:23 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p9gzo7/nitrosense_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an Acer Nitro 17 (AN17-41-R7G3) and I nuked Windows off it and installed CachyOS. Is a FOSS alternative to NitroSense? NitroSense is unfortunately, but understandably, only available on Windows.</p>\n\n<p>Also I am using KDE and Wayland</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>[SOLVED] I have an Acer Nitro 17 (AN17-41-R7G3) and I nuked Windows off it and installed CachyOS. Is a FOSS alternative to NitroSense? NitroSense is unfortunately, but understandably, only available on Windows.</p>\n\n<p>Also I am using KDE and Wayland</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-29T07:31:58.488Z"
+  "lastFetched": "2025-11-29T08:48:04.487Z"
 }
