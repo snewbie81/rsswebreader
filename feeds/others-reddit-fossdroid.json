@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Anyone heard of 'PACE' app? Is this incredible project actually dead?",
-      "link": "/img/kpfc8q7wq34g1.png",
-      "guid": "/img/kpfc8q7wq34g1.png",
-      "pubDate": "Sat, 29 Nov 2025 02:00:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9coic/anyone_heard_of_pace_app_is_this_incredible/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>I thought it might be nice if we brought this project back into the light together - maybe someone would love to fork it and turn it into something meaningful again. :)</em></strong></p>\n\n<p>-</p>\n\n<p>Hey everyone,</p>\n\n<p>A couple of months ago, I stumbled across this app in an old Reddit thread about FOSS, privacy-friendly alternatives to popular everyday apps. PACE was recommended as one of the most well-rounded options for tracking walks and hikes (anything fitness related), with solid stats and features.</p>\n\n<p>Unfortunately, by the time I found it, development seemed to have stalled, and it&#39;s no longer available anywhere I can find. The <strong><em>website</em></strong> still has this &quot;update&quot; banner about a new version coming soon, but it&#39;s been up there for ages without any actual progress.</p>\n\n<ul>\n<li>Their website: <a href=\"https://withpace.io/\">https://withpace.io/</a></li>\n<li>Github page: <a href=\"https://github.com/withpaceio/pace-app\">https://github.com/withpaceio/pace-app</a></li>\n</ul>\n\n<p>Just wondering if anyone here knows more about it or if the app is officially dead. Any info would be appreciated!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Is there an app to track games? Something like Showly",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/",
       "pubDate": "Sat, 29 Nov 2025 20:33:24 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, does someone knows if there is a foss app like Showly (movies/Tv shows tracker) but for videogames?</p>\n\n<p>You could add games to a list (playing, played or to play), from different systems, or add games to other list like &quot;owned&quot; or &quot;wish list &quot;.</p>\n\n<p>Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Anyone heard of 'PACE' app? Is this incredible project actually dead?",
+      "link": "/img/kpfc8q7wq34g1.png",
+      "guid": "/img/kpfc8q7wq34g1.png",
+      "pubDate": "Sat, 29 Nov 2025 02:00:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9coic/anyone_heard_of_pace_app_is_this_incredible/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>I thought it might be nice if we brought this project back into the light together - maybe someone would love to fork it and turn it into something meaningful again. :)</em></strong></p>\n\n<p>-</p>\n\n<p>Hey everyone,</p>\n\n<p>A couple of months ago, I stumbled across this app in an old Reddit thread about FOSS, privacy-friendly alternatives to popular everyday apps. PACE was recommended as one of the most well-rounded options for tracking walks and hikes (anything fitness related), with solid stats and features.</p>\n\n<p>Unfortunately, by the time I found it, development seemed to have stalled, and it&#39;s no longer available anywhere I can find. The <strong><em>website</em></strong> still has this &quot;update&quot; banner about a new version coming soon, but it&#39;s been up there for ages without any actual progress.</p>\n\n<ul>\n<li>Their website: <a href=\"https://withpace.io/\">https://withpace.io/</a></li>\n<li>Github page: <a href=\"https://github.com/withpaceio/pace-app\">https://github.com/withpaceio/pace-app</a></li>\n</ul>\n\n<p>Just wondering if anyone here knows more about it or if the app is officially dead. Any info would be appreciated!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T20:38:53.412Z"
+  "lastFetched": "2025-11-29T21:31:45.924Z"
 }
