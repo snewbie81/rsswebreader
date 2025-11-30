@@ -13,6 +13,42 @@
       "thumbnail": null
     },
     {
+      "title": "I made a tool for better gaming/heavy app usage",
+      "link": "https://github.com/showbill/ServiceToggler",
+      "guid": "https://github.com/showbill/ServiceToggler",
+      "pubDate": "Sun, 30 Nov 2025 16:43:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamtu6/i_made_a_tool_for_better_gamingheavy_app_usage/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Service Toggler is an program that can turn on/off windows services all at customized by u. If you using your PC for both Gaming and Casual use. You need to turn off some services that u don&#39;t need for gaming but for casual u need it like spooler, AdobeARMservices,  WSearch, NcdAutoSetupetc, etc. So using Service Toggler, You can turn off multiple services for gaming and turn them on for casual use without changing manually from Windows Service Application. Only one-click. You can less a significant amount of processes from CPU for better gaming/ heavy app usage.</p>\n\n<p>Tool: <a href=\"https://github.com/showbill/ServiceToggler#\">https://github.com/showbill/ServiceToggler#</a></p>\n\n<p>Highly recommended for Low, Mid, High end PCs</p>\n\n<p>Made by showbill and LongCat Ai (by Meituan)</p>\n\n<p>So try it and give some reviews.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A simple, invisible prompt-storage extension I made to streamline workflow",
+      "link": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
+      "guid": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
+      "pubDate": "Sun, 30 Nov 2025 16:37:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Gamifying QA and Testing",
+      "link": "https://redlib.perennialte.ch//r/AiBuilders/comments/1p8vlxg/gamifying_qa_and_testing/",
+      "guid": "https://redlib.perennialte.ch//r/AiBuilders/comments/1p8vlxg/gamifying_qa_and_testing/",
+      "pubDate": "Sun, 30 Nov 2025 15:36:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal6ao/gamifying_qa_and_testing/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal6ao/gamifying_qa_and_testing/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "AI software recommendations - extracting documents for a course",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pal5sn/ai_software_recommendations_extracting_documents/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pal5sn/ai_software_recommendations_extracting_documents/",
+      "pubDate": "Sun, 30 Nov 2025 15:35:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal5sn/ai_software_recommendations_extracting_documents/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>TLDR: advice on types of AI software to extract documents out of a set of folders based on a list for a course I&#39;m doing. Also to make a simple summary/explanation of each one. This can be the same software or two different ones. </p>\n\n<hr/>\n\n<p>I&#39;ve started a course for senior construction management. The course mainly requires me to find workplace examples of certain project documents and procedures and provide details of my work based involvement. My experience to this point is site-based management and I have not actually set up most of these procedures or documents. I&#39;m looking for an AI or project document management system to automate the process of going through the project folders and finding documents that match the criteria of each part of the course and extracting them to a folder. I would then like it to summarize what the purpose of that document is. I can then add a short summary of how I&#39;ve been involved in the setting up of that document or providing detailed site information to complete the document. These could be two different solutions or one that does it all. </p>\n\n<p>Although this could be considered possibly cheating using AI or other software to complete part of my course, I disagree because I think the important element is the site based knowledge that goes into the documents and how they are used. Also I think it will be a useful way for me to learn modern management document systems and potentially new AI systems for future project management. I think the process of learning one of these systems to carry out the grunt work would be a better use of my time than trawling through project folders looking for documents that match the criteria. I also think that  just using my time to add my personal experience to each area or document is of more valuable use of my time. </p>\n\n<p>I&#39;ve searched online and used AI to find DMS systems that maybe able to carry this out, but most of them are prohibitively expensive for the use case I have. I&#39;m happy to pay to use one of these systems, but don&#39;t want to pay for one and then realize it&#39;s not going to carry out what I need it to do. </p>\n\n<p>If anyone has any recommendations of software that might be able to do this, that would be greatly appreciated. Or comments on what I&#39;m I&#39;m trying to achieve. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Automating Dependabot PR Merges with CI/CD",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pairhm/automating_dependabot_pr_merges_with_cicd/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pairhm/automating_dependabot_pr_merges_with_cicd/",
@@ -76,21 +112,21 @@
       "thumbnail": null
     },
     {
-      "title": "Microsoft Expression Web Replacement",
-      "link": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
-      "guid": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
-      "pubDate": "Sat, 29 Nov 2025 19:33:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Are there any large video compressors on IOS? I have a 2.08 GB video, and I need to compress it to be less than 1.",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/",
       "pubDate": "Sat, 29 Nov 2025 18:40:55 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I don’t care about quality, but I don’t really want to upload my video in 3 parts. The other post I saw about this kind of thing was for Windows.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Microsoft Expression Web Replacement",
+      "link": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
+      "guid": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
+      "pubDate": "Sat, 29 Nov 2025 19:33:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9i3se/document_generationworkflow/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Good afternoon, I’m trying to automate the document workflow for our equipment rental business and would like some suggestion for programs. I’m not super knowledgeable but am not in a huge rush and don’t mind learning</p>\n\n<p>Based off what I’ve read so far I’ve switched from using zapier to Make which I really like so far. The big issue I’ve come across is programs for auto generating forms for signature and custom receipts. They seem very expensive atleast the two I’ve tried pandadoc and signnow after using the monthly or yearly credit for automation it comes out to about $4 on pandadoc and $3 on signow per customer. If that’s not expensive please just let me know I’m being cheap</p>\n\n<p>Any suggestions on other programs for document generation? The main document workflow I’m trying is down below </p>\n\n<p>Form one- Trailer rental agreement- one signature and date with driver license photo</p>\n\n<p>Form two- custom receipt with order information/ gate codes etc. </p>\n\n<p>Stripe-&gt;Make-&gt; generate rental agreement-&gt;send/sign-&gt; once signed send receipt </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Twitch On Browser Help",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
-      "pubDate": "Sat, 29 Nov 2025 02:00:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I open Twitch and click on a stream, it plays for about one minute and then starts loading forever until I refresh the page. It does this in Firefox and every other browser I try. I’m on PC. Can someone please help? It’s driving me crazy.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Photo Editing App with sticker feature",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9an83/photo_editing_app_with_sticker_feature/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9an83/photo_editing_app_with_sticker_feature/",
-      "pubDate": "Sat, 29 Nov 2025 00:22:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9an83/photo_editing_app_with_sticker_feature/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for an app that can help me make a collage that’s not a bunch of boxes. It could ideally take pictures of drawings with solid white backgrounds into stickers that I can then put several of those stickers into one image. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Anyone into jigsaw puzzles?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/",
-      "pubDate": "Fri, 28 Nov 2025 17:40:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p91010/anyone_into_jigsaw_puzzles/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Not sure if this is the right place to post this, but I recently started getting into puzzles as a 30 year old and had no idea how addicting they could be. I feel like it scratches that same part of my brain that software development does.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Question from an idiot",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p990kz/question_from_an_idiot/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p990kz/question_from_an_idiot/",
-      "pubDate": "Fri, 28 Nov 2025 23:09:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p990kz/question_from_an_idiot/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p>\n\n<p>This could very well be a silly question so I apologise in advance if it is such.</p>\n\n<p>Is there any software that can answer questions using AI prompts but only on specific selected documents rather than rummaging through the entire internet ChatGPT style?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T15:34:33.715Z"
+  "lastFetched": "2025-11-30T16:45:39.985Z"
 }

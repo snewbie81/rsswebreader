@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "This Receipt Scanner Just Made Tracking Expenses 10x Easier",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/",
+      "pubDate": "Sun, 30 Nov 2025 16:35:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I started using this receipt scanner app recently, and it completely changed how I track my expenses.<br/>\nYou literally just snap a photo of your receipt (or upload one from your phone) and the app automatically extracts every detail — totals, dates, items, categories — and saves the original photo for backup.<br/>\nNo typing. No sorting. No manual organization.<br/>\nIt also gives you a clean dashboard showing exactly where your money is going, and you can export all your data as a PDF whenever you need it (super useful for taxes, reimbursements, or budgeting).<br/>\nIf you’re tired of messy spreadsheets or losing receipts, this is honestly the easiest system I’ve used.  </p>\n\n<p>App Store link: <a href=\"https://apps.apple.com/us/app/receipt-scanner-track-expense/id6754461174\">Receipt scanner</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Looking for Keyboard app with specific features",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pa7pv2/looking_for_keyboard_app_with_specific_features/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pa7pv2/looking_for_keyboard_app_with_specific_features/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7ady7/my_project_trudido_task_and_notes/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, Hola, Hello,</p>\n\n<p>in the past I wrote here about my project <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>. It is an App for Android to take Notes or Tasks and we reached now over 400 downloads. I know there are many (fantastic) Apps like this outside but it always annoyed me that many of those Apps are from China or the US or not fully offline, ad-free or private e.g.</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a> is the opposite to that because I dont care about your data or anything.</p>\n\n<p>With Version 1.2.1 I enhanced the Markdown Editor in Notes with a WYSIWYG rich text editor. (Quill) And it got other new features like you can insert media like photos, videos, voicenotes eg.</p>\n\n<p>For the Notes it also has a function called &quot;Vault&quot; in which you can store sensitive notes and media encrypted on your device.</p>\n\n<p>And there is finally a new app icon! And it has the GPL-3.0 license.</p>\n\n<p>I hope you would like to try my App <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>.</p>\n\n<p>Thanks all for reading this and maybe see you in the comments!</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">https://github.com/dominikmuellr/trudido</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I need a 'Notepad Calculator' (Text + Live Math) replacement, FOSS/Ad-Free preferred. My current app is unusable due to ads.",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7c6ce/i_need_a_notepad_calculator_text_live_math/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p7c6ce/i_need_a_notepad_calculator_text_live_math/",
-      "pubDate": "Wed, 26 Nov 2025 16:27:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7c6ce/i_need_a_notepad_calculator_text_live_math/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I&#39;m looking for recommendations for a very specific type of application on Android (or F-Droid). I&#39;ve been user of an app called &#39;<strong>Notepad Calculator</strong>&#39;, but the current version is increasing intrusive ads, and have no option for an one-time-purchase.</p>\n\n<p>I only used it sporadically, but the app was <strong>a pleasure to have</strong> when I needed a quick calculation</p>\n\n<p><strong>The Core Problem I Solve:</strong></p>\n\n<p>I need to take notes that involve small, immediate calculations without the hassle of opening two separate apps (Notepad + Calculator) or the overcomplication of a full spreadsheet.</p>\n\n<p><strong>How I Use It (The Key Functionality):</strong></p>\n\n<p>I use it for things like calculating orders (e.g., at a pastry shop). I can type a descriptive line that includes the flavor, quantity, price, and the app calculates the result right there on the same line or in a running total.</p>\n\n<p><strong>Example Syntax:</strong></p>\n\n<blockquote>\n</blockquote>\n\n<p><strong>Why I need this flexibility:</strong></p>\n\n<p>In a normal calculator, I would only see &#39;9.30&#39;. But with this app, I get the full context: the item description, the code, the quantity, and the result. This blend of <strong>text-based description</strong> and <strong>live mathematical processing</strong> is nice and practical.</p>\n\n<p><strong>Why Spreadsheets Don&#39;t Work:</strong></p>\n\n<p>Opening a spreadsheet, formatting cells, and inputting formulas is too much work (&#39;too much hassle&#39;) for something as trivial as a simple order for me and my friends /family. I need the instant, free-form nature of a notepad, but with the math done automatically.</p>\n\n<p><strong>My Requirements:</strong></p>\n\n<ol>\n<li><strong>Platform:</strong> Android (Play Store or F-Droid).</li>\n<li><strong>Functionality:</strong> Must perform <strong>live calculations within the text/notepad interface</strong>.</li>\n<li><strong>Cost:</strong> preferably <strong>free and Ad-Free (FOSS is highly preferred)</strong> but one-time-purchase may be accepted too (i don&#39;t want to get stuck in more subscriptions, tire of &#39;Everything as a service&#39;)</li>\n</ol>\n\n<p>Has anyone come across a hidden gem that performs this &#39;text-and-math&#39; function without the invasive ads? Thanks in advance!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-30T15:34:16.115Z"
+  "lastFetched": "2025-11-30T16:45:22.364Z"
 }

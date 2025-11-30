@@ -31,12 +31,12 @@
       "thumbnail": null
     },
     {
-      "title": "Can Anyone Tell Me About This \"Pest\" User?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/",
-      "pubDate": "Sun, 30 Nov 2025 10:04:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have this user angrily responding to posts I made from TWO years ago, which are long and gone in my mind, but he is making himself REALLY hard to ignore.</p>\n\n<p>The user is <a href=\"/u/piisfour\">u/piisfour</a> and holy crap, is he a pest.  You&#39;ll find his inane responses down below on the page, on this thread about switching to Firefox:</p>\n\n<p><a href=\"/r/browsers/comments/15guoxo/comment/nridoq7/?context=1\">https://www.reddit.com/r/browsers/comments/15guoxo/comment/nridoq7/?context=1</a></p>\n\n<p>In the thread, there is the usual recommendation of Pale Moon, which I responded to (as did others), about our disagreements with using it as an everyday browser.  Now again remember, this was TWO YEARS AGO, but this <a href=\"/u/piisfour\">u/piisfour</a> fellow will just NOT stop responding to posts I made back then.  He is repeatedly making angry responses, and one upping my responses to get in the last word.</p>\n\n<p>I&#39;ve stopped responding now, but obviously he&#39;s just trying to get me into some flame war.</p>\n\n<p>I&#39;m looking for some bug repellent that works with this <a href=\"/u/piisfour\">u/piisfour</a> pest.  Cheers All!</p>\n</div><!-- SC_ON -->",
+      "title": "Quick Comparison - 4 Antidetect Browsers I’ve Tested",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pamcjx/quick_comparison_4_antidetect_browsers_ive_tested/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pamcjx/quick_comparison_4_antidetect_browsers_ive_tested/",
+      "pubDate": "Sun, 30 Nov 2025 16:24:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pamcjx/quick_comparison_4_antidetect_browsers_ive_tested/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been testing a few antidetect browsers lately because juggling multiple accounts in regular Chrome/Firefox was getting chaotic, and I figured I’d share my experience in case it helps anyone sitting in the same boat. </p>\n\n<p>GoLogin was the easiest to get started with super clean UI, simple setup, and cloud-stored profiles that sync nicely across devices. It handled basic fingerprint checks fine when the OS matched, though the spoofing feels more on the “lightweight” side if you need deep customization or automation. Pricing is around $24/month for 100 profiles, making it a decent fit for freelancers or anyone who wants privacy without enterprise-level complexity.</p>\n\n<p>AdsPower ended up feeling like the most flexible option overall. There’s a free tier, the paid plans start around $9/month for 10 profiles, and they include built-in proxy management and RPA tools, which makes multi-account work or scraping a lot easier. My only gripe is that the fingerprint system feels a bit template-based compared to the more advanced browsers. Still, if your priority is budget + lots of isolated profiles, it gets the job done.</p>\n\n<p>Linken Sphere is on the opposite end of the spectrum - extremely deep fingerprint customization, down to hardware patterns and encrypted local storage. It’s powerful, but definitely not beginner-friendly, and you need to manually handle proxies. Pricing supposedly starts around $30/month, but it scales fast, so it’s really only worth it if you need max control, stealth, or have more technical workflows.</p>\n\n<p>Then there’s MuLogin, which is great if you’re strictly on Windows and want everything handled locally instead of in the cloud. You can spin up a ton of profiles with full fingerprint-spoofing controls, and the UI is straightforward, though a bit heavy. The downsides are the lack of macOS/Linux support, not-so-intuitive automation setup, and a higher price point at around $59/month for 100 profiles. It’s best for Windows-only users who want full local control and don’t care about cross-device sync.</p>\n\n<p>Overall, if you want something simple and affordable without diving into technical setups, GoLogin and AdsPower offer the best balance. If stealth and fingerprint precision matter more than convenience, Linken Sphere or MuLogin give you the control you need, but they make you work for it. None of these are perfect, but whichever you use, pairing it with a decent proxy or VPN is non-negotiable, since even the best fingerprint masking falls apart if your IP/geo is mismatched.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -55,6 +55,15 @@
       "pubDate": "Sun, 30 Nov 2025 14:10:37 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paj6u2/blocked_website_at_opera/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Seems like some websites have been blocked in Opera. I tried to use Google Flights at both Chrome and Opera. It is not opening at Opera.\nHave anyone noticed that?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Can Anyone Tell Me About This \"Pest\" User?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/",
+      "pubDate": "Sun, 30 Nov 2025 10:04:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have this user angrily responding to posts I made from TWO years ago, which are long and gone in my mind, but he is making himself REALLY hard to ignore.</p>\n\n<p>The user is <a href=\"/u/piisfour\">u/piisfour</a> and holy crap, is he a pest.  You&#39;ll find his inane responses down below on the page, on this thread about switching to Firefox:</p>\n\n<p><a href=\"/r/browsers/comments/15guoxo/comment/nridoq7/?context=1\">https://www.reddit.com/r/browsers/comments/15guoxo/comment/nridoq7/?context=1</a></p>\n\n<p>In the thread, there is the usual recommendation of Pale Moon, which I responded to (as did others), about our disagreements with using it as an everyday browser.  Now again remember, this was TWO YEARS AGO, but this <a href=\"/u/piisfour\">u/piisfour</a> fellow will just NOT stop responding to posts I made back then.  He is repeatedly making angry responses, and one upping my responses to get in the last word.</p>\n\n<p>I&#39;ve stopped responding now, but obviously he&#39;s just trying to get me into some flame war.</p>\n\n<p>I&#39;m looking for some bug repellent that works with this <a href=\"/u/piisfour\">u/piisfour</a> pest.  Cheers All!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p93npi/brave_vs_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/z9vnpycdt14g1.png?width=507&amp;format=png&amp;auto=webp&amp;s=e29d7dd7e04dd995f9dbbb5abc60ea39a887da87\">Just Dave&#39;s Redistricting</a></p>\n\n<p><a href=\"/preview/pre/hw8648wdt14g1.png?width=501&amp;format=png&amp;auto=webp&amp;s=663b734b3e59a2137635643453703cce16adcfe3\">My normal tabs</a></p>\n\n<p><a href=\"/preview/pre/y5hej63et14g1.png?width=505&amp;format=png&amp;auto=webp&amp;s=007b08eb0350d8582929bcbc9998774dd6ecb08f\">Same four websites</a></p>\n\n<p>Hello, I&#39;ve been using Brave for a while but recently its been having a lot of lag and freezing problems, especially when using the website &#39;Daves Redistricting&#39;. I know the site will take up a lot of resources but its been much worse recently.</p>\n\n<p>I tried doing some tests to compare Brave and Firefox, and this is what I got. Brave was using less RAM but in some instances was using a crap ton of my CPU</p>\n\n<p>In terms of using not a lot of resources, what is the best browser to use? also why is brave taking up so much of my CPU and how do I fix that?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Microsoft edge running 44 tabs when not open and taking all memory of pc",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/",
-      "pubDate": "Sat, 29 Nov 2025 00:07:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-30T15:34:30.963Z"
+  "lastFetched": "2025-11-30T16:45:37.205Z"
 }
