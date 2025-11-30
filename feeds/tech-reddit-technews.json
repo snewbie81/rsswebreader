@@ -76,6 +76,15 @@
       "thumbnail": null
     },
     {
+      "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
+      "guid": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
+      "pubDate": "Sun, 30 Nov 2025 20:43:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pasx8h/new_shadowv2_botnet_malware_used_aws_outage_as_a/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pasx8h/new_shadowv2_botnet_malware_used_aws_outage_as_a/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Chinese scientists create super stable building block for quantum computers",
       "link": "https://www.scmp.com/news/china/science/article/3334549/chinese-scientists-create-super-stable-building-block-quantum-computers",
       "guid": "https://www.scmp.com/news/china/science/article/3334549/chinese-scientists-create-super-stable-building-block-quantum-computers",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Toshiba Targets Motorcycles and Boats With Its Batteries",
-      "link": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
-      "guid": "https://spectrum.ieee.org/lto-battery-lithium-ion-toshiba",
-      "pubDate": "Tue, 25 Nov 2025 21:27:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6p2dy/toshiba_targets_motorcycles_and_boats_with_its/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-11-30T20:39:37.502Z"
+  "lastFetched": "2025-11-30T21:32:06.219Z"
 }

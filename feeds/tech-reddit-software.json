@@ -13,12 +13,12 @@
       "thumbnail": null
     },
     {
-      "title": "A simple, invisible prompt-storage extension I made to streamline workflow",
-      "link": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
-      "guid": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
-      "pubDate": "Sun, 30 Nov 2025 16:37:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
+      "title": "Convert .JP2 files (JPEG 2000) to PDF",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/",
+      "pubDate": "Sun, 30 Nov 2025 21:17:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Thank you always.<br/>\nI always combine images (.jpg .png) into PDFs using Adobe Acrobat or Foxit PDF.<br/>\nHowever, these two software programs cannot read .jp2 files and cannot create PDF.<br/>\nI was able to create a PDF by first converting the .jp2 file to .jpg or .png.<br/>\nBut this is a hassle.<br/>\nI am looking for software that can convert .jp2 files to PDF directly.<br/>\nI can find online sites, but I prefer software.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -28,6 +28,15 @@
       "pubDate": "Sun, 30 Nov 2025 19:31:07 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1par3qo/issues_with_burning_blurays_using_roxio_toast/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I’m not totally sure if this is the right forum for this, but I recently acquired a BD burner (Model No. CB31005) and have burned a few of my favorite hard-to-find films to Blu-ray discs ONLY for my personal use. I use Shutter Encoder to hardcode subtitles and convert .mkv to .mp4 in order to use Toast 17 Titanium w/ the Blu-Ray extension to burn the discs. There are no issues converting, but once the discs are burned, there is severe frame rate choppiness and un-synced audio. This problem doesn’t arise until playback (I use a PS5 to play my discs and typically have no issues with playback, including DVDs I’ve burned with DVDStyler, only the Blu-rays). If anyone can help me figure this out, I would be eternally grateful!</p>\n\n<p>Some additional information: I am working with a 2019 MacBook Pro (i7 chip, Tahoe 26.0.1) so unfortunately my options are limited when it comes to Blu-ray authoring software, as most seem to only work with Windows. Another issue I have with Toast is that it will crash whenever I select the “Edit” button for the files, so I don’t know if there are settings within that that’re causing the issues (a solution for this would also be great). Ideally I would upgrade to the newest version of Toast but they charge absurd amounts for updates. I use DVDStyler to burn DVDs with no problems but they don’t offer Blu-ray support. I can also provide more specific information in the comments if needed/requested! Thank you in advance! &lt;3</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A simple, invisible prompt-storage extension I made to streamline workflow",
+      "link": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
+      "guid": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
+      "pubDate": "Sun, 30 Nov 2025 16:37:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8t2cp/so_i_finally_uninstalled_ccleaner/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>That crap became awful since the last forced updated (version 7), it messed with my computer, now I still have all my music folder charging tags for long seconds each time I open one,...</p>\n\n<p>Questions: </p>\n\n<p>-Is Windows Disk Cleanup enough to replace CCleaner I was using for decades or must I install an alternative to CCleaner ? </p>\n\n<p>-How can I fix my music folders freezing when I open them ? Here&#39;s what happens: I open a music folder, and the tags for each file slowly disappear one by one, then reappear, and only after that am I able to open the files</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Document Generation/Workflow",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9i3se/document_generationworkflow/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9i3se/document_generationworkflow/",
-      "pubDate": "Sat, 29 Nov 2025 06:43:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9i3se/document_generationworkflow/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Good afternoon, I’m trying to automate the document workflow for our equipment rental business and would like some suggestion for programs. I’m not super knowledgeable but am not in a huge rush and don’t mind learning</p>\n\n<p>Based off what I’ve read so far I’ve switched from using zapier to Make which I really like so far. The big issue I’ve come across is programs for auto generating forms for signature and custom receipts. They seem very expensive atleast the two I’ve tried pandadoc and signnow after using the monthly or yearly credit for automation it comes out to about $4 on pandadoc and $3 on signow per customer. If that’s not expensive please just let me know I’m being cheap</p>\n\n<p>Any suggestions on other programs for document generation? The main document workflow I’m trying is down below </p>\n\n<p>Form one- Trailer rental agreement- one signature and date with driver license photo</p>\n\n<p>Form two- custom receipt with order information/ gate codes etc. </p>\n\n<p>Stripe-&gt;Make-&gt; generate rental agreement-&gt;send/sign-&gt; once signed send receipt </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T20:39:34.800Z"
+  "lastFetched": "2025-11-30T21:32:03.763Z"
 }
