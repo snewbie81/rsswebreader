@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Google not working on edge",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/",
-      "pubDate": "Sun, 30 Nov 2025 15:00:58 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys i Bought a new laptop recently, edge was working very well and today it just refuses to open google search, i search something and google just doesn&#39;t work, it says\n&quot;Can&#39;t reach this page&quot;</p>\n\n<p>I tried everything and nothing worked </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Ребят, помогите плз! Как удалить автозаполнение своего емэйла из списка учетных записей Edge?",
       "link": "/gallery/1pao532",
       "guid": "/gallery/1pao532",
       "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Google not working on edge",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/",
+      "pubDate": "Sun, 30 Nov 2025 15:00:58 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys i Bought a new laptop recently, edge was working very well and today it just refuses to open google search, i search something and google just doesn&#39;t work, it says\n&quot;Can&#39;t reach this page&quot;</p>\n\n<p>I tried everything and nothing worked </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T22:40:12.956Z"
+  "lastFetched": "2025-11-30T23:33:09.244Z"
 }
