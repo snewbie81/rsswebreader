@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "We're losing it!! How are you all ensuring agile alignment when every team seems to follow a different process?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
+      "pubDate": "Sun, 30 Nov 2025 06:24:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>One squad is full-on Scrum and another is doing Kanban-but-not-really. Recently we tried to sync but the terminology, priorities and timelines don’t match. It feels like we’re stitching together 5 mini-companies instead of one product org. How do you bring everyone back into one rhythm without forcing a rigid template?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "video and photo editor",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
@@ -31,12 +40,12 @@
       "thumbnail": null
     },
     {
-      "title": "I'm hesitating... help me whether creating repos throughout my whole file hierarchy will screw me.",
-      "link": "https://redlib.perennialte.ch//r/github/comments/1pa1hb5/help_repos_for_everything_notes_settings_appdata/",
-      "guid": "https://redlib.perennialte.ch//r/github/comments/1pa1hb5/help_repos_for_everything_notes_settings_appdata/",
-      "pubDate": "Sat, 29 Nov 2025 22:27:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa1okq/im_hesitating_help_me_whether_creating_repos/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa1okq/im_hesitating_help_me_whether_creating_repos/'>Comments</a>",
+      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -49,12 +58,12 @@
       "thumbnail": null
     },
     {
-      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
+      "title": "I'm hesitating... help me whether creating repos throughout my whole file hierarchy will screw me.",
+      "link": "https://redlib.perennialte.ch//r/github/comments/1pa1hb5/help_repos_for_everything_notes_settings_appdata/",
+      "guid": "https://redlib.perennialte.ch//r/github/comments/1pa1hb5/help_repos_for_everything_notes_settings_appdata/",
+      "pubDate": "Sat, 29 Nov 2025 22:27:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa1okq/im_hesitating_help_me_whether_creating_repos/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa1okq/im_hesitating_help_me_whether_creating_repos/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p974bi/looking_for_a_live_mic_equalizer/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Is there a good, free software where i can change how loud each frequency range of my microphone is? What would y&#39;all recommend? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What operating system should I install on a prehistoric laptop?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p92hge/what_operating_system_should_i_install_on_a/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p92hge/what_operating_system_should_i_install_on_a/",
-      "pubDate": "Fri, 28 Nov 2025 18:38:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p92hge/what_operating_system_should_i_install_on_a/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an Acer Extensa 5620Z laptop with 1GB of RAM and an old dual-core processor. I tried Linux, but there are no drivers for the card, sound, or USB.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T05:41:38.097Z"
+  "lastFetched": "2025-11-30T06:55:49.505Z"
 }

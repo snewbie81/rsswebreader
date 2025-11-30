@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "FOSS Alternative to Jami",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/",
+      "pubDate": "Sun, 30 Nov 2025 06:33:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I understand that Jami is open source, however my issue is that I cannot screenshare on my end. I am on CachyOS using KDE and Wayland, my friend uses Mint. We both downloaded the flatpak and he was able to screenshare to me, but I could not screenshare to him. It would just be a black screen for both of us. I tried downloading the pacman version of it and that made it worse. Now I could not see his screenshare, but he could see it on his side, and I also still could not screenshare to him. I dont know if this is a CachyOS issue, a wayland issue, or what exaclty it is, but I wanted to see if another application would work.</p>\n\n<p>What I am looking for:</p>\n\n<ol>\n<li>Free<br/></li>\n<li>Private<br/></li>\n<li>Open Source<br/></li>\n<li>Screenshare<br/></li>\n<li>Calling (VoIP)</li>\n</ol>\n\n<p>It does not need to include a text chat feature, although it can.<br/>\nit can not be self-host only</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Shared calendar + notes with girlfriend...FOSS",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1p9o571/shared_calendar_notes_with_girlfriendfoss/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1p9o571/shared_calendar_notes_with_girlfriendfoss/",
@@ -171,7 +180,7 @@
       "guid": "/img/lmyk6eke1l2g1.png",
       "pubDate": "Fri, 21 Nov 2025 09:53:16 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2uma9/mbcompass_new_version_v1112_brings_breaking/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>MBCompass: A popular modern FOSS Compass and Navigation app without Ads, IAP, or Tracking</p>\n\n<p>New Release: MBCompass <strong>v1.1.12</strong></p>\n\n<p><em>This release and upcoming ones follow the feature roadmap proposed in the</em> <a href=\"https://github.com/CompassMB/MBCompass/blob/main/mbcompass_v2.0_dsn_proposal.png\"><strong><em>v2 design proposal</em></strong></a><em>.</em></p>\n\n<blockquote>\n</blockquote>\n\n<p>Features</p>\n\n<ul>\n<li><strong>True North Support:</strong> Easily switch between <strong>True North</strong> and <strong>Magnetic North</strong> using the new toggle in Settings.</li>\n<li><strong>AMOLED True Dark Theme</strong> Added a pure-black AMOLED mode for improved contrast and better battery efficiency on OLED displays.</li>\n<li><strong>Heading Status Indicator:</strong> A new on-screen indicator now clearly shows whether the compass is currently using <strong>True North</strong> or <strong>Magnetic North</strong>.</li>\n</ul>\n\n<p>Fixes &amp; Improvements</p>\n\n<ul>\n<li><strong>Sensor Status Dialog Fix:</strong> Resolved an issue where the dialog content was getting cut off on smaller screens.</li>\n<li><strong>General UI &amp; Stability Updates:</strong> Minor interface refinements and performance improvements for a smoother experience.</li>\n</ul>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>MBCompass: A popular modern FOSS Compass and Navigation app without Ads, IAP, or Tracking</p>\n\n<p>New Release: MBCompass <strong>v1.1.12</strong></p>\n\n<p><em>This release and upcoming ones follow the feature roadmap proposed in the</em>��<a href=\"https://github.com/CompassMB/MBCompass/blob/main/mbcompass_v2.0_dsn_proposal.png\"><strong><em>v2 design proposal</em></strong></a><em>.</em></p>\n\n<blockquote>\n</blockquote>\n\n<p>Features</p>\n\n<ul>\n<li><strong>True North Support:</strong> Easily switch between <strong>True North</strong> and <strong>Magnetic North</strong> using the new toggle in Settings.</li>\n<li><strong>AMOLED True Dark Theme</strong> Added a pure-black AMOLED mode for improved contrast and better battery efficiency on OLED displays.</li>\n<li><strong>Heading Status Indicator:</strong> A new on-screen indicator now clearly shows whether the compass is currently using <strong>True North</strong> or <strong>Magnetic North</strong>.</li>\n</ul>\n\n<p>Fixes &amp; Improvements</p>\n\n<ul>\n<li><strong>Sensor Status Dialog Fix:</strong> Resolved an issue where the dialog content was getting cut off on smaller screens.</li>\n<li><strong>General UI &amp; Stability Updates:</strong> Minor interface refinements and performance improvements for a smoother experience.</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Ik this is asked a lot, but still, is there any good, latest, free and open source app for music streaming?</p>\n\n<p>I used to stream on Harmony music, and it works great. It&#39;s just that sometimes, the background playback stops all on its own (even after giving all permissions) and sometimes songs from my playlist just won&#39;t play and say can&#39;t find song/video.</p>\n\n<p>Also, if there is one which supports creating an account and all, it&#39;ll be great, cuz I may want to use that app on laptop, phone, etc.</p>\n\n<p>Ik this is just kinda impossible to find an app like this, but if anyone can help me it&#39;ll be greatly appreciated.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "PDF reader/editor for Android",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/",
-      "pubDate": "Wed, 19 Nov 2025 15:21:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1agwh/pdf_readereditor_for_android/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Any suggestion for PDF reader/editor?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-30T05:41:18.074Z"
+  "lastFetched": "2025-11-30T06:55:29.486Z"
 }
