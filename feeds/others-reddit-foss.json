@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "DEP-18: A proposal for Git-based collaboration in Debian",
+      "link": "https://optimizedbyotto.com/post/debian-collaboration-on-git/",
+      "guid": "https://optimizedbyotto.com/post/debian-collaboration-on-git/",
+      "pubDate": "Sun, 30 Nov 2025 18:14:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pap6ae/dep18_a_proposal_for_gitbased_collaboration_in/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pap6ae/dep18_a_proposal_for_gitbased_collaboration_in/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "FOSS Alternative to Jami",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p283qy/dotkeep_a_simple_dotfile_managersymlink_farm/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p283qy/dotkeep_a_simple_dotfile_managersymlink_farm/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Spotify alternative?",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/",
-      "pubDate": "Wed, 19 Nov 2025 17:27:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1dwdj/spotify_alternative/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ik this is asked a lot, but still, is there any good, latest, free and open source app for music streaming?</p>\n\n<p>I used to stream on Harmony music, and it works great. It&#39;s just that sometimes, the background playback stops all on its own (even after giving all permissions) and sometimes songs from my playlist just won&#39;t play and say can&#39;t find song/video.</p>\n\n<p>Also, if there is one which supports creating an account and all, it&#39;ll be great, cuz I may want to use that app on laptop, phone, etc.</p>\n\n<p>Ik this is just kinda impossible to find an app like this, but if anyone can help me it&#39;ll be greatly appreciated.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-11-30T17:34:20.231Z"
+  "lastFetched": "2025-11-30T18:51:02.370Z"
 }

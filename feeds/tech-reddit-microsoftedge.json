@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Ребят, помогите плз! Как удалить автозаполнение своего емэйла из списка учетных записей Edge?",
+      "link": "/gallery/1pao532",
+      "guid": "/gallery/1pao532",
+      "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Google not working on edge",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8dnmj/me_ajudem_por_favor_meu_histórico_só_estava/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante?tem algo que eu possa fazer?</p>\n\n<p>Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Scroll behaviour on touchscreens",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8digw/scroll_behaviour_on_touchscreens/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8digw/scroll_behaviour_on_touchscreens/",
-      "pubDate": "Thu, 27 Nov 2025 21:27:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8digw/scroll_behaviour_on_touchscreens/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Since i was gifted a new Microsoft Surface 11 i am trying to use configure this machine as tablet-friendly as possible. Looking through various subs and threads i couldn&#39;t find any solution for the bad scrolling behavior in Microsoft Edge even though i set the correct smooth scroll options in edge://flags</p>\n\n<p>Any of you got an idea for a setting or extension which might help to adapt the scrolling behavior (inertia) in Microsoft Edge?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T17:34:35.822Z"
+  "lastFetched": "2025-11-30T18:51:17.418Z"
 }

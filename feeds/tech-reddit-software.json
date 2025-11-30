@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "I built a simple tool for temporary file sharing when USB, email, and cloud are blocked",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
+      "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "video and photo editor",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
@@ -73,15 +82,6 @@
       "pubDate": "Sun, 30 Nov 2025 06:24:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>One squad is full-on Scrum and another is doing Kanban-but-not-really. Recently we tried to sync but the terminology, priorities and timelines don’t match. It feels like we’re stitching together 5 mini-companies instead of one product org. How do you bring everyone back into one rhythm without forcing a rigid template?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I built a simple tool for temporary file sharing when USB, email, and cloud are blocked",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
-      "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T17:34:41.261Z"
+  "lastFetched": "2025-11-30T18:51:22.918Z"
 }

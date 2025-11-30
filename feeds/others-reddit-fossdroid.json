@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
+      "title": "Internet Speed Meter but open source",
+      "link": "/img/0ar173c4qf4g1.jpeg",
+      "guid": "/img/0ar173c4qf4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 18:13:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pap57q/internet_speed_meter_but_open_source/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, I&#39;ve been making this little app since the newer Internet Speed Meter versions got crammed with Google spyware to the point they no longer work without Google Play store installed.</p>\n\n<p>It&#39;s called Traffic Light and here are some selling points:</p>\n\n<p><a href=\"https://github.com/leekleak/traffic-light/tree/v2.4#why\"></a></p>\n\n<ul>\n<li>Free and open source</li>\n<li>Uses <a href=\"https://github.com/leekleak/traffic-light/wiki/Permissions\">fewer permissions</a></li>\n<li>Uses <a href=\"https://github.com/leekleak/traffic-light/wiki/Battery-Usage\">less battery</a></li>\n<li>No tracking</li>\n<li>Beautiful UI</li>\n<li>Incredibly small app size</li>\n</ul>\n\n<p>You can get it here on <a href=\"https://github.com/leekleak/traffic-light\">GitHub</a> or <a href=\"https://f-droid.org/en/packages/com.leekleak.trafficlight/\">F-Droid</a>, though the latter may be a bit late with updates.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Heliboard autocorrect no longer works in browsers",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/",
       "pubDate": "Sun, 30 Nov 2025 15:17:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using heliboard for a little while now and I&#39;ve noticed the autocorrect has stopped working in browsers and certain share prompts. </p>\n\n<p>Anyone know a solution to this? Many thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "This Receipt Scanner Just Made Tracking Expenses 10x Easier",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/",
-      "pubDate": "Sun, 30 Nov 2025 16:35:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I started using this receipt scanner app recently, and it completely changed how I track my expenses.<br/>\nYou literally just snap a photo of your receipt (or upload one from your phone) and the app automatically extracts every detail — totals, dates, items, categories — and saves the original photo for backup.<br/>\nNo typing. No sorting. No manual organization.<br/>\nIt also gives you a clean dashboard showing exactly where your money is going, and you can export all your data as a PDF whenever you need it (super useful for taxes, reimbursements, or budgeting).<br/>\nIf you’re tired of messy spreadsheets or losing receipts, this is honestly the easiest system I’ve used.  </p>\n\n<p>App Store link: <a href=\"https://apps.apple.com/us/app/receipt-scanner-track-expense/id6754461174\">Receipt scanner</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -82,6 +82,15 @@
       "pubDate": "Sat, 29 Nov 2025 20:33:24 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9z1q8/is_there_an_app_to_track_games_something_like/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, does someone knows if there is a foss app like Showly (movies/Tv shows tracker) but for videogames?</p>\n\n<p>You could add games to a list (playing, played or to play), from different systems, or add games to other list like &quot;owned&quot; or &quot;wish list &quot;.</p>\n\n<p>Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "This Receipt Scanner Just Made Tracking Expenses 10x Easier",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/",
+      "pubDate": "Sun, 30 Nov 2025 16:35:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pammuw/this_receipt_scanner_just_made_tracking_expenses/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I started using this receipt scanner app recently, and it completely changed how I track my expenses.<br/>\nYou literally just snap a photo of your receipt (or upload one from your phone) and the app automatically extracts every detail — totals, dates, items, categories — and saves the original photo for backup.<br/>\nNo typing. No sorting. No manual organization.<br/>\nIt also gives you a clean dashboard showing exactly where your money is going, and you can export all your data as a PDF whenever you need it (super useful for taxes, reimbursements, or budgeting).<br/>\nIf you’re tired of messy spreadsheets or losing receipts, this is honestly the easiest system I’ve used.  </p>\n\n<p>App Store link: <a href=\"https://apps.apple.com/us/app/receipt-scanner-track-expense/id6754461174\">Receipt scanner</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "My project Trudido Task and Notes",
-      "link": "/gallery/1p7ady7",
-      "guid": "/gallery/1p7ady7",
-      "pubDate": "Wed, 26 Nov 2025 15:19:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7ady7/my_project_trudido_task_and_notes/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, Hola, Hello,</p>\n\n<p>in the past I wrote here about my project <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>. It is an App for Android to take Notes or Tasks and we reached now over 400 downloads. I know there are many (fantastic) Apps like this outside but it always annoyed me that many of those Apps are from China or the US or not fully offline, ad-free or private e.g.</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a> is the opposite to that because I dont care about your data or anything.</p>\n\n<p>With Version 1.2.1 I enhanced the Markdown Editor in Notes with a WYSIWYG rich text editor. (Quill) And it got other new features like you can insert media like photos, videos, voicenotes eg.</p>\n\n<p>For the Notes it also has a function called &quot;Vault&quot; in which you can store sensitive notes and media encrypted on your device.</p>\n\n<p>And there is finally a new app icon! And it has the GPL-3.0 license.</p>\n\n<p>I hope you would like to try my App <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>.</p>\n\n<p>Thanks all for reading this and maybe see you in the comments!</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">https://github.com/dominikmuellr/trudido</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-30T17:34:23.242Z"
+  "lastFetched": "2025-11-30T18:51:04.946Z"
 }
