@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Created a YouTube Content Filter to BLOCK ANYTHING based on WORDS",
+      "link": "/gallery/1paelu7",
+      "guid": "/gallery/1paelu7",
+      "pubDate": "Sun, 30 Nov 2025 09:56:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paelu7/created_a_youtube_content_filter_to_block/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It all started with this thread on Google&#39;s support forum: When a parent said that he is helpless and his kid is just kept crying and screaming because of the content on YouTubeKids, and he asked me if I can create a tool to block videos by keyword or tag. And when Later YouTube Forum maintainer deleted mine and other parents comments and locked the thread, I decided to create FilterTube.</p>\n\n<p><a href=\"https://support.google.com/youtubekids/thread/54509605/how-to-block-videos-by-keyword-or-tag?hl=en\">https://support.google.com/youtubekids/thread/54509605/how-to-block-videos-by-keyword-or-tag?hl=en</a></p>\n\n<p>My first version video showing its working - <a href=\"https://www.youtube.com/watch?v=c2EtLkTwqRw&amp;t=1s\">https://www.youtube.com/watch?v=c2EtLkTwqRw&amp;t=1s</a></p>\n\n<p>Right now you can install and try FilterTube on Chrome, Brave, Edge browser -</p>\n\n<p><a href=\"https://chromewebstore.google.com/detail/filtertube/cjmdggnnpmpchholgnkfokibidbbnfgc\">https://chromewebstore.google.com/detail/filtertube/cjmdggnnpmpchholgnkfokibidbbnfgc</a></p>\n\n<p>and on Firefox and Opera from the GitHub release page (still in review)-</p>\n\n<p><a href=\"https://github.com/varshneydevansh/FilterTube/releases/tag/3.0.5\">https://github.com/varshneydevansh/FilterTube/releases/tag/3.0.5</a></p>\n\n<p>I have plans to integrate local ML based solution to filter based on semantic and similar relation content so that user can be assured to never see a related concept content ever again.</p>\n\n<p>Main website - <a href=\"http://filtertube.in\">filtertube.in</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "[Guide] How I use Floorp + Natsumi!",
       "link": "/img/4u8rqzo3sa4g1.png",
       "guid": "/img/4u8rqzo3sa4g1.png",
@@ -31,12 +40,12 @@
       "thumbnail": null
     },
     {
-      "title": "Brave or Midori",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pae6mc/brave_or_midori/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pae6mc/brave_or_midori/",
-      "pubDate": "Sun, 30 Nov 2025 09:28:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pae6mc/brave_or_midori/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi. Which browser is better? Brave or Midori? I care about privacy, synchronisation with Android, personalisation, but I also need the browser to be very light and fast because I have very old hardware and I want the browser to work smoothly and quickly. </p>\n</div><!-- SC_ON -->",
+      "title": "Can Anyone Tell Me About This \"Pest\" User?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/",
+      "pubDate": "Sun, 30 Nov 2025 10:04:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paeqjd/can_anyone_tell_me_about_this_pest_user/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have this user angrily responding to posts I made from TWO years ago, which are long and gone in my mind, but he is making himself REALLY hard to ignore.</p>\n\n<p>The user is <a href=\"/u/piisfour\">u/piisfour</a> and holy crap, is he a pest.  You&#39;ll find his inane responses down below on the page, on this thread about switching to Firefox:</p>\n\n<p><a href=\"/r/browsers/comments/15guoxo/comment/nridoq7/?context=1\">https://www.reddit.com/r/browsers/comments/15guoxo/comment/nridoq7/?context=1</a></p>\n\n<p>In the thread, there is the usual recommendation of Pale Moon, which I responded to (as did others), about our disagreements with using it as an everyday browser.  Now again remember, this was TWO YEARS AGO, but this <a href=\"/u/piisfour\">u/piisfour</a> fellow will just NOT stop responding to posts I made back then.  He is repeatedly making angry responses, and one upping my responses to get in the last word.</p>\n\n<p>I&#39;ve stopped responding now, but obviously he&#39;s just trying to get me into some flame war.</p>\n\n<p>I&#39;m looking for some bug repellent that works with this <a href=\"/u/piisfour\">u/piisfour</a> pest.  Cheers All!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8uww7/vivaldi_and_new_tabs/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently switched to Vivaldi as my main browser and it fits almost perfectly... But one thing makes me go insane. \nEach new tab is opening in a completely new window – it only transforms to a tab after I close it with X. \nI&#39;ve even reinstalled the whole thing, and for a few days it worked fine. Then the problem came back. I&#39;ve never heard anyone mentioning this. \nI work on different workspaces if it&#39;s relevant. The new window problem regards all of them... </p>\n\n<p>Could anyone share a fix or explain what is the source of the problem. It borderline makes me want to swap browsers completely. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "browsers with these requirements",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/",
-      "pubDate": "Fri, 28 Nov 2025 05:46:07 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8n4e3/browsers_with_these_requirements/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>For some time now, I have been needing more features that I consider necessary for my daily life. I use Brave, but for years the community has been asking for certain features, but apparently they don&#39;t care, so I need to change browsers.</p>\n\n<p>I only ask for these requirements:</p>\n\n<ul>\n<li>Optimal use of resources</li>\n<li>Ability to hibernate tabs</li>\n<li>Workspaces</li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-30T09:34:10.824Z"
+  "lastFetched": "2025-11-30T10:41:11.203Z"
 }

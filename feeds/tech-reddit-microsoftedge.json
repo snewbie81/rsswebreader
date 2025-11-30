@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Forcing Manifest V2 on Edge/Chrome 139+ (Registry + Target Flags)",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
+      "pubDate": "Sun, 30 Nov 2025 09:58:22 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>If your being affected by the hard V2 disablement in Chrome/Edge 139, the standard ExtensionManifestV2Availability registry key might stop working because they deprecated the policy handler.</p>\n\n<p>I&#39;ve found that you need to pair the registry key with specific target flags to bypass the feature check.</p>\n\n<p>The Fix:\nRegistry: Still set HKCU\\Software\\Policies\\Microsoft\\Edge -&gt; ExtensionManifestV2Availability = 2 (DWORD).</p>\n\n<p>The Bypass: You must launch the browser with these flags to un-expire the support:\n--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>For Edge Target:\n&quot;C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe&quot; --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>I’m running uBlock Origin (MV2) on the latest Stable build without the &#39;Unsupported&#39; banner.</p>\n\n<p>I have a .reg file that pushes the policy to all Chromium paths (Brave, Vivaldi, Edge) simultaneously. DM if you want the raw file to deploy via GPO.&quot;</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "iPad Version",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8a8yr/screenshot_tool_not_working_on_big_webpage/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there, I&#39;ve got an issue here. I want to to screenshots from a webpage, the thing is it&#39;s a really long one. My screenshot tool can take screenshots on normal webpages, but it&#39;s not working on this one. I want to zoom in and scroll down for long screenshots. This is why I want to use this edge screenshot tool and not snipping tool or any others.</p>\n\n<p>Anyone know how to work around that?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante?tem algo que eu possa fazer?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p88twp/olá_meu_histórico_só_estava_mostrando_de_1611/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p88twp/olá_meu_histórico_só_estava_mostrando_de_1611/",
-      "pubDate": "Thu, 27 Nov 2025 18:04:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p88twp/olá_meu_histórico_só_estava_mostrando_de_1611/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T09:34:07.949Z"
+  "lastFetched": "2025-11-30T10:41:08.795Z"
 }
