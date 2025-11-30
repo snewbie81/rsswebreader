@@ -13,15 +13,6 @@
       "thumbnail": null
     },
     {
-      "title": "Can you guess every country just by its outline?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1panwbw/can_you_guess_every_country_just_by_its_outline/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1panwbw/can_you_guess_every_country_just_by_its_outline/",
-      "pubDate": "Sun, 30 Nov 2025 17:25:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1panwbw/can_you_guess_every_country_just_by_its_outline/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Think you know your world map? </p>\n\n<p><a href=\"http://guessthecountry.co.uk\">guessthecountry.co.uk</a> shows you a country’s outline and challenges you to name it. </p>\n\n<p>Some shapes are easy, but others will definitely surprise you.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "A simple, invisible prompt-storage extension I made to streamline workflow",
       "link": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
       "guid": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
@@ -189,7 +180,7 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9n9t7/awesome_tech_resource/",
       "pubDate": "Sat, 29 Nov 2025 12:00:43 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9n9t7/awesome_tech_resource/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I put this repo together from dozens of markdown files where I’d been saving resources for different things, and I figured it might be useful for you guys.</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I put this repo together from dozens of markdown files where I’d been saving resources for different things, and I figured it might be useful for you guys.</p>\n\n<p><a href=\"https://github.com/deyaa1251/Awesome-tech-resource\">https://github.com/deyaa1251/Awesome-tech-resource</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -227,9 +218,18 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9i3se/document_generationworkflow/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Good afternoon, I’m trying to automate the document workflow for our equipment rental business and would like some suggestion for programs. I’m not super knowledgeable but am not in a huge rush and don’t mind learning</p>\n\n<p>Based off what I’ve read so far I’ve switched from using zapier to Make which I really like so far. The big issue I’ve come across is programs for auto generating forms for signature and custom receipts. They seem very expensive atleast the two I’ve tried pandadoc and signnow after using the monthly or yearly credit for automation it comes out to about $4 on pandadoc and $3 on signow per customer. If that’s not expensive please just let me know I’m being cheap</p>\n\n<p>Any suggestions on other programs for document generation? The main document workflow I’m trying is down below </p>\n\n<p>Form one- Trailer rental agreement- one signature and date with driver license photo</p>\n\n<p>Form two- custom receipt with order information/ gate codes etc. </p>\n\n<p>Stripe-&gt;Make-&gt; generate rental agreement-&gt;send/sign-&gt; once signed send receipt </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
+    },
+    {
+      "title": "Twitch On Browser Help",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/",
+      "pubDate": "Sat, 29 Nov 2025 02:00:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9cp00/twitch_on_browser_help/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I open Twitch and click on a stream, it plays for about one minute and then starts loading forever until I refresh the page. It does this in Firefox and every other browser I try. I’m on PC. Can someone please help? It’s driving me crazy.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T18:51:22.918Z"
+  "lastFetched": "2025-11-30T19:27:28.165Z"
 }
