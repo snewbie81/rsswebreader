@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Session messenger",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
+      "pubDate": "Sun, 30 Nov 2025 10:52:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Saw theres a f-droid app with a more FOSS compliant version of Session. Anyone have experiences of this app?</p>\n\n<p><a href=\"https://f-droid.org/packages/network.loki.messenger.fdroid\">https://f-droid.org/packages/network.loki.messenger.fdroid</a></p>\n\n<p>(Edited to comply with this subreddit as my main question was about this f-droid app)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "infinix cell phones",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p78f89/in_librera_after_pdf_reflow_contents_shows_only/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Any way to fix it?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Questions regarding Geto and it's setup",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p76y2u/questions_regarding_geto_and_its_setup/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p76y2u/questions_regarding_geto_and_its_setup/",
-      "pubDate": "Wed, 26 Nov 2025 12:51:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p76y2u/questions_regarding_geto_and_its_setup/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>For context, Geto is an app that helps hide developer options from specific apps that require them to be turned off. It requires three apps (Shizuku, any terminal app, and Geto) and a command to allow Geto to make the changes.</p>\n\n<p>Here are answers to your questions:</p>\n\n<ol>\n<li>Can I uninstall the terminal app after allowing permission to the Geto app?</li>\n<li>Yes, you can uninstall the terminal app after allowing permission to Geto, as it is not needed for ongoing operation.</li>\n<li>Does Geto need Shizuku permission to run?</li>\n<li>Geto does require Shizuku permission to function properly. If you were able to run it without allowing permission from Shizuku, it might be operating in a limited capacity.</li>\n<li>After creating the necessary tweaks for my required apps, can I uninstall the Geto app?</li>\n<li>You can uninstall the Geto app after making the necessary tweaks, but the changes may revert depending on how those tweaks interact with your system.</li>\n<li>Lastly, can I uninstall the Shizuku app as well?</li>\n<li>Yes, you can uninstall the Shizuku app once you&#39;ve completed your setup and tweaks, but keep in mind that any future changes may require it again.</li>\n</ol>\n\n<p>In short, you can delete all three apps after making your tweaks, but whether the changes will revert upon uninstallation may depend on how those changes were implemented.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-30T10:40:56.673Z"
+  "lastFetched": "2025-11-30T11:28:19.901Z"
 }

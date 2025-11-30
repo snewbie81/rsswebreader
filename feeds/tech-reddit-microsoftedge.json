@@ -4,21 +4,21 @@
   "link": "",
   "items": [
     {
-      "title": "New computer cant browse",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
-      "pubDate": "Sun, 30 Nov 2025 06:35:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got this laptop yesterday and honestly idk what im doing with it but the browser it came with won&#39;t let me do anything it just loads blank pages whenever I try to search</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Forcing Manifest V2 on Edge/Chrome 139+ (Registry + Target Flags)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
       "pubDate": "Sun, 30 Nov 2025 09:58:22 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>If your being affected by the hard V2 disablement in Chrome/Edge 139, the standard ExtensionManifestV2Availability registry key might stop working because they deprecated the policy handler.</p>\n\n<p>I&#39;ve found that you need to pair the registry key with specific target flags to bypass the feature check.</p>\n\n<p>The Fix:\nRegistry: Still set HKCU\\Software\\Policies\\Microsoft\\Edge -&gt; ExtensionManifestV2Availability = 2 (DWORD).</p>\n\n<p>The Bypass: You must launch the browser with these flags to un-expire the support:\n--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>For Edge Target:\n&quot;C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe&quot; --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>I’m running uBlock Origin (MV2) on the latest Stable build without the &#39;Unsupported&#39; banner.</p>\n\n<p>I have a .reg file that pushes the policy to all Chromium paths (Brave, Vivaldi, Edge) simultaneously. DM if you want the raw file to deploy via GPO.&quot;</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "New computer cant browse",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
+      "pubDate": "Sun, 30 Nov 2025 06:35:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got this laptop yesterday and honestly idk what im doing with it but the browser it came with won&#39;t let me do anything it just loads blank pages whenever I try to search</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T10:41:08.795Z"
+  "lastFetched": "2025-11-30T11:28:32.192Z"
 }
