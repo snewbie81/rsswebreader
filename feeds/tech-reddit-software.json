@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "I built a simple tool for temporary file sharing when USB, email, and cloud are blocked",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
+      "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "video and photo editor",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
+      "pubDate": "Sun, 30 Nov 2025 04:28:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I&#39;m planning to create a dark video channel (if you know of any communities, channels, etc. that can help me grow or learn more, I&#39;d appreciate it) and I&#39;d like to hear from those of you who have more knowledge and experience with free (pirated) video (and photo) editing apps, because I&#39;m creating the channel precisely to try to make some money. Thank you in advance.</p>\n\n<p>I apologize in advance if the community does not accept this or if it is about this.<br/>\nI apologize for my very poor English as well. I used a translator lol</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Built a Simple yt-dlp GUI Downloader for Videos/Audio – Windows/Linux (Mac Soon). Feedback Welcome!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p92hge/what_operating_system_should_i_install_on_a/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an Acer Extensa 5620Z laptop with 1GB of RAM and an old dual-core processor. I tried Linux, but there are no drivers for the card, sound, or USB.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Alternativa a repairdesk",
-      "link": "https://redlib.perennialte.ch//r/opensource/comments/1p90d41/alternativa_a_repairdesk/",
-      "guid": "https://redlib.perennialte.ch//r/opensource/comments/1p90d41/alternativa_a_repairdesk/",
-      "pubDate": "Fri, 28 Nov 2025 17:16:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p90dvg/alternativa_a_repairdesk/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p90dvg/alternativa_a_repairdesk/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Any cool AI tools you’ve discovered recently?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/",
-      "pubDate": "Thu, 27 Nov 2025 23:37:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p8g7dk/any_cool_ai_tools_youve_discovered_recently/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I’m stuck using the same few apps every day, and I’m probably missing out on a bunch of cool stuff. There are so many new AI tools coming out that I honestly can’t keep up anymore. So I’m curious, what’s one AI tool you’ve tried lately that actually impressed you?</p>\n\n<p>Edited: Thank you so much for all your recommendations. I tried <a href=\"https://huggingface.co/\">Hugging face</a>, <a href=\"https://www.savyo.ai/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=reddit25112801\">Savyo Al</a>, <a href=\"https://apps.apple.com/app/apple-store/id6636520663?pt=127268194&amp;ct=reddit&amp;mt=8\">Gensmo</a> and they are all high-quality and super interesting.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T03:52:24.003Z"
+  "lastFetched": "2025-11-30T04:57:56.842Z"
 }

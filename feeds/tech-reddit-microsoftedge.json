@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "iPad Version",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
+      "pubDate": "Sun, 30 Nov 2025 03:51:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just started using the iPad app, and it looks like a cross between the iPhone and desktop versions?</p>\n\n<p>Given the space available, especially in landscape mode, I hope they add more of the desktop features into it. </p>\n\n<p>Showing the Favourite bar and pinning extensions/history/collections would be nice. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Edge won't stop opening on windows startup (even after I disabled the setting)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8873j/cached_images/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks - couldn&#39;t see anything obvious in a search of prior threads so forgive me if this has been answered before...</p>\n\n<p>Trying to obtain copies of images that I looked at in an Edge tab ~48h ago (car advert which has now been pulled off <a href=\"http://autotrader.co.uk\">autotrader.co.uk</a>, in case you&#39;re wondering), but this seems to be surprisingly difficult. How could I find these, or are they likely have gone from the cache by now? Or is this not at all possible?</p>\n\n<p>Thanks! 🙏🏻</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Home page looks like the chrome home page",
-      "link": "/img/x3u3k36ket3g1.png",
-      "guid": "/img/x3u3k36ket3g1.png",
-      "pubDate": "Thu, 27 Nov 2025 15:05:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p84etv/home_page_looks_like_the_chrome_home_page/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have no idea how to change this or why it&#39;s even like this in the first place, any suggestions would help</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T03:52:18.534Z"
+  "lastFetched": "2025-11-30T04:57:51.585Z"
 }
