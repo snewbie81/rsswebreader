@@ -31,21 +31,30 @@
       "thumbnail": null
     },
     {
-      "title": "Anyone heard of 'PACE' app? Is this incredible project actually dead?",
-      "link": "/img/kpfc8q7wq34g1.png",
-      "guid": "/img/kpfc8q7wq34g1.png",
-      "pubDate": "Sat, 29 Nov 2025 02:00:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9coic/anyone_heard_of_pace_app_is_this_incredible/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>I thought it might be nice if we brought this project back into the light together - maybe someone would love to fork it and turn it into something meaningful again. :)</em></strong></p>\n\n<p>-</p>\n\n<p>Hey everyone,</p>\n\n<p>A couple of months ago, I stumbled across this app in an old Reddit thread about FOSS, privacy-friendly alternatives to popular everyday apps. PACE was recommended as one of the most well-rounded options for tracking walks and hikes (anything fitness related), with solid stats and features.</p>\n\n<p>Unfortunately, by the time I found it, development seemed to have stalled, and it&#39;s no longer available anywhere I can find. The <strong><em>website</em></strong> still has this &quot;update&quot; banner about a new version coming soon, but it&#39;s been up there for ages without any actual progress.</p>\n\n<ul>\n<li>Their website: <a href=\"https://withpace.io/\">https://withpace.io/</a></li>\n<li>Github page: <a href=\"https://github.com/withpaceio/pace-app\">https://github.com/withpaceio/pace-app</a></li>\n</ul>\n\n<p>Just wondering if anyone here knows more about it or if the app is officially dead. Any info would be appreciated!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Introducing Veylune Music Player — a fast, fluid, local-only Android music app built with Material Expressive Design | COMING SOON.",
       "link": "https://redlib.perennialte.ch//r/HowToMen/comments/1pa1tpa/introducing_veylune_music_player_a_fast_fluid/",
       "guid": "https://redlib.perennialte.ch//r/HowToMen/comments/1pa1tpa/introducing_veylune_music_player_a_fast_fluid/",
       "pubDate": "Sat, 29 Nov 2025 22:34:23 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pa1u2r/introducing_veylune_music_player_a_fast_fluid/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pa1u2r/introducing_veylune_music_player_a_fast_fluid/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for Keyboard app with specific features",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pa7pv2/looking_for_keyboard_app_with_specific_features/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pa7pv2/looking_for_keyboard_app_with_specific_features/",
+      "pubDate": "Sun, 30 Nov 2025 03:13:22 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pa7pv2/looking_for_keyboard_app_with_specific_features/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a keyboard that can keep clipboard history for a long time, at least a day or even let me pin it forever. I&#39;m currently using Heliboard, and it only keeps clipboard history for two hours. I also need a feature where the keyboard remembers the words I type most and shows them as suggestions. Does anyone know any keyboard apps that offer these features?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Anyone heard of 'PACE' app? Is this incredible project actually dead?",
+      "link": "/img/kpfc8q7wq34g1.png",
+      "guid": "/img/kpfc8q7wq34g1.png",
+      "pubDate": "Sat, 29 Nov 2025 02:00:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9coic/anyone_heard_of_pace_app_is_this_incredible/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>I thought it might be nice if we brought this project back into the light together - maybe someone would love to fork it and turn it into something meaningful again. :)</em></strong></p>\n\n<p>-</p>\n\n<p>Hey everyone,</p>\n\n<p>A couple of months ago, I stumbled across this app in an old Reddit thread about FOSS, privacy-friendly alternatives to popular everyday apps. PACE was recommended as one of the most well-rounded options for tracking walks and hikes (anything fitness related), with solid stats and features.</p>\n\n<p>Unfortunately, by the time I found it, development seemed to have stalled, and it&#39;s no longer available anywhere I can find. The <strong><em>website</em></strong> still has this &quot;update&quot; banner about a new version coming soon, but it&#39;s been up there for ages without any actual progress.</p>\n\n<ul>\n<li>Their website: <a href=\"https://withpace.io/\">https://withpace.io/</a></li>\n<li>Github page: <a href=\"https://github.com/withpaceio/pace-app\">https://github.com/withpaceio/pace-app</a></li>\n</ul>\n\n<p>Just wondering if anyone here knows more about it or if the app is officially dead. Any info would be appreciated!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p69f16/passvault_v080beta_open_source_password_manager/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>PassVault</strong>, an open-source, offline password manager. I posted here a few weeks ago, and thanks to your feedbacks.</p>\n\n<p>I&#39;ve just released <strong>v0.8.0-beta01</strong>.</p>\n\n<p><strong>What&#39;s new in this update:</strong></p>\n\n<ul>\n<li><strong>Argon2 Encryption:</strong> Switched to stronger encryption standards for better security.</li>\n<li><strong>Performance:</strong> Moved database operations to background threads (no more UI stutters).</li>\n</ul>\n\n<p><strong>Why use it?</strong></p>\n\n<ul>\n<li>Completely Offline (No internet permission)</li>\n</ul>\n\n<p><strong>Links:</strong></p>\n\n<ul>\n<li><strong>GitHub (Source &amp; APK):</strong> <a href=\"https://github.com/jksalcedo/PassVault\">https://github.com/jksalcedo/PassVault</a></li>\n</ul>\n\n<p><strong>MIT License</strong></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Remote PC Unlock/Authentication App?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/",
-      "pubDate": "Tue, 25 Nov 2025 20:34:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p6nnw2/remote_pc_unlockauthentication_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m curious if there&#39;s some kind of app that allows you to securely authenticate yourself with a workstation (such as Windows PC) with an Android device&#39;s user authentication method(s). Like <a href=\"https://www.xda-developers.com/unlock-windows-pc-fingerprint-scanner-android/\">Remote Fingerprint Unlock</a>, but without installing  proprietary binaries. Thanks in advance!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-29T23:33:17.195Z"
+  "lastFetched": "2025-11-30T03:52:06.678Z"
 }

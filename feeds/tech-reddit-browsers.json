@@ -13,12 +13,30 @@
       "thumbnail": null
     },
     {
-      "title": "Vivaldi, DuckDuckGo or Brave",
-      "link": "/img/4lp6scbm1a4g1.jpeg",
-      "guid": "/img/4lp6scbm1a4g1.jpeg",
-      "pubDate": "Sat, 29 Nov 2025 23:02:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa2h1s/vivaldi_duckduckgo_or_brave/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi. If you had to choose a new browser and the only options were Vivaldi, DuckDuckGo and Brave, which one would you choose? This is an open question for everyone, and I would love to read everyone&#39;s arguments for choosing a particular browser. </p>\n\n<p>Personally, I am testing all three browsers and cannot decide on any of them yet. I need one that is lightweight so that it works well and quickly on my old laptop, I want the browser to protect my privacy, but I also want it to be attractive and have good synchronisation. Maybe I&#39;ll just choose the one with the most potential for the future so that I have one main browser, and maybe your comments will help me make my choice. </p>\n</div><!-- SC_ON -->",
+      "title": "[Guide] How I use Floorp + Natsumi!",
+      "link": "/img/4u8rqzo3sa4g1.png",
+      "guid": "/img/4u8rqzo3sa4g1.png",
+      "pubDate": "Sun, 30 Nov 2025 01:32:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa5peq/guide_how_i_use_floorp_natsumi/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Follow this guide: <a href=\"https://github.com/TheBigWazz/wazz-natsumi-setup-guide\">https://github.com/TheBigWazz/wazz-natsumi-setup-guide</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Firefox + userChrome.js: Tab Split View, Tab Groups, Drag &amp; Drop Stacking — Fully supported and animated in Multi-Row!",
+      "link": "",
+      "guid": "",
+      "pubDate": "Sun, 30 Nov 2025 03:01:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa7hct/firefox_userchromejs_tab_split_view_tab_groups/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/Merci-chao/userChrome.js#multi-tab-rows\">https://github.com/Merci-chao/userChrome.js#multi-tab-rows</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "QuickSee – Peek at your webcam",
+      "link": "/img/obklhrhhab4g1.jpeg",
+      "guid": "/img/obklhrhhab4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 03:14:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa7qhh/quicksee_peek_at_your_webcam/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I realized I was opening heavy apps like Zoom or Photo Booth just to do a quick 5-second face check before meetings. It felt like overkill.</p>\n\n<p>So, I built <strong>QuickSee</strong>. It turns your browser toolbar into a digital pocket mirror.</p>\n\n<p><strong>What it does:</strong></p>\n\n<ul>\n<li><strong>Instant Preview:</strong> One click to open a mirror-style feed. No loading screens.</li>\n<li><strong>Digital Zoom (1x–6x):</strong> Check the details (like spinach in your teeth) easily.</li>\n<li><strong>Quick Capture:</strong> Snap crisp 4:3 photos instantly to your Downloads.</li>\n<li><strong>Daily Motivation:</strong> Shows a subtle, positive message to boost your mood.</li>\n<li><strong>Privacy First:</strong> It runs 100% locally. Your video feed never leaves your computer.</li>\n</ul>\n\n<p>It remembers your camera settings automatically, so it&#39;s always ready when you are.</p>\n\n<p>Available now on <a href=\"https://chromewebstore.google.com/detail/dhpfidchcjjoicmmikaneognhiohnphe?utm_source=item-share-cb\">Chrome Web Store</a> and <a href=\"https://microsoftedge.microsoft.com/addons/detail/quicksee-%E2%80%93-peek-at-your-w/llcimbjfejibicdlghgongnodbgpdpcd\">Edge Add-ons</a>.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -28,6 +46,33 @@
       "pubDate": "Sat, 29 Nov 2025 03:01:57 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9dxlq/x_countrybadge_see_their_real_country_and_app/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I built <a href=\"https://buildmelon.com/x-countrybadge/\">X CountryBadge</a> to help users verify account locations. </p>\n\n<p>When you click the new pin icon next to any username, the extension fetches that specific account&#39;s location information and displays it right there on your timeline.</p>\n\n<p><strong>Features:</strong></p>\n\n<ul>\n<li>Instantly reveals the country of origin for any account</li>\n<li>Toggle between Flag or Text display modes</li>\n<li>Hover over the badge to see the connected App Store region </li>\n<li>Unlimited fetches, free to use</li>\n<li>Runs entirely locally on your browser for privacy</li>\n</ul>\n\n<p>It is available now on the <a href=\"https://chromewebstore.google.com/detail/fldiebelpcgjgdlmkmbohiljpkdeillj?utm_source=item-share-cb\">Chrome Web Store</a> and <a href=\"https://addons.mozilla.org/en-US/firefox/addon/x-countrybadge/\">Firefox Add-ons</a>.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "windows command prompt and windows command processer in brave??",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pa5sob/windows_command_prompt_and_windows_command/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pa5sob/windows_command_prompt_and_windows_command/",
+      "pubDate": "Sun, 30 Nov 2025 01:37:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa5sob/windows_command_prompt_and_windows_command/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>i do not have a image because i ended task on them &lt;/3</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any browser that could provide my needs?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pa5gs1/any_browser_that_could_provide_my_needs/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pa5gs1/any_browser_that_could_provide_my_needs/",
+      "pubDate": "Sun, 30 Nov 2025 01:21:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa5gs1/any_browser_that_could_provide_my_needs/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, I was wondering if people can give any browser suggestions based on my usage. I&#39;m currently using Opera GX as my main browser, I like it&#39;s customizations and built-in adblocker (though I had to use an extension for YT) and it&#39;s pop-out video feature. But, the reason for the change is the negative perception on it, with it being another YT sponsorship slop.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Very lightweight browser",
+      "link": "/img/jf8opdd6ha4g1.jpeg",
+      "guid": "/img/jf8opdd6ha4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 00:29:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa4dw9/very_lightweight_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Which browser that is very light and fast would you recommend for a very old and weak laptop? It is so weak that Vivaldi, Firefox, Librewolf and Edge do not work well. Brave works fine, but maybe you have a better idea. I care about privacy, synchronisation with Android and personalisation. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -182,54 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8klvt/how_safe_is_shift_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So I just installed shift browser, from the official website <a href=\"http://shift.com\">shift.com</a> </p>\n\n<p>And I have just been wondering if it was malware, or spyware. Mainly because I have seen people getting their into stolen, or having it installed on people&#39;s computer without them doing anything. </p>\n\n<p>So is it safe, is it malware?</p>\n\n<p>P.S. I have had a good experience so far, nothing bad. But very customizable.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What is the most compatible browser for iOS, Mac and Windows? I need specialy sync tabs and groups in all my devices, at this point I don't care about other functionalities.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8tki9/what_is_the_most_compatible_browser_for_ios_mac/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8tki9/what_is_the_most_compatible_browser_for_ios_mac/",
-      "pubDate": "Fri, 28 Nov 2025 12:24:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8tki9/what_is_the_most_compatible_browser_for_ios_mac/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8tki9/what_is_the_most_compatible_browser_for_ios_mac/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for a fast and customizable browser",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/",
-      "pubDate": "Fri, 28 Nov 2025 07:42:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8p1n5/looking_for_a_fast_and_customizable_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I recently made the switch to Linux in an attempt to free myself from the mega-corporations and I&#39;ve been using Opera so far since that&#39;s what I used on Windows.</p>\n\n<p>I&#39;ve really enjoyed the amount of customization and unique features that Opera provides, but the whole browser feels a bit bloated and somewhat questionable <strong>in my opinion.</strong> Anyways I&#39;ve gotten tired of the mild inconveniences and weirdness that I have to deal with when using Opera, it feels like it&#39;s not in my best interest and I would like to switch to something possibly better.</p>\n\n<p>Productivity and workspace management features don&#39;t matter to me, I just want a light, fast and highly customizable chromium-based browser that I don&#39;t have to worry about.</p>\n\n<p>This request might be too specific but I would appreciate any suggestions that are similar to what I described, thanks!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "The perfect browser doesn't exist for my case",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/",
-      "pubDate": "Thu, 27 Nov 2025 20:30:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8c9m6/the_perfect_browser_doesnt_exist_for_my_case/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It irritates me not to find the perfect browser. It seems no one wants to do it. Many come close, in fact, ARC would be the closest to a perfect browser, but it&#39;s not perfect.</p>\n\n<p>I&#39;m looking for a browser that is like ARC, exactly like ARC, but with the possibility of opening web panels, as Vivaldi or Edge have.</p>\n\n<p>Edge or Vivaldi, or even Brave (although it doesn&#39;t have web panels yet, its sidebar is &quot;prepared&quot; for it) lack features that ARC has, such as profile management in the same window or a good design for vertical tabs.</p>\n\n<p>So there&#39;s no way to find the perfect browser, which for me would be ARC with web panels and the ability to open extensions in the side panel like Claude.</p>\n\n<p>In any case, this is just a venting post. For now, I&#39;ll stick with Brave, which lacks a lot, but at least has almost everything I&#39;m looking for.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "SnapText - Free Text Expander: Shortcuts, Snippets &amp; Templates for Productivity",
-      "link": "https://chromewebstore.google.com/detail/snaptext-lightning-fast-t/efhoenaaemdphicpkiocfigdopekcgfc",
-      "guid": "https://chromewebstore.google.com/detail/snaptext-lightning-fast-t/efhoenaaemdphicpkiocfigdopekcgfc",
-      "pubDate": "Fri, 28 Nov 2025 04:56:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8m8ct/snaptext_free_text_expander_shortcuts_snippets/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I kept copy-pasting the same customer support responses, email signatures, and code snippets over and over. TextExpander costs $96/year, and cloud-based alternatives felt overkill for what I needed.</p>\n\n<p><strong>Why I Think It&#39;s Different:</strong></p>\n\n<ul>\n<li>Completely free</li>\n<li>100% private (everything stays on your device)</li>\n<li>Works everywhere: Gmail, Notion, Slack, VS Code, Reddit, etc.</li>\n<li>Modern, clean UI with search and favorites</li>\n<li>No login or setup needed</li>\n</ul>\n\n<p><strong>Who It&#39;s For:</strong></p>\n\n<p>The ultimate text expander for Chrome. Create smart shortcuts and templates for instant productivity. Perfect for customer support, sales emails, developers, students</p>\n\n<p>Would genuinely love any feedback, feature requests, or even just to hear if you think text expanders are useful! Happy to answer questions.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "google’s Chromium team decides it will add JPEG XL support, reverses ‘obsolete’ declaration",
-      "link": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
-      "guid": "https://devclass.com/2025/11/24/googles-chromium-team-decides-it-will-add-jpeg-xl-support-reverses-obsolete-declaration/",
-      "pubDate": "Thu, 27 Nov 2025 07:36:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p7w95f/googles_chromium_team_decides_it_will_add_jpeg_xl/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-29T23:33:31.343Z"
+  "lastFetched": "2025-11-30T03:52:20.911Z"
 }
