@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Jangan lupa kalau tiap kali orang bicara atau bikin generated art di ChatGPT, ratusan GPU akan meleleh dan potensi kebakar di markas ChatGPT. Mereka akan beli banyak komponen PC seperti GPU, RAM, CPU habis-habisan sampai harganya digoreng parah.",
+      "link": "/img/c9c42c2evd4g1.jpeg",
+      "guid": "/img/c9c42c2evd4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 11:54:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pagjep/jangan_lupa_kalau_tiap_kali_orang_bicara_atau/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Fuck AI</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Info: Smartfren ada kebijakan tersembunyi, “Pembulatan Kuota”, this is straight up robbery",
       "link": "/gallery/1pab8m9",
       "guid": "/gallery/1pab8m9",
@@ -37,15 +46,6 @@
       "pubDate": "Sun, 30 Nov 2025 12:17:43 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pagxws/internet_itu_tiap_tahun_makin_kenceng_they_said/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pagxws/internet_itu_tiap_tahun_makin_kenceng_they_said/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Jangan lupa kalau tiap kali orang bicara atau bikin generated art di ChatGPT, ratusan GPU akan meleleh dan potensi kebakar di markas ChatGPT. Mereka akan beli banyak komponen PC seperti GPU, RAM, CPU habis-habisan sampai harganya digoreng parah.",
-      "link": "/img/c9c42c2evd4g1.jpeg",
-      "guid": "/img/c9c42c2evd4g1.jpeg",
-      "pubDate": "Sun, 30 Nov 2025 11:54:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pagjep/jangan_lupa_kalau_tiap_kali_orang_bicara_atau/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Fuck AI</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -67,12 +67,30 @@
       "thumbnail": null
     },
     {
+      "title": "Free URL shortener kejar tayang, rugi pakai yang berbayar mahal karena analytical data doang.",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/",
+      "pubDate": "Sun, 30 Nov 2025 13:11:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Mau share web buat shortlink, udah finish tapi belum polished</strong></p>\n\n<p>100% free no catch, cuma ya itu hosting dan coding seadanya. Karena kerjainnya sendiri dengan bantuan AI buat cek error, nambahin fitur, dan manage alur kerjanya. Lalu menurut saya ini udah kompleks dan lengkap banget dibanding URL shortener di luaran sana yang gratis atau &quot;freemium&quot;.</p>\n\n<p>Kenapa saya share kesini?... Karena rasanya masih ada aja yang kurang, perlu feedback langsung dari user.</p>\n\n<h1>Backstory:</h1>\n\n<p>Niatnya buat pakai sendiri, tapi terlalu bagus dan penuh effort buatnya  (Seminggu begadang, tidur subuh, bangun matahari udah di atas kepala 🥲) rugi kalau tidak di share kan?.</p>\n\n<p>Namanya <a href=\"https://hel.ink\"><strong>Hop Easy Link | Hel.ink</strong></a> - kenapa hel.ink? Karena nyari URL yang short dengan embel-embel &quot;link&quot;, tapi rata-rata udah sold 😭 Pengennya punya url shortener dengan domain yang keren dan pendek/mini kaya is.gd, nemunya yang cocok ya cuma helink. Sudah jenuh juga dengan bit.ly karena fitur previewnya 10 detik buat visitor enggak jadi/lanjut ke link tujuan, pakai rebrand.ly sama dub.co rasanya buang duit banget, karena link yang perlu di manage cuma sedikit untuk jangka yang panjang, padahal harus bayar bulanan/tahunan untuk subscribe service dari mereka.</p>\n\n<p>Ini dia pengenalan tersangkanya</p>\n\n<p>Built with Laravel (Blade, Alpine) oleh saya, pake cinta ❤️❤️❤️ dan waktu ngalong seminggu tidak lihat matahari pagi.</p>\n\n<p><strong>Udah built in basic rate limiter biar tidak ada spam baik bot atau user.</strong></p>\n\n<h1>Fitur yang sudah ada:</h1>\n\n<p><strong>Khusus Public Access:</strong></p>\n\n<ul>\n<li>Bisa buat shortlink tapi limited</li>\n<li>Registered user unlock semua fitur di bawah</li>\n</ul>\n\n<p><strong>Main Feature:</strong></p>\n\n<ul>\n<li>Custom slug + custom redirect type (301, 302, 307)</li>\n<li>QR code generator (simple tapi works)</li>\n<li>Password protection &amp; expiration dates</li>\n<li>Tags &amp; folders untuk organize</li>\n<li>Semua editable</li>\n<li><strong>Current limits:</strong> 200 link creation/day, max 1000 active links (nge-limit biar cukup buat rame-rame tapi biaya gak bengkakkk....</li>\n</ul>\n\n<p><strong>Analytics :</strong></p>\n\n<ul>\n<li>Analytics lengkap dengan GeoIP tracking (Ada limit per menit, karena pakai API yang free hehe)</li>\n<li>Visitor proxy/VPN detection</li>\n<li>Device, browser detection</li>\n<li>Referrer tracking</li>\n<li>Click history &amp; unique visitors</li>\n<li>Export to CSV</li>\n</ul>\n\n<p><strong>Organization:</strong></p>\n\n<ul>\n<li>folders &amp; tags</li>\n<li>Bulk operations (Hapus, archive)</li>\n<li>Search &amp; filter</li>\n</ul>\n\n<p><strong>Security &amp; Account:</strong></p>\n\n<ul>\n<li>2FA (catchphrase + authenticator app)</li>\n<li>Login via email (need verification, jadi butuh real email/temp mail) atau Google OAuth</li>\n<li>Activity logs &amp; login history</li>\n<li>Backup/export features</li>\n<li>Dark mode (karena... ya dark mode lah, silau kalau pakai yang putih bro 😎)</li>\n</ul>\n\n<p><strong>The Important One:</strong></p>\n\n<ul>\n<li><strong>1-click delete button</strong> - hapus semua data, link, folder, tags, analytical data, gak ada sisa!</li>\n</ul>\n\n<h1>Screenshots:</h1>\n\n<p><a href=\"/preview/pre/s0qucbfd8e4g1.png?width=2543&amp;format=png&amp;auto=webp&amp;s=a55203b6ecb86df4131ab1337d24ace15a584276\">/preview/pre/s0qucbfd8e4g1.png?width=2543&amp;format=png&amp;auto=webp&amp;s=a55203b6ecb86df4131ab1337d24ace15a584276</a></p>\n\n<p><a href=\"/preview/pre/rufntcfd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=89502b975a09d6a4f9b48525c757342b6f3d9967\">/preview/pre/rufntcfd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=89502b975a09d6a4f9b48525c757342b6f3d9967</a></p>\n\n<p><a href=\"/preview/pre/4ha77ofd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=52331a037085b51e736ad0803769e03efa9ba353\">/preview/pre/4ha77ofd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=52331a037085b51e736ad0803769e03efa9ba353</a></p>\n\n<p><a href=\"/preview/pre/hkunbtgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=131df22302f06974c75e3b957d8fb6da0793185a\">/preview/pre/hkunbtgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=131df22302f06974c75e3b957d8fb6da0793185a</a></p>\n\n<p><a href=\"/preview/pre/fge51qgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=3a434a1d1d100cfb95cba9919e691dbcab36f77a\">/preview/pre/fge51qgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=3a434a1d1d100cfb95cba9919e691dbcab36f77a</a></p>\n\n<p><a href=\"/preview/pre/gzbuczgd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=fdc2f863c1cb5480db1fd8d8afd17800b0b7efc2\">/preview/pre/gzbuczgd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=fdc2f863c1cb5480db1fd8d8afd17800b0b7efc2</a></p>\n\n<p><a href=\"/preview/pre/cp15rygd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=dc5526412e5fc5737f454ad337a1e5475b875531\">/preview/pre/cp15rygd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=dc5526412e5fc5737f454ad337a1e5475b875531</a></p>\n\n<p><a href=\"/preview/pre/24zzq3hd8e4g1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=109e95193d06b62f463c2e42d7d5ebec8bd85ce2\">/preview/pre/24zzq3hd8e4g1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=109e95193d06b62f463c2e42d7d5ebec8bd85ce2</a></p>\n\n<p><a href=\"/preview/pre/qupg1mhd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=8038b66ee82b2319b1273d59b1c9a8bd34e918c6\">/preview/pre/qupg1mhd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=8038b66ee82b2319b1273d59b1c9a8bd34e918c6</a></p>\n\n<p><strong>Full Album:</strong> <a href=\"https://imgur.com/a/JhCpevD\"><strong>https://imgur.com/a/JhCpevD</strong></a></p>\n\n<h1>⚠️ Disclaimer:</h1>\n\n<p>Karena belum sepenuhnya full test, ntah ada alur logic yang bentrok atau belum selesai. Kalau nemu bug atau punya saran, feel free to:</p>\n\n<ul>\n<li>Drop comment di sini</li>\n<li>DM saya</li>\n<li>Kirim uang juga boleh 🤪</li>\n</ul>\n\n<p>Terimakasih sudah baca dan mampir, spesial thanks buat future user </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Ada yang mau mendang/mending daripada ini?",
       "link": "/img/3m4qwugk6e4g1.jpeg",
       "guid": "/img/3m4qwugk6e4g1.jpeg",
       "pubDate": "Sun, 30 Nov 2025 12:57:30 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahog1/ada_yang_mau_mendangmending_daripada_ini/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Sebenarnya pengen cari casan 60W-an. Tapi kepikiran kayaknya lebih murah ambil cok sambung daripada batok GaN, jadi punya pilihan beli ini. Lagipula memang butuhnya cuma letak di meja/gak dibawa kemana-mana. Ada opsi lain?</p>\n\n<p>Harga 260k</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is it just me or reddit search feature is shit now?",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
+      "pubDate": "Sun, 30 Nov 2025 12:41:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi gini, gua lagi nyari post lama di <a href=\"/r/indowibu\">r/indowibu</a> yang tema nya JAV soalnya ada orang yang nyari <a href=\"/r/indowibu/comments/1paeyd5/comment/nrj3bja/?context=1\">film pink</a> (help that poor sod pls). Cuman pas gua ketik kata jav di search bar dan gua klik enter tuh gabisa mulu. Malahan gua dipaksa buat masukin kalimat dibawah:</p>\n\n<p><a href=\"/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0\">/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0</a></p>\n\n<p>Ini ss dari reddit web. Ya tentu saja gaada post dengan kata2 kayak gitu. Ini perasaan gua ato reddit ini fitur search nya kayak &quot;dipaksakan&quot; gitu ya? Lucunya adalah restriction kayak gini tuh gaada di reddit mobile app. Selain itu, ini perasaan gua aja ato bukannya dulu ada bar khusus buat flair yang bisa di teken2 agar orang bisa search post by flair? Kenapa di versi web gaada?</p>\n\n<p>Rasanya seakan2 kayak banyak fitur di web disunat tapi yang di versi hp masih ada. Gua kudu utak atik apa lagi bjir. Gamasuk akal kalo tiap web diupdate gua harus bolak balik mod tools karena mrk otak atik fitur ato mindahin fitur entah kemana.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -85,12 +103,12 @@
       "thumbnail": null
     },
     {
-      "title": "Is it just me or reddit search feature is shit now?",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
-      "pubDate": "Sun, 30 Nov 2025 12:41:40 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi gini, gua lagi nyari post lama di <a href=\"/r/indowibu\">r/indowibu</a> yang tema nya JAV soalnya ada orang yang nyari <a href=\"/r/indowibu/comments/1paeyd5/comment/nrj3bja/?context=1\">film pink</a> (help that poor sod pls). Cuman pas gua ketik kata jav di search bar dan gua klik enter tuh gabisa mulu. Malahan gua dipaksa buat masukin kalimat dibawah:</p>\n\n<p><a href=\"/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0\">/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0</a></p>\n\n<p>Ini ss dari reddit web. Ya tentu saja gaada post dengan kata2 kayak gitu. Ini perasaan gua ato reddit ini fitur search nya kayak &quot;dipaksakan&quot; gitu ya? Lucunya adalah restriction kayak gini tuh gaada di reddit mobile app. Selain itu, ini perasaan gua aja ato bukannya dulu ada bar khusus buat flair yang bisa di teken2 agar orang bisa search post by flair? Kenapa di versi web gaada?</p>\n\n<p>Rasanya seakan2 kayak banyak fitur di web disunat tapi yang di versi hp masih ada. Gua kudu utak atik apa lagi bjir. Gamasuk akal kalo tiap web diupdate gua harus bolak balik mod tools karena mrk otak atik fitur ato mindahin fitur entah kemana.</p>\n</div><!-- SC_ON -->",
+      "title": "Ini powerbank worth it? nyari powerbank under 300k",
+      "link": "/img/gbx7rpo7id4g1.jpeg",
+      "guid": "/img/gbx7rpo7id4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 10:40:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pafbiy/ini_powerbank_worth_it_nyari_powerbank_under_300k/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Nyari powerbank under 300k, penggunaan buat sehari hari ngecas hp kalo lagi diluar. Any powerbank from 10.000mAh - 20.000mAH</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -121,21 +139,21 @@
       "thumbnail": null
     },
     {
+      "title": "Paket mygamer nih. Kalau yang lain bagaimana?",
+      "link": "/img/obwrataude4g1.jpeg",
+      "guid": "/img/obwrataude4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 13:38:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1paihxv/paket_mygamer_nih_kalau_yang_lain_bagaimana/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1paihxv/paket_mygamer_nih_kalau_yang_lain_bagaimana/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "[Help] Shopee bikin gbs adjust volume",
       "link": "/gallery/1pa8q2i",
       "guid": "/gallery/1pa8q2i",
       "pubDate": "Sun, 30 Nov 2025 04:06:09 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pa8q2i/help_shopee_bikin_gbs_adjust_volume/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi klo buka shopee, gbs adjust volume media, dia otomatis adjust volume call, masalahnya klo app shopee ini jalan aga lama (like 2 minute) atau stay di background (ga di clear), ntar bakal bug dimana volume key selalu adjust call, bukan media. Tapi gatau ini hp saia aja atau gmn bug nya. Btw klo volume button gbs adjust volume media, nanti volume video kecil walau volume media mentok</p>\n\n<p>Solusinya harus force stop shopee dlu (clear recent app gbs) baru nanti volume button kembali normal (bisa adjust volume media, bukan call). Apakah sekiranya ada solusi lain?(Selain uninstall tentunya)</p>\n\n<p>Ps : permission bisa dilihat di foto, android 11, shopee terbaru. Udh coba hapus data, uninstall, download lagi ga work</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Ini powerbank worth it? nyari powerbank under 300k",
-      "link": "/img/gbx7rpo7id4g1.jpeg",
-      "guid": "/img/gbx7rpo7id4g1.jpeg",
-      "pubDate": "Sun, 30 Nov 2025 10:40:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pafbiy/ini_powerbank_worth_it_nyari_powerbank_under_300k/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Nyari powerbank under 300k, penggunaan buat sehari hari ngecas hp kalo lagi diluar. Any powerbank from 10.000mAh - 20.000mAH</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p9dubt/is_this_new_scam_hati2_guys/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Dalam 1 hari saya dapet 2 sms yg mengatakan saya harus bayar denda karena melanggar peraturan lalu lintas, smells like scam 🤣 </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Muncul Garis Kuning Pada Layar",
-      "link": "/gallery/1p9th68",
-      "guid": "/gallery/1p9th68",
-      "pubDate": "Sat, 29 Nov 2025 16:44:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p9th68/muncul_garis_kuning_pada_layar/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Mohon bantuannya dong,ini layar monitornya kenapa ya? Kok tiba2 muncul garis kuning pada pojok kanan bawah. Ketika coba ganti wallpaper dia hilang tp kemudian beberapa jam muncul lagi. Kursor juga nggak kehalang kalau dicoba diposisikan disitu. Terimakasih</p>\n\n<p>Note : Pc nya kebetulan masih terbilang baru baru 3 bulanan beserta monitornya </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Membutuhkan saran untuk HP (Untuk perempuan)",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1p9l6ce/membutuhkan_saran_untuk_hp_untuk_perempuan/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1p9l6ce/membutuhkan_saran_untuk_hp_untuk_perempuan/",
-      "pubDate": "Sat, 29 Nov 2025 09:53:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p9l6ce/membutuhkan_saran_untuk_hp_untuk_perempuan/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Salam sejahtera bagi kita semua, sebentar lagi akan memasuki tahun 2026 dan saya ingin membelikan 2 HP untuk adik saya yang baru saja masuk ke SMA, Dengan tipe yang sama, Bisakah teman-teman memberitahukan kepada saya beberapa model/unit HP yang cocok untuk adik saya?</p>\n\n<p>Setidaknya ada beberapa kriteria yang dibutuhkan yaitu Kamera dan layar yang tidak lag saat menonton drama dengan kualitas yang tinggi serta cukup kuat untuk editing dan membuat konten.</p>\n\n<p>Saya punya budget sekitar 6-7JT jadi kalau bisa dengan Budget segitu bisa dapat 2 HP dengan tipe yang sama.</p>\n\n<p>Itu saja, Terimakasih</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-30T13:18:49.117Z"
+  "lastFetched": "2025-11-30T14:36:31.347Z"
 }

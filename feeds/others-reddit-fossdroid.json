@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "infinix cell phones",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
-      "pubDate": "Sun, 30 Nov 2025 10:28:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>This brand is one that has been in my country for a few years, it is quite famous here and used, I currently use it and I would like to know if by any chance there is a way to ungoogle it completely, type, change the rom etc.</p>\n\n<p>Someone tell me if it is possible or if it is recommended</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Harmony Music app doesn't appear in the Android Auto",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pagi7t/harmony_music_app_doesnt_appear_in_the_android/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pagi7t/harmony_music_app_doesnt_appear_in_the_android/",
@@ -55,6 +46,15 @@
       "pubDate": "Sun, 30 Nov 2025 10:52:47 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Saw theres a f-droid app with a more FOSS compliant version of Session. Anyone have experiences of this app?</p>\n\n<p><a href=\"https://f-droid.org/packages/network.loki.messenger.fdroid\">https://f-droid.org/packages/network.loki.messenger.fdroid</a></p>\n\n<p>(Edited to comply with this subreddit as my main question was about this f-droid app)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "infinix cell phones",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
+      "pubDate": "Sun, 30 Nov 2025 10:28:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This brand is one that has been in my country for a few years, it is quite famous here and used, I currently use it and I would like to know if by any chance there is a way to ungoogle it completely, type, change the rom etc.</p>\n\n<p>Someone tell me if it is possible or if it is recommended</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-30T13:19:12.434Z"
+  "lastFetched": "2025-11-30T14:36:54.308Z"
 }

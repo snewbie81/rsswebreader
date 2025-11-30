@@ -49,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "Blocked website at Opera",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1paj6u2/blocked_website_at_opera/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1paj6u2/blocked_website_at_opera/",
+      "pubDate": "Sun, 30 Nov 2025 14:10:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paj6u2/blocked_website_at_opera/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Seems like some websites have been blocked in Opera. I tried to use Google Flights at both Chrome and Opera. It is not opening at Opera.\nHave anyone noticed that?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Building an Arc-style browser for iPad - looking for the right testers",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pagubm/building_an_arcstyle_browser_for_ipad_looking_for/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pagubm/building_an_arcstyle_browser_for_ipad_looking_for/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9ab12/microsoft_edge_running_44_tabs_when_not_open_and/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>ive noticed in task manager it will show microsoft edge (44) and when i click to end task it will QUICKLY fill back up to 30-40 Ive tried edge settings and nothing helped its starting to mess up the pc</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Quick fact check",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/",
-      "pubDate": "Fri, 28 Nov 2025 14:33:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8wamp/quick_fact_check/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I have seen a lot of RAM comparisons and used to believe them but now in recent times I believe that it depends and there is no right answer<br/>\nLike some browsers excel at multi tab low RAM usage other may seem to perform good but it is that they have better 1 tab RAM usage like CPU cores<br/>\nAnd also how much total and allocated RAM your system has and the RAM you have allocated</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-30T13:19:27.234Z"
+  "lastFetched": "2025-11-30T14:37:09.183Z"
 }
