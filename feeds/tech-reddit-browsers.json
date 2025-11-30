@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is there a browser/add-on combo for Windows that gives BOTH open tab session syncing AND tree style tabs &amp; groups?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1panxja/is_there_a_browseraddon_combo_for_windows_that/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1panxja/is_there_a_browseraddon_combo_for_windows_that/",
+      "pubDate": "Sun, 30 Nov 2025 17:26:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1panxja/is_there_a_browseraddon_combo_for_windows_that/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been using Edge for a while and love its open tab session (workspace) syncing, which lets me jump on any desktop or laptop and pick up where I left off.  I find it lacking in two keys areas, however:</p>\n\n<ol>\n<li>It only has one layer of tabs and groups.  It would be great if it had functionality something like Firefox&#39;s Sidebery add-on, i.e. with both tree-style tabs and groups.</li>\n<li>It can be slow starting up.  I guess it is sorting out is sync status, but it can sometimes take a minute (even on a speedy internet connection and a decent PC) which is a pain when I want to get going.</li>\n</ol>\n\n<p>I have had a good trawl but cannot find browser + add-on combo that will let me have it all.  I am hoping that Reddit will come to the rescue and tell me about a nice solution that I have missed.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Firefox + userChrome.js: Tab Split View, Tab Groups, Drag &amp; Drop Stacking — Fully supported and animated in Multi-Row!",
       "link": "",
       "guid": "",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8sfid/are_there_any_other_android_browsers_besides/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p8sfid/are_there_any_other_android_browsers_besides/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Brave vs Firefox",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1p93npi/brave_vs_firefox/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1p93npi/brave_vs_firefox/",
-      "pubDate": "Fri, 28 Nov 2025 19:24:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p93npi/brave_vs_firefox/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/z9vnpycdt14g1.png?width=507&amp;format=png&amp;auto=webp&amp;s=e29d7dd7e04dd995f9dbbb5abc60ea39a887da87\">Just Dave&#39;s Redistricting</a></p>\n\n<p><a href=\"/preview/pre/hw8648wdt14g1.png?width=501&amp;format=png&amp;auto=webp&amp;s=663b734b3e59a2137635643453703cce16adcfe3\">My normal tabs</a></p>\n\n<p><a href=\"/preview/pre/y5hej63et14g1.png?width=505&amp;format=png&amp;auto=webp&amp;s=007b08eb0350d8582929bcbc9998774dd6ecb08f\">Same four websites</a></p>\n\n<p>Hello, I&#39;ve been using Brave for a while but recently its been having a lot of lag and freezing problems, especially when using the website &#39;Daves Redistricting&#39;. I know the site will take up a lot of resources but its been much worse recently.</p>\n\n<p>I tried doing some tests to compare Brave and Firefox, and this is what I got. Brave was using less RAM but in some instances was using a crap ton of my CPU</p>\n\n<p>In terms of using not a lot of resources, what is the best browser to use? also why is brave taking up so much of my CPU and how do I fix that?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-11-30T16:45:37.205Z"
+  "lastFetched": "2025-11-30T17:34:38.496Z"
 }
