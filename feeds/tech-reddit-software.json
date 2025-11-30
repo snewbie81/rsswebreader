@@ -13,15 +13,6 @@
       "thumbnail": null
     },
     {
-      "title": "I built a simple tool for temporary file sharing when USB, email, and cloud are blocked",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
-      "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "video and photo editor",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
@@ -49,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "I built a simple tool for temporary file sharing when USB, email, and cloud are blocked",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
+      "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
@@ -67,15 +67,6 @@
       "thumbnail": null
     },
     {
-      "title": "Which media player is most similar to a streaming service?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
-      "pubDate": "Sat, 29 Nov 2025 07:35:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many here, I have several episodes on my PC and I&#39;d like a media player that, besides being aesthetically pleasing, has features like listing my episodes or allowing me to resume from where I left off... I want to know which media player offers the closest experience to watching Netflix, for example. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Are there any large video compressors on IOS? I have a 2.08 GB video, and I need to compress it to be less than 1.",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/",
@@ -85,21 +76,30 @@
       "thumbnail": null
     },
     {
-      "title": "What tools do you use to document and test APIs?",
-      "link": "/gallery/1p9u74x",
-      "guid": "/gallery/1p9u74x",
-      "pubDate": "Sat, 29 Nov 2025 17:16:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "A good software for animation making and rendering?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
       "pubDate": "Sat, 29 Nov 2025 11:02:34 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I&#39;ve been searching to find an application to try and learn making animations,I have no experience with it so wanted to know what apps I should try and what hardware requirements they have</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Which media player is most similar to a streaming service?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/",
+      "pubDate": "Sat, 29 Nov 2025 07:35:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many here, I have several episodes on my PC and I&#39;d like a media player that, besides being aesthetically pleasing, has features like listing my episodes or allowing me to resume from where I left off... I want to know which media player offers the closest experience to watching Netflix, for example. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What tools do you use to document and test APIs?",
+      "link": "/gallery/1p9u74x",
+      "guid": "/gallery/1p9u74x",
+      "pubDate": "Sat, 29 Nov 2025 17:16:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T04:57:56.842Z"
+  "lastFetched": "2025-11-30T05:41:38.097Z"
 }
