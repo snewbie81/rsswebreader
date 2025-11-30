@@ -67,6 +67,15 @@
       "thumbnail": null
     },
     {
+      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Microsoft Expression Web Replacement",
       "link": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
       "guid": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
@@ -85,30 +94,12 @@
       "thumbnail": null
     },
     {
-      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "A good software for animation making and rendering?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
       "pubDate": "Sat, 29 Nov 2025 11:02:34 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I&#39;ve been searching to find an application to try and learn making animations,I have no experience with it so wanted to know what apps I should try and what hardware requirements they have</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A tool for fast papers/articles/books tagging and personal knowledge base",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/",
-      "pubDate": "Sat, 29 Nov 2025 10:58:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a tool over the past few months because I (and a lot of people around me) kept failing to keep our papers/articles/books organized. I was using Google drive all the time but the search bar always failed to get the right document out if i forgot the exact title.</p>\n\n<p>I built this tool based on my research that can very effectively tag a huge amount of text files (even the very long files) comprehensively and automatically organize all the files into a clearn structure. I also designed a tag-based searching algorithm that helps me easily find the files by their semantic meanings (even when your search query is very vague). This is very easy to use and a few friends are testing on it but i still don&#39;t know if this tool is useful for more people.</p>\n\n<p>I found that after i add some simple editor and more sophisticated searching functionalities, this tool in fact became a very nice personal knowledge base like i can store all the papers and articles i want to read to it and it can properly organize them. </p>\n\n<p>So I hope to get some people to test this tool and just give some feedback. I just released this tool on this website:</p>\n\n<p><a href=\"http://www.unidrive.ai\">www.unidrive.ai</a></p>\n\n<p>Thanks for reading — even a single comment helps.</p>\n\n<p>Below is a screenshot of how that tool looks like. I was using one of my friends example who gave me some law-related study cases. </p>\n\n<p><a href=\"/preview/pre/rbl2zx0qf64g1.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=94f7995861ad38db40d2751b519cf8a236b06487\">/preview/pre/rbl2zx0qf64g1.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=94f7995861ad38db40d2751b519cf8a236b06487</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -127,6 +118,15 @@
       "pubDate": "Sat, 29 Nov 2025 17:16:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "A tool for fast papers/articles/books tagging and personal knowledge base",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/",
+      "pubDate": "Sat, 29 Nov 2025 10:58:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9m8c7/a_tool_for_fast_papersarticlesbooks_tagging_and/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a tool over the past few months because I (and a lot of people around me) kept failing to keep our papers/articles/books organized. I was using Google drive all the time but the search bar always failed to get the right document out if i forgot the exact title.</p>\n\n<p>I built this tool based on my research that can very effectively tag a huge amount of text files (even the very long files) comprehensively and automatically organize all the files into a clearn structure. I also designed a tag-based searching algorithm that helps me easily find the files by their semantic meanings (even when your search query is very vague). This is very easy to use and a few friends are testing on it but i still don&#39;t know if this tool is useful for more people.</p>\n\n<p>I found that after i add some simple editor and more sophisticated searching functionalities, this tool in fact became a very nice personal knowledge base like i can store all the papers and articles i want to read to it and it can properly organize them. </p>\n\n<p>So I hope to get some people to test this tool and just give some feedback. I just released this tool on this website:</p>\n\n<p><a href=\"http://www.unidrive.ai\">www.unidrive.ai</a></p>\n\n<p>Thanks for reading — even a single comment helps.</p>\n\n<p>Below is a screenshot of how that tool looks like. I was using one of my friends example who gave me some law-related study cases. </p>\n\n<p><a href=\"/preview/pre/rbl2zx0qf64g1.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=94f7995861ad38db40d2751b519cf8a236b06487\">/preview/pre/rbl2zx0qf64g1.jpg?width=2880&amp;format=pjpg&amp;auto=webp&amp;s=94f7995861ad38db40d2751b519cf8a236b06487</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T14:37:11.871Z"
+  "lastFetched": "2025-11-30T15:34:33.715Z"
 }
