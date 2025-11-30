@@ -13,15 +13,6 @@
       "thumbnail": null
     },
     {
-      "title": "We're losing it!! How are you all ensuring agile alignment when every team seems to follow a different process?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
-      "pubDate": "Sun, 30 Nov 2025 06:24:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>One squad is full-on Scrum and another is doing Kanban-but-not-really. Recently we tried to sync but the terminology, priorities and timelines don’t match. It feels like we’re stitching together 5 mini-companies instead of one product org. How do you bring everyone back into one rhythm without forcing a rigid template?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "video and photo editor",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/",
@@ -31,21 +22,21 @@
       "thumbnail": null
     },
     {
+      "title": "We're losing it!! How are you all ensuring agile alignment when every team seems to follow a different process?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
+      "pubDate": "Sun, 30 Nov 2025 06:24:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>One squad is full-on Scrum and another is doing Kanban-but-not-really. Recently we tried to sync but the terminology, priorities and timelines don’t match. It feels like we’re stitching together 5 mini-companies instead of one product org. How do you bring everyone back into one rhythm without forcing a rigid template?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Built a Simple yt-dlp GUI Downloader for Videos/Audio – Windows/Linux (Mac Soon). Feedback Welcome!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
       "pubDate": "Sat, 29 Nov 2025 16:01:57 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Folks, I&#39;d appreciate your help testing my video/audio downloader app built around <strong>yt-dlp</strong>.</p>\n\n<p>For Windows and Linux users right now (portable zips or installers), Mac support dropping soon.</p>\n\n<p><strong>Quick Highlights:</strong></p>\n\n<p><strong>Batch downloads</strong> with pause/resume and speed limits (no hogging your bandwidth).</p>\n\n<p><strong>Format picks:</strong> Videos in MKV/MP4, audio in M4A/MP3.</p>\n\n<p><strong>Smart extras:</strong> Custom folders, browser cookie imports, and auto-yt-dlp updates.</p>\n\n<p><strong>Privacy-first:</strong> Open-source, no tracking, just you and your media.</p>\n\n<p>Please let me know if you see any issues. Thanks. </p>\n\n<p>🌐 Website: <a href=\"https://mediatools.tech/video/downloader.html\">https://mediatools.tech/video/downloader.html</a></p>\n\n<p>📦 GitHub: <a href=\"https://github.com/MediaTools-tech/mediatools/releases\">https://github.com/MediaTools-tech/mediatools/releases</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -64,6 +55,15 @@
       "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
+      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-11-30T07:30:51.520Z"
+  "lastFetched": "2025-11-30T08:44:05.925Z"
 }

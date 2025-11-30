@@ -4,21 +4,21 @@
   "link": "",
   "items": [
     {
-      "title": "iPad Version",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
-      "pubDate": "Sun, 30 Nov 2025 03:51:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just started using the iPad app, and it looks like a cross between the iPhone and desktop versions?</p>\n\n<p>Given the space available, especially in landscape mode, I hope they add more of the desktop features into it. </p>\n\n<p>Showing the Favourite bar and pinning extensions/history/collections would be nice. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "New computer cant browse",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
       "pubDate": "Sun, 30 Nov 2025 06:35:27 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I got this laptop yesterday and honestly idk what im doing with it but the browser it came with won&#39;t let me do anything it just loads blank pages whenever I try to search</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "iPad Version",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/",
+      "pubDate": "Sun, 30 Nov 2025 03:51:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just started using the iPad app, and it looks like a cross between the iPhone and desktop versions?</p>\n\n<p>Given the space available, especially in landscape mode, I hope they add more of the desktop features into it. </p>\n\n<p>Showing the Favourite bar and pinning extensions/history/collections would be nice. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T07:30:46.451Z"
+  "lastFetched": "2025-11-30T08:44:00.822Z"
 }
