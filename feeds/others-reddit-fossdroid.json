@@ -31,21 +31,30 @@
       "thumbnail": null
     },
     {
-      "title": "Session messenger",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
-      "pubDate": "Sun, 30 Nov 2025 10:52:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Saw theres a f-droid app with a more FOSS compliant version of Session. Anyone have experiences of this app?</p>\n\n<p><a href=\"https://f-droid.org/packages/network.loki.messenger.fdroid\">https://f-droid.org/packages/network.loki.messenger.fdroid</a></p>\n\n<p>(Edited to comply with this subreddit as my main question was about this f-droid app)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "infinix cell phones",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
       "pubDate": "Sun, 30 Nov 2025 10:28:43 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This brand is one that has been in my country for a few years, it is quite famous here and used, I currently use it and I would like to know if by any chance there is a way to ungoogle it completely, type, change the rom etc.</p>\n\n<p>Someone tell me if it is possible or if it is recommended</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Harmony Music app doesn't appear in the Android Auto",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pagi7t/harmony_music_app_doesnt_appear_in_the_android/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pagi7t/harmony_music_app_doesnt_appear_in_the_android/",
+      "pubDate": "Sun, 30 Nov 2025 11:52:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pagi7t/harmony_music_app_doesnt_appear_in_the_android/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>As title. i have a Xiaomi smartphone with Android 15.</p>\n\n<p>Spotify and Youtube Music works instead.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Session messenger",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
+      "pubDate": "Sun, 30 Nov 2025 10:52:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Saw theres a f-droid app with a more FOSS compliant version of Session. Anyone have experiences of this app?</p>\n\n<p><a href=\"https://f-droid.org/packages/network.loki.messenger.fdroid\">https://f-droid.org/packages/network.loki.messenger.fdroid</a></p>\n\n<p>(Edited to comply with this subreddit as my main question was about this f-droid app)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p704tg/lets_talk_about_the_weather/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a privacy-focused FOSS weather app that does not record my location - just gives me weather data for a specified location.</p>\n\n<p>Bonus points if its accurate and aesthetic. TIA!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "In librera, After pdf reflow, contents shows only 'page 1'. Doesn't happen with epub, however.",
-      "link": "/img/sw3mse2zxl3g1.jpeg",
-      "guid": "/img/sw3mse2zxl3g1.jpeg",
-      "pubDate": "Wed, 26 Nov 2025 13:59:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p78f89/in_librera_after_pdf_reflow_contents_shows_only/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Any way to fix it?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-30T11:28:19.901Z"
+  "lastFetched": "2025-11-30T13:19:12.434Z"
 }

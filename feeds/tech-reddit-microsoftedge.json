@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Importing history creates shortcuts",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
+      "pubDate": "Sun, 30 Nov 2025 12:03:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, so recently I decided to migrate to Microsoft Edge due to the amount of updates Chrome has been pushing and also due to how slow it&#39;s been getting (for me) anyways when I decided to transfer over my browsing history I&#39;ve been getting all my favorites and search history as my shortcuts (some of these sites I visited a few times a couple months ago) how do I disable this? Do I just let hundreds of sites just pop up as a shortcut?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "New computer cant browse",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
@@ -40,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "Copilot button and features missing",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
+      "pubDate": "Sat, 29 Nov 2025 16:46:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>For a few weeks, the copilot button has been missing, and I have tried my best to fix it, but I couldn&#39;t  </p>\n\n<p>Clue that might help:<br/>\n1. The AI innovations section and Ask Copilot (when reading a pdf) are also missing from the Edge settings<br/>\n2. When I installed Edge Beta, the button and AI innovations section were there at first launch, then they were gone after the second launch ( I did not log in to the same Microsoft account )<br/>\n3. Same thing as the second one, but for another pc user account<br/>\n4. Same thing as the second one, but when the edge was updated<br/>\n5. The Copilot website works completely fine, even when logged in<br/>\n6. Copilot Vision works completely fine  </p>\n\n<p>things I have tried:<br/>\n1. resetting edge settings<br/>\n2. logging out and in<br/>\n3. Turning the copilot off and on<br/>\n4. Reinstalling Edge from settings<br/>\n5. Turning everything on related to Copilot in edge://flags<br/>\n6. Forcefully deleting Edge and reinstalling it from the official webpage<br/>\n7. Removing sync data and turning sync completely off<br/>\n8. Switching Microsoft account</p>\n\n<p>Related information:<br/>\nWindows 11 Pro latest update (10.0.26200 Build 26200)<br/>\nMicrosoft Edge is updated (Version 142.0.3595.94 (Official build) (64-bit))  </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Clearing Cookies on Exit - Exceptions List",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/",
@@ -55,15 +73,6 @@
       "pubDate": "Sat, 29 Nov 2025 16:53:10 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m hoping some developers working on Edge read this and fix this bug. I like using Wikipedia and Reddit (and other sites too) on full-screen mode and I don&#39;t really like how attempting to do that causes the browser to crash.</p>\n\n<p>This bug is reproducible. Edge Dev crashes exactly on the third press of the <code>F11</code> key. The interval between the presses seems to be indefinite, i.e., be it half a second or 15 minutes between presses, the browser will still crash on the third press of the <code>F11</code> key. I tried it on two different PCs, and they exhibit the same bug. The action of opening the window in full-screen mode doesn&#39;t seem to cause this because interacting with some on-page component to turn on full-screen — such as a button — doesn&#39;t seem to be the cause. I tried repeatedly turning full-screen on and off on YouTube and also using my JavaScript script several times, and the browser does not crash due to those actions. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Copilot button and features missing",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
-      "pubDate": "Sat, 29 Nov 2025 16:46:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>For a few weeks, the copilot button has been missing, and I have tried my best to fix it, but I couldn&#39;t  </p>\n\n<p>Clue that might help:<br/>\n1. The AI innovations section and Ask Copilot (when reading a pdf) are also missing from the Edge settings<br/>\n2. When I installed Edge Beta, the button and AI innovations section were there at first launch, then they were gone after the second launch ( I did not log in to the same Microsoft account )<br/>\n3. Same thing as the second one, but for another pc user account<br/>\n4. Same thing as the second one, but when the edge was updated<br/>\n5. The Copilot website works completely fine, even when logged in<br/>\n6. Copilot Vision works completely fine  </p>\n\n<p>things I have tried:<br/>\n1. resetting edge settings<br/>\n2. logging out and in<br/>\n3. Turning the copilot off and on<br/>\n4. Reinstalling Edge from settings<br/>\n5. Turning everything on related to Copilot in edge://flags<br/>\n6. Forcefully deleting Edge and reinstalling it from the official webpage<br/>\n7. Removing sync data and turning sync completely off<br/>\n8. Switching Microsoft account</p>\n\n<p>Related information:<br/>\nWindows 11 Pro latest update (10.0.26200 Build 26200)<br/>\nMicrosoft Edge is updated (Version 142.0.3595.94 (Official build) (64-bit))  </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8btjv/need_help_running_legacy_ie_vba_macro_on_modern/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8btjv/need_help_running_legacy_ie_vba_macro_on_modern/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Screenshot Tool not working on big webpage",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8a8yr/screenshot_tool_not_working_on_big_webpage/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8a8yr/screenshot_tool_not_working_on_big_webpage/",
-      "pubDate": "Thu, 27 Nov 2025 19:03:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8a8yr/screenshot_tool_not_working_on_big_webpage/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey there, I&#39;ve got an issue here. I want to to screenshots from a webpage, the thing is it&#39;s a really long one. My screenshot tool can take screenshots on normal webpages, but it&#39;s not working on this one. I want to zoom in and scroll down for long screenshots. This is why I want to use this edge screenshot tool and not snipping tool or any others.</p>\n\n<p>Anyone know how to work around that?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T11:28:32.192Z"
+  "lastFetched": "2025-11-30T13:19:24.598Z"
 }
