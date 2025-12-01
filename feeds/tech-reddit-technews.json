@@ -31,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "Amazon and Google launch multicloud service for faster connectivity",
-      "link": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
-      "guid": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
-      "pubDate": "Mon, 1 Dec 2025 13:38:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "New nanotech generator could replace batteries in tiny devices",
       "link": "https://www.techspot.com/news/110435-new-nanotech-generator-could-replace-batteries-tiny-devices.html",
       "guid": "https://www.techspot.com/news/110435-new-nanotech-generator-could-replace-batteries-tiny-devices.html",
       "pubDate": "Mon, 1 Dec 2025 14:34:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbebii/new_nanotech_generator_could_replace_batteries_in/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbebii/new_nanotech_generator_could_replace_batteries_in/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Amazon and Google launch multicloud service for faster connectivity",
+      "link": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
+      "guid": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
+      "pubDate": "Mon, 1 Dec 2025 13:38:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-01T17:52:16.469Z"
+  "lastFetched": "2025-12-01T19:02:52.773Z"
 }

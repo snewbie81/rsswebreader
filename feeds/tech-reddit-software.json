@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "I build a zero knowledge passwords manager open source and open for feedback",
+      "link": "https://eazypasswords.com",
+      "guid": "https://eazypasswords.com",
+      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13-year-old developer and I’ve been working on a zero-knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet — just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Which PDF Editors Support Merged Page Links",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
@@ -22,12 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "I build a zero knowledge passwords manager open source and open for feedback",
-      "link": "https://eazypasswords.com",
-      "guid": "https://eazypasswords.com",
-      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13-year-old developer and I’ve been working on a zero-knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet — just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
+      "title": "Disk cloning software for Windows 11, for migrating storage HDD to SSD",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
+      "pubDate": "Mon, 1 Dec 2025 18:50:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m moving about 1 TB of data from SATA HDDs to M.2 SSDs in my PC. I am not moving my Windows install/boot disk, that&#39;s already on an SSD. I&#39;m only moving </p>\n\n<p>I&#39;ve heard that Windows Explorer isn&#39;t the best for transferring that much data, and was recommended to use disk cloning software instead.</p>\n\n<p>I&#39;ve looked at Clonezilla, but it seems way too powerful for what I need, and with the need to make a USB boot drive and all that.</p>\n\n<p>Any recommendations? Ideally, it should be free and open source, but it should be free at minimum.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "iPhone 13 mini",
+      "link": "https://redlib.perennialte.ch//r/iphone/comments/1pbk4hq/iphone_13_mini/",
+      "guid": "https://redlib.perennialte.ch//r/iphone/comments/1pbk4hq/iphone_13_mini/",
+      "pubDate": "Mon, 1 Dec 2025 18:12:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbk5sm/iphone_13_mini/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbk5sm/iphone_13_mini/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal6ao/gamifying_qa_and_testing/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal6ao/gamifying_qa_and_testing/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Automating Dependabot PR Merges with CI/CD",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pairhm/automating_dependabot_pr_merges_with_cicd/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pairhm/automating_dependabot_pr_merges_with_cicd/",
-      "pubDate": "Sun, 30 Nov 2025 13:50:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pairhm/automating_dependabot_pr_merges_with_cicd/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Automatically merge Dependabot pull requests after your CI workflow succeeds.</p>\n\n<p><a href=\"https://michaelbastos.com/blog/automating-dependabot-pr-merges-with-cicd\">https://michaelbastos.com/blog/automating-dependabot-pr-merges-with-cicd</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I built a simple tool for temporary file sharing when USB, email, and cloud are blocked",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/",
-      "pubDate": "Sun, 30 Nov 2025 04:48:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T17:52:13.833Z"
+  "lastFetched": "2025-12-01T19:02:50.402Z"
 }
