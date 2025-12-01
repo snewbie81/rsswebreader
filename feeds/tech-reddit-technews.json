@@ -94,6 +94,15 @@
       "thumbnail": null
     },
     {
+      "title": "Netflix kills casting from phones | Netflix can still Cast to compatible displays, but the in-app button isn’t working for everyone.",
+      "link": "https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed",
+      "guid": "https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed",
+      "pubDate": "Mon, 1 Dec 2025 23:02:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbrtf2/netflix_kills_casting_from_phones_netflix_can/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbrtf2/netflix_kills_casting_from_phones_netflix_can/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Major AI conference flooded with peer reviews written fully by AI",
       "link": "https://www.nature.com/articles/d41586-025-03506-6",
       "guid": "https://www.nature.com/articles/d41586-025-03506-6",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7m26f/microsoft_to_secure_entra_id_signins_from_script/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p7m26f/microsoft_to_secure_entra_id_signins_from_script/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "OpenAI confirms new data breach, exposing names, emails, more",
-      "link": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
-      "guid": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
-      "pubDate": "Thu, 27 Nov 2025 13:39:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p82frj/openai_confirms_new_data_breach_exposing_names/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p82frj/openai_confirms_new_data_breach_exposing_names/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-01T22:41:19.556Z"
+  "lastFetched": "2025-12-01T23:34:54.061Z"
 }

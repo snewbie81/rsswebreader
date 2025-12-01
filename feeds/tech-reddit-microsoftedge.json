@@ -4,6 +4,24 @@
   "link": "",
   "items": [
     {
+      "title": "Several facts I have learned from tracking how the 50 biggest ad giants are following me on the internet.",
+      "link": "/img/m28uw4igao4g1.png",
+      "guid": "/img/m28uw4igao4g1.png",
+      "pubDate": "Mon, 1 Dec 2025 23:28:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbsg60/several_facts_i_have_learned_from_tracking_how/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbsg60/several_facts_i_have_learned_from_tracking_how/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Edge pdf editor bug",
+      "link": "",
+      "guid": "",
+      "pubDate": "Mon, 1 Dec 2025 23:27:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbsep8/edge_pdf_editor_bug/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use the Edge PDF editor with a Wacom pen mainly for studying, but lately whenever I try to erase something I wrote, the editor becomes extremely slow and starts flickering. Does anyone have a solution? I’ve already tried enabling and disabling hardware acceleration, but nothing changed.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I am so done...",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
@@ -134,7 +152,7 @@
       "link": "/gallery/1pao532",
       "guid": "/gallery/1pao532",
       "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ре��ят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Like, physically, it isn&#39;t frozen. But visually, it is. My computer is beefy enough, so I don&#39;t know what the issue is. The browser just takes a moment to catch up. Even on my shitty laptop this wasn&#39;t a problem. Is there any fix?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Hong Kong",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
-      "pubDate": "Sat, 29 Nov 2025 16:28:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I start up m computer Microsoft edge opens a tab about traveling to Hong Kong or about Hong Kong SAR. I never looked these up. I don&#39;t even use Microsoft edge. Does it just do this or do I have a virus???</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Unable to set Gmail as my default EMAIL handler in Microsoft Edge",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/",
-      "pubDate": "Sat, 29 Nov 2025 06:40:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It all began with opening mailto links. When I was trying to open a mailto link in Microsoft Edge it was not opening anything. </p>\n\n<p>So, I went to GMAIL for setting it as my default EMAIL HANDLER. The icon for the handler was appearing at first, I clicked at the wrong button (to navigate to settings instead of allowing). Now the icon has disappeared and is not appearing.</p>\n\n<p>I have tried to remove all site permissions and cookies also. I have not found any settings related to EMAIL HANDLER (or Protocol Handler) as AI suggested. Then, I have even tried the registry editor to add a string value (RegisteredProtocolHandlers) but all in vain. I am still unable to open mailto links. Please help 😥 </p>\n\n<p><a href=\"/preview/pre/qqksovjv554g1.png?width=1071&amp;format=png&amp;auto=webp&amp;s=8cd54ebfe39124270c985600a9c077946063833d\">EMAIL HANDLER icon disappeared</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T22:41:12.070Z"
+  "lastFetched": "2025-12-01T23:34:45.846Z"
 }
