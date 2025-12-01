@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Super Mario 64 is technically libre software if you build the decomp, right?",
+      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
+      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
+      "pubDate": "Mon, 1 Dec 2025 19:19:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m thinking of getting a Thinkpad T60 with GNU Boot and Parabola GNU/Linux, mostly for programming and writing and such (I hear the keyboard is very good.)</p>\n\n<p>If I installed a libre N64 emulator like <a href=\"https://github.com/mupen64plus/mupen64plus-core\">mupen64plus</a> and built the <a href=\"https://github.com/n64decomp/sm64\">decompilation of Super Mario 64</a> it would still be free software right?</p>\n\n<p>Same thing for (nintendo 64) <a href=\"https://github.com/VetriTheRetri/ssb-decomp-re\">Super Smash Bros.</a> and <a href=\"https://github.com/zeldaret/af\">Animal Forest</a> (original Animal Crossing) which also have decompilations, and SSB even has a <a href=\"https://github.com/JSsixtyfour/smashremix\">fan-made remaster.</a></p>\n\n<p>Maybe this is just me but I find the idea of playing Super Smash Bros on a Thinkpad while still being able to tell people that &quot;yep, this is a 100% proprietary-free system&quot; to be very funny. Maybe even inspiring. Also, the T60&#39;s 4:3 screen is perfect for this. </p>\n\n<p><em><sup>I am aware that no laptop is literally 100% free since firmware exists</sup></em></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Built a free collection of 40+ dev tools that run entirely in your browser - would love feedback",
       "link": "https://redlib.perennialte.ch//r/SideProject/comments/1p9oakk/built_a_free_collection_of_40_dev_tools_that_run/",
       "guid": "https://redlib.perennialte.ch//r/SideProject/comments/1p9oakk/built_a_free_collection_of_40_dev_tools_that_run/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ond5hv/do_you_need_user_feedback_when_building_for_you/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ond5hv/do_you_need_user_feedback_when_building_for_you/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Looking for volunteers to help with CharlotteOS",
-      "link": "https://redlib.perennialte.ch//r/kerneldevelopment/comments/1om60if/looking_for_volunteers_to_help_with_charlotteos/",
-      "guid": "https://redlib.perennialte.ch//r/kerneldevelopment/comments/1om60if/looking_for_volunteers_to_help_with_charlotteos/",
-      "pubDate": "Sun, 2 Nov 2025 02:33:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1om6555/looking_for_volunteers_to_help_with_charlotteos/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1om6555/looking_for_volunteers_to_help_with_charlotteos/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/freesoftware.rss",
-  "lastFetched": "2025-12-01T19:02:38.797Z"
+  "lastFetched": "2025-12-01T19:40:10.262Z"
 }
