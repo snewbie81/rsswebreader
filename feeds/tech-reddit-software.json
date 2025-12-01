@@ -22,15 +22,6 @@
       "thumbnail": null
     },
     {
-      "title": "Does anyone know something similar to Edge Blocker, for Google Chrome and Windows Update?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/",
-      "pubDate": "Mon, 1 Dec 2025 04:12:13 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Yall My IDM Speed is lacking 🙏 BUT IT WAS FINE BEFORE!!!!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pb6wwz/yall_my_idm_speed_is_lacking_but_it_was_fine/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pb6wwz/yall_my_idm_speed_is_lacking_but_it_was_fine/",
@@ -55,6 +46,15 @@
       "pubDate": "Sun, 30 Nov 2025 21:17:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved Thank you always.<br/>\nI always combine images (.jpg .png) into PDFs using Adobe Acrobat or Foxit PDF.<br/>\nHowever, these two software programs cannot read .jp2 files and cannot create PDF.<br/>\nI was able to create a PDF by first converting the .jp2 file to .jpg or .png.<br/>\nBut this is a hassle.<br/>\nI am looking for software that can convert .jp2 files to PDF directly.<br/>\nI can find online sites, but I prefer software.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Does anyone know something similar to Edge Blocker, for Google Chrome and Windows Update?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/",
+      "pubDate": "Mon, 1 Dec 2025 04:12:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb30pc/does_anyone_know_something_similar_to_edge/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T10:52:14.183Z"
+  "lastFetched": "2025-12-01T11:33:17.304Z"
 }

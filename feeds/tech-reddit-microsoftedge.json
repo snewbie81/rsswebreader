@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "How do I stop edge from loading/reloading every tab when opening the browser.",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/",
+      "pubDate": "Mon, 1 Dec 2025 10:52:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a lot of tabs open. I also have a few windows open. I mean, not a crazy amount, a few hundred tabs per window with a few windows at a time, but still enough to use a lot of RAM or hang edge for minutes at a time when opening the browser. I am aware of the tab sleeping feature, but unfortunately it doesn&#39;t seem to work well for my use case. Edge still loads all tabs on startup and a sleeping tab still uses resources. The auto tab discard extension doesn&#39;t seem to work at all. And I am not interested in a non-native solution such as The Great Suspender. </p>\n\n<p>What would be great is if I could FORCE tabs to sleep or discard when the timer is reached, rather than edge noticing that there is a video open in one of them, leaving the tab awake and using resources. </p>\n\n<p>What should be a basic feature of the browser is to not load every single background tab when restoring session state. It doesn&#39;t make sense. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "EdgeWebView2 side-by-side problems - hours trying to fix this.",
       "link": "/gallery/1pb5zvb",
       "guid": "/gallery/1pb5zvb",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8blz0/help_half_the_screen_is_blank_when_typing/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This is annoying as fuck. Anybody else experiencing the same issue on IOS recently? </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Password manager primary password is not being recognized",
-      "link": "/img/44482m61nv3g1.png",
-      "guid": "/img/44482m61nv3g1.png",
-      "pubDate": "Thu, 27 Nov 2025 22:56:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8fdol/password_manager_primary_password_is_not_being/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hopefully this isn&#39;t just happening to me. My set password for my browser to access password manager is giving me an authentication failed error. I have not changed the password and it was working fine as of yesterday. I am wondering if this is just a bug or my system is somehow not recognizing the password. I saw there was an article stating this issue as of November 3, 2025 with version 142.0.3595.53</p>\n\n<p>The suggestion is to backup my passwords and other stuff and delete the profile from my browser. I am just unsure if it will resolve the issue and give me more problems of losing potential data.</p>\n\n<p>I am on version 142.0.3595.94 (Official build) (64-bit). I have also already sent a help and feedback in.</p>\n\n<blockquote>\n<p>Edit: Deleting the browser profile seems to resolve the issue <strong>BUT</strong> be sure to backup your extension settings if they allow it. Make sure your browser is set to sync everything you want. After doing so you can enable the password manager option again by entering a pin/password as you had before.</p>\n</blockquote>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T10:52:09.102Z"
+  "lastFetched": "2025-12-01T11:33:11.286Z"
 }

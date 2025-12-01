@@ -40,15 +40,6 @@
       "thumbnail": null
     },
     {
-      "title": "Where to check browser fingerprinting",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/",
-      "pubDate": "Mon, 1 Dec 2025 07:50:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Where to check browser fingerprinting:</p>\n\n<p><a href=\"https://amiunique.org\">https://amiunique.org</a></p>\n\n<p><a href=\"https://coveryourtracks.eff.org\">https://coveryourtracks.eff.org</a></p>\n\n<p><a href=\"https://browserleaks.com\">https://browserleaks.com</a></p>\n\n<p><a href=\"https://fingerprint.com/demo\">https://fingerprint.com/demo</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Choosing a search engine",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb9cv3/choosing_a_search_engine/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb9cv3/choosing_a_search_engine/",
@@ -58,12 +49,30 @@
       "thumbnail": null
     },
     {
+      "title": "Where to check browser fingerprinting",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/",
+      "pubDate": "Mon, 1 Dec 2025 07:50:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Where to check browser fingerprinting:</p>\n\n<p><a href=\"https://amiunique.org\">https://amiunique.org</a></p>\n\n<p><a href=\"https://coveryourtracks.eff.org\">https://coveryourtracks.eff.org</a></p>\n\n<p><a href=\"https://browserleaks.com\">https://browserleaks.com</a></p>\n\n<p><a href=\"https://fingerprint.com/demo\">https://fingerprint.com/demo</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "EFF's Coveryourtracks test says that Firefox on Android has a 'unique fingerprint', but not Brave. Why is that?",
       "link": "/gallery/1pb6pni",
       "guid": "/gallery/1pb6pni",
       "pubDate": "Mon, 1 Dec 2025 07:37:15 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6pni/effs_coveryourtracks_test_says_that_firefox_on/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6pni/effs_coveryourtracks_test_says_that_firefox_on/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Is waterfox Safe?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbaaqj/is_waterfox_safe/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbaaqj/is_waterfox_safe/",
+      "pubDate": "Mon, 1 Dec 2025 11:22:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbaaqj/is_waterfox_safe/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I think it’s a really good alternative to Firefox without the Mozilla stuff. But it doesn’t have many users afaik and is out since 2011. Is it safe to use ?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pagubm/building_an_arcstyle_browser_for_ipad_looking_for/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey all,<br/>\nI’m working on <strong>Beam</strong>, a new iPad browser inspired by Arc’s organisation model and UX. I wanted to share it here and open up the waitlist - but also be really clear about what it is, <em>why</em> it exists, and who it’s actually for.</p>\n\n<h1>Why Beam exists</h1>\n\n<p>If you use Arc on Mac, you know how powerful the whole model is - sidebar, spaces, command bar, recent tabs, profiles, distraction-free modes, etc.<br/>\nOn iPad, nothing feels close. Safari is great for most people, but it doesn’t give you that same “browser as your workspace” structure. Arc Search is fast but super minimal and doesn’t bring over the Mac experience.</p>\n\n<p>Beam exists for the small group of people who want <em>Arc-like workflow and tab organisation</em> on iPadOS - not a generic browser, but something opinionated and productivity-focused.</p>\n\n<h1>How Beam is different</h1>\n\n<p>Beam is not trying to compete with Safari or Chrome. It’s built around a few specific ideas:</p>\n\n<ul>\n<li><strong>Permanent sidebar</strong> instead of tabs</li>\n<li><strong>Spaces</strong> for separating work, school, and projects</li>\n<li><strong>Command bar</strong> (cmd + T) with actions, not just search</li>\n<li><strong>Pinned tabs with memory offloading</strong> (like Arc)</li>\n<li><strong>Content blocking</strong>, custom site settings, picture-in-picture style background audio</li>\n<li><strong>Profiles</strong>, light/dark themes, Liquid Glass UI, etc.</li>\n<li><strong>Apple Foundation Models support</strong> for small, quiet AI actions</li>\n<li>Designed around <strong>iPad keyboard workflows</strong> - <em>but everything still works perfectly with touch too</em></li>\n</ul>\n\n<p>It’s basically: <em>If Arc existed on iPad, what would it look like?</em></p>\n\n<h1>Why it won’t be free forever</h1>\n\n<p>Being upfront: after the beta period, I’m planning to charge <strong>a one-time $4.99</strong>.</p>\n\n<p>A few reasons, before anyone jumps in with “why would I pay for a browser?”:</p>\n\n<ul>\n<li>It’s a fully indie project - no ads, no data collection, no telemetry</li>\n<li>Building a browser on iPadOS is way harder than a typical app</li>\n<li>I want to keep it sustainable without subscriptions</li>\n<li>One-time pricing means no lock-in, no ecosystem gimmicks, no upsell</li>\n<li>Most people will stick with Safari - this is for a niche group who <em>care deeply</em> about a certain workflow</li>\n</ul>\n\n<p>During the <strong>entire private beta and public beta, Beam will be completely free</strong>.<br/>\nNo charge until it’s stable, feature-complete, and actually worth paying for.</p>\n\n<p>It’s also totally fine if you don’t want to pay - Safari exists and is great for 99% of people. Beam is for that 1% who really want an Arc-like workspace on iPad.</p>\n\n<h1>Who Beam is not for</h1>\n\n<p>Trying to be upfront here, because negative comments come when expectations don’t match reality:</p>\n\n<p>✔️ <strong>For you if:</strong></p>\n\n<ul>\n<li>You use your iPad as a laptop replacement</li>\n<li>You live in your browser</li>\n<li>You rely on shortcuts, sidebars, and fast switching</li>\n<li>You want better tab organisation than Safari offers</li>\n<li>You liked Arc on Mac and want something closer on iPad</li>\n</ul>\n\n<p>❌ <strong>Probably not for you if:</strong></p>\n\n<ul>\n<li>You prefer a simple, no-frills browser</li>\n<li>You don’t use a Magic Keyboard (it still works with touch - it’s just less of a “superpower” workflow)</li>\n<li>You want Chrome extensions on iPad (not possible)</li>\n<li>You mainly browse casually and don’t care about workspace organisation</li>\n</ul>\n\n<p>Beam is intentionally opinionated - it won’t suit everyone, and that’s fine.</p>\n\n<h1>If you want to join the waitlist</h1>\n\n<p>I’m opening up the testing list as I get closer to the private beta.<br/>\nIf you want to try it or give feedback:</p>\n\n<p><a href=\"http://beambrowser.app\"><strong>beambrowser.app</strong></a></p>\n\n<p>Would love feedback, feature ideas, or even scepticism.<br/>\nHappy to answer any questions!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "How to Change this hand Cursor in firefox?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pa8rw9/how_to_change_this_hand_cursor_in_firefox/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pa8rw9/how_to_change_this_hand_cursor_in_firefox/",
-      "pubDate": "Sun, 30 Nov 2025 04:08:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa8rw9/how_to_change_this_hand_cursor_in_firefox/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>i use the site <a href=\"http://chess.com\">chess.com</a> to play chess and the hand cursor is low quality i was wondering if anyone knows how to change it.</p>\n\n<p><a href=\"/preview/pre/naqna288kb4g1.png?width=172&amp;format=png&amp;auto=webp&amp;s=7a81a0ddd8bfbff3e2f58ecb8a4fd2781591840a\">/preview/pre/naqna288kb4g1.png?width=172&amp;format=png&amp;auto=webp&amp;s=7a81a0ddd8bfbff3e2f58ecb8a4fd2781591840a</a></p>\n\n<p>the hand cursor specifically is defined by the browser and not windows, that is why chromium based browsers have a different hand.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-01T10:52:11.515Z"
+  "lastFetched": "2025-12-01T11:33:13.639Z"
 }
