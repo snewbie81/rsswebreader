@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Windows 11 software that can emulate a wider soundstage on closed back headphones",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
+      "pubDate": "Mon, 1 Dec 2025 20:54:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>A while ago I was really into rooting / installing custom firmware on my Android phones. One of the reasons I used to do that was to get access to an app called Viper4Android. 2 of its settings were called &quot;Field surround&quot; and &quot;Headphone surround+&quot;, and both of them basically tried to emulate the soundstage of an open back pair of headphones on regular closed backs.</p>\n\n<p>Now obviously it wasn&#39;t perfect, but it went a long way to make (even cheaper) closed back headphones sound less cramped and gross, and I haven&#39;t experienced anything even close to that since. The difference it could make was actually pretty insane.</p>\n\n<p>Does anyone know where I could find something similar for Windows 11? I know there&#39;s viper4windows but it has fewer features and I couldn&#39;t get it to work on newer Windows versions.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I build a zero knowledge passwords manager open source and open for feedback",
       "link": "https://eazypasswords.com",
       "guid": "https://eazypasswords.com",
@@ -22,21 +31,30 @@
       "thumbnail": null
     },
     {
+      "title": "Disk cloning software for Windows 11, for migrating storage HDD to SSD",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
+      "pubDate": "Mon, 1 Dec 2025 18:50:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m moving about 1 TB of data from SATA HDDs to M.2 SSDs in my PC. I am not moving my Windows install/boot disk, that&#39;s already on an SSD.</p>\n\n<p>I&#39;ve heard that Windows Explorer isn&#39;t the best for transferring that much data, and was recommended to use disk cloning software instead.</p>\n\n<p>I&#39;ve looked at Clonezilla, but it seems way too powerful for what I need, and with the need to make a USB boot drive and all that.</p>\n\n<p>Any recommendations? Ideally, it should be free and open source, but it should be free at minimum.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any software for windows similar to Lyric Fever for macos?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
+      "pubDate": "Mon, 1 Dec 2025 21:20:02 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This software basically shows the lyrics of the song you&#39;re playing on Spotify on top</p>\n\n<p><a href=\"/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395\">/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Which PDF Editors Support Merged Page Links",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
       "pubDate": "Mon, 1 Dec 2025 16:27:43 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to merge 2 pdf files together. The first file has a number of internal page links within itself ie. click to jump to page 13, click to page 1, etc. The second file has no internal page links. Is there a (preferably free) editor that can merge to the 2 files and keep the links happy from file 1, in the new merged file? I&#39;ve built links with PDFGear but when I merge, they disappear or some jump to incorrect pages. I&#39;ve also looked at Bento, small pdf, etc. Any suggestions on a working solution for either Windows/MacOS/www?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Disk cloning software for Windows 11, for migrating storage HDD to SSD",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
-      "pubDate": "Mon, 1 Dec 2025 18:50:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m moving about 1 TB of data from SATA HDDs to M.2 SSDs in my PC. I am not moving my Windows install/boot disk, that&#39;s already on an SSD. I&#39;m only moving </p>\n\n<p>I&#39;ve heard that Windows Explorer isn&#39;t the best for transferring that much data, and was recommended to use disk cloning software instead.</p>\n\n<p>I&#39;ve looked at Clonezilla, but it seems way too powerful for what I need, and with the need to make a USB boot drive and all that.</p>\n\n<p>Any recommendations? Ideally, it should be free and open source, but it should be free at minimum.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Google Drive Desktop keeps signing out multiple accounts. any stable free alternative?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pambfb/google_drive_desktop_keeps_signing_out_multiple/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pambfb/google_drive_desktop_keeps_signing_out_multiple/",
-      "pubDate": "Sun, 30 Nov 2025 16:23:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pambfb/google_drive_desktop_keeps_signing_out_multiple/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use Google Drive for Desktop on Windows with 3–4 Google accounts added to sync laptop with cloud. After a few days the app randomly signs out of all accounts except one. It keeps happening even after reinstalling the app+windows.</p>\n\n<p>I don’t have logout issues with Chrome or any other apps . Even my Proton Drive app works fine . The problem only happens with the Google Drive Desktop app. Is this a known bug?</p>\n\n<p>Is there any <strong>free, stable alternative</strong> that can sync multiple Google Drive accounts without randomly logging out? Looking for something reliable that I can use long-term.</p>\n\n<p>Is <strong>rclone</strong> the solution?<br/>\nTIA</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Gamifying QA and Testing",
-      "link": "https://redlib.perennialte.ch//r/AiBuilders/comments/1p8vlxg/gamifying_qa_and_testing/",
-      "guid": "https://redlib.perennialte.ch//r/AiBuilders/comments/1p8vlxg/gamifying_qa_and_testing/",
-      "pubDate": "Sun, 30 Nov 2025 15:36:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal6ao/gamifying_qa_and_testing/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal6ao/gamifying_qa_and_testing/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T20:35:53.581Z"
+  "lastFetched": "2025-12-01T21:29:44.942Z"
 }

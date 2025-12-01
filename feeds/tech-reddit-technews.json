@@ -94,15 +94,6 @@
       "thumbnail": null
     },
     {
-      "title": "The Biggest Causes of Medical Device Recalls",
-      "link": "https://spectrum.ieee.org/medical-device-recalls",
-      "guid": "https://spectrum.ieee.org/medical-device-recalls",
-      "pubDate": "Mon, 1 Dec 2025 15:34:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
       "link": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
       "guid": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
@@ -118,6 +109,15 @@
       "pubDate": "Sun, 30 Nov 2025 12:18:26 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagybp/leak_confirms_openai_is_preparing_ads_on_chatgpt/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagybp/leak_confirms_openai_is_preparing_ads_on_chatgpt/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "The Biggest Causes of Medical Device Recalls",
+      "link": "https://spectrum.ieee.org/medical-device-recalls",
+      "guid": "https://spectrum.ieee.org/medical-device-recalls",
+      "pubDate": "Mon, 1 Dec 2025 15:34:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-01T20:35:55.948Z"
+  "lastFetched": "2025-12-01T21:29:47.570Z"
 }
