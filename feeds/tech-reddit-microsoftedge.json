@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "I am so done...",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
+      "pubDate": "Mon, 1 Dec 2025 22:11:10 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am nearly close to dropping and maybe run some script to prevent future downloads of this browser on Windows 11. Every X amount of weeks (or weekly), the MS Edge browser shortcut (the one you click to open Edge on your desktop) keeps breaking (the icon turns white and says the app it links to has been moved or deleted). msedge.exe is inside some numbered folder (I guess current version) and that one works. Cool, I make it a shortcut. 1 week later, broken. &quot;Ok then I will use the msedge.exe file outside of the numbered folder under Applications!&quot; I spam click, never ever opens, not even a process under Task Manager. I already went back to Chrome and Mozilla, but still trying to figure this one out months after it happened.</p>\n\n<p>I already reinstalled the browser, updated Windows, updated Edge, wiped cache, saved setting/config data, nothing.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Lag when using swipe gestures to navigate back on macOS",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbnfj6/lag_when_using_swipe_gestures_to_navigate_back_on/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbnfj6/lag_when_using_swipe_gestures_to_navigate_back_on/",
@@ -125,7 +134,7 @@
       "link": "/gallery/1pao532",
       "guid": "/gallery/1pao532",
       "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ре��ят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It all began with opening mailto links. When I was trying to open a mailto link in Microsoft Edge it was not opening anything. </p>\n\n<p>So, I went to GMAIL for setting it as my default EMAIL HANDLER. The icon for the handler was appearing at first, I clicked at the wrong button (to navigate to settings instead of allowing). Now the icon has disappeared and is not appearing.</p>\n\n<p>I have tried to remove all site permissions and cookies also. I have not found any settings related to EMAIL HANDLER (or Protocol Handler) as AI suggested. Then, I have even tried the registry editor to add a string value (RegisteredProtocolHandlers) but all in vain. I am still unable to open mailto links. Please help 😥 </p>\n\n<p><a href=\"/preview/pre/qqksovjv554g1.png?width=1071&amp;format=png&amp;auto=webp&amp;s=8cd54ebfe39124270c985600a9c077946063833d\">EMAIL HANDLER icon disappeared</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Control P captures small portion of Facebook post instead of all of it",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/",
-      "pubDate": "Sat, 29 Nov 2025 01:58:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I hope this is a good community to post this question in. I&#39;m trying to print a Facebook post with all of the comments. I know how to navigate to it and open up all the comments. Every time I try to look up the answer, the answer is do a right click and select print (or control P) and print to PDF. But that doesn&#39;t work because I end up with what is functionally the first page of what should be a 20 page document</p>\n\n<p>Is there a way to change the setting somehow so that I capture all of the post and comments instead of just what&#39;s visible on the screen at that moment? </p>\n\n<p>Thank you in advance! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T21:29:39.586Z"
+  "lastFetched": "2025-12-01T22:41:12.070Z"
 }

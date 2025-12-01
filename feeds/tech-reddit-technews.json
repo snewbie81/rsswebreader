@@ -40,21 +40,21 @@
       "thumbnail": null
     },
     {
-      "title": "Amazon and Google launch multicloud service for faster connectivity",
-      "link": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
-      "guid": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
-      "pubDate": "Mon, 1 Dec 2025 13:38:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
       "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
       "guid": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
       "pubDate": "Mon, 1 Dec 2025 19:19:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbm02a/shadypanda_browser_extensions_amass_43m_installs/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbm02a/shadypanda_browser_extensions_amass_43m_installs/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Amazon and Google launch multicloud service for faster connectivity",
+      "link": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
+      "guid": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
+      "pubDate": "Mon, 1 Dec 2025 13:38:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -85,6 +85,15 @@
       "thumbnail": null
     },
     {
+      "title": "The Biggest Causes of Medical Device Recalls",
+      "link": "https://spectrum.ieee.org/medical-device-recalls",
+      "guid": "https://spectrum.ieee.org/medical-device-recalls",
+      "pubDate": "Mon, 1 Dec 2025 15:34:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Major AI conference flooded with peer reviews written fully by AI",
       "link": "https://www.nature.com/articles/d41586-025-03506-6",
       "guid": "https://www.nature.com/articles/d41586-025-03506-6",
@@ -109,15 +118,6 @@
       "pubDate": "Sun, 30 Nov 2025 12:18:26 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagybp/leak_confirms_openai_is_preparing_ads_on_chatgpt/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagybp/leak_confirms_openai_is_preparing_ads_on_chatgpt/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "The Biggest Causes of Medical Device Recalls",
-      "link": "https://spectrum.ieee.org/medical-device-recalls",
-      "guid": "https://spectrum.ieee.org/medical-device-recalls",
-      "pubDate": "Mon, 1 Dec 2025 15:34:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-01T21:29:47.570Z"
+  "lastFetched": "2025-12-01T22:41:19.556Z"
 }

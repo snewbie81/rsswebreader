@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Does anybody know how to install dotnet 3.5 on Windows 11?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/",
+      "pubDate": "Mon, 1 Dec 2025 22:05:39 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I run the installer it doesn&#39;t give me an error, it simply just doesn&#39;t open up or anything.</p>\n\n<p>I&#39;ve tried turning off windows defender, making the installer an exception, and turning windows features on and off. I also went and turned automatic updates on in case that was the problem (is it bad to leave it on?)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I build a zero knowledge passwords manager open source and open for feedback",
       "link": "https://eazypasswords.com",
       "guid": "https://eazypasswords.com",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to get a clear answer on whether iPhones are actually more user-friendly than Androids these days. I keep hearing that iOS is the simple &quot;it just works&quot; option, but looking at how much both systems have changed, I wonder if that stereotype is outdated. For those of you who have hands-on experience with recent versions of both, is iOS actually more intuitive for the average person, or has Android finally caught up in terms of ease of use?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "A simple, invisible prompt-storage extension I made to streamline workflow",
-      "link": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
-      "guid": "https://redlib.perennialte.ch//r/chrome_extensions/comments/1pambnq/a_simple_invisible_promptstorage_extension_i_made/",
-      "pubDate": "Sun, 30 Nov 2025 16:37:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pamnwc/a_simple_invisible_promptstorage_extension_i_made/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T21:29:44.942Z"
+  "lastFetched": "2025-12-01T22:41:17.191Z"
 }
