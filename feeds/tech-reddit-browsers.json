@@ -40,21 +40,21 @@
       "thumbnail": null
     },
     {
-      "title": "Since privacy is a huge factor for many here, what conditions did you have before selecting a browser?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/",
-      "pubDate": "Mon, 1 Dec 2025 12:27:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people in this subreddit say that privacy is one of the biggest factors when choosing a browser.</p>\n\n<p>So I wanted to ask two things:\n1. What is the core reason of a browser storing your digital footprint that makes you uncomfortable? (E.g. password, targeted ads, etc)</p>\n\n<ol>\n<li>what conditions would you personally need before you would feel comfortable with it? (E.g. local storage of history only, no advertising, etc.)</li>\n</ol>\n\n<p>Would be great to hear the range of views from this community. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Choosing a search engine",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb9cv3/choosing_a_search_engine/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb9cv3/choosing_a_search_engine/",
       "pubDate": "Mon, 1 Dec 2025 10:26:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb9cv3/choosing_a_search_engine/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, everyone. Which search engine do you recommend? I care about privacy, but also about good search results. I am considering DuckDuckGo, Brave Search, and Startpage, but perhaps you have some other free suggestions. If it matters, I use the Brave browser on Windows and Android. Best regards. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Since privacy is a huge factor for many here, what conditions did you have before selecting a browser?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/",
+      "pubDate": "Mon, 1 Dec 2025 12:27:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people in this subreddit say that privacy is one of the biggest factors when choosing a browser.</p>\n\n<p>So I wanted to ask two things:\n1. What is the core reason of a browser storing your digital footprint that makes you uncomfortable? (E.g. password, targeted ads, etc)</p>\n\n<ol>\n<li>what conditions would you personally need before you would feel comfortable with it? (E.g. local storage of history only, no advertising, etc.)</li>\n</ol>\n\n<p>Would be great to hear the range of views from this community. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-01T14:52:00.682Z"
+  "lastFetched": "2025-12-01T15:43:22.830Z"
 }

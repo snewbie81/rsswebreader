@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "Best mail app that let's you use multiple accounts?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6soz/best_mail_app_that_lets_you_use_multiple_accounts/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6soz/best_mail_app_that_lets_you_use_multiple_accounts/",
-      "pubDate": "Mon, 1 Dec 2025 07:42:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pb6soz/best_mail_app_that_lets_you_use_multiple_accounts/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, all! For work reasons I can&#39;t convert all my emails to Proton (for example) so is there any good free app that let&#39;s you use all your email accounts all at once? I&#39;ve been using Outlook for years and it&#39;s not bad but I&#39;d prefer something open source that adds an extra layer of privacy and getting a bit out of Microsoft, google etc.</p>\n\n<p>Edit: I see most popular ones are K-9, Thunderbird and FairEmail; and a mention for Watermail. I&#39;ll read more about them and see which one fits my needs, thanks!!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Budget Tracking app inspired by Buckwheat",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6iwu/budget_tracking_app_inspired_by_buckwheat/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6iwu/budget_tracking_app_inspired_by_buckwheat/",
@@ -55,6 +46,15 @@
       "pubDate": "Mon, 1 Dec 2025 13:49:23 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pbd8ro/is_there_a_foss_app_similar_to_buzzkill_that_will/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;d really like a way to set a custom vibration for text messages, particularly for groupchats because they wind up making me just ignore all vibrations and I&#39;d like to be able to set a different one for it so I can distinguish without pulling out my phone.</p>\n\n<p>I know the buzzkill app can do this. It is paid and I don&#39;t mind that but its also closed source and proprietary and that I do care about, especially with the permissions you&#39;d have to give it.</p>\n\n<p>If it helps, I&#39;m using an Samsung s21 w google messages.</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Best mail app that let's you use multiple accounts?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6soz/best_mail_app_that_lets_you_use_multiple_accounts/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6soz/best_mail_app_that_lets_you_use_multiple_accounts/",
+      "pubDate": "Mon, 1 Dec 2025 07:42:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pb6soz/best_mail_app_that_lets_you_use_multiple_accounts/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, all! For work reasons I can&#39;t convert all my emails to Proton (for example) so is there any good free app that let&#39;s you use all your email accounts all at once? I&#39;ve been using Outlook for years and it&#39;s not bad but I&#39;d prefer something open source that adds an extra layer of privacy and getting a bit out of Microsoft, google etc.</p>\n\n<p>Edit: I see most popular ones are K-9, Thunderbird and FairEmail; and a mention for Watermail. I&#39;ll read more about them and see which one fits my needs, thanks!!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-01T14:51:46.185Z"
+  "lastFetched": "2025-12-01T15:43:06.290Z"
 }
