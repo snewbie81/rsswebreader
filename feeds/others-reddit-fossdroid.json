@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Budget Tracking app inspired by Buckwheat",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6iwu/budget_tracking_app_inspired_by_buckwheat/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pb6iwu/budget_tracking_app_inspired_by_buckwheat/",
+      "pubDate": "Mon, 1 Dec 2025 07:25:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pb6iwu/budget_tracking_app_inspired_by_buckwheat/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p>\n\n<p>I have developed a budget tracking app called <a href=\"https://github.com/bkk31/budgetlens\">Budget Lens</a> that is inspired by <a href=\"https://github.com/danilkinkin/buckwheat\">Buckwheat</a> in flutter.</p>\n\n<p>I started learning flutter recently so the app is not as polished. Do note, I used AI&#39;s help with the UI design (I don&#39;t possess a creative mind) but the core logic is implemented by me. </p>\n\n<p>The app is still buggy, so I&#39;d appreciate any contributors or anyone who can help me. </p>\n\n<p>The main logic is in the logic.txt file. </p>\n\n<p>I hope to get some critical review and possible help. </p>\n\n<p>Thanks for reading.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Heliboard autocorrect no longer works in browsers",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7um6v/android_tv_alternatives/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I have a xiaomi tv with android on it with a lot of bloatware and, I guess, privacy issues.<br/>\nIs there an open source alternative than I can flash on my device ? I already flashed some custom roms on my phones but idk for android tv.</p>\n\n<p>Thanks a lot</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Is it possible to have this show, even when the case is open? I want an app that shows all three batteries; Gadget Bridge only shows the lowest battery, and not the case.",
-      "link": "/img/73rkhm3r4r3g1.png",
-      "guid": "/img/73rkhm3r4r3g1.png",
-      "pubDate": "Thu, 27 Nov 2025 07:30:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-01T07:01:22.611Z"
+  "lastFetched": "2025-12-01T07:42:27.272Z"
 }
