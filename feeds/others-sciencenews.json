@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Personalized ‘prehabilitation’ helps the body brace for major surgery",
+      "link": "https://www.sciencenews.org/article/prehabilitation-surgery-immune-system",
+      "guid": "https://www.sciencenews.org/?p=3162605",
+      "pubDate": "Mon, 01 Dec 2025 16:00:00 +0000",
+      "description": "A small study finds that individualized prehab can dampen harmful immune responses and may reduce complications after an operation.",
+      "content": "A small study finds that individualized prehab can dampen harmful immune responses and may reduce complications after an operation.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111725_AG_prehab_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "A therapeutic HPV vaccine shrank cervical tumors in mice",
       "link": "https://www.sciencenews.org/article/therapeutic-hpv-vaccine-cervical-cancer",
       "guid": "https://www.sciencenews.org/?p=3162904",
@@ -173,18 +182,9 @@
       "description": "Simple chemistry could give the reindeer his famously bright snout. But physics would make it look different colors from the ground.",
       "content": "Simple chemistry could give the reindeer his famously bright snout. But physics would make it look different colors from the ground.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_technically-fiction_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Lions have a second roar that no one noticed until now",
-      "link": "https://www.sciencenews.org/article/lion-new-type-roar-decoded",
-      "guid": "https://www.sciencenews.org/?p=3162855",
-      "pubDate": "Fri, 21 Nov 2025 00:01:00 +0000",
-      "description": "A machine learning analysis of wild lion audio reveals they have two roar types, not one. This insight might help detect where lions are declining.",
-      "content": "A machine learning analysis of wild lion audio reveals they have two roar types, not one. This insight might help detect where lions are declining.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112025_ED_lionroar_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-01T15:43:14.816Z"
+  "lastFetched": "2025-12-01T16:57:38.451Z"
 }
