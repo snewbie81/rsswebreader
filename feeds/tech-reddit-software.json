@@ -22,12 +22,30 @@
       "thumbnail": null
     },
     {
+      "title": "Is iOS really more user friendly than Android?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
+      "pubDate": "Mon, 1 Dec 2025 03:04:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to get a clear answer on whether iPhones are actually more user-friendly than Androids these days. I keep hearing that iOS is the simple &quot;it just works&quot; option, but looking at how much both systems have changed, I wonder if that stereotype is outdated. For those of you who have hands-on experience with recent versions of both, is iOS actually more intuitive for the average person, or has Android finally caught up in terms of ease of use?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Convert .JP2 files (JPEG 2000) to PDF",
       "link": "https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/",
       "pubDate": "Sun, 30 Nov 2025 21:17:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1patrf0/convert_jp2_files_jpeg_2000_to_pdf/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Resolved Thank you always.<br/>\nI always combine images (.jpg .png) into PDFs using Adobe Acrobat or Foxit PDF.<br/>\nHowever, these two software programs cannot read .jp2 files and cannot create PDF.<br/>\nI was able to create a PDF by first converting the .jp2 file to .jpg or .png.<br/>\nBut this is a hassle.<br/>\nI am looking for software that can convert .jp2 files to PDF directly.<br/>\nI can find online sites, but I prefer software.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A Complete Vim-Inspired File Manager Where Files’ Thumbnails, File Copying, and Recursive Files’ Size Display Work Out of the Box? (For Linux)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/",
+      "pubDate": "Mon, 1 Dec 2025 04:35:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for something like Dolphin or ranger, but with alll those features combined. I&#39;ve tried Vifm, Ranger, Midnight Commander, etc. They all share the same problem for me - those features whether aren&#39;t supported at all, require some ass-configuration, and might still work clunky. Don&#39;t we have something that still does all those things, but out of the box or with minimum setup? I guess it can&#39;t work within terminal, so GUI options are also ok if Vim-like workflow integrated well. Anyway, what do you personally use?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -55,15 +73,6 @@
       "pubDate": "Mon, 1 Dec 2025 03:36:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb2abk/changing_the_fps_of_a_video_without/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m looking for a way to change the FPS of a video (with its audio) <strong>without</strong> adding/removing frames (changing its lenght in the process).</p>\n\n<p>For example: I have a video that has 100 frames in total with 23 FPS, so the duration of it is (approximately) 4.34&quot;. I want to change its FPS to 24 <strong>without</strong> adding/removing frames, so I&#39;d still have the same 100 frames but with 24 FPS, makng its duration change to (approximately) 4.16&quot;.</p>\n\n<p>I have to specifically do this by changing the FPS, and not time nor a multiplier. And I need the audio of the video to change as the video changes.</p>\n\n<p>Do you know about any free Windows program that allows me to do this?</p>\n\n<p>(PD: in case anyone is curious <em>why</em> I need this: I have a movie downloaded with 23.9876024 FPS and need to change it to 24 FPS so the subtitles won&#39;t be unaligned)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Is iOS really more user friendly than Android?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
-      "pubDate": "Mon, 1 Dec 2025 03:04:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to get a clear answer on whether iPhones are actually more user-friendly than Androids these days. I keep hearing that iOS is the simple &quot;it just works&quot; option, but looking at how much both systems have changed, I wonder if that stereotype is outdated. For those of you who have hands-on experience with recent versions of both, is iOS actually more intuitive for the average person, or has Android finally caught up in terms of ease of use?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9iymu/which_media_player_is_most_similar_to_a_streaming/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Like many here, I have several episodes on my PC and I&#39;d like a media player that, besides being aesthetically pleasing, has features like listing my episodes or allowing me to resume from where I left off... I want to know which media player offers the closest experience to watching Netflix, for example. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "What tools do you use to document and test APIs?",
-      "link": "/gallery/1p9u74x",
-      "guid": "/gallery/1p9u74x",
-      "pubDate": "Sat, 29 Nov 2025 17:16:39 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9ua0c/what_tools_do_you_use_to_document_and_test_apis/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T04:20:53.806Z"
+  "lastFetched": "2025-12-01T05:51:40.926Z"
 }
