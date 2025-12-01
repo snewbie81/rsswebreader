@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Foss App for Eufy camera",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pawigm/foss_app_for_eufy_camera/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pawigm/foss_app_for_eufy_camera/",
+      "pubDate": "Sun, 30 Nov 2025 23:12:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pawigm/foss_app_for_eufy_camera/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to ask what Foss apps are available for home camera systems like eufy etc? </p>\n\n<p>If it matters I&#39;m in North America. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Heliboard autocorrect no longer works in browsers",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pakq0v/heliboard_autocorrect_no_longer_works_in_browsers/",
@@ -58,21 +67,21 @@
       "thumbnail": null
     },
     {
-      "title": "Session messenger",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
-      "pubDate": "Sun, 30 Nov 2025 10:52:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Saw theres a f-droid app with a more FOSS compliant version of Session. Anyone have experiences of this app?</p>\n\n<p><a href=\"https://f-droid.org/packages/network.loki.messenger.fdroid\">https://f-droid.org/packages/network.loki.messenger.fdroid</a></p>\n\n<p>(Edited to comply with this subreddit as my main question was about this f-droid app)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "infinix cell phones",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/",
       "pubDate": "Sun, 30 Nov 2025 10:28:43 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1paf4dy/infinix_cell_phones/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This brand is one that has been in my country for a few years, it is quite famous here and used, I currently use it and I would like to know if by any chance there is a way to ungoogle it completely, type, change the rom etc.</p>\n\n<p>Someone tell me if it is possible or if it is recommended</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Session messenger",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/",
+      "pubDate": "Sun, 30 Nov 2025 10:52:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pafia0/session_messenger/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Saw theres a f-droid app with a more FOSS compliant version of Session. Anyone have experiences of this app?</p>\n\n<p><a href=\"https://f-droid.org/packages/network.loki.messenger.fdroid\">https://f-droid.org/packages/network.loki.messenger.fdroid</a></p>\n\n<p>(Edited to comply with this subreddit as my main question was about this f-droid app)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7w5xw/is_it_possible_to_have_this_show_even_when_the/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "My project Trudido Task and Notes",
-      "link": "/gallery/1p7ady7",
-      "guid": "/gallery/1p7ady7",
-      "pubDate": "Wed, 26 Nov 2025 15:19:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7ady7/my_project_trudido_task_and_notes/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, Hola, Hello,</p>\n\n<p>in the past I wrote here about my project <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>. It is an App for Android to take Notes or Tasks and we reached now over 400 downloads. I know there are many (fantastic) Apps like this outside but it always annoyed me that many of those Apps are from China or the US or not fully offline, ad-free or private e.g.</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a> is the opposite to that because I dont care about your data or anything.</p>\n\n<p>With Version 1.2.1 I enhanced the Markdown Editor in Notes with a WYSIWYG rich text editor. (Quill) And it got other new features like you can insert media like photos, videos, voicenotes eg.</p>\n\n<p>For the Notes it also has a function called &quot;Vault&quot; in which you can store sensitive notes and media encrypted on your device.</p>\n\n<p>And there is finally a new app icon! And it has the GPL-3.0 license.</p>\n\n<p>I hope you would like to try my App <a href=\"https://github.com/dominikmuellr/trudido\">Trudido</a>.</p>\n\n<p>Thanks all for reading this and maybe see you in the comments!</p>\n\n<p><a href=\"https://github.com/dominikmuellr/trudido\">https://github.com/dominikmuellr/trudido</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-11-30T22:40:00.862Z"
+  "lastFetched": "2025-12-01T04:20:36.739Z"
 }

@@ -49,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "Free URL shortener kejar tayang, rugi pakai yang berbayar mahal karena analytical data doang.",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/",
+      "pubDate": "Sun, 30 Nov 2025 13:11:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Mau share web buat shortlink, udah finish tapi belum polished</strong></p>\n\n<p>100% free no catch, cuma ya itu hosting dan coding seadanya. Karena kerjainnya sendiri dengan bantuan AI buat cek error, nambahin fitur, dan manage alur kerjanya. Lalu menurut saya ini udah kompleks dan lengkap banget dibanding URL shortener di luaran sana yang gratis atau &quot;freemium&quot;.</p>\n\n<p>Kenapa saya share kesini?... Karena rasanya masih ada aja yang kurang, perlu feedback langsung dari user.</p>\n\n<h1>Backstory:</h1>\n\n<p>Niatnya buat pakai sendiri, tapi terlalu bagus dan penuh effort buatnya  (Seminggu begadang, tidur subuh, bangun matahari udah di atas kepala 🥲) rugi kalau tidak di share kan?.</p>\n\n<p>Namanya <a href=\"https://hel.ink\"><strong>Hop Easy Link | Hel.ink</strong></a> - kenapa hel.ink? Karena nyari URL yang short dengan embel-embel &quot;link&quot;, tapi rata-rata udah sold 😭 Pengennya punya url shortener dengan domain yang keren dan pendek/mini kaya is.gd, nemunya yang cocok ya cuma helink. Sudah jenuh juga dengan bit.ly karena fitur previewnya 10 detik buat visitor enggak jadi/lanjut ke link tujuan, pakai rebrand.ly sama dub.co rasanya buang duit banget, karena link yang perlu di manage cuma sedikit untuk jangka yang panjang, padahal harus bayar bulanan/tahunan untuk subscribe service dari mereka.</p>\n\n<p>Ini dia pengenalan tersangkanya</p>\n\n<p>Built with Laravel (Blade, Alpine) oleh saya, pake cinta ❤️❤️❤️ dan waktu ngalong seminggu tidak lihat matahari pagi.</p>\n\n<p><strong>Udah built in basic rate limiter biar tidak ada spam baik bot atau user.</strong></p>\n\n<h1>Fitur yang sudah ada:</h1>\n\n<p><strong>Khusus Public Access:</strong></p>\n\n<ul>\n<li>Bisa buat shortlink tapi limited</li>\n<li>Registered user unlock semua fitur di bawah</li>\n</ul>\n\n<p><strong>Main Feature:</strong></p>\n\n<ul>\n<li>Custom slug + custom redirect type (301, 302, 307)</li>\n<li>QR code generator (simple tapi works)</li>\n<li>Password protection &amp; expiration dates</li>\n<li>Tags &amp; folders untuk organize</li>\n<li>Semua editable</li>\n<li><strong>Current limits:</strong> 200 link creation/day, max 1000 active links (nge-limit biar cukup buat rame-rame tapi biaya gak bengkakkk....</li>\n</ul>\n\n<p><strong>Analytics :</strong></p>\n\n<ul>\n<li>Analytics lengkap dengan GeoIP tracking (Ada limit per menit, karena pakai API yang free hehe)</li>\n<li>Visitor proxy/VPN detection</li>\n<li>Device, browser detection</li>\n<li>Referrer tracking</li>\n<li>Click history &amp; unique visitors</li>\n<li>Export to CSV</li>\n</ul>\n\n<p><strong>Organization:</strong></p>\n\n<ul>\n<li>folders &amp; tags</li>\n<li>Bulk operations (Hapus, archive)</li>\n<li>Search &amp; filter</li>\n</ul>\n\n<p><strong>Security &amp; Account:</strong></p>\n\n<ul>\n<li>2FA (catchphrase + authenticator app)</li>\n<li>Login via email (need verification, jadi butuh real email/temp mail) atau Google OAuth</li>\n<li>Activity logs &amp; login history</li>\n<li>Backup/export features</li>\n<li>Dark mode (karena... ya dark mode lah, silau kalau pakai yang putih bro 😎)</li>\n</ul>\n\n<p><strong>The Important One:</strong></p>\n\n<ul>\n<li><strong>1-click delete button</strong> - hapus semua data, link, folder, tags, analytical data, gak ada sisa!</li>\n</ul>\n\n<h1>Screenshots:</h1>\n\n<p><a href=\"/preview/pre/s0qucbfd8e4g1.png?width=2543&amp;format=png&amp;auto=webp&amp;s=a55203b6ecb86df4131ab1337d24ace15a584276\">/preview/pre/s0qucbfd8e4g1.png?width=2543&amp;format=png&amp;auto=webp&amp;s=a55203b6ecb86df4131ab1337d24ace15a584276</a></p>\n\n<p><a href=\"/preview/pre/rufntcfd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=89502b975a09d6a4f9b48525c757342b6f3d9967\">/preview/pre/rufntcfd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=89502b975a09d6a4f9b48525c757342b6f3d9967</a></p>\n\n<p><a href=\"/preview/pre/4ha77ofd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=52331a037085b51e736ad0803769e03efa9ba353\">/preview/pre/4ha77ofd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=52331a037085b51e736ad0803769e03efa9ba353</a></p>\n\n<p><a href=\"/preview/pre/hkunbtgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=131df22302f06974c75e3b957d8fb6da0793185a\">/preview/pre/hkunbtgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=131df22302f06974c75e3b957d8fb6da0793185a</a></p>\n\n<p><a href=\"/preview/pre/fge51qgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=3a434a1d1d100cfb95cba9919e691dbcab36f77a\">/preview/pre/fge51qgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=3a434a1d1d100cfb95cba9919e691dbcab36f77a</a></p>\n\n<p><a href=\"/preview/pre/gzbuczgd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=fdc2f863c1cb5480db1fd8d8afd17800b0b7efc2\">/preview/pre/gzbuczgd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=fdc2f863c1cb5480db1fd8d8afd17800b0b7efc2</a></p>\n\n<p><a href=\"/preview/pre/cp15rygd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=dc5526412e5fc5737f454ad337a1e5475b875531\">/preview/pre/cp15rygd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=dc5526412e5fc5737f454ad337a1e5475b875531</a></p>\n\n<p><a href=\"/preview/pre/24zzq3hd8e4g1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=109e95193d06b62f463c2e42d7d5ebec8bd85ce2\">/preview/pre/24zzq3hd8e4g1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=109e95193d06b62f463c2e42d7d5ebec8bd85ce2</a></p>\n\n<p><a href=\"/preview/pre/qupg1mhd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=8038b66ee82b2319b1273d59b1c9a8bd34e918c6\">/preview/pre/qupg1mhd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=8038b66ee82b2319b1273d59b1c9a8bd34e918c6</a></p>\n\n<p><strong>Full Album:</strong> <a href=\"https://imgur.com/a/JhCpevD\"><strong>https://imgur.com/a/JhCpevD</strong></a></p>\n\n<h1>⚠️ Disclaimer:</h1>\n\n<p>Karena belum sepenuhnya full test, ntah ada alur logic yang bentrok atau belum selesai. Kalau nemu bug atau punya saran, feel free to:</p>\n\n<ul>\n<li>Drop comment di sini</li>\n<li>DM saya</li>\n<li>Kirim uang juga boleh 🤪</li>\n</ul>\n\n<p>Terimakasih sudah baca dan mampir, spesial thanks buat future user </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Handheld Anbernic sudah dijual di GSShop Central Park",
       "link": "/img/oxjcim7zyc4g1.jpeg",
       "guid": "/img/oxjcim7zyc4g1.jpeg",
@@ -58,12 +67,12 @@
       "thumbnail": null
     },
     {
-      "title": "Free URL shortener kejar tayang, rugi pakai yang berbayar mahal karena analytical data doang.",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/",
-      "pubDate": "Sun, 30 Nov 2025 13:11:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahyks/free_url_shortener_kejar_tayang_rugi_pakai_yang/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Mau share web buat shortlink, udah finish tapi belum polished</strong></p>\n\n<p>100% free no catch, cuma ya itu hosting dan coding seadanya. Karena kerjainnya sendiri dengan bantuan AI buat cek error, nambahin fitur, dan manage alur kerjanya. Lalu menurut saya ini udah kompleks dan lengkap banget dibanding URL shortener di luaran sana yang gratis atau &quot;freemium&quot;.</p>\n\n<p>Kenapa saya share kesini?... Karena rasanya masih ada aja yang kurang, perlu feedback langsung dari user.</p>\n\n<h1>Backstory:</h1>\n\n<p>Niatnya buat pakai sendiri, tapi terlalu bagus dan penuh effort buatnya  (Seminggu begadang, tidur subuh, bangun matahari udah di atas kepala 🥲) rugi kalau tidak di share kan?.</p>\n\n<p>Namanya <a href=\"https://hel.ink\"><strong>Hop Easy Link | Hel.ink</strong></a> - kenapa hel.ink? Karena nyari URL yang short dengan embel-embel &quot;link&quot;, tapi rata-rata udah sold 😭 Pengennya punya url shortener dengan domain yang keren dan pendek/mini kaya is.gd, nemunya yang cocok ya cuma helink. Sudah jenuh juga dengan bit.ly karena fitur previewnya 10 detik buat visitor enggak jadi/lanjut ke link tujuan, pakai rebrand.ly sama dub.co rasanya buang duit banget, karena link yang perlu di manage cuma sedikit untuk jangka yang panjang, padahal harus bayar bulanan/tahunan untuk subscribe service dari mereka.</p>\n\n<p>Ini dia pengenalan tersangkanya</p>\n\n<p>Built with Laravel (Blade, Alpine) oleh saya, pake cinta ❤️❤️❤️ dan waktu ngalong seminggu tidak lihat matahari pagi.</p>\n\n<p><strong>Udah built in basic rate limiter biar tidak ada spam baik bot atau user.</strong></p>\n\n<h1>Fitur yang sudah ada:</h1>\n\n<p><strong>Khusus Public Access:</strong></p>\n\n<ul>\n<li>Bisa buat shortlink tapi limited</li>\n<li>Registered user unlock semua fitur di bawah</li>\n</ul>\n\n<p><strong>Main Feature:</strong></p>\n\n<ul>\n<li>Custom slug + custom redirect type (301, 302, 307)</li>\n<li>QR code generator (simple tapi works)</li>\n<li>Password protection &amp; expiration dates</li>\n<li>Tags &amp; folders untuk organize</li>\n<li>Semua editable</li>\n<li><strong>Current limits:</strong> 200 link creation/day, max 1000 active links (nge-limit biar cukup buat rame-rame tapi biaya gak bengkakkk....</li>\n</ul>\n\n<p><strong>Analytics :</strong></p>\n\n<ul>\n<li>Analytics lengkap dengan GeoIP tracking (Ada limit per menit, karena pakai API yang free hehe)</li>\n<li>Visitor proxy/VPN detection</li>\n<li>Device, browser detection</li>\n<li>Referrer tracking</li>\n<li>Click history &amp; unique visitors</li>\n<li>Export to CSV</li>\n</ul>\n\n<p><strong>Organization:</strong></p>\n\n<ul>\n<li>folders &amp; tags</li>\n<li>Bulk operations (Hapus, archive)</li>\n<li>Search &amp; filter</li>\n</ul>\n\n<p><strong>Security &amp; Account:</strong></p>\n\n<ul>\n<li>2FA (catchphrase + authenticator app)</li>\n<li>Login via email (need verification, jadi butuh real email/temp mail) atau Google OAuth</li>\n<li>Activity logs &amp; login history</li>\n<li>Backup/export features</li>\n<li>Dark mode (karena... ya dark mode lah, silau kalau pakai yang putih bro 😎)</li>\n</ul>\n\n<p><strong>The Important One:</strong></p>\n\n<ul>\n<li><strong>1-click delete button</strong> - hapus semua data, link, folder, tags, analytical data, gak ada sisa!</li>\n</ul>\n\n<h1>Screenshots:</h1>\n\n<p><a href=\"/preview/pre/s0qucbfd8e4g1.png?width=2543&amp;format=png&amp;auto=webp&amp;s=a55203b6ecb86df4131ab1337d24ace15a584276\">/preview/pre/s0qucbfd8e4g1.png?width=2543&amp;format=png&amp;auto=webp&amp;s=a55203b6ecb86df4131ab1337d24ace15a584276</a></p>\n\n<p><a href=\"/preview/pre/rufntcfd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=89502b975a09d6a4f9b48525c757342b6f3d9967\">/preview/pre/rufntcfd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=89502b975a09d6a4f9b48525c757342b6f3d9967</a></p>\n\n<p><a href=\"/preview/pre/4ha77ofd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=52331a037085b51e736ad0803769e03efa9ba353\">/preview/pre/4ha77ofd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=52331a037085b51e736ad0803769e03efa9ba353</a></p>\n\n<p><a href=\"/preview/pre/hkunbtgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=131df22302f06974c75e3b957d8fb6da0793185a\">/preview/pre/hkunbtgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=131df22302f06974c75e3b957d8fb6da0793185a</a></p>\n\n<p><a href=\"/preview/pre/fge51qgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=3a434a1d1d100cfb95cba9919e691dbcab36f77a\">/preview/pre/fge51qgd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=3a434a1d1d100cfb95cba9919e691dbcab36f77a</a></p>\n\n<p><a href=\"/preview/pre/gzbuczgd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=fdc2f863c1cb5480db1fd8d8afd17800b0b7efc2\">/preview/pre/gzbuczgd8e4g1.png?width=2542&amp;format=png&amp;auto=webp&amp;s=fdc2f863c1cb5480db1fd8d8afd17800b0b7efc2</a></p>\n\n<p><a href=\"/preview/pre/cp15rygd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=dc5526412e5fc5737f454ad337a1e5475b875531\">/preview/pre/cp15rygd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=dc5526412e5fc5737f454ad337a1e5475b875531</a></p>\n\n<p><a href=\"/preview/pre/24zzq3hd8e4g1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=109e95193d06b62f463c2e42d7d5ebec8bd85ce2\">/preview/pre/24zzq3hd8e4g1.png?width=2552&amp;format=png&amp;auto=webp&amp;s=109e95193d06b62f463c2e42d7d5ebec8bd85ce2</a></p>\n\n<p><a href=\"/preview/pre/qupg1mhd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=8038b66ee82b2319b1273d59b1c9a8bd34e918c6\">/preview/pre/qupg1mhd8e4g1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=8038b66ee82b2319b1273d59b1c9a8bd34e918c6</a></p>\n\n<p><strong>Full Album:</strong> <a href=\"https://imgur.com/a/JhCpevD\"><strong>https://imgur.com/a/JhCpevD</strong></a></p>\n\n<h1>⚠️ Disclaimer:</h1>\n\n<p>Karena belum sepenuhnya full test, ntah ada alur logic yang bentrok atau belum selesai. Kalau nemu bug atau punya saran, feel free to:</p>\n\n<ul>\n<li>Drop comment di sini</li>\n<li>DM saya</li>\n<li>Kirim uang juga boleh 🤪</li>\n</ul>\n\n<p>Terimakasih sudah baca dan mampir, spesial thanks buat future user </p>\n</div><!-- SC_ON -->",
+      "title": "Mechanical keyboard Fantech ATOM PRO97 MK918",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pb1ygs/mechanical_keyboard_fantech_atom_pro97_mk918/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pb1ygs/mechanical_keyboard_fantech_atom_pro97_mk918/",
+      "pubDate": "Mon, 1 Dec 2025 03:20:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pb1ygs/mechanical_keyboard_fantech_atom_pro97_mk918/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Ada yang pake kah? Enak ga ya? lucu juga tapi sku itemnya :<br/>\nFantech ATOM PRO97 MK918 95% Wireless Mechanical Gaming Keyboard<br/>\n(berarti 5% key yang ga mechanical ? atau wirelessnya 95% doang, 5% nya rto)  </p>\n\n<p>Atau ada opsi lain ?<br/>\nRequirements :<br/>\n1. Wireless<br/>\n2. Budget in 800k range<br/>\n3. 87 keys are fine, 108  key is nice to have if its within budget.  </p>\n\n<p>Mau beli 1STPLAYER NEO87 1 lagi, tapi stok nya pada abis.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,21 +85,21 @@
       "thumbnail": null
     },
     {
-      "title": "Rekomendasi kursi belajar budget 500 ribu",
-      "link": "/img/nf78jbxk9h4g1.jpeg",
-      "guid": "/img/nf78jbxk9h4g1.jpeg",
-      "pubDate": "Sun, 30 Nov 2025 23:19:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pawotj/rekomendasi_kursi_belajar_budget_500_ribu/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Nyari kursi bagus, ergonomik anti sakit punggung, budget 500k</p>\n</div><!-- SC_ON -->",
+      "title": "Ada yang mau mendang/mending daripada ini?",
+      "link": "/img/3m4qwugk6e4g1.jpeg",
+      "guid": "/img/3m4qwugk6e4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 12:57:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahog1/ada_yang_mau_mendangmending_daripada_ini/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Sebenarnya pengen cari casan 60W-an. Tapi kepikiran kayaknya lebih murah ambil cok sambung daripada batok GaN, jadi punya pilihan beli ini. Lagipula memang butuhnya cuma letak di meja/gak dibawa kemana-mana. Ada opsi lain?</p>\n\n<p>Harga 260k</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
-      "title": "Is it just me or reddit search feature is shit now?",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
-      "pubDate": "Sun, 30 Nov 2025 12:41:40 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi gini, gua lagi nyari post lama di <a href=\"/r/indowibu\">r/indowibu</a> yang tema nya JAV soalnya ada orang yang nyari <a href=\"/r/indowibu/comments/1paeyd5/comment/nrj3bja/?context=1\">film pink</a> (help that poor sod pls). Cuman pas gua ketik kata jav di search bar dan gua klik enter tuh gabisa mulu. Malahan gua dipaksa buat masukin kalimat dibawah:</p>\n\n<p><a href=\"/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0\">/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0</a></p>\n\n<p>Ini ss dari reddit web. Ya tentu saja gaada post dengan kata2 kayak gitu. Ini perasaan gua ato reddit ini fitur search nya kayak &quot;dipaksakan&quot; gitu ya? Lucunya adalah restriction kayak gini tuh gaada di reddit mobile app. Selain itu, ini perasaan gua aja ato bukannya dulu ada bar khusus buat flair yang bisa di teken2 agar orang bisa search post by flair? Kenapa di versi web gaada?</p>\n\n<p>Rasanya seakan2 kayak banyak fitur di web disunat tapi yang di versi hp masih ada. Gua kudu utak atik apa lagi bjir. Gamasuk akal kalo tiap web diupdate gua harus bolak balik mod tools karena mrk otak atik fitur ato mindahin fitur entah kemana.</p>\n</div><!-- SC_ON -->",
+      "title": "Kalibrasi analog dan lock mode untuk Vortexseries XP107",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1paz194/kalibrasi_analog_dan_lock_mode_untuk_vortexseries/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1paz194/kalibrasi_analog_dan_lock_mode_untuk_vortexseries/",
+      "pubDate": "Mon, 1 Dec 2025 01:03:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1paz194/kalibrasi_analog_dan_lock_mode_untuk_vortexseries/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Berhubung gamepad ini ODM satu pabrik sama Easysmx D10, Ajazz GP100, dan Gamen Ziro gw crosscheck manualnya siapa tahu ada fitur yang tidak tertera di manual XP107 (Kecuali yang Gamen Ziro kalau ada yang punya silahkan dishare) dan ini beberapa temuan gw:</p>\n\n<ul>\n<li><p><strong>Kalibrasi analog</strong></p>\n\n<ol>\n<li>Gamepad dalam kondisi mati pencet tombol L3+RB+HOME tunggu lampu indikator kedap kedip merah dan hijau</li>\n<li>Putar kedua analog pada saat bersamaan sebanyak tiga kali (untuk arah putaran bisa eksperimen, di manualnya Easysmx D10 tulisannya arah jarum jam tapi punya gw putar arah lawan jarum jam dapat hasil lebih baik)</li>\n<li>Pencet L3+R3 pada saat yang bersamaan sebanyak 3 kali dengan kecepatan yang sama</li>\n<li>Kalau sudah taruh dipermukaan yang rata lalu pencet tombol A</li>\n<li>Kalau lampunya kedap-kedip beri berarti kalibrasi gyro tunggu lampu berhenti kedap-kedip, kalau nyala biru ngak kedap-kedip pencet tombol A lagi</li>\n<li>Nyala ijo pencet A lagi</li>\n<li>Silahkan cek hasil di gamepad tester</li>\n</ol></li>\n<li><p><strong>Lock mode (dipencet tombolnya gamepad ngak nyala sendiri)</strong></p>\n\n<ul>\n<li>Pencet tombol L3+R3+M nanti gamepadnya nyala bentar terus mati</li>\n<li>Kalau mau nyalain lagi dicas bisa pakai dock atau colok langsung</li>\n<li>Input balik ke Xinput, RGB balik ke model awal, setting macro back button hilang jadi harus di setting lagi tapi settingan kalibrasi analog tetep kesimpen</li>\n</ul></li>\n</ul>\n\n<p>Kalau ada yang punya temuan lain silahkan dishare</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -103,12 +112,21 @@
       "thumbnail": null
     },
     {
-      "title": "Ada yang mau mendang/mending daripada ini?",
-      "link": "/img/3m4qwugk6e4g1.jpeg",
-      "guid": "/img/3m4qwugk6e4g1.jpeg",
-      "pubDate": "Sun, 30 Nov 2025 12:57:30 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahog1/ada_yang_mau_mendangmending_daripada_ini/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Sebenarnya pengen cari casan 60W-an. Tapi kepikiran kayaknya lebih murah ambil cok sambung daripada batok GaN, jadi punya pilihan beli ini. Lagipula memang butuhnya cuma letak di meja/gak dibawa kemana-mana. Ada opsi lain?</p>\n\n<p>Harga 260k</p>\n</div><!-- SC_ON -->",
+      "title": "Is it just me or reddit search feature is shit now?",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/",
+      "pubDate": "Sun, 30 Nov 2025 12:41:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pahdk6/is_it_just_me_or_reddit_search_feature_is_shit_now/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi gini, gua lagi nyari post lama di <a href=\"/r/indowibu\">r/indowibu</a> yang tema nya JAV soalnya ada orang yang nyari <a href=\"/r/indowibu/comments/1paeyd5/comment/nrj3bja/?context=1\">film pink</a> (help that poor sod pls). Cuman pas gua ketik kata jav di search bar dan gua klik enter tuh gabisa mulu. Malahan gua dipaksa buat masukin kalimat dibawah:</p>\n\n<p><a href=\"/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0\">/preview/pre/jn10g30n2e4g1.png?width=720&amp;format=png&amp;auto=webp&amp;s=b37c6b331ce6b5d81443d0f399e06b2964bbd7d0</a></p>\n\n<p>Ini ss dari reddit web. Ya tentu saja gaada post dengan kata2 kayak gitu. Ini perasaan gua ato reddit ini fitur search nya kayak &quot;dipaksakan&quot; gitu ya? Lucunya adalah restriction kayak gini tuh gaada di reddit mobile app. Selain itu, ini perasaan gua aja ato bukannya dulu ada bar khusus buat flair yang bisa di teken2 agar orang bisa search post by flair? Kenapa di versi web gaada?</p>\n\n<p>Rasanya seakan2 kayak banyak fitur di web disunat tapi yang di versi hp masih ada. Gua kudu utak atik apa lagi bjir. Gamasuk akal kalo tiap web diupdate gua harus bolak balik mod tools karena mrk otak atik fitur ato mindahin fitur entah kemana.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Ada yang tau cara bersihin tws?",
+      "link": "https://redlib.perennialte.ch//r/indotech/comments/1paxf5e/ada_yang_tau_cara_bersihin_tws/",
+      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1paxf5e/ada_yang_tau_cara_bersihin_tws/",
+      "pubDate": "Sun, 30 Nov 2025 23:52:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1paxf5e/ada_yang_tau_cara_bersihin_tws/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Jadi saya ada tws moondrop robin, nah itu tuh ilang berhari hari. Kebetulah pagi tadi akhirnya mutusin buat nyari di tong sampah dan alhirnya ketemu. Karena tong sampahnya itu kebanyakan isinya makanan sisa, jadj baunya tuh beuhh busuk men + ada bau bau redoxon dikit gatau kenapa(kayaknya karena ada jeruk sih). Kira kira ada yang tau gak ya cara bersihin tws nya? Minimal sampe baunya ilang lah. Tadinya mau dicuci, tapi takut rusak. soalnya di web gk ada keterangan tentang water resistancenya. Tolong sarannya sepuh🙏</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -121,6 +139,15 @@
       "thumbnail": null
     },
     {
+      "title": "Ini powerbank worth it? nyari powerbank under 300k",
+      "link": "/img/gbx7rpo7id4g1.jpeg",
+      "guid": "/img/gbx7rpo7id4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 10:40:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pafbiy/ini_powerbank_worth_it_nyari_powerbank_under_300k/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Nyari powerbank under 300k, penggunaan buat sehari hari ngecas hp kalo lagi diluar. Any powerbank from 10.000mAh - 20.000mAH</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Apakah fitur block WiFi via IP/MAC itu ada atau tidaknya tergantung provider wifi atau tergantung jenis Router?",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1paep2b/apakah_fitur_block_wifi_via_ipmac_itu_ada_atau/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1paep2b/apakah_fitur_block_wifi_via_ipmac_itu_ada_atau/",
@@ -130,12 +157,12 @@
       "thumbnail": null
     },
     {
-      "title": "Ini powerbank worth it? nyari powerbank under 300k",
-      "link": "/img/gbx7rpo7id4g1.jpeg",
-      "guid": "/img/gbx7rpo7id4g1.jpeg",
-      "pubDate": "Sun, 30 Nov 2025 10:40:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pafbiy/ini_powerbank_worth_it_nyari_powerbank_under_300k/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Nyari powerbank under 300k, penggunaan buat sehari hari ngecas hp kalo lagi diluar. Any powerbank from 10.000mAh - 20.000mAH</p>\n</div><!-- SC_ON -->",
+      "title": "Prediksi kalau Laptop yang baru, RAMnya bakal nggak di include dan harus beli standalone seperti HP dengan Charger yang udah nggak jadi satu package.",
+      "link": "/img/9sx7xcd2fh4g1.jpeg",
+      "guid": "/img/9sx7xcd2fh4g1.jpeg",
+      "pubDate": "Sun, 30 Nov 2025 23:50:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1paxdr8/prediksi_kalau_laptop_yang_baru_ramnya_bakal/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1paxdr8/prediksi_kalau_laptop_yang_baru_ramnya_bakal/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -193,24 +220,6 @@
       "thumbnail": null
     },
     {
-      "title": "fitur bodoh terbaru dari youtube \"auto translate comments\" tanpa bisa di un-translate",
-      "link": "/img/cnzez9pmb44g1.png",
-      "guid": "/img/cnzez9pmb44g1.png",
-      "pubDate": "Sat, 29 Nov 2025 03:48:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p9ev25/fitur_bodoh_terbaru_dari_youtube_auto_translate/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1p9ev25/fitur_bodoh_terbaru_dari_youtube_auto_translate/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Kasian bapaknya udah kasih tau ke anaknya kumpulin duit biar harga turun atau pas diskon akhir tahun. Shocked karena harga naik 500%. Fuck AI.",
-      "link": "https://redlib.perennialte.ch//r/OutOfTheLoop/comments/1p8rhjx/what_is_going_on_with_the_price_of_computer/",
-      "guid": "https://redlib.perennialte.ch//r/OutOfTheLoop/comments/1p8rhjx/what_is_going_on_with_the_price_of_computer/",
-      "pubDate": "Sun, 30 Nov 2025 07:56:22 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pacqur/kasian_bapaknya_udah_kasih_tau_ke_anaknya/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pacqur/kasian_bapaknya_udah_kasih_tau_ke_anaknya/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Budget mechanical keebs for office",
       "link": "https://redlib.perennialte.ch//r/indotech/comments/1pa8dl1/budget_mechanical_keebs_for_office/",
       "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pa8dl1/budget_mechanical_keebs_for_office/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pa8dl1/budget_mechanical_keebs_for_office/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys minta tolong rekomendasi budget mechanical keyboard buat kerja di kantor dong.</p>\n\n<p>Gausah rgb, ga perlu wireless gpp. Tapi perlu numpad dan F keys buat excel dkk.</p>\n\n<p>Belum pernah punya mechanical keebs sebelumnya, skrg sih lihat2nya brand2 murah spt fantech, gamen, rexus, aula dll.</p>\n\n<p>Kalau budget 300k an masuk akal ga ya kalau cari yg awet?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Batre Thinkpad A485 good quality",
-      "link": "https://redlib.perennialte.ch//r/indotech/comments/1pabnwp/batre_thinkpad_a485_good_quality/",
-      "guid": "https://redlib.perennialte.ch//r/indotech/comments/1pabnwp/batre_thinkpad_a485_good_quality/",
-      "pubDate": "Sun, 30 Nov 2025 06:47:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/indotech/comments/1pabnwp/batre_thinkpad_a485_good_quality/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>dimana ya nyarinya? di marketplace semuanya rekondisi, gk ad yg beneran baru. kyny emg g ada yak? bole share gan klo pernah nemu. klo bs jgn marketplace luar yak, terima kasih gans.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/indotech.rss",
-  "lastFetched": "2025-11-30T23:32:22.146Z"
+  "lastFetched": "2025-12-01T04:20:10.450Z"
 }

@@ -13,12 +13,12 @@
       "thumbnail": null
     },
     {
-      "title": "Ребят, помогите плз! Как удалить автозаполнение своего емэйла из списка учетных записей Edge?",
-      "link": "/gallery/1pao532",
-      "guid": "/gallery/1pao532",
-      "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
+      "title": "Help",
+      "link": "",
+      "guid": "",
+      "pubDate": "Mon, 1 Dec 2025 01:50:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb013n/help/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I tried to type in something in the address bar, in this case amazon, it redirects me to some website. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Ребят, помогите плз! Как удалить автозаполнение своего емэйла из списка учетных записей Edge?",
+      "link": "/gallery/1pao532",
+      "guid": "/gallery/1pao532",
+      "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Importing history creates shortcuts",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
@@ -40,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "New computer cant browse",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
-      "pubDate": "Sun, 30 Nov 2025 06:35:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got this laptop yesterday and honestly idk what im doing with it but the browser it came with won&#39;t let me do anything it just loads blank pages whenever I try to search</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Forcing Manifest V2 on Edge/Chrome 139+ (Registry + Target Flags)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
       "pubDate": "Sun, 30 Nov 2025 09:58:22 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>If your being affected by the hard V2 disablement in Chrome/Edge 139, the standard ExtensionManifestV2Availability registry key might stop working because they deprecated the policy handler.</p>\n\n<p>I&#39;ve found that you need to pair the registry key with specific target flags to bypass the feature check.</p>\n\n<p>The Fix:\nRegistry: Still set HKCU\\Software\\Policies\\Microsoft\\Edge -&gt; ExtensionManifestV2Availability = 2 (DWORD).</p>\n\n<p>The Bypass: You must launch the browser with these flags to un-expire the support:\n--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>For Edge Target:\n&quot;C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe&quot; --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>I’m running uBlock Origin (MV2) on the latest Stable build without the &#39;Unsupported&#39; banner.</p>\n\n<p>I have a .reg file that pushes the policy to all Chromium paths (Brave, Vivaldi, Edge) simultaneously. DM if you want the raw file to deploy via GPO.&quot;</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "New computer cant browse",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
+      "pubDate": "Sun, 30 Nov 2025 06:35:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got this laptop yesterday and honestly idk what im doing with it but the browser it came with won&#39;t let me do anything it just loads blank pages whenever I try to search</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,15 +85,6 @@
       "thumbnail": null
     },
     {
-      "title": "Copilot button and features missing",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
-      "pubDate": "Sat, 29 Nov 2025 16:46:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>For a few weeks, the copilot button has been missing, and I have tried my best to fix it, but I couldn&#39;t  </p>\n\n<p>Clue that might help:<br/>\n1. The AI innovations section and Ask Copilot (when reading a pdf) are also missing from the Edge settings<br/>\n2. When I installed Edge Beta, the button and AI innovations section were there at first launch, then they were gone after the second launch ( I did not log in to the same Microsoft account )<br/>\n3. Same thing as the second one, but for another pc user account<br/>\n4. Same thing as the second one, but when the edge was updated<br/>\n5. The Copilot website works completely fine, even when logged in<br/>\n6. Copilot Vision works completely fine  </p>\n\n<p>things I have tried:<br/>\n1. resetting edge settings<br/>\n2. logging out and in<br/>\n3. Turning the copilot off and on<br/>\n4. Reinstalling Edge from settings<br/>\n5. Turning everything on related to Copilot in edge://flags<br/>\n6. Forcefully deleting Edge and reinstalling it from the official webpage<br/>\n7. Removing sync data and turning sync completely off<br/>\n8. Switching Microsoft account</p>\n\n<p>Related information:<br/>\nWindows 11 Pro latest update (10.0.26200 Build 26200)<br/>\nMicrosoft Edge is updated (Version 142.0.3595.94 (Official build) (64-bit))  </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Clearing Cookies on Exit - Exceptions List",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/",
@@ -100,6 +100,15 @@
       "pubDate": "Sat, 29 Nov 2025 16:53:10 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m hoping some developers working on Edge read this and fix this bug. I like using Wikipedia and Reddit (and other sites too) on full-screen mode and I don&#39;t really like how attempting to do that causes the browser to crash.</p>\n\n<p>This bug is reproducible. Edge Dev crashes exactly on the third press of the <code>F11</code> key. The interval between the presses seems to be indefinite, i.e., be it half a second or 15 minutes between presses, the browser will still crash on the third press of the <code>F11</code> key. I tried it on two different PCs, and they exhibit the same bug. The action of opening the window in full-screen mode doesn&#39;t seem to cause this because interacting with some on-page component to turn on full-screen — such as a button — doesn&#39;t seem to be the cause. I tried repeatedly turning full-screen on and off on YouTube and also using my JavaScript script several times, and the browser does not crash due to those actions. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Copilot button and features missing",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
+      "pubDate": "Sat, 29 Nov 2025 16:46:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>For a few weeks, the copilot button has been missing, and I have tried my best to fix it, but I couldn&#39;t  </p>\n\n<p>Clue that might help:<br/>\n1. The AI innovations section and Ask Copilot (when reading a pdf) are also missing from the Edge settings<br/>\n2. When I installed Edge Beta, the button and AI innovations section were there at first launch, then they were gone after the second launch ( I did not log in to the same Microsoft account )<br/>\n3. Same thing as the second one, but for another pc user account<br/>\n4. Same thing as the second one, but when the edge was updated<br/>\n5. The Copilot website works completely fine, even when logged in<br/>\n6. Copilot Vision works completely fine  </p>\n\n<p>things I have tried:<br/>\n1. resetting edge settings<br/>\n2. logging out and in<br/>\n3. Turning the copilot off and on<br/>\n4. Reinstalling Edge from settings<br/>\n5. Turning everything on related to Copilot in edge://flags<br/>\n6. Forcefully deleting Edge and reinstalling it from the official webpage<br/>\n7. Removing sync data and turning sync completely off<br/>\n8. Switching Microsoft account</p>\n\n<p>Related information:<br/>\nWindows 11 Pro latest update (10.0.26200 Build 26200)<br/>\nMicrosoft Edge is updated (Version 142.0.3595.94 (Official build) (64-bit))  </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -121,6 +130,15 @@
       "thumbnail": null
     },
     {
+      "title": "There's weird freezing/stutter/lag sometimes with how the browser responds. How do I fix it?",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/",
+      "pubDate": "Sat, 29 Nov 2025 00:13:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like, physically, it isn&#39;t frozen. But visually, it is. My computer is beefy enough, so I don&#39;t know what the issue is. The browser just takes a moment to catch up. Even on my shitty laptop this wasn&#39;t a problem. Is there any fix?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Unable to set Gmail as my default EMAIL handler in Microsoft Edge",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9i1hf/unable_to_set_gmail_as_my_default_email_handler/",
@@ -136,15 +154,6 @@
       "pubDate": "Sat, 29 Nov 2025 01:58:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I hope this is a good community to post this question in. I&#39;m trying to print a Facebook post with all of the comments. I know how to navigate to it and open up all the comments. Every time I try to look up the answer, the answer is do a right click and select print (or control P) and print to PDF. But that doesn&#39;t work because I end up with what is functionally the first page of what should be a 20 page document</p>\n\n<p>Is there a way to change the setting somehow so that I capture all of the post and comments instead of just what&#39;s visible on the screen at that moment? </p>\n\n<p>Thank you in advance! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "There's weird freezing/stutter/lag sometimes with how the browser responds. How do I fix it?",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/",
-      "pubDate": "Sat, 29 Nov 2025 00:13:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Like, physically, it isn&#39;t frozen. But visually, it is. My computer is beefy enough, so I don&#39;t know what the issue is. The browser just takes a moment to catch up. Even on my shitty laptop this wasn&#39;t a problem. Is there any fix?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p89kwz/microsoft_edge_crashing_amd_drivers/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So let me explain</p>\n\n<p>About a month ago, my AMD Drivers started to crash, so after much wasted time i uninstalled Microsoft Edge, and the Crashing of the Driver stopped ,</p>\n\n<p>For about 3 weeks ive had NO ISSUES whatsoever,  2 days i decided let&#39;s try it again i do enjoy Edge i prefer it over other web browsers yes i know i shouldn&#39;t be using it for the keyboard logging activity edge captures  and all the spying, and APIs that&#39;s hidden within the Browser but they all have that </p>\n\n<p>However, how is this even possible its a web browser i don&#39;t even need Edge opened and it does it because of the Edge services running quietly in the background </p>\n\n<p>i don&#39;t have any riser cable</p>\n\n<p>my system specs</p>\n\n<p>Asus x670e Crosshair Hero AMD 9900X , RADON 7900XTX 16GB of kingbank memory, and 3 NVMe drives </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "ME AJUDEM POR FAVOR meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante?tem algo que eu possa fazer? Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparece",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8dnmj/me_ajudem_por_favor_meu_histórico_só_estava/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8dnmj/me_ajudem_por_favor_meu_histórico_só_estava/",
-      "pubDate": "Thu, 27 Nov 2025 21:33:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8dnmj/me_ajudem_por_favor_meu_histórico_só_estava/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante?tem algo que eu possa fazer?</p>\n\n<p>Olá, meu histórico só estava mostrando de 16/11 depois de um tempo começou a aparecer até dia 30/10 não sei o que eu fiz, será que é possível que apareça o restante? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-11-30T23:33:09.244Z"
+  "lastFetched": "2025-12-01T04:20:48.699Z"
 }
