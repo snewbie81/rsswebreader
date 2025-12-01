@@ -49,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
+      "guid": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
+      "pubDate": "Mon, 1 Dec 2025 19:19:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbm02a/shadypanda_browser_extensions_amass_43m_installs/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbm02a/shadypanda_browser_extensions_amass_43m_installs/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Achieving lasting remission for HIV",
       "link": "https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/",
       "guid": "https://arstechnica.com/science/2025/11/achieving-lasting-remission-for-hiv/",
@@ -64,15 +73,6 @@
       "pubDate": "Sun, 30 Nov 2025 12:15:51 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagwqf/the_creator_of_an_ai_therapy_app_shut_it_down/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagwqf/the_creator_of_an_ai_therapy_app_shut_it_down/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
-      "guid": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
-      "pubDate": "Mon, 1 Dec 2025 19:19:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbm02a/shadypanda_browser_extensions_amass_43m_installs/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbm02a/shadypanda_browser_extensions_amass_43m_installs/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-01T19:40:26.103Z"
+  "lastFetched": "2025-12-01T20:35:55.948Z"
 }

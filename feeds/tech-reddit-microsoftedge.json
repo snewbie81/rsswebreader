@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Lag when using swipe gestures to navigate back on macOS",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbnfj6/lag_when_using_swipe_gestures_to_navigate_back_on/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbnfj6/lag_when_using_swipe_gestures_to_navigate_back_on/",
+      "pubDate": "Mon, 1 Dec 2025 20:12:36 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbnfj6/lag_when_using_swipe_gestures_to_navigate_back_on/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>anyone facing same issue? any solution? or just go back to chrome?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Unable to delete a user profile from Edge (Mac)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbbzh4/unable_to_delete_a_user_profile_from_edge_mac/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbbzh4/unable_to_delete_a_user_profile_from_edge_mac/",
@@ -94,21 +103,21 @@
       "thumbnail": null
     },
     {
-      "title": "Ребят, помогите плз! Как удалить автозаполнение своего емэйла из списка учетных записей Edge?",
-      "link": "/gallery/1pao532",
-      "guid": "/gallery/1pao532",
-      "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Importing history creates shortcuts",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
       "pubDate": "Sun, 30 Nov 2025 12:03:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, so recently I decided to migrate to Microsoft Edge due to the amount of updates Chrome has been pushing and also due to how slow it&#39;s been getting (for me) anyways when I decided to transfer over my browsing history I&#39;ve been getting all my favorites and search history as my shortcuts (some of these sites I visited a few times a couple months ago) how do I disable this? Do I just let hundreds of sites just pop up as a shortcut?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Ребят, помогите плз! Как удалить автозаполнение своего емэйла из списка учетных записей Edge?",
+      "link": "/gallery/1pao532",
+      "guid": "/gallery/1pao532",
+      "pubDate": "Sun, 30 Nov 2025 17:34:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9cmyd/control_p_captures_small_portion_of_facebook_post/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I hope this is a good community to post this question in. I&#39;m trying to print a Facebook post with all of the comments. I know how to navigate to it and open up all the comments. Every time I try to look up the answer, the answer is do a right click and select print (or control P) and print to PDF. But that doesn&#39;t work because I end up with what is functionally the first page of what should be a 20 page document</p>\n\n<p>Is there a way to change the setting somehow so that I capture all of the post and comments instead of just what&#39;s visible on the screen at that moment? </p>\n\n<p>Thank you in advance! </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Can not verify i am human.....",
-      "link": "https://redlib.perennialte.ch//r/CloudFlare/comments/1p9fprz/can_not_verify_i_am_human/",
-      "guid": "https://redlib.perennialte.ch//r/CloudFlare/comments/1p9fprz/can_not_verify_i_am_human/",
-      "pubDate": "Sat, 29 Nov 2025 04:32:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9fq38/can_not_verify_i_am_human/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9fq38/can_not_verify_i_am_human/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T19:40:18.274Z"
+  "lastFetched": "2025-12-01T20:35:48.080Z"
 }

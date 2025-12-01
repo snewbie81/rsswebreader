@@ -18,7 +18,7 @@
       "guid": "https://eazypasswords.com",
       "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13-year-old developer and I’ve been working on a zero-knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet — just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T19:40:23.534Z"
+  "lastFetched": "2025-12-01T20:35:53.581Z"
 }
