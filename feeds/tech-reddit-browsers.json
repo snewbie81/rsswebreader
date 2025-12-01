@@ -22,6 +22,24 @@
       "thumbnail": null
     },
     {
+      "title": "My first tattoo, what do you guys think?",
+      "link": "/img/oh9oq0bhck4g1.jpeg",
+      "guid": "/img/oh9oq0bhck4g1.jpeg",
+      "pubDate": "Mon, 1 Dec 2025 09:42:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb8ncw/my_first_tattoo_what_do_you_guys_think/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb8ncw/my_first_tattoo_what_do_you_guys_think/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for a browser with solid proxy features and smooth multi profile support",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb8pop/looking_for_a_browser_with_solid_proxy_features/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb8pop/looking_for_a_browser_with_solid_proxy_features/",
+      "pubDate": "Mon, 1 Dec 2025 09:46:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb8pop/looking_for_a_browser_with_solid_proxy_features/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone found a browser that handles proxy use in a clean and stable way without needing a bunch of extensions or extra tools? </p>\n\n<p>I am trying to set up something that can switch between different proxy locations quickly, ideally with a built in option instead of relying on external apps.</p>\n\n<p>I also need good isolation for multiple profiles so I can keep work and personal sessions completely separate without breaking logins. </p>\n\n<p>If anyone here is using a browser that does proxy routing smoothly with strong privacy controls and reliable profile separation, how is your experience and what tradeoffs should I expect?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Where to check browser fingerprinting",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/",
@@ -40,12 +58,30 @@
       "thumbnail": null
     },
     {
+      "title": "User-Agent of the Samsung Internet Beta for Windows ?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/",
+      "pubDate": "Mon, 1 Dec 2025 09:22:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m the author of a library that tries to analyse the UserAgent (and related) headers of browsers. See <a href=\"https://github.com/nielsbasjes/yauaa\">https://github.com/nielsbasjes/yauaa</a> and <a href=\"https://yauaa.basjes.nl/\">https://yauaa.basjes.nl/</a>  </p>\n\n<p>I found that Samsung has recently ported their browser to Windows (<a href=\"https://browser.samsung.com/beta\">https://browser.samsung.com/beta</a>) but it can only be downloaded if you are in South Korea or in the US... and because I&#39;m in the Netherlands I cannot download and install it myself.</p>\n\n<p>Kind request to anyone who has downloaded this browser.  </p>\n\n<p>- Please visit my test site (which logs all request headers for analysis) <a href=\"https://try.yauaa.basjes.nl/\">https://try.yauaa.basjes.nl/</a> </p>\n\n<p>- Make sure you reload the page atleast once because not all request headers are sent on the first request (only the low entropy client hints are sent on the first request).</p>\n\n<p>- Ping me when you did that so I can pull the correct log entries from my server.</p>\n\n<p>Thanks!</p>\n\n<p>Niels Basjes</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Created a YouTube Content Filter to BLOCK ANYTHING based on WORDS",
       "link": "/gallery/1paelu7",
       "guid": "/gallery/1paelu7",
       "pubDate": "Sun, 30 Nov 2025 09:56:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paelu7/created_a_youtube_content_filter_to_block/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It all started with this thread on Google&#39;s support forum: When a parent said that he is helpless and his kid is just kept crying and screaming because of the content on YouTubeKids, and he asked me if I can create a tool to block videos by keyword or tag. And when Later YouTube Forum maintainer deleted mine and other parents comments and locked the thread, I decided to create FilterTube.</p>\n\n<p><a href=\"https://support.google.com/youtubekids/thread/54509605/how-to-block-videos-by-keyword-or-tag?hl=en\">https://support.google.com/youtubekids/thread/54509605/how-to-block-videos-by-keyword-or-tag?hl=en</a></p>\n\n<p>My first version video showing its working - <a href=\"https://www.youtube.com/watch?v=c2EtLkTwqRw&amp;t=1s\">https://www.youtube.com/watch?v=c2EtLkTwqRw&amp;t=1s</a></p>\n\n<p>Right now you can install and try FilterTube on Chrome, Brave, Edge browser -</p>\n\n<p><a href=\"https://chromewebstore.google.com/detail/filtertube/cjmdggnnpmpchholgnkfokibidbbnfgc\">https://chromewebstore.google.com/detail/filtertube/cjmdggnnpmpchholgnkfokibidbbnfgc</a></p>\n\n<p>and on Firefox and Opera from the GitHub release page (still in review)-</p>\n\n<p><a href=\"https://github.com/varshneydevansh/FilterTube/releases/tag/3.0.5\">https://github.com/varshneydevansh/FilterTube/releases/tag/3.0.5</a></p>\n\n<p>I have plans to integrate local ML based solution to filter based on semantic and similar relation content so that user can be assured to never see a related concept content ever again.</p>\n\n<p>Main website - <a href=\"http://filtertube.in\">filtertube.in</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Nem com reza brava consigo remover o novo Painel Lateral do CCleaner Browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb85bc/nem_com_reza_brava_consigo_remover_o_novo_painel/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb85bc/nem_com_reza_brava_consigo_remover_o_novo_painel/",
+      "pubDate": "Mon, 1 Dec 2025 09:09:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb85bc/nem_com_reza_brava_consigo_remover_o_novo_painel/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Já tentei TUDO!</p>\n\n<p>A versão oficial é Versão 142.0.33025.177 64 bits</p>\n\n<p>Alguma ideia?</p>\n\n<p>@&gt;--&gt;---</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa8rw9/how_to_change_this_hand_cursor_in_firefox/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>i use the site <a href=\"http://chess.com\">chess.com</a> to play chess and the hand cursor is low quality i was wondering if anyone knows how to change it.</p>\n\n<p><a href=\"/preview/pre/naqna288kb4g1.png?width=172&amp;format=png&amp;auto=webp&amp;s=7a81a0ddd8bfbff3e2f58ecb8a4fd2781591840a\">/preview/pre/naqna288kb4g1.png?width=172&amp;format=png&amp;auto=webp&amp;s=7a81a0ddd8bfbff3e2f58ecb8a4fd2781591840a</a></p>\n\n<p>the hand cursor specifically is defined by the browser and not windows, that is why chromium based browsers have a different hand.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "X CountryBadge: See their real country and App Store region",
-      "link": "",
-      "guid": "",
-      "pubDate": "Sat, 29 Nov 2025 03:01:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1p9dxlq/x_countrybadge_see_their_real_country_and_app/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I built <a href=\"https://buildmelon.com/x-countrybadge/\">X CountryBadge</a> to help users verify account locations. </p>\n\n<p>When you click the new pin icon next to any username, the extension fetches that specific account&#39;s location information and displays it right there on your timeline.</p>\n\n<p><strong>Features:</strong></p>\n\n<ul>\n<li>Instantly reveals the country of origin for any account</li>\n<li>Toggle between Flag or Text display modes</li>\n<li>Hover over the badge to see the connected App Store region </li>\n<li>Unlimited fetches, free to use</li>\n<li>Runs entirely locally on your browser for privacy</li>\n</ul>\n\n<p>It is available now on the <a href=\"https://chromewebstore.google.com/detail/fldiebelpcgjgdlmkmbohiljpkdeillj?utm_source=item-share-cb\">Chrome Web Store</a> and <a href=\"https://addons.mozilla.org/en-US/firefox/addon/x-countrybadge/\">Firefox Add-ons</a>.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "windows command prompt and windows command processer in brave??",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pa5sob/windows_command_prompt_and_windows_command/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pa5sob/windows_command_prompt_and_windows_command/",
-      "pubDate": "Sun, 30 Nov 2025 01:37:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa5sob/windows_command_prompt_and_windows_command/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>i do not have a image because i ended task on them &lt;/3</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Any browser that could provide my needs?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pa5gs1/any_browser_that_could_provide_my_needs/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pa5gs1/any_browser_that_could_provide_my_needs/",
-      "pubDate": "Sun, 30 Nov 2025 01:21:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa5gs1/any_browser_that_could_provide_my_needs/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, I was wondering if people can give any browser suggestions based on my usage. I&#39;m currently using Opera GX as my main browser, I like it&#39;s customizations and built-in adblocker (though I had to use an extension for YT) and it&#39;s pop-out video feature. But, the reason for the change is the negative perception on it, with it being another YT sponsorship slop.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "QuickSee – Peek at your webcam",
-      "link": "/img/obklhrhhab4g1.jpeg",
-      "guid": "/img/obklhrhhab4g1.jpeg",
-      "pubDate": "Sun, 30 Nov 2025 03:14:16 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pa7qhh/quicksee_peek_at_your_webcam/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I realized I was opening heavy apps like Zoom or Photo Booth just to do a quick 5-second face check before meetings. It felt like overkill.</p>\n\n<p>So, I built <strong>QuickSee</strong>. It turns your browser toolbar into a digital pocket mirror.</p>\n\n<p><strong>What it does:</strong></p>\n\n<ul>\n<li><strong>Instant Preview:</strong> One click to open a mirror-style feed. No loading screens.</li>\n<li><strong>Digital Zoom (1x–6x):</strong> Check the details (like spinach in your teeth) easily.</li>\n<li><strong>Quick Capture:</strong> Snap crisp 4:3 photos instantly to your Downloads.</li>\n<li><strong>Daily Motivation:</strong> Shows a subtle, positive message to boost your mood.</li>\n<li><strong>Privacy First:</strong> It runs 100% locally. Your video feed never leaves your computer.</li>\n</ul>\n\n<p>It remembers your camera settings automatically, so it&#39;s always ready when you are.</p>\n\n<p>Available now on <a href=\"https://chromewebstore.google.com/detail/dhpfidchcjjoicmmikaneognhiohnphe?utm_source=item-share-cb\">Chrome Web Store</a> and <a href=\"https://microsoftedge.microsoft.com/addons/detail/quicksee-%E2%80%93-peek-at-your-w/llcimbjfejibicdlghgongnodbgpdpcd\">Edge Add-ons</a>.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-01T08:59:31.861Z"
+  "lastFetched": "2025-12-01T09:53:14.944Z"
 }
