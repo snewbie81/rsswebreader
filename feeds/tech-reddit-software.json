@@ -40,15 +40,6 @@
       "thumbnail": null
     },
     {
-      "title": "Is iOS really more user friendly than Android?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
-      "pubDate": "Mon, 1 Dec 2025 03:04:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to get a clear answer on whether iPhones are actually more user-friendly than Androids these days. I keep hearing that iOS is the simple &quot;it just works&quot; option, but looking at how much both systems have changed, I wonder if that stereotype is outdated. For those of you who have hands-on experience with recent versions of both, is iOS actually more intuitive for the average person, or has Android finally caught up in terms of ease of use?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Free Software Subs for Feedback",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pb5raf/free_software_subs_for_feedback/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pb5raf/free_software_subs_for_feedback/",
@@ -82,6 +73,15 @@
       "pubDate": "Mon, 1 Dec 2025 03:36:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb2abk/changing_the_fps_of_a_video_without/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello. I&#39;m looking for a way to change the FPS of a video (with its audio) <strong>without</strong> adding/removing frames (changing its lenght in the process).</p>\n\n<p>For example: I have a video that has 100 frames in total with 23 FPS, so the duration of it is (approximately) 4.34&quot;. I want to change its FPS to 24 <strong>without</strong> adding/removing frames, so I&#39;d still have the same 100 frames but with 24 FPS, makng its duration change to (approximately) 4.16&quot;.</p>\n\n<p>I have to specifically do this by changing the FPS, and not time nor a multiplier. And I need the audio of the video to change as the video changes.</p>\n\n<p>Do you know about any free Windows program that allows me to do this?</p>\n\n<p>(PD: in case anyone is curious <em>why</em> I need this: I have a movie downloaded with 23.9876024 FPS and need to change it to 24 FPS so the subtitles won&#39;t be unaligned)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is iOS really more user friendly than Android?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/",
+      "pubDate": "Mon, 1 Dec 2025 03:04:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb1lp8/is_ios_really_more_user_friendly_than_android/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to get a clear answer on whether iPhones are actually more user-friendly than Androids these days. I keep hearing that iOS is the simple &quot;it just works&quot; option, but looking at how much both systems have changed, I wonder if that stereotype is outdated. For those of you who have hands-on experience with recent versions of both, is iOS actually more intuitive for the average person, or has Android finally caught up in terms of ease of use?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T09:53:18.294Z"
+  "lastFetched": "2025-12-01T10:52:14.183Z"
 }

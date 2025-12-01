@@ -130,21 +130,21 @@
       "thumbnail": null
     },
     {
-      "title": "Hong Kong",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
-      "pubDate": "Sat, 29 Nov 2025 16:28:29 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I start up m computer Microsoft edge opens a tab about traveling to Hong Kong or about Hong Kong SAR. I never looked these up. I don&#39;t even use Microsoft edge. Does it just do this or do I have a virus???</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "There's weird freezing/stutter/lag sometimes with how the browser responds. How do I fix it?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/",
       "pubDate": "Sat, 29 Nov 2025 00:13:19 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9afj0/theres_weird_freezingstutterlag_sometimes_with/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Like, physically, it isn&#39;t frozen. But visually, it is. My computer is beefy enough, so I don&#39;t know what the issue is. The browser just takes a moment to catch up. Even on my shitty laptop this wasn&#39;t a problem. Is there any fix?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Hong Kong",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/",
+      "pubDate": "Sat, 29 Nov 2025 16:28:29 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9t37s/hong_kong/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I start up m computer Microsoft edge opens a tab about traveling to Hong Kong or about Hong Kong SAR. I never looked these up. I don&#39;t even use Microsoft edge. Does it just do this or do I have a virus???</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T09:53:12.548Z"
+  "lastFetched": "2025-12-01T10:52:09.102Z"
 }

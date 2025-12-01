@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "thinking about UX in FOSS",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1payxl4/thinking_about_ux_in_foss/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1payxl4/thinking_about_ux_in_foss/",
-      "pubDate": "Mon, 1 Dec 2025 00:58:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1payxl4/thinking_about_ux_in_foss/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>recently I&#39;ve been thinking a lot about UX in FOSS as I&#39;m back at uni studying IT.\nI came back because I want to learn and make my own things, in a world where everything proprietary is enshitified more and more everyday. \nI want to contribute to FOSS cause I think it&#39;s the right way to use technologies, and I believe every FOSS person wants to see it spreading more and more.\nBut then I got to the UX problem. Almost every software I used tl this day had at least one &quot;UX flaw&quot; that certainly drives people away from it. Shouldn&#39;t we put a little more focus on this kind of thing? \nA recent example that happened to me: I listen to podcasts A LOT, and I&#39;ve been using a proprietary app on mobile but I want to go 100% FOSS, so I found alternatives. The one that&#39;s best rated is really good, nice looking, well build, but it doesn&#39;s stream entire shows without manually adding to queue. This is a small thing that is &quot;bothering&quot; me, and I&#39;m quite resilient about tech, but imagine how non tech savvy people would deal with this kind of thing.\nI know there&#39;s a huge problem with investment to mantain foss but is there a solution to this? How to make it more acessible to UX people to contribute? People who are outside the tech field?\nI would like to hear opinions about this cause I&#39;m really curious!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Unipac - Universal package manager for Linux - looking for feedback and ideas",
       "link": "https://redlib.perennialte.ch//r/opensource/comments/1pb75cu/unipac_universal_package_manager_for_linux/",
       "guid": "https://redlib.perennialte.ch//r/opensource/comments/1pb75cu/unipac_universal_package_manager_for_linux/",
       "pubDate": "Mon, 1 Dec 2025 08:05:10 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pb75lz/unipac_universal_package_manager_for_linux/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pb75lz/unipac_universal_package_manager_for_linux/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "thinking about UX in FOSS",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1payxl4/thinking_about_ux_in_foss/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1payxl4/thinking_about_ux_in_foss/",
+      "pubDate": "Mon, 1 Dec 2025 00:58:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1payxl4/thinking_about_ux_in_foss/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>recently I&#39;ve been thinking a lot about UX in FOSS as I&#39;m back at uni studying IT.\nI came back because I want to learn and make my own things, in a world where everything proprietary is enshitified more and more everyday. \nI want to contribute to FOSS cause I think it&#39;s the right way to use technologies, and I believe every FOSS person wants to see it spreading more and more.\nBut then I got to the UX problem. Almost every software I used tl this day had at least one &quot;UX flaw&quot; that certainly drives people away from it. Shouldn&#39;t we put a little more focus on this kind of thing? \nA recent example that happened to me: I listen to podcasts A LOT, and I&#39;ve been using a proprietary app on mobile but I want to go 100% FOSS, so I found alternatives. The one that&#39;s best rated is really good, nice looking, well build, but it doesn&#39;s stream entire shows without manually adding to queue. This is a small thing that is &quot;bothering&quot; me, and I&#39;m quite resilient about tech, but imagine how non tech savvy people would deal with this kind of thing.\nI know there&#39;s a huge problem with investment to mantain foss but is there a solution to this? How to make it more acessible to UX people to contribute? People who are outside the tech field?\nI would like to hear opinions about this cause I&#39;m really curious!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-01T09:52:57.834Z"
+  "lastFetched": "2025-12-01T10:51:54.790Z"
 }
