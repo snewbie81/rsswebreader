@@ -4,6 +4,33 @@
   "link": "",
   "items": [
     {
+      "title": "Unable to delete a user profile from Edge (Mac)",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbbzh4/unable_to_delete_a_user_profile_from_edge_mac/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbbzh4/unable_to_delete_a_user_profile_from_edge_mac/",
+      "pubDate": "Mon, 1 Dec 2025 12:52:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbbzh4/unable_to_delete_a_user_profile_from_edge_mac/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/s822rv4w9l4g1.png?width=2272&amp;format=png&amp;auto=webp&amp;s=38eb8ce1d4fa6b7e2f41ed267164641d7f3644a3\">/preview/pre/s822rv4w9l4g1.png?width=2272&amp;format=png&amp;auto=webp&amp;s=38eb8ce1d4fa6b7e2f41ed267164641d7f3644a3</a></p>\n\n<p>Edge seem to be absolutely obsessed with my user account. I tried everything to delete this but after every re-installation of Edge, it shows up again like a scary stalker. </p>\n\n<p>I have deleted every single Edge/Office/Outlook/Microsoft entry from KeyChain and Passwords.</p>\n\n<p>I have deleted all folders related to Edge in Application Support directory.</p>\n\n<p>I have deleted Edge via AppCleaner (deletes all related files) multiple times.</p>\n\n<p>I have rebooted my Mac every time.</p>\n\n<p>Still, every time I am opening Edge for the first time, it is showing me this profile so #$@!#@$ eagerly. NO! I do not want this account to be mentioned anywhere!</p>\n\n<p>How can I get rid of this? Please help! Thanks.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Can't remove \"Display on another screen\" icon from Edge toolbar",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbcxrm/cant_remove_display_on_another_screen_icon_from/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbcxrm/cant_remove_display_on_another_screen_icon_from/",
+      "pubDate": "Mon, 1 Dec 2025 13:35:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbcxrm/cant_remove_display_on_another_screen_icon_from/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, Reddit!</p>\n\n<p>I can&#39;t seem to find a way to remove &quot;Display on another screen&quot; icon on toolbar. When I click on it, browser sends me to &quot;<a href=\"http://www.permanently-removed.invalid/\">www.permanently-removed.invalid/</a> DNS_PROBE_FINISHED_NXDOMAIN&quot;. I have tried following:</p>\n\n<p>- Resetting the Edge settings;</p>\n\n<p>- Manually deleting and installing the browser;</p>\n\n<p>- Repairing it through Settings.</p>\n\n<p>Is there anything else left to try to solve this? I am running W11, Edge Version 142.0.3595.94 (Official build) (64-bit).</p>\n\n<p><a href=\"/preview/pre/ct9agw77il4g1.png?width=329&amp;format=png&amp;auto=webp&amp;s=e508666e9719410a5fd26166c30fe50370b29de1\">/preview/pre/ct9agw77il4g1.png?width=329&amp;format=png&amp;auto=webp&amp;s=e508666e9719410a5fd26166c30fe50370b29de1</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Using (Ask Copilot) in Copilot mode new tab is directing to another Copilot tab",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbb39x/using_ask_copilot_in_copilot_mode_new_tab_is/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbb39x/using_ask_copilot_in_copilot_mode_new_tab_is/",
+      "pubDate": "Mon, 1 Dec 2025 12:07:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbb39x/using_ask_copilot_in_copilot_mode_new_tab_is/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>If I type in it, it just directs me to another copilot instead of giving me the search result of data i put in.</p>\n\n<p>Like that <a href=\"https://www.youtube.com/watch?v=9pLNQ4Aj9hw&amp;feature=youtu.be\">https://www.youtube.com/watch?v=9pLNQ4Aj9hw&amp;feature=youtu.be</a></p>\n\n<p>Any help?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "How do I stop edge from loading/reloading every tab when opening the browser.",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/",
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8xf1e/edge_keeps_freezing_every_few_seconds_then_jumps/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am reposting because its been almost A YEAR AND A HALF since my first post and STILL waiting for a fix. And on one post someone said they fixed it in a newer version but im on latest and it still occurs.</p>\n\n<p>Only happens during certain times of day, half the time I can use Edge for hours without this. Does not affect if the laptop (HP Victus 15) is on charge or not. I am on latest nvidia drivers but unsure if this is the cause. I havent been able to check task manager as I only have 1 screen and edge must be kept still for me to use the task manager without it dissapearing, but I think I did catch it once and there was no spike in usage.</p>\n\n<p>Even YouTube videos (audio is fine and 0 dropped frames reported) and even OTHER applications hovering (but not full screen) over Edge have the freezing too (e.g. if i hover over the calculator buttons, after the freeze those buttons all light up at the same time like it tries to catch up to where my cursor currently is)</p>\n\n<p>Title explanation: especially when scrolling, edge will lag for 1 second then &quot;jumps&quot; to where i would of scrolled to, youtube videos also pause then skip, and also effects hovering over buttons too (including other apps as long as edge is behind them), Basically unusable</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Freeze when watching YouTube on Edge",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/",
-      "pubDate": "Fri, 28 Nov 2025 10:25:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8rk7f/freeze_when_watching_youtube_on_edge/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an AMD laptop, and lately my laptop sometimes freeze, not BSOD, the screen freeze, I cannot do anything except hold the power button to shutdown and turn it back on. The only common detail is that it&#39;s always happen when I watch YouTube on Edge?. This has happen before, and then don&#39;t happen for awhile, after 25H2 update (and some drivers auto update, some Edge updates too, honestly I have no idea what is the cause), it happen again, really frustrated. My laptop is Ideapad 5 Pro ryzen 7 6800HS, no dgpu, not open too much thing, just the browser.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Should this be fixed?",
-      "link": "/img/bz89pmsox04g1.jpeg",
-      "guid": "/img/bz89pmsox04g1.jpeg",
-      "pubDate": "Fri, 28 Nov 2025 16:32:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8z93z/should_this_be_fixed/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m experiencing an issue when trying to open a new tab in Microsoft Edge. Error codes appear and the tab doesn’t load properly. Could you please let me know how I might resolve this problem, and if there is an expected timeline for a fix? Thank you for your help.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "HELP - half the screen is BLANK when typing",
-      "link": "/img/4irskdffvu3g1.jpeg",
-      "guid": "/img/4irskdffvu3g1.jpeg",
-      "pubDate": "Thu, 27 Nov 2025 20:01:11 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8blz0/help_half_the_screen_is_blank_when_typing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>This is annoying as fuck. Anybody else experiencing the same issue on IOS recently? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T11:33:11.286Z"
+  "lastFetched": "2025-12-01T13:50:54.144Z"
 }

@@ -13,12 +13,66 @@
       "thumbnail": null
     },
     {
+      "title": "Which RDP for Windows laptop to Windows Server connection for Client Project?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/",
+      "pubDate": "Mon, 1 Dec 2025 11:40:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey i have a client in the tax consultancy space and will need to work on their windows server-hosted programms remotely from my laptop. </p>\n\n<p>I will mainly be accessing a CRM to build automations on it using UiPath or pywinauto scripts.</p>\n\n<p>Now I am wondering which software is the best that allows working on this programm AND is also safe for GDPR concerns. Should i just use Windows&#39; Remote Desktop or self host with RustDesk and Twingate (like NetworkChuck) or i heard using Tailscale or Parsec etc. </p>\n\n<p>I am rather a beginner in networking so it should also allow the easiest entry while maintaining safety.</p>\n\n<p>Can you help me somehow? I would appreciate it a lot!</p>\n\n<p>Thanks and all the best</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "A Complete Vim-Inspired File Manager Where Files’ Thumbnails, File Copying, and Recursive Files’ Size Display Work Out of the Box? (For Linux)",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/",
       "pubDate": "Mon, 1 Dec 2025 04:35:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for something like Dolphin or ranger, but with alll those features combined. I&#39;ve tried Vifm, Ranger, Midnight Commander, etc. They all share the same problem for me - those features whether aren&#39;t supported at all, require some ass-configuration, and might still work clunky. Don&#39;t we have something that still does all those things, but out of the box or with minimum setup? I guess it can&#39;t work within terminal, so GUI options are also ok if Vim-like workflow integrated well. Anyway, what do you personally use?</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for something like Dolphin or ranger, but with alll those features combined. I&#39;ve tried Vifm, Ranger, Midnight Commander, etc. They all share the same problem for me - those features whether aren&#39;t supported at all, require some ass-configuration, and might still work clunky. Don&#39;t we have something that still does all those things, but out of the box or with minimum setup? I guess it can&#39;t work within terminal (or within some specific terminal that supports images and that stuff), so GUI options are also ok if Vim-like workflow integrated well. Anyway, what do you personally use?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a full QR Code platform (dynamic redirects, analytics, smartlinks) and learned a lot — here’s the architecture",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/",
+      "pubDate": "Mon, 1 Dec 2025 12:40:15 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>Over the past months I’ve been building a project called Code2Scan — basically a complete QR Code platform with dynamic redirects, URL safety checks, link analytics, smartlinks, and multi-language support.</p>\n\n<p>I didn’t originally plan to build something this big, but one thing led to another:</p>\n\n<p>• It started as a simple QR Code generator</p>\n\n<p>• Then I added dynamic links with redirect tracking</p>\n\n<p>• Then a full analytics dashboard (OS, country, city, time of day)</p>\n\n<p>• Then “link in bio” pages with customizable blocks</p>\n\n<p>• Then custom domains support</p>\n\n<p>• Then a URL Checker with HTTPS enforcement and blacklist</p>\n\n<p>• And now it also supports PDFs, audio files, vCards, and more</p>\n\n<p>Some technical challenges that came up:</p>\n\n<p>— **QR Code generation**</p>\n\n<p>I unified static and dynamic QR generation into a single async function that handles logos, colors, error correction, vCards, Wi-Fi codes, Pix, etc.</p>\n\n<p>— **Analytics tracking**</p>\n\n<p>I store clicks with metadata such as device, OS version, country, city, timestamp, referrer and smartlink ID.  </p>\n\n<p>The tricky part was grouping OS versions (Android 10…16, iOS 18.5…) without blowing up charts.</p>\n\n<p>— **URL safety**</p>\n\n<p>Before generating a QR Code, the system verifies:</p>\n\n<p>• HTTPS only  </p>\n\n<p>• No blacklisted domains  </p>\n\n<p>• Redirect chain is safe  </p>\n\n<p>• No malicious patterns  </p>\n\n<p>— **SmartLinks**</p>\n\n<p>The “link-in-bio” pages allow blocks with:</p>\n\n<p>• Links  </p>\n\n<p>• Images  </p>\n\n<p>• Titles/subtitles  </p>\n\n<p>• Background customization  </p>\n\n<p>• Shadows, borders and themes  </p>\n\n<p>• SEO title/description + custom OG images  </p>\n\n<p>— **Custom domains**</p>\n\n<p>Users can attach their own domain or subdomain for dynamic links.  </p>\n\n<p>The DNS + routing logic took more work than expected.</p>\n\n<p>— **Internationalization**</p>\n\n<p>The platform has complete translations (EN, PT, ES, FR, DE, IT), including SEO metadata, UI, FAQs, and feature explanations.</p>\n\n<p>If anyone here is building something similar (QR, shortlinks, analytics, SaaS tools, etc.), I&#39;m happy to share implementation details or discuss architecture decisions.</p>\n\n<p>Here&#39;s the project if you&#39;d like to explore it:</p>\n\n<p><a href=\"https://www.code2scan.com\">https://www.code2scan.com</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Guidance in finding a suitable laptop (software engineering ..)",
+      "link": "https://redlib.perennialte.ch//r/laptops/comments/1pbb8uy/guidance_in_finding_a_suitable_laptop_software/",
+      "guid": "https://redlib.perennialte.ch//r/laptops/comments/1pbb8uy/guidance_in_finding_a_suitable_laptop_software/",
+      "pubDate": "Mon, 1 Dec 2025 12:16:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb9jj/guidance_in_finding_a_suitable_laptop_software/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb9jj/guidance_in_finding_a_suitable_laptop_software/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Master's Thesis",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbb977/masters_thesis/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbb977/masters_thesis/",
+      "pubDate": "Mon, 1 Dec 2025 12:16:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb977/masters_thesis/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi. Me and my co-student are about to write our master&#39;s thesis and are wondering if anyone have the time to give us some input. </p>\n\n<p>We are currently concidering writing our thesis about how Generative AI is changing the way software engineers are working, but we lack an &quot;original&quot; angle. Research in this field is generally difficult because it&#39;s changing so rappidly, and the technology is evolving faster than journals can peer-review their articles. Neither of us have any real-world experience in the field and are wondering if anyone working with software have an interesting angle or idea we could do research uppon. Our current RQ is &quot;How does Generative AI affect Software Developers?&quot;, something we think is way too vague. We&#39;ve concidered changing it to just the challenges or pitfalls of adapting GenAI to an organization, but we would appreciate some feedback or some new ideas from the experts. </p>\n\n<p>Thanks in advance! </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What's a worthwhile SEO / Search software for a Wordpress travel blog?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/",
+      "pubDate": "Mon, 1 Dec 2025 11:47:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking to optimize my blog for google &amp; AI search. Which tool is actually worth investing in? Thanks!  </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Does anyone have any experience with GearUp and the affiliate scheme? I got approached by email and it seems that they payout a fair amount of sign-ons. I have a small YT channel and I see many R6 creators mentioning them.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbajz8/does_anyone_have_any_experience_with_gearup_and/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbajz8/does_anyone_have_any_experience_with_gearup_and/",
+      "pubDate": "Mon, 1 Dec 2025 11:37:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbajz8/does_anyone_have_any_experience_with_gearup_and/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Conmapny= <a href=\"https://www.gearupbooster.com/\">https://www.gearupbooster.com/</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -121,6 +175,15 @@
       "thumbnail": null
     },
     {
+      "title": "Google Drive Desktop keeps signing out multiple accounts. any stable free alternative?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pambfb/google_drive_desktop_keeps_signing_out_multiple/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pambfb/google_drive_desktop_keeps_signing_out_multiple/",
+      "pubDate": "Sun, 30 Nov 2025 16:23:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pambfb/google_drive_desktop_keeps_signing_out_multiple/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I use Google Drive for Desktop on Windows with 3–4 Google accounts added to sync laptop with cloud. After a few days the app randomly signs out of all accounts except one. It keeps happening even after reinstalling the app+windows.</p>\n\n<p>I don’t have logout issues with Chrome or any other apps . Even my Proton Drive app works fine . The problem only happens with the Google Drive Desktop app. Is this a known bug?</p>\n\n<p>Is there any <strong>free, stable alternative</strong> that can sync multiple Google Drive accounts without randomly logging out? Looking for something reliable that I can use long-term.</p>\n\n<p>Is <strong>rclone</strong> the solution?<br/>\nTIA</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Gamifying QA and Testing",
       "link": "https://redlib.perennialte.ch//r/AiBuilders/comments/1p8vlxg/gamifying_qa_and_testing/",
       "guid": "https://redlib.perennialte.ch//r/AiBuilders/comments/1p8vlxg/gamifying_qa_and_testing/",
@@ -164,72 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa95ls/video_and_photo_editor/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I&#39;m planning to create a dark video channel (if you know of any communities, channels, etc. that can help me grow or learn more, I&#39;d appreciate it) and I&#39;d like to hear from those of you who have more knowledge and experience with free (pirated) video (and photo) editing apps, because I&#39;m creating the channel precisely to try to make some money. Thank you in advance.</p>\n\n<p>I apologize in advance if the community does not accept this or if it is about this.<br/>\nI apologize for my very poor English as well. I used a translator lol</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "We're losing it!! How are you all ensuring agile alignment when every team seems to follow a different process?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/",
-      "pubDate": "Sun, 30 Nov 2025 06:24:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1paba5g/were_losing_it_how_are_you_all_ensuring_agile/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>One squad is full-on Scrum and another is doing Kanban-but-not-really. Recently we tried to sync but the terminology, priorities and timelines don’t match. It feels like we’re stitching together 5 mini-companies instead of one product org. How do you bring everyone back into one rhythm without forcing a rigid template?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Built a Simple yt-dlp GUI Downloader for Videos/Audio – Windows/Linux (Mac Soon). Feedback Welcome!",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/",
-      "pubDate": "Sat, 29 Nov 2025 16:01:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9sg7x/built_a_simple_ytdlp_gui_downloader_for/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Folks, I&#39;d appreciate your help testing my video/audio downloader app built around <strong>yt-dlp</strong>.</p>\n\n<p>For Windows and Linux users right now (portable zips or installers), Mac support dropping soon.</p>\n\n<p><strong>Quick Highlights:</strong></p>\n\n<p><strong>Batch downloads</strong> with pause/resume and speed limits (no hogging your bandwidth).</p>\n\n<p><strong>Format picks:</strong> Videos in MKV/MP4, audio in M4A/MP3.</p>\n\n<p><strong>Smart extras:</strong> Custom folders, browser cookie imports, and auto-yt-dlp updates.</p>\n\n<p><strong>Privacy-first:</strong> Open-source, no tracking, just you and your media.</p>\n\n<p>Please let me know if you see any issues. Thanks. </p>\n\n<p>🌐 Website: <a href=\"https://mediatools.tech/video/downloader.html\">https://mediatools.tech/video/downloader.html</a></p>\n\n<p>📦 GitHub: <a href=\"https://github.com/MediaTools-tech/mediatools/releases\">https://github.com/MediaTools-tech/mediatools/releases</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I'm hesitating... help me whether creating repos throughout my whole file hierarchy will screw me.",
-      "link": "https://redlib.perennialte.ch//r/github/comments/1pa1hb5/help_repos_for_everything_notes_settings_appdata/",
-      "guid": "https://redlib.perennialte.ch//r/github/comments/1pa1hb5/help_repos_for_everything_notes_settings_appdata/",
-      "pubDate": "Sat, 29 Nov 2025 22:27:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa1okq/im_hesitating_help_me_whether_creating_repos/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa1okq/im_hesitating_help_me_whether_creating_repos/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Made my first Windows POS system as an indie dev — looking for beta testers",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/",
-      "pubDate": "Sat, 29 Nov 2025 19:39:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xrjq/made_my_first_windows_pos_system_as_an_indie_dev/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>I’ve been working on a lightweight Windows POS &amp; Inventory management app for small shops (pet shops, kiosks, mini-markets, small retail, etc).\nIt’s called Shoplite POS and it runs fully offline with a clean and simple UI.</p>\n\n<p>What it does</p>\n\n<p>Barcode-based product management</p>\n\n<p>Stock in/out</p>\n\n<p>Supplier list &amp; purchase orders</p>\n\n<p>Automatic transaction logging</p>\n\n<p>Sales &amp; inventory analytics</p>\n\n<p>CSV export for products and orders</p>\n\n<p>Offline license system</p>\n\n<p>Simple interface designed for non-technical users</p>\n\n<p>Trial</p>\n\n<p>The app includes a 5-day fully functional trial, and after that it requires a license key (one-time).</p>\n\n<p>Download</p>\n\n<p>👉 Download (Installer):\n<a href=\"https://sourceforge.net/projects/shoplite-pos/\">https://sourceforge.net/projects/shoplite-pos/</a></p>\n\n<p>I&#39;m looking for feedback, feature suggestions, UI improvements, bug reports or anything that could help make this tool better.</p>\n\n<p>Thanks!\nHappy to answer any questions in the comments.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Are there any large video compressors on IOS? I have a 2.08 GB video, and I need to compress it to be less than 1.",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/",
-      "pubDate": "Sat, 29 Nov 2025 18:40:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9wbxh/are_there_any_large_video_compressors_on_ios_i/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I don’t care about quality, but I don’t really want to upload my video in 3 parts. The other post I saw about this kind of thing was for Windows.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A good software for animation making and rendering?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/",
-      "pubDate": "Sat, 29 Nov 2025 11:02:34 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9mawh/a_good_software_for_animation_making_and_rendering/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I&#39;ve been searching to find an application to try and learn making animations,I have no experience with it so wanted to know what apps I should try and what hardware requirements they have</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Microsoft Expression Web Replacement",
-      "link": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
-      "guid": "https://redlib.perennialte.ch//r/webdev/comments/1p9xllb/microsoft_expression_web_replacement/",
-      "pubDate": "Sat, 29 Nov 2025 19:33:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1p9xmjw/microsoft_expression_web_replacement/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T11:33:17.304Z"
+  "lastFetched": "2025-12-01T13:50:59.292Z"
 }
