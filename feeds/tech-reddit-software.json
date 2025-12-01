@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "I build a zero knowledge passwords manager open source and open for feedback",
+      "link": "https://eazypasswords.com",
+      "guid": "https://eazypasswords.com",
+      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13-year-old developer and I’ve been working on a zero-knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet — just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Which RDP for Windows laptop to Windows Server connection for Client Project?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pa9j61/i_built_a_simple_tool_for_temporary_file_sharing/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in environments where external storage like USB drives is banned.<br/>\nEmail attachments are blocked.<br/>\nGoogle Drive / Dropbox are blocked.<br/>\nAnd even Bluetooth is restricted.</p>\n\n<p>But sometimes you just need to move a file from a restricted system to your personal device.</p>\n\n<p>So I built <strong>Kipmi</strong> — a minimal temporary file-sharing tool that works without any login.</p>\n\n<p><strong>How it works:</strong></p>\n\n<ol>\n<li>Upload a file</li>\n<li>Pick how long it should stay alive (5 minutes to 24 hours)</li>\n<li>Get a 6-digit code</li>\n<li>Enter the code on any device and download the file</li>\n<li>File auto-deletes at expiry (no traces left)</li>\n</ol>\n\n<p><strong>Why I made it:</strong></p>\n\n<p>Most “file transfer” tools require login, accounts, complicated UI, or leave files on the server forever.<br/>\nI needed something quick, temporary, and disposable — so I built it.</p>\n\n<p><strong>Tech stack:</strong><br/>\nNext.js frontend<br/>\nNode.js + Express<br/>\nMongoDB<br/>\nCloudflare R2 for file storage<br/>\nAuto clean-up cron job</p>\n\n<p>If anyone here works in secure workplaces, labs, college systems, or shared computers — this might help.</p>\n\n<p>Would love feedback, feature requests, or any ways I can improve it.</p>\n\n<p><strong>Live:</strong> <a href=\"https://kipmi-psi.vercel.app\">https://kipmi-psi.vercel.app</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "AI software recommendations - extracting documents for a course",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pal5sn/ai_software_recommendations_extracting_documents/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pal5sn/ai_software_recommendations_extracting_documents/",
-      "pubDate": "Sun, 30 Nov 2025 15:35:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pal5sn/ai_software_recommendations_extracting_documents/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>TLDR: advice on types of AI software to extract documents out of a set of folders based on a list for a course I&#39;m doing. Also to make a simple summary/explanation of each one. This can be the same software or two different ones. </p>\n\n<hr/>\n\n<p>I&#39;ve started a course for senior construction management. The course mainly requires me to find workplace examples of certain project documents and procedures and provide details of my work based involvement. My experience to this point is site-based management and I have not actually set up most of these procedures or documents. I&#39;m looking for an AI or project document management system to automate the process of going through the project folders and finding documents that match the criteria of each part of the course and extracting them to a folder. I would then like it to summarize what the purpose of that document is. I can then add a short summary of how I&#39;ve been involved in the setting up of that document or providing detailed site information to complete the document. These could be two different solutions or one that does it all. </p>\n\n<p>Although this could be considered possibly cheating using AI or other software to complete part of my course, I disagree because I think the important element is the site based knowledge that goes into the documents and how they are used. Also I think it will be a useful way for me to learn modern management document systems and potentially new AI systems for future project management. I think the process of learning one of these systems to carry out the grunt work would be a better use of my time than trawling through project folders looking for documents that match the criteria. I also think that  just using my time to add my personal experience to each area or document is of more valuable use of my time. </p>\n\n<p>I&#39;ve searched online and used AI to find DMS systems that maybe able to carry this out, but most of them are prohibitively expensive for the use case I have. I&#39;m happy to pay to use one of these systems, but don&#39;t want to pay for one and then realize it&#39;s not going to carry out what I need it to do. </p>\n\n<p>If anyone has any recommendations of software that might be able to do this, that would be greatly appreciated. Or comments on what I&#39;m I&#39;m trying to achieve. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-01T16:57:48.196Z"
+  "lastFetched": "2025-12-01T17:52:13.833Z"
 }
