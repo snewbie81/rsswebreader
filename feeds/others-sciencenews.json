@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "A therapeutic HPV vaccine shrank cervical tumors in mice",
+      "link": "https://www.sciencenews.org/article/therapeutic-hpv-vaccine-cervical-cancer",
+      "guid": "https://www.sciencenews.org/?p=3162904",
+      "pubDate": "Mon, 01 Dec 2025 14:00:00 +0000",
+      "description": "An HPV vaccine delivered into the nose can treat cervical tumors in mice. The vaccine targets a cancer protein produced by the virus.",
+      "content": "An HPV vaccine delivered into the nose can treat cervical tumors in mice. The vaccine targets a cancer protein produced by the virus.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112125_MR_hpvnasalvaccine_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Canada just lost its measles elimination status. Is the U.S. next?",
       "link": "https://www.sciencenews.org/article/canada-measles-elimination-us-vaccine",
       "guid": "https://www.sciencenews.org/?p=3162993",
@@ -173,18 +182,9 @@
       "description": "A machine learning analysis of wild lion audio reveals they have two roar types, not one. This insight might help detect where lions are declining.",
       "content": "A machine learning analysis of wild lion audio reveals they have two roar types, not one. This insight might help detect where lions are declining.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112025_ED_lionroar_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "A diet low in glutamate may ease migraines",
-      "link": "https://www.sciencenews.org/article/low-glutamate-diet-ease-migraines",
-      "guid": "https://www.sciencenews.org/?p=3162650",
-      "pubDate": "Thu, 20 Nov 2025 19:00:00 +0000",
-      "description": "People with Gulf War Illness found relief from migraines after a month on a low-glutamate diet, hinting at a new way to ease symptoms.",
-      "content": "People with Gulf War Illness found relief from migraines after a month on a low-glutamate diet, hinting at a new way to ease symptoms.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111825_LS_glutamate_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-01T13:50:49.211Z"
+  "lastFetched": "2025-12-01T14:51:53.147Z"
 }

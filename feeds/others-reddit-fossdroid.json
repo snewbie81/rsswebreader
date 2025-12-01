@@ -49,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is there a FOSS app similar to buzzkill that will let you set different vibration patterns for SMS by contact/groupchat?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pbd8ro/is_there_a_foss_app_similar_to_buzzkill_that_will/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pbd8ro/is_there_a_foss_app_similar_to_buzzkill_that_will/",
+      "pubDate": "Mon, 1 Dec 2025 13:49:23 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pbd8ro/is_there_a_foss_app_similar_to_buzzkill_that_will/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;d really like a way to set a custom vibration for text messages, particularly for groupchats because they wind up making me just ignore all vibrations and I&#39;d like to be able to set a different one for it so I can distinguish without pulling out my phone.</p>\n\n<p>I know the buzzkill app can do this. It is paid and I don&#39;t mind that but its also closed source and proprietary and that I do care about, especially with the permissions you&#39;d have to give it.</p>\n\n<p>If it helps, I&#39;m using an Samsung s21 w google messages.</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Foss App for Eufy camera",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pawigm/foss_app_for_eufy_camera/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pawigm/foss_app_for_eufy_camera/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7wtn4/anyone_having_issues_with_izzyondroid_repo/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7wtn4/anyone_having_issues_with_izzyondroid_repo/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Anybody having issues with Aurora Store?",
-      "link": "/img/1zxvlg4i9o3g1.jpeg",
-      "guid": "/img/1zxvlg4i9o3g1.jpeg",
-      "pubDate": "Wed, 26 Nov 2025 21:47:36 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7kjqc/anybody_having_issues_with_aurora_store/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p7kjqc/anybody_having_issues_with_aurora_store/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-01T13:50:42.309Z"
+  "lastFetched": "2025-12-01T14:51:46.185Z"
 }
