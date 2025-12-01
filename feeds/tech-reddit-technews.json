@@ -175,6 +175,15 @@
       "thumbnail": null
     },
     {
+      "title": "OpenAI confirms new data breach, exposing names, emails, more",
+      "link": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
+      "guid": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
+      "pubDate": "Thu, 27 Nov 2025 13:39:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p82frj/openai_confirms_new_data_breach_exposing_names/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p82frj/openai_confirms_new_data_breach_exposing_names/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
       "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p657tf/in_wake_of_windows_10_retirement_over_780000/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Scientists say they've eliminated a major AI bottleneck — now they can process calculations 'at the speed of light'",
-      "link": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
-      "guid": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
-      "pubDate": "Tue, 25 Nov 2025 19:17:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p6lm5p/scientists_say_theyve_eliminated_a_major_ai/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-01T05:51:43.785Z"
+  "lastFetched": "2025-12-01T07:01:43.365Z"
 }

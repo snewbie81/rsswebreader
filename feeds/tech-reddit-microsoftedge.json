@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "EdgeWebView2 side-by-side problems - hours trying to fix this.",
+      "link": "/gallery/1pb5zvb",
+      "guid": "/gallery/1pb5zvb",
+      "pubDate": "Mon, 1 Dec 2025 06:53:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb5zvb/edgewebview2_sidebyside_problems_hours_trying_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Tried opening CCleaner and was met with this. Followed every single video on youtube to fix this, nothing. Many videos and a google searches point to just &quot;easily&quot; reinstalling the edge webview program - downloading the installer and running it gets me nowhere, &quot;Edge webview is already installed&quot;. </p>\n\n<p>It says its installed, yet checking in control panel shows nothing on it. Youtube videos do show &quot;Microsoft Edge WebView2 Runtime&quot; installed on their devices, yet not on mine. I tried multiple versions of the installer, nothing.</p>\n\n<p>I get the &quot;side-by-side&quot; error randomly while doing nothing on the computer which I think means other programs are trying and failing at the same thing. </p>\n\n<p>I&#39;ve updated all my MC C++ Redis files, reinstalled every single program mentioned (bar edge webview obviously) and still come up with nothing. </p>\n\n<p>sfc /scannow in cmd - nothing and repaired a million different programs manually - nothing. Plz help </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I would love to see the data of people that actually use Collections.",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paifeq/i_would_love_to_see_the_data_of_people_that/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paifeq/i_would_love_to_see_the_data_of_people_that/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p8fdol/password_manager_primary_password_is_not_being/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hopefully this isn&#39;t just happening to me. My set password for my browser to access password manager is giving me an authentication failed error. I have not changed the password and it was working fine as of yesterday. I am wondering if this is just a bug or my system is somehow not recognizing the password. I saw there was an article stating this issue as of November 3, 2025 with version 142.0.3595.53</p>\n\n<p>The suggestion is to backup my passwords and other stuff and delete the profile from my browser. I am just unsure if it will resolve the issue and give me more problems of losing potential data.</p>\n\n<p>I am on version 142.0.3595.94 (Official build) (64-bit). I have also already sent a help and feedback in.</p>\n\n<blockquote>\n<p>Edit: Deleting the browser profile seems to resolve the issue <strong>BUT</strong> be sure to backup your extension settings if they allow it. Make sure your browser is set to sync everything you want. After doing so you can enable the password manager option again by entering a pin/password as you had before.</p>\n</blockquote>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Microsoft Edge Crashing AMD Drivers",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p89kwz/microsoft_edge_crashing_amd_drivers/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p89kwz/microsoft_edge_crashing_amd_drivers/",
-      "pubDate": "Thu, 27 Nov 2025 18:35:10 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p89kwz/microsoft_edge_crashing_amd_drivers/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So let me explain</p>\n\n<p>About a month ago, my AMD Drivers started to crash, so after much wasted time i uninstalled Microsoft Edge, and the Crashing of the Driver stopped ,</p>\n\n<p>For about 3 weeks ive had NO ISSUES whatsoever,  2 days i decided let&#39;s try it again i do enjoy Edge i prefer it over other web browsers yes i know i shouldn&#39;t be using it for the keyboard logging activity edge captures  and all the spying, and APIs that&#39;s hidden within the Browser but they all have that </p>\n\n<p>However, how is this even possible its a web browser i don&#39;t even need Edge opened and it does it because of the Edge services running quietly in the background </p>\n\n<p>i don&#39;t have any riser cable</p>\n\n<p>my system specs</p>\n\n<p>Asus x670e Crosshair Hero AMD 9900X , RADON 7900XTX 16GB of kingbank memory, and 3 NVMe drives </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-01T05:51:35.783Z"
+  "lastFetched": "2025-12-01T07:01:35.134Z"
 }
