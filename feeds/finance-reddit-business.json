@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Goodbye, Price Tags. Hello, Dynamic Pricing.",
-      "link": "https://www.nytimes.com/2025/11/28/opinion/dynamic-pricing-algorithms.html?smid%3Dnytcore-ios-share",
-      "guid": "https://www.nytimes.com/2025/11/28/opinion/dynamic-pricing-algorithms.html?smid%3Dnytcore-ios-share",
-      "pubDate": "Tue, 2 Dec 2025 02:18:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pbwcrb/goodbye_price_tags_hello_dynamic_pricing/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pbwcrb/goodbye_price_tags_hello_dynamic_pricing/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Fabergé egg fetches record $30.2 million at rare auction | CNN",
       "link": "https://www.cnn.com/2025/12/02/style/faberge-winter-egg-auction-sold",
       "guid": "https://www.cnn.com/2025/12/02/style/faberge-winter-egg-auction-sold",
       "pubDate": "Tue, 2 Dec 2025 18:05:33 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pcfmhu/fabergé_egg_fetches_record_302_million_at_rare/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pcfmhu/fabergé_egg_fetches_record_302_million_at_rare/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Goodbye, Price Tags. Hello, Dynamic Pricing.",
+      "link": "https://www.nytimes.com/2025/11/28/opinion/dynamic-pricing-algorithms.html?smid%3Dnytcore-ios-share",
+      "guid": "https://www.nytimes.com/2025/11/28/opinion/dynamic-pricing-algorithms.html?smid%3Dnytcore-ios-share",
+      "pubDate": "Tue, 2 Dec 2025 02:18:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pbwcrb/goodbye_price_tags_hello_dynamic_pricing/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pbwcrb/goodbye_price_tags_hello_dynamic_pricing/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "finance",
   "url": "https://redlib.perennialte.ch/r/business.rss",
-  "lastFetched": "2025-12-02T22:36:55.420Z"
+  "lastFetched": "2025-12-02T23:33:55.392Z"
 }

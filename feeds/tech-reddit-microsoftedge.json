@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Edge Android deletes all saved logins/passwords!",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/",
-      "pubDate": "Tue, 2 Dec 2025 12:51:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Whenever I open Edge on Android, it empties its list of saved logins/passwords. Thankfully I have a backup. It&#39;s a known bug (stable, beta, and canary all suffer from it). But when will it be fixed?</p>\n\n<p>PS: Probably doesn&#39;t affect those that sync their passwords with their MS account.</p>\n\n<p><a href=\"/preview/pre/dx4a8tf8fs4g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=0a25dc1b7933954f1b88cb8e06baa1f0f62af34a\">/preview/pre/dx4a8tf8fs4g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=0a25dc1b7933954f1b88cb8e06baa1f0f62af34a</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "black bar on top edge mobile",
       "link": "/gallery/1pc5zjw",
       "guid": "/gallery/1pc5zjw",
       "pubDate": "Tue, 2 Dec 2025 11:22:19 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc5zjw/black_bar_on_top_edge_mobile/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Edge mobile, chrome mobile, can you fix the black bar issue when full screen? home page didn&#39;t have issue, only when viewing web page, it&#39;s really annoyed web. Watching YouTube and movie, it&#39;s been so long, never fix this, please</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Edge Android deletes all saved logins/passwords!",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/",
+      "pubDate": "Tue, 2 Dec 2025 12:51:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Whenever I open Edge on Android, it empties its list of saved logins/passwords. Thankfully I have a backup. It&#39;s a known bug (stable, beta, and canary all suffer from it). But when will it be fixed?</p>\n\n<p>PS: Probably doesn&#39;t affect those that sync their passwords with their MS account.</p>\n\n<p><a href=\"/preview/pre/dx4a8tf8fs4g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=0a25dc1b7933954f1b88cb8e06baa1f0f62af34a\">/preview/pre/dx4a8tf8fs4g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=0a25dc1b7933954f1b88cb8e06baa1f0f62af34a</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T22:37:12.693Z"
+  "lastFetched": "2025-12-02T23:34:12.962Z"
 }
