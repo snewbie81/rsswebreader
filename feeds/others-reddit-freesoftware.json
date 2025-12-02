@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "I built PhotoHaul: a free Windows app that auto-organizes messy photo archives",
+      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pc4o22/i_built_photohaul_a_free_windows_app_that/",
+      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pc4o22/i_built_photohaul_a_free_windows_app_that/",
+      "pubDate": "Tue, 2 Dec 2025 10:01:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pc4o22/i_built_photohaul_a_free_windows_app_that/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,<br/>\nI’d like to share a small free tool I built for my own photo chaos, and now I’m polishing it with community feedback.</p>\n\n<h1>- What is PhotoHaul</h1>\n\n<p>PhotoHaul is a <strong>100% local, no-cloud, no-tracking Windows app</strong> that scans any folder or drive (HDD/SSD/USB/SD), detects photos and videos, removes duplicates and reorganizes everything into <strong>clean, date-based folders</strong>.</p>\n\n<p>It’s meant for anyone who has years of scattered photos across devices and wants a simple way to consolidate them.</p>\n\n<h1>- Key features</h1>\n\n<ul>\n<li><strong>Automatic sorting</strong> into YEAR/MONTH folders</li>\n<li><strong>Duplicate detection</strong> (hash-based)</li>\n<li><strong>Safe Copy mode</strong> (never overwrites existing files)</li>\n<li><strong>Works with any source</strong>: HDD, USB sticks, SD cards, phones in MTP mode</li>\n<li><strong>Optional Android companion app</strong> to send photos via WiFi directly to your PC</li>\n<li><strong>Local-only</strong>: no cloud, no accounts, no internet required</li>\n<li><strong>Installer for Windows</strong> + <strong>APK for Android</strong></li>\n<li><strong>Lightweight</strong>, portable, no database needed</li>\n</ul>\n\n<h1>- Why it might be useful</h1>\n\n<p>If you have photos spread across old laptops, phones, memory cards or external drives, PhotoHaul creates a <strong>single organized archive</strong> without breaking file structures or touching originals unless you explicitly choose to.</p>\n\n<p>It helped me consolidate ~15 years of scattered photos, so I’m hoping it might help others too.</p>\n\n<h1>- Download + docs</h1>\n\n<p>Installer, APK, screenshots and a short explanation of how it works are here:<br/>\n-I can&#39;t post the link because they&#39;ll ban me... I&#39;ll try tomorrow - :D</p>\n\n<p>Both apps are already released and available for testing.</p>\n\n<h1>- Feedback wanted</h1>\n\n<p>I’m looking for:</p>\n\n<ul>\n<li>bug reports</li>\n<li>performance issues</li>\n<li>missing features</li>\n<li>edge cases (huge libraries, unusual formats, etc.)</li>\n</ul>\n\n<p>Thanks in advance to anyone who wants to try it!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Super Mario 64 is technically libre software if you build the decomp, right?",
       "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
       "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1on80en/new_interactive_story_creation_tools_in_tilbuci/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>You can find the new version of TilBuci at <a href=\"https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v17\">https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v17</a></p>\n\n<p>TilBuci reaches version 17 with new features for the production of interactive narratives. With the new decision flow tool, it&#39;s now possible to set navigation options to be displayed at the end of each scene, in the form of buttons. This new feature greatly simplifies the production of interactive stories where the user can choose their own path through the content.</p>\n\n<p>To better understand this feature, we have a new video tutorial: <a href=\"https://youtu.be/OHCILLkEryM\">https://youtu.be/OHCILLkEryM</a></p>\n\n<p><a href=\"/preview/pre/vqs4fvafo0zf1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=26c3c6acc54fd9dbf5edc4ececb6f7df062e26b4\">/preview/pre/vqs4fvafo0zf1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=26c3c6acc54fd9dbf5edc4ececb6f7df062e26b4</a></p>\n\n<p>Also, a new message box creation method is available and it is fully compatible with game controller and keyboard navigation!</p>\n\n<p><a href=\"/preview/pre/6dexmyjgo0zf1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=2543fef33547e324dc304e57c250a2c1c4420858\">/preview/pre/6dexmyjgo0zf1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=2543fef33547e324dc304e57c250a2c1c4420858</a></p>\n\n<p>TilBuci is an interactive content creation tool focused on development for web, mobile and desktop apps. Distributed as free software under the MPL-2.0 license, it is presented in the form of a web program, executed from a browser with functionalities for collective creation, and also as a portable desktop software for various systems. To learn more about the project, visit <a href=\"https://tilbuci.com.br\">https://tilbuci.com.br</a> . The software repository is <a href=\"https://github.com/lucasjunqueira-var/tilbuci\">https://github.com/lucasjunqueira-var/tilbuci</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Do you need user feedback when building for you?",
-      "link": "https://redlib.perennialte.ch//r/ycombinator/comments/1onc0yk/do_you_need_user_feedback_when_building_for_you/",
-      "guid": "https://redlib.perennialte.ch//r/ycombinator/comments/1onc0yk/do_you_need_user_feedback_when_building_for_you/",
-      "pubDate": "Mon, 3 Nov 2025 14:26:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ond5hv/do_you_need_user_feedback_when_building_for_you/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ond5hv/do_you_need_user_feedback_when_building_for_you/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/freesoftware.rss",
-  "lastFetched": "2025-12-02T09:51:23.656Z"
+  "lastFetched": "2025-12-02T10:49:41.016Z"
 }

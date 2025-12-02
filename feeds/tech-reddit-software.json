@@ -49,6 +49,24 @@
       "thumbnail": null
     },
     {
+      "title": "Curious if others care about how their browser manages tabs",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
+      "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Anyone looking for frontend Software engineering jobs or related jobs",
+      "link": "https://redlib.perennialte.ch//r/cscareers/comments/1pc4hu2/anyone_looking_for_frontend_software_engineering/",
+      "guid": "https://redlib.perennialte.ch//r/cscareers/comments/1pc4hu2/anyone_looking_for_frontend_software_engineering/",
+      "pubDate": "Tue, 2 Dec 2025 09:57:47 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4lsl/anyone_looking_for_frontend_software_engineering/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4lsl/anyone_looking_for_frontend_software_engineering/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Software that can control ARGB fans based on screen",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc21ik/software_that_can_control_argb_fans_based_on/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc21ik/software_that_can_control_argb_fans_based_on/",
@@ -126,7 +144,7 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbv77k/help_needed_with_patching_files/",
       "pubDate": "Tue, 2 Dec 2025 01:26:44 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbv77k/help_needed_with_patching_files/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Can anyone on here help me with this? </p>\n\n<p>I have an anime I encoded:\nV1 is the normal encoded file:\nV2 has the OPs&amp;EDs removed by splitting the files in mkvtoolnix &amp; re-appending them back together.</p>\n\n<p>What I want to do is create a patch file for the original files to patch them to make them the version without the OPs&amp;EDs. \nDoes anyone know of a patcher software that can do that? Without me having to write a CMD batch script to split them &amp; re-append them via mkvtoolnix? \n(NUPS Patcher doesn&#39;t work, the patch files are larger than the episodes themselves)</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>[Solved]\nCan anyone on here help me with this? </p>\n\n<p>I have an anime I encoded:\nV1 is the normal encoded file:\nV2 has the OPs&amp;EDs removed by splitting the files in mkvtoolnix &amp; re-appending them back together.</p>\n\n<p>What I want to do is create a patch file for the original files to patch them to make them the version without the OPs&amp;EDs. \nDoes anyone know of a patcher software that can do that? Without me having to write a CMD batch script to split them &amp; re-append them via mkvtoolnix? \n(NUPS Patcher doesn&#39;t work, the patch files are larger than the episodes themselves)\n[Solved]</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbfkxw/adobe_acrobat_end_of_support/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbfkxw/adobe_acrobat_end_of_support/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "A Complete Vim-Inspired File Manager Where Files’ Thumbnails, File Copying, and Recursive Files’ Size Display Work Out of the Box? (For Linux)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/",
-      "pubDate": "Mon, 1 Dec 2025 04:35:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb3gy7/a_complete_viminspired_file_manager_where_files/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for something like Dolphin or ranger, but with alll those features combined. I&#39;ve tried Vifm, Ranger, Midnight Commander, etc. They all share the same problem for me - those features whether aren&#39;t supported at all, require some ass-configuration, and might still work clunky. Don&#39;t we have something that still does all those things, but out of the box or with minimum setup? I guess it can&#39;t work within terminal (or within some specific terminal that supports images and that stuff), so GUI options are also ok if Vim-like workflow integrated well. Anyway, what do you personally use?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I built a full QR Code platform (dynamic redirects, analytics, smartlinks) and learned a lot — here’s the architecture",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/",
-      "pubDate": "Mon, 1 Dec 2025 12:40:15 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>Over the past months I’ve been building a project called Code2Scan — basically a complete QR Code platform with dynamic redirects, URL safety checks, link analytics, smartlinks, and multi-language support.</p>\n\n<p>I didn’t originally plan to build something this big, but one thing led to another:</p>\n\n<p>• It started as a simple QR Code generator</p>\n\n<p>• Then I added dynamic links with redirect tracking</p>\n\n<p>• Then a full analytics dashboard (OS, country, city, time of day)</p>\n\n<p>• Then “link in bio” pages with customizable blocks</p>\n\n<p>• Then custom domains support</p>\n\n<p>• Then a URL Checker with HTTPS enforcement and blacklist</p>\n\n<p>• And now it also supports PDFs, audio files, vCards, and more</p>\n\n<p>Some technical challenges that came up:</p>\n\n<p>— **QR Code generation**</p>\n\n<p>I unified static and dynamic QR generation into a single async function that handles logos, colors, error correction, vCards, Wi-Fi codes, Pix, etc.</p>\n\n<p>— **Analytics tracking**</p>\n\n<p>I store clicks with metadata such as device, OS version, country, city, timestamp, referrer and smartlink ID.  </p>\n\n<p>The tricky part was grouping OS versions (Android 10…16, iOS 18.5…) without blowing up charts.</p>\n\n<p>— **URL safety**</p>\n\n<p>Before generating a QR Code, the system verifies:</p>\n\n<p>• HTTPS only  </p>\n\n<p>• No blacklisted domains  </p>\n\n<p>• Redirect chain is safe  </p>\n\n<p>• No malicious patterns  </p>\n\n<p>— **SmartLinks**</p>\n\n<p>The “link-in-bio” pages allow blocks with:</p>\n\n<p>• Links  </p>\n\n<p>• Images  </p>\n\n<p>• Titles/subtitles  </p>\n\n<p>• Background customization  </p>\n\n<p>• Shadows, borders and themes  </p>\n\n<p>• SEO title/description + custom OG images  </p>\n\n<p>— **Custom domains**</p>\n\n<p>Users can attach their own domain or subdomain for dynamic links.  </p>\n\n<p>The DNS + routing logic took more work than expected.</p>\n\n<p>— **Internationalization**</p>\n\n<p>The platform has complete translations (EN, PT, ES, FR, DE, IT), including SEO metadata, UI, FAQs, and feature explanations.</p>\n\n<p>If anyone here is building something similar (QR, shortlinks, analytics, SaaS tools, etc.), I&#39;m happy to share implementation details or discuss architecture decisions.</p>\n\n<p>Here&#39;s the project if you&#39;d like to explore it:</p>\n\n<p><a href=\"https://www.code2scan.com\">https://www.code2scan.com</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T09:51:35.913Z"
+  "lastFetched": "2025-12-02T10:49:52.333Z"
 }

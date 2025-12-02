@@ -31,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
-      "link": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
-      "guid": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
-      "pubDate": "Tue, 2 Dec 2025 03:07:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Netflix quietly drops support for casting to most TVs &amp;#x2d; Ars Technica",
       "link": "https://arstechnica.com/gadgets/2025/12/netflix-quietly-drops-support-for-casting-to-most-tvs/",
       "guid": "https://arstechnica.com/gadgets/2025/12/netflix-quietly-drops-support-for-casting-to-most-tvs/",
       "pubDate": "Tue, 2 Dec 2025 07:59:49 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pc2t5z/netflix_quietly_drops_support_for_casting_to_most/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pc2t5z/netflix_quietly_drops_support_for_casting_to_most/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
+      "link": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
+      "guid": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
+      "pubDate": "Tue, 2 Dec 2025 03:07:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -82,6 +82,15 @@
       "pubDate": "Mon, 1 Dec 2025 13:38:41 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbd040/amazon_and_google_launch_multicloud_service_for/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "SoftBank’s Son ‘was crying’ about the firm's need to sell its Nvidia stake",
+      "link": "https://www.cnbc.com/2025/12/02/softbank-masayoshi-son-crying-nvidia-stake-ai-bet-artificial-intelligence-bubble-vision-fund.html?__source=androidappshare",
+      "guid": "https://www.cnbc.com/2025/12/02/softbank-masayoshi-son-crying-nvidia-stake-ai-bet-artificial-intelligence-bubble-vision-fund.html?__source=androidappshare",
+      "pubDate": "Tue, 2 Dec 2025 10:26:58 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pc52gn/softbanks_son_was_crying_about_the_firms_need_to/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pc52gn/softbanks_son_was_crying_about_the_firms_need_to/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p848h8/a_new_study_claims_to_have_found_the_strongest/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p848h8/a_new_study_claims_to_have_found_the_strongest/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
-      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
-      "guid": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
-      "pubDate": "Thu, 27 Nov 2025 21:04:10 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8d0l3/asus_warns_of_new_critical_auth_bypass_flaw_in/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1p8d0l3/asus_warns_of_new_critical_auth_bypass_flaw_in/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-02T09:51:38.190Z"
+  "lastFetched": "2025-12-02T10:49:54.692Z"
 }
