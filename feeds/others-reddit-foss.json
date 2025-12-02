@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "Introducing Jotter: Minimalist Open-Source Notes App (Kotlin/Jetpack)",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/",
+      "pubDate": "Tue, 2 Dec 2025 02:12:49 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve released <strong>Jotter v1.0.0</strong> – a simple, privacy-focused note-taking app built from scratch with modern Android tech. No cloud, no trackers, just local storage under GNU GPL v3. Perfect for quick ideas, lists, or locked secrets.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li>Light/dark/system themes + dynamic colors</li>\n<li>Local import/export (backup anywhere)</li>\n<li>Note locking + secure screen (blocks screenshots)</li>\n<li>Tags, archive, trash for organization</li>\n<li>Multiple view modes + haptics for smooth feel</li>\n<li>Fast &amp; lightweight – offline-first​</li>\n</ul>\n\n<p>Built with Kotlin, Jetpack Compose, MVVM (Hilt/Room), targeting Android 8+. Grab the APK from GitHub Releases or clone the repo to build yourself: <a href=\"https://github.com/OpenAppsLabs/Jotter\">https://github.com/OpenAppsLabs/Jotter</a>​</p>\n\n<p>Just submitted to F-Droid – fingers crossed! Feedback welcome: bugs, features, or dev tips? Trying to grow my Open Apps suite of FOSS apps. Thanks for checking it out! 🚀</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "FOSS Win10 calendar app",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pbv24z/foss_win10_calendar_app/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pbv24z/foss_win10_calendar_app/",
+      "pubDate": "Tue, 2 Dec 2025 01:20:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pbv24z/foss_win10_calendar_app/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, do any of you have any recommendations for a calendar app for win10. I don&#39;t need any features beyond timeblocking.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Unipac - Universal package manager for Linux - looking for feedback and ideas",
       "link": "https://redlib.perennialte.ch//r/opensource/comments/1pb75cu/unipac_universal_package_manager_for_linux/",
       "guid": "https://redlib.perennialte.ch//r/opensource/comments/1pb75cu/unipac_universal_package_manager_for_linux/",
@@ -45,7 +63,7 @@
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/",
       "pubDate": "Sun, 30 Nov 2025 06:33:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pabf4j/foss_alternative_to_jami/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I understand that Jami is open source, however my issue is that I cannot screenshare on my end. I am on CachyOS using KDE and Wayland, my friend uses Mint. We both downloaded the flatpak and he was able to screenshare to me, but I could not screenshare to him. It would just be a black screen for both of us. I tried downloading the pacman version of it and that made it worse. Now I could not see his screenshare, but he could see it on his side, and I also still could not screenshare to him. I dont know if this is a CachyOS issue, a wayland issue, or what exaclty it is, but I wanted to see if another application would work.</p>\n\n<p>What I am looking for:</p>\n\n<ol>\n<li>Free<br/></li>\n<li>Private<br/></li>\n<li>Open Source<br/></li>\n<li>Screenshare<br/></li>\n<li>Calling (VoIP)</li>\n</ol>\n\n<p>It does not need to include a text chat feature, although it can.<br/>\nit can not be self-host only</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>[SOLVED] I understand that Jami is open source, however my issue is that I cannot screenshare on my end. I am on CachyOS using KDE and Wayland, my friend uses Mint. We both downloaded the flatpak and he was able to screenshare to me, but I could not screenshare to him. It would just be a black screen for both of us. I tried downloading the pacman version of it and that made it worse. Now I could not see his screenshare, but he could see it on his side, and I also still could not screenshare to him. I dont know if this is a CachyOS issue, a wayland issue, or what exaclty it is, but I wanted to see if another application would work.</p>\n\n<p>What I am looking for:</p>\n\n<ol>\n<li>Free<br/></li>\n<li>Private<br/></li>\n<li>Open Source<br/></li>\n<li>Screenshare<br/></li>\n<li>Calling (VoIP)</li>\n</ol>\n\n<p>It does not need to include a text chat feature, although it can.<br/>\nit can not be self-host only</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I am not sure if anyone here is familiar with aurora store which is found here:</p>\n\n<p><a href=\"https://store.auroraoss.com/\">https://store.auroraoss.com/</a></p>\n\n<p>But i was wondering from a privacy and security point of view is this app safe to use and if there are any other apps that are on the same standard as aurora?</p>\n\n<p>I use this app so I dont have to sign in via google on my android, its a great app store but sometimes I am just willing to try new things.</p>\n\n<p>I have noticed slow app updates being pushed to the store and have noticed that it can throw a few errors at times.</p>\n\n<p>Before anyone says fdroid already got it..looking for any other replacement of google playstore.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I got frustrated with Screaming Frog's $259/year pricing for a desktop SEO crawler, so I built LibreCrawl - a FOSS alternative with a plugin system",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/",
-      "pubDate": "Thu, 20 Nov 2025 05:59:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p1vkod/i_got_frustrated_with_screaming_frogs_259year/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I work in SEO and was shocked that the industry normalizes paying $250-1000+/year for what&#39;s essentially HTTP requests + HTML parsing. Screaming Frog charges $259/year for a desktop app that doesn&#39;t even use their servers. The free version caps at 500 URLs to force upgrades.<br/>\nSo I built LibreCrawl:</p>\n\n<ul>\n<li>MIT licensed, fully FOSS</li>\n<li>Self-hosted web interface (multi-tenant)</li>\n<li>Plugin system - drop .js files in a folder to add custom analysis tabs</li>\n<li>JavaScript rendering via Playwright</li>\n<li>No URL limits, no subscriptions, no phone-home</li>\n<li>Handles 1M+ URLs with real-time memory profiling</li>\n</ul>\n\n<p>Just shipped a complete plugin API that lets anyone build custom SEO analyzers without touching backend code. Ships with a working E-E-A-T analyzer as an example.</p>\n\n<p>GitHub: <a href=\"https://github.com/PhialsBasement/LibreCrawl\">https://github.com/PhialsBasement/LibreCrawl</a></p>\n\n<p>Demo: <a href=\"https://librecrawl.com/app/\">https://librecrawl.com/app/</a> (3 free crawls - account creation and plugins is disabled due to some server limitations, to get the full experience pls self host, its very easy)</p>\n\n<p>Plugin Workshop: <a href=\"https://librecrawl.com/workshop/\">https://librecrawl.com/workshop/</a></p>\n\n<p>The goal isn&#39;t to compete with Screaming Frog, it&#39;s to eliminate the entire rent-seeking model in SEO tools. So please give me your feedback and ideas, and i will help make it true. If you want to make plugins, publish them in github discussions</p>\n\n<p><a href=\"/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5\">/preview/pre/e4vs515eqc2g1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=9b88576d63a981680b1b31646d8e7bcaf40ba3c5</a></p>\n\n<p><a href=\"/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640\">/preview/pre/e7os91sgqc2g1.png?width=1885&amp;format=png&amp;auto=webp&amp;s=93aede8a15e8b7b18915e5050d98b58645e50640</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Dotkeep: A simple dotfile manager/symlink farm",
-      "link": "https://redlib.perennialte.ch//r/opensource/comments/1p2830d/dotkeep_a_simple_dotfile_managersymlink_farm/",
-      "guid": "https://redlib.perennialte.ch//r/opensource/comments/1p2830d/dotkeep_a_simple_dotfile_managersymlink_farm/",
-      "pubDate": "Thu, 20 Nov 2025 16:45:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p283qy/dotkeep_a_simple_dotfile_managersymlink_farm/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p283qy/dotkeep_a_simple_dotfile_managersymlink_farm/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-01T23:34:30.470Z"
+  "lastFetched": "2025-12-02T03:45:39.012Z"
 }
