@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Zillow property listings no longer show risk of fires, floods, and storms.  The change follows complaints that climate risk scores were making properties less desirable.",
+      "link": "https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings",
+      "guid": "https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings",
+      "pubDate": "Tue, 2 Dec 2025 03:37:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pby203/zillow_property_listings_no_longer_show_risk_of/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pby203/zillow_property_listings_no_longer_show_risk_of/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Marc Benioff rambles about god during hallucinogenic mushroom livestream",
       "link": "https://www.sfgate.com/tech/article/marc-benioff-joins-wild-hallucinogenic-mushroom-21217255.php",
       "guid": "https://www.sfgate.com/tech/article/marc-benioff-joins-wild-hallucinogenic-mushroom-21217255.php",
@@ -22,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "How Black Friday became a retail letdown: \"To sustain the ride, they started to dilute it,” said Mark Cohen, former CEO of Sears Canada.",
-      "link": "https://www.cnbc.com/2025/11/28/black-friday-shopping-retail-letdown.html",
-      "guid": "https://www.cnbc.com/2025/11/28/black-friday-shopping-retail-letdown.html",
-      "pubDate": "Mon, 1 Dec 2025 04:05:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pb2vt3/how_black_friday_became_a_retail_letdown_to/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pb2vt3/how_black_friday_became_a_retail_letdown_to/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Instagram chief Adam Mosseri orders staff back to the office five days a week in 2026",
       "link": "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12",
       "guid": "https://www.businessinsider.com/instagram-chief-adam-mosseri-announces-five-day-office-return-2025-12",
@@ -40,21 +40,21 @@
       "thumbnail": null
     },
     {
+      "title": "How Black Friday became a retail letdown: \"To sustain the ride, they started to dilute it,” said Mark Cohen, former CEO of Sears Canada.",
+      "link": "https://www.cnbc.com/2025/11/28/black-friday-shopping-retail-letdown.html",
+      "guid": "https://www.cnbc.com/2025/11/28/black-friday-shopping-retail-letdown.html",
+      "pubDate": "Mon, 1 Dec 2025 04:05:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pb2vt3/how_black_friday_became_a_retail_letdown_to/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pb2vt3/how_black_friday_became_a_retail_letdown_to/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Goldman Sachs acquires ETF firm for $2 billion in latest deal to bolster asset management division",
       "link": "https://www.cnbc.com/2025/12/01/goldman-sachs-acquires-innovator-capital-management.html",
       "guid": "https://www.cnbc.com/2025/12/01/goldman-sachs-acquires-innovator-capital-management.html",
       "pubDate": "Mon, 1 Dec 2025 14:15:00 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pbdudm/goldman_sachs_acquires_etf_firm_for_2_billion_in/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pbdudm/goldman_sachs_acquires_etf_firm_for_2_billion_in/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Zillow property listings no longer show risk of fires, floods, and storms.  The change follows complaints that climate risk scores were making properties less desirable.",
-      "link": "https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings",
-      "guid": "https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings",
-      "pubDate": "Tue, 2 Dec 2025 03:37:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/business/comments/1pby203/zillow_property_listings_no_longer_show_risk_of/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/business/comments/1pby203/zillow_property_listings_no_longer_show_risk_of/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "finance",
   "url": "https://redlib.perennialte.ch/r/business.rss",
-  "lastFetched": "2025-12-02T03:45:36.050Z"
+  "lastFetched": "2025-12-02T04:54:22.555Z"
 }

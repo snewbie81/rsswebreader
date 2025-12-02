@@ -58,6 +58,15 @@
       "thumbnail": null
     },
     {
+      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
+      "link": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
+      "guid": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
+      "pubDate": "Tue, 2 Dec 2025 03:07:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Amazon and Google launch multicloud service for faster connectivity",
       "link": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
       "guid": "https://www.reuters.com/business/retail-consumer/amazon-google-launch-multicloud-service-faster-connectivity-2025-12-01/",
@@ -67,12 +76,12 @@
       "thumbnail": null
     },
     {
-      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
-      "link": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
-      "guid": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
-      "pubDate": "Tue, 2 Dec 2025 03:07:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
+      "title": "The Biggest Causes of Medical Device Recalls",
+      "link": "https://spectrum.ieee.org/medical-device-recalls",
+      "guid": "https://spectrum.ieee.org/medical-device-recalls",
+      "pubDate": "Mon, 1 Dec 2025 15:34:37 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -91,15 +100,6 @@
       "pubDate": "Sun, 30 Nov 2025 12:15:51 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagwqf/the_creator_of_an_ai_therapy_app_shut_it_down/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pagwqf/the_creator_of_an_ai_therapy_app_shut_it_down/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "The Biggest Causes of Medical Device Recalls",
-      "link": "https://spectrum.ieee.org/medical-device-recalls",
-      "guid": "https://spectrum.ieee.org/medical-device-recalls",
-      "pubDate": "Mon, 1 Dec 2025 15:34:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbfueq/the_biggest_causes_of_medical_device_recalls/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-02T03:46:01.506Z"
+  "lastFetched": "2025-12-02T04:54:49.081Z"
 }
