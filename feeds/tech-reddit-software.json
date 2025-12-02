@@ -67,6 +67,15 @@
       "thumbnail": null
     },
     {
+      "title": "Time Tracking for My Team using Jibble",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/",
+      "pubDate": "Tue, 2 Dec 2025 17:16:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I manage a small crew, and for the longest time our time tracking was a total mess. We used basic spreadsheets + manual entries, and every week I had to chase people to fix wrong hours, missed entries, or mixed-up project codes.</p>\n\n<p>It wasn’t anyone’s fault — the system itself was just… bad.\nWay too much manual work = way too many mistakes.</p>\n\n<p>A couple months ago I switched the team over to Jibble for proper clock-in/clock-out under specific projects, and honestly it’s made everyone’s life easier. Now the crew logs their time in the right place automatically, and I can see project hours in real time instead of waiting until Friday panic mode.</p>\n\n<p>The biggest improvement for me:\n    • no more guessing where hours went\n    • no more correcting the same mistakes\n    • workload planning actually makes sense now\n    • I can spot overruns before they blow up</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Download specific clips from a google drive video link",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbv77k/help_needed_with_patching_files/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>[Solved]\nCan anyone on here help me with this? </p>\n\n<p>I have an anime I encoded:\nV1 is the normal encoded file:\nV2 has the OPs&amp;EDs removed by splitting the files in mkvtoolnix &amp; re-appending them back together.</p>\n\n<p>What I want to do is create a patch file for the original files to patch them to make them the version without the OPs&amp;EDs. \nDoes anyone know of a patcher software that can do that? Without me having to write a CMD batch script to split them &amp; re-append them via mkvtoolnix? \n(NUPS Patcher doesn&#39;t work, the patch files are larger than the episodes themselves)\n[Solved]</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Please help me with something",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbv3da/please_help_me_with_something/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbv3da/please_help_me_with_something/",
-      "pubDate": "Tue, 2 Dec 2025 01:21:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbv3da/please_help_me_with_something/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that will project the audio and picture of a PS1 onto my laptop screen through an HDMI converter and video capture card but I can&#39;t find any software that will allow me to do this, before you say to just use OBS, I can&#39;t use OBS because it won&#39;t even download on my laptop! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T16:58:56.578Z"
+  "lastFetched": "2025-12-02T17:48:57.326Z"
 }
