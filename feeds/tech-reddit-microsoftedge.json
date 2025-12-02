@@ -4,6 +4,24 @@
   "link": "",
   "items": [
     {
+      "title": "How to Enable Workspaces on personal account in Microsoft Edge (macOS/Windows)",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
+      "pubDate": "Tue, 2 Dec 2025 13:37:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Instruction below is for macOS.</p>\n\n<p>For Windows it seems like based on the <a href=\"https://learn.microsoft.com/en-us/deployedge/microsoft-edge-browser-policies/edgeworkspacesenabled\">EdgeWorkspacesEnabled</a> you just need to instead of step 3 - add a registry key under <code>SOFTWARE\\Policies\\Microsoft\\Edge</code>, value name <code>EdgeWorkspacesEnabled</code>, type <code>REG_DWORD</code> and value <code>0x00000001</code></p>\n\n<p>Anyway, for macOS, I just tried and it worked! Not sure if that will translate to iOS (probably not)</p>\n\n<ol>\n<li>Close Edge</li>\n<li>Open Terminal</li>\n<li>Type <code>defaults write com.microsoft.edgemac EdgeWorkspacesEnabled -bool true</code> and Enter</li>\n<li>Open Edge</li>\n<li>Go to the <code>edge://settings/?search=workspaces</code></li>\n<li>Appearance &gt; Toolbar - enable <code>Workspaces</code> </li>\n</ol>\n\n<p>P.S. Not a Microsoft Edge user, just was trying to help somebody to setup <a href=\"/r/openin/comments/1pa9ygb/not_compatible_with_microsoft_edge_workspaces/\">OpenIn with Microsoft Edge Workspaces</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Edge Android deletes all saved logins/passwords!",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/",
+      "pubDate": "Tue, 2 Dec 2025 12:51:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc7mcj/edge_android_deletes_all_saved_loginspasswords/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Whenever I open Edge on Android, it empties its list of saved logins/passwords. Thankfully I have a backup. It&#39;s a known bug (stable, beta, and canary all suffer from it). But when will it be fixed?</p>\n\n<p>PS: Probably doesn&#39;t affect those that sync their passwords with their MS account.</p>\n\n<p><a href=\"/preview/pre/dx4a8tf8fs4g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=0a25dc1b7933954f1b88cb8e06baa1f0f62af34a\">/preview/pre/dx4a8tf8fs4g1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=0a25dc1b7933954f1b88cb8e06baa1f0f62af34a</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "black bar on top edge mobile",
       "link": "/gallery/1pc5zjw",
       "guid": "/gallery/1pc5zjw",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pa8fsj/ipad_version/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Just started using the iPad app, and it looks like a cross between the iPhone and desktop versions?</p>\n\n<p>Given the space available, especially in landscape mode, I hope they add more of the desktop features into it. </p>\n\n<p>Showing the Favourite bar and pinning extensions/history/collections would be nice. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Edge won't stop opening on windows startup (even after I disabled the setting)",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/",
-      "pubDate": "Sat, 29 Nov 2025 14:47:58 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9qpoc/edge_wont_stop_opening_on_windows_startup_even/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I re-start (windows 11) Microsoft Edge opens automatically.<br/>\nI do not want this.</p>\n\n<p><strong>Things I have tried that did not work:</strong><br/>\n1) Disabled it under Startup Apps in Task Manager</p>\n\n<p>2) Confirmed that it is disabled under Widows Settings &gt; Startup<br/>\n- Disabled &quot;Automatically Save restartable Apps when I sign out</p>\n\n<p>3) Opened Edge Settings &gt; System &amp; Performance &gt;<br/>\n   - Disabled Startup Boost<br/>\n   - Disabled &quot;Continue Running Background Extensions when Edge is Closed&quot;</p>\n\n<p>4) Changed the Edge autostart settings in the registry  regedit.exe<br/>\n  (removed  Data:[address of Edge] from AutoRunOnLogon)</p>\n\n<p>5) Re-started (more than once) after these attempts.</p>\n\n<p>It&#39;s STILL popping up every time I start.<br/>\nDoes anyone have other suggestions?    </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Clearing Cookies on Exit - Exceptions List",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/",
-      "pubDate": "Sat, 29 Nov 2025 18:19:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just noticed that Edge is back to clearing most cookies on exit including those for the sites on the exceptions list. </p>\n\n<p>Any reason for this, and is there a fix that I missed </p>\n\n<p>FYI The exceptions I added were under settings at <strong>Privacy, search, and services/Clear browsing data/Clear browsing data on close.</strong> </p>\n\n<p>i have the buttons for <strong>browsing history</strong> and <strong>cookies and other site data selected.</strong> </p>\n\n<p>The exceptions I added were at  <strong>Don&#39;t clear</strong></p>\n\n<p>Is there a particular format to use when adding to the don&#39;t clear list?   </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T11:34:09.533Z"
+  "lastFetched": "2025-12-02T13:50:55.134Z"
 }

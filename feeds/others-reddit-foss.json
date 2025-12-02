@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "OneUptime - Open-Source Observability Platform (Dec 2025 update)",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/",
+      "pubDate": "Tue, 2 Dec 2025 12:03:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>OneUptime (<a href=\"https://github.com/oneuptime/oneuptime\">https://github.com/oneuptime/oneuptime</a>) is the open-source alternative to Incident.io + StausPage.io + UptimeRobot + Loggly + PagerDuty. It&#39;s 100% free and you can self-host it on your VM / server. OneUptime has Uptime Monitoring, Logs Management, Status Pages, Tracing, On Call Software, Incident Management and more all under one platform.</p>\n\n<p><strong>Updates:</strong></p>\n\n<p><strong>Native integration with Microsoft Teams and Slack:</strong> Now you can intergrate OneUptime with Slack / Teams natively (even if you&#39;re self-hosted!). OneUptime can create new channels when incidents happen, notify slack / teams users who are on-call and even write up a draft postmortem for you based on slack channel conversation and more!</p>\n\n<p><strong>Dashboards</strong> (just like Datadog): Collect any metrics you like and build dashboard and share them with your team!</p>\n\n<p><strong>Roadmap:</strong></p>\n\n<p><strong>AI Agent:</strong> Our agent automatically detects and fixes exceptions, resolves performance issues, and optimizes your codebase. It can be fully self‑hosted, ensuring that no code is ever transmitted outside your environment.</p>\n\n<p><strong>OPEN SOURCE COMMITMENT:</strong> Unlike other companies, we will always be FOSS under Apache License. We&#39;re 100% open-source and no part of OneUptime is behind the walled garden.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "FOSS Win10 calendar app",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pbv24z/foss_win10_calendar_app/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pbv24z/foss_win10_calendar_app/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2uma9/mbcompass_new_version_v1112_brings_breaking/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>MBCompass: A popular modern FOSS Compass and Navigation app without Ads, IAP, or Tracking</p>\n\n<p>New Release: MBCompass <strong>v1.1.12</strong></p>\n\n<p><em>This release and upcoming ones follow the feature roadmap proposed in the</em> <a href=\"https://github.com/CompassMB/MBCompass/blob/main/mbcompass_v2.0_dsn_proposal.png\"><strong><em>v2 design proposal</em></strong></a><em>.</em></p>\n\n<blockquote>\n</blockquote>\n\n<p>Features</p>\n\n<ul>\n<li><strong>True North Support:</strong> Easily switch between <strong>True North</strong> and <strong>Magnetic North</strong> using the new toggle in Settings.</li>\n<li><strong>AMOLED True Dark Theme</strong> Added a pure-black AMOLED mode for improved contrast and better battery efficiency on OLED displays.</li>\n<li><strong>Heading Status Indicator:</strong> A new on-screen indicator now clearly shows whether the compass is currently using <strong>True North</strong> or <strong>Magnetic North</strong>.</li>\n</ul>\n\n<p>Fixes &amp; Improvements</p>\n\n<ul>\n<li><strong>Sensor Status Dialog Fix:</strong> Resolved an issue where the dialog content was getting cut off on smaller screens.</li>\n<li><strong>General UI &amp; Stability Updates:</strong> Minor interface refinements and performance improvements for a smoother experience.</li>\n</ul>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "[News] XWiki launches official newsroom for journalists covering open source and digital sovereignty",
-      "link": "https://redlib.perennialte.ch//r/XWiki/comments/1p2ww01/news_xwiki_launches_official_newsroom_for/",
-      "guid": "https://redlib.perennialte.ch//r/XWiki/comments/1p2ww01/news_xwiki_launches_official_newsroom_for/",
-      "pubDate": "Fri, 21 Nov 2025 12:07:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2wx7x/news_xwiki_launches_official_newsroom_for/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2wx7x/news_xwiki_launches_official_newsroom_for/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-02T11:33:54.670Z"
+  "lastFetched": "2025-12-02T13:50:39.939Z"
 }

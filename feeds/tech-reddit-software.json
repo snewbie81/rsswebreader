@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Best open-source software that everyone needs to know about?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
+      "pubDate": "Tue, 2 Dec 2025 11:40:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>What&#39;s one piece of open-source software that everyone should use and know about?</p>\n\n<p>Vote on the best one in the comments.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Have You Ever Bought a Cheap Tool That Ended Up Costing More?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
@@ -40,12 +49,39 @@
       "thumbnail": null
     },
     {
+      "title": "EyeRest – open-source tray app that reminds you to follow the 20–20–20 rule",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
+      "pubDate": "Tue, 2 Dec 2025 12:03:24 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’d like to share a small open-source Windows tray application I’ve been working on called <strong>EyeRest</strong>. It’s designed to help reduce eye strain during long screen sessions by reminding you to follow the 20–20–20 rule:</p>\n\n<p>Every 20 minutes, look at something about 20 feet (~6 meters) away for at least 20 seconds.</p>\n\n<p>I spend a lot of time in front of a monitor (coding, studying, etc.) and kept forgetting to take short eye breaks, so I ended up building a tiny tool that quietly takes care of the timing for me.</p>\n\n<p><strong>What EyeRest does</strong></p>\n\n<p>- Runs quietly in the system tray (notification area).</p>\n\n<p>- Shows a desktop notification when it’s time to rest your eyes:</p>\n\n<p>- Uses Windows 10/11 toast notifications when available,</p>\n\n<p>- Falls back to a classic tray balloon if toasts aren’t supported or fail.</p>\n\n<p>- Lets you configure the reminder interval (default is 20 minutes).</p>\n\n<p>- Optional left-click toggle on the tray icon:</p>\n\n<p>- One icon when reminders are active,</p>\n\n<p>- A “snoozed” icon when reminders are off.</p>\n\n<p>- Small Options dialog + an About window (version, author, privacy note).</p>\n\n<p>- Built with .NET Framework 4.8 / WinForms, using an ApplicationContext so it runs without a main window.</p>\n\n<p>The goal is to keep it as minimal and unobtrusive as possible: no big UI, no background services, just a tray icon and a couple of small dialogs.</p>\n\n<p><strong>Privacy</strong></p>\n\n<p>- No telemetry  </p>\n\n<p>- No accounts  </p>\n\n<p>- No network calls  </p>\n\n<p>Everything happens locally on your machine. The app only shows notifications, updates the tray icon, and opens small windows. The source code is available if you’d like to verify this or adapt it.</p>\n\n<p><strong>Download / Source</strong></p>\n\n<p>- Microsoft Store (MSIX desktop app)  </p>\n\n<p><a href=\"https://apps.microsoft.com/detail/9MW31PJW185Q\">https://apps.microsoft.com/detail/9MW31PJW185Q</a></p>\n\n<p>- GitHub (source code + MSI and MSIX installer)  </p>\n\n<p><a href=\"https://github.com/necdetsanli/EyeRest\">https://github.com/necdetsanli/EyeRest</a></p>\n\n<p><strong>Feedback / contributions</strong></p>\n\n<p>If you try <strong>EyeRest</strong> and have ideas for extra options (e.g. better persistence, snooze behavior, smarter idle detection) or run into any issues, I’d really appreciate your feedback.</p>\n\n<p>You can reply here or open an issue/PR on GitHub – I’m open to suggestions and contributions.</p>\n\n<p>Thanks for reading, and remember to give your eyes a break 🙂</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Curious if others care about how their browser manages tabs",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
       "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Are small AI models the next big shift in software development?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/",
+      "pubDate": "Tue, 2 Dec 2025 12:34:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am noticing a growing trend toward small AI models that run locally and focus on one task instead of trying to do everything. These lightweight models require less GPU power, work offline, and can be integrated directly into apps without cloud costs.</p>\n\n<p>Some examples people are experimenting with:<br/>\n• Local code assistants under 3B parameters<br/>\n• Offline speech-to-text engines<br/>\n• Personal RAG systems trained on small datasets<br/>\n• Tiny models for home automation and IoT<br/>\n• Local AI copilots that work inside specific tools</p>\n\n<p>The idea is simple: use many small and efficient models instead of one large general model.</p>\n\n<p>Do you think small and local AI tools will become a major part of future software, or will large cloud models continue to dominate?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Help tracking down resizable overlay grid software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6xxk/help_tracking_down_resizable_overlay_grid_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6xxk/help_tracking_down_resizable_overlay_grid_software/",
+      "pubDate": "Tue, 2 Dec 2025 12:16:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6xxk/help_tracking_down_resizable_overlay_grid_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an exe file called DPCO.exe  </p>\n\n<p>It was an overlay grid software, but is not working now. The file seems to be corrupted. (uploaded to ChatGPT and it said it was missing headers or something), so compatibility settings are not working either.   </p>\n\n<p>The software didn&#39;t require install, it just worked by clicking the exe file<br/>\nIt opens up a popup, that is similar to Meazure, but it has a lot more functions<br/>\nThere are buttons that have preset grids, like golden ratio, thirds etc, and it has an option for a custom grid,<br/>\nthe grid lines can have preset colours or you can hex code your own.<br/>\nIt also has the option to have multiple grids overlay<br/>\nIts used to compose photos for cropping and positioning.<br/>\nIt was free</p>\n\n<p>I cannot find the original website.</p>\n\n<p>Its not PhiMatrix. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -81,7 +117,7 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/",
       "pubDate": "Mon, 1 Dec 2025 22:05:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I run the installer it doesn&#39;t give me an error, it simply just doesn&#39;t open up or anything.</p>\n\n<p>I&#39;ve tried turning off windows defender, making the installer an exception, and turning windows features on and off. I also went and turned automatic updates on in case that was the problem (is it bad to leave it on?)</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I run the installer it doesn&#39;t give me an error, it simply just doesn&#39;t open up or anything.</p>\n\n<p>I&#39;ve tried turning off windows defender, making the installer an exception, and turning windows features on and off. I also went and turned automatic updates on in case that was the problem (is it bad to leave it on?)</p>\n\n<p>Edit: I need dotnet 3.5 to play Arkham Asylum, but on a windows 10 laptop for some reason the game just works without even having dotnet 3.5?? I don&#39;t know why. I guess I have to make do with worse screen and graphics.</p>\n\n<p><strong>Edit 2: I made it work on the better pc. What happened is that some guy on discord I&#39;ve met a month ago while playing games while drunk, just told me to pirate the game. And that one just works. Thanks steam, I&#39;m refunding the game, and giving that guy the money instead.</strong></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -157,6 +193,15 @@
       "thumbnail": null
     },
     {
+      "title": "I build a zero knowledge passwords manager open source and open for feedback",
+      "link": "https://eazypasswords.com",
+      "guid": "https://eazypasswords.com",
+      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "My side project just hit 80 users",
       "link": "/gallery/1pbtay5",
       "guid": "/gallery/1pbtay5",
@@ -175,15 +220,6 @@
       "thumbnail": null
     },
     {
-      "title": "I build a zero knowledge passwords manager open source and open for feedback",
-      "link": "https://eazypasswords.com",
-      "guid": "https://eazypasswords.com",
-      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Any software for windows similar to Lyric Fever for macos?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>This software basically shows the lyrics of the song you&#39;re playing on Spotify on top</p>\n\n<p><a href=\"/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395\">/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "iPhone 13 mini",
-      "link": "https://redlib.perennialte.ch//r/iphone/comments/1pbk4hq/iphone_13_mini/",
-      "guid": "https://redlib.perennialte.ch//r/iphone/comments/1pbk4hq/iphone_13_mini/",
-      "pubDate": "Mon, 1 Dec 2025 18:12:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbk5sm/iphone_13_mini/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbk5sm/iphone_13_mini/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Which PDF Editors Support Merged Page Links",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
-      "pubDate": "Mon, 1 Dec 2025 16:27:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to merge 2 pdf files together. The first file has a number of internal page links within itself ie. click to jump to page 13, click to page 1, etc. The second file has no internal page links. Is there a (preferably free) editor that can merge to the 2 files and keep the links happy from file 1, in the new merged file? I&#39;ve built links with PDFGear but when I merge, they disappear or some jump to incorrect pages. I&#39;ve also looked at Bento, small pdf, etc. Any suggestions on a working solution for either Windows/MacOS/www?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Which RDP for Windows laptop to Windows Server connection for Client Project?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/",
-      "pubDate": "Mon, 1 Dec 2025 11:40:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbalju/which_rdp_for_windows_laptop_to_windows_server/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey i have a client in the tax consultancy space and will need to work on their windows server-hosted programms remotely from my laptop. </p>\n\n<p>I will mainly be accessing a CRM to build automations on it using UiPath or pywinauto scripts.</p>\n\n<p>Now I am wondering which software is the best that allows working on this programm AND is also safe for GDPR concerns. Should i just use Windows&#39; Remote Desktop or self host with RustDesk and Twingate (like NetworkChuck) or i heard using Tailscale or Parsec etc. </p>\n\n<p>I am rather a beginner in networking so it should also allow the easiest entry while maintaining safety.</p>\n\n<p>Can you help me somehow? I would appreciate it a lot!</p>\n\n<p>Thanks and all the best</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Adobe Acrobat end of support",
-      "link": "https://redlib.perennialte.ch//r/Adobe/comments/1pbfipe/adobe_acrobat_end_of_support/",
-      "guid": "https://redlib.perennialte.ch//r/Adobe/comments/1pbfipe/adobe_acrobat_end_of_support/",
-      "pubDate": "Mon, 1 Dec 2025 15:24:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbfkxw/adobe_acrobat_end_of_support/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbfkxw/adobe_acrobat_end_of_support/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T11:34:14.458Z"
+  "lastFetched": "2025-12-02T13:51:00.450Z"
 }
