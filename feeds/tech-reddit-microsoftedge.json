@@ -49,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "Is there any way to customise and organise the new tab a little more?",
-      "link": "/img/l1qh3f0l6r4g1.jpeg",
-      "guid": "/img/l1qh3f0l6r4g1.jpeg",
-      "pubDate": "Tue, 2 Dec 2025 08:40:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc3fvc/is_there_any_way_to_customise_and_organise_the/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I was wondering if there’s any way to group the shortcuts into folders, kind of like on phones so that all my uni/entertainment/work stuff can be in their respective, organised places. And also just clean up the new tab a little by getting rid of all the news stuff at the bottom? Just simplify it a bit overall.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "How to enable Copilot button on Linux?",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbvbas/how_to_enable_copilot_button_on_linux/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbvbas/how_to_enable_copilot_button_on_linux/",
       "pubDate": "Tue, 2 Dec 2025 01:31:51 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbvbas/how_to_enable_copilot_button_on_linux/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I&#39;ve seen a post about this on reddit but I can&#39;t find it anymore... On Ubuntu, the Copilot button on the upper tight side doesn&#39;t work. I remember the person was saying that a dependency needs to be installed in order to make it work. </p>\n\n<p>If anyone knows how please tell me.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is there any way to customise and organise the new tab a little more?",
+      "link": "/img/l1qh3f0l6r4g1.jpeg",
+      "guid": "/img/l1qh3f0l6r4g1.jpeg",
+      "pubDate": "Tue, 2 Dec 2025 08:40:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc3fvc/is_there_any_way_to_customise_and_organise_the/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I was wondering if there’s any way to group the shortcuts into folders, kind of like on phones so that all my uni/entertainment/work stuff can be in their respective, organised places. And also just clean up the new tab a little by getting rid of all the news stuff at the bottom? Just simplify it a bit overall.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T19:33:41.149Z"
+  "lastFetched": "2025-12-02T20:45:07.043Z"
 }

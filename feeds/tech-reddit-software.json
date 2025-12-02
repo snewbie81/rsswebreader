@@ -49,6 +49,24 @@
       "thumbnail": null
     },
     {
+      "title": "37signals just open-sourced a new kanban tool (Fizzy)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/",
+      "pubDate": "Tue, 2 Dec 2025 20:27:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>37signals (the team behind Basecamp and HEY) just released Fizzy - an open source kanban tool. You can run it yourself for free or pay $20/month for hosted.\n\nI&#39;ve used Basecamp for years and took Fizzy for a spin today. What stood out wasn&#39;t just the fresh take, it&#39;s the attention to detail throughout. For anyone building software, it&#39;s worth poking around just to see how they handle the small stuff.\n\nSource code: https://github.com/basecamp/fizzy\n\nSite: https://fizzy.do\n\nAnyone else check it out? Curious what this community thinks.\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is there a free software or tool with which I can merge huge pictures together?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcjbg9/is_there_a_free_software_or_tool_with_which_i_can/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcjbg9/is_there_a_free_software_or_tool_with_which_i_can/",
+      "pubDate": "Tue, 2 Dec 2025 20:20:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjbg9/is_there_a_free_software_or_tool_with_which_i_can/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I merged many pictures together so I&#39;ve got 12x~120 MB pictures. Now I have to merge all of these 12 pictures to one picture. I&#39;ve used Batch Image Merger from Github but it cant merge all together using that tool because it gives out an error. Now I am looking for another tool or software with which I could merge all 12 pictures together. Do you have any suggestions?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Video Editing Software",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
@@ -112,6 +130,15 @@
       "thumbnail": null
     },
     {
+      "title": "Curious if others care about how their browser manages tabs",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
+      "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Are small AI models the next big shift in software development?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/",
@@ -136,24 +163,6 @@
       "pubDate": "Tue, 2 Dec 2025 05:03:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that lets you input a transparent PNG, then calculates the &quot;center&quot; of it. Pretty much taking every pixel, and averaging their location based on opacity. So for each pixel, find the opacity and multiply both x and y coordinates by it. Then, finding the sum of the x and y values (adjusted for opacity), and dividing by the total number of pixels on each dimension.</p>\n\n<p>Eg. 5x7px png could look like this:</p>\n\n<p>xa=1, ya=1, opacitya=1; value x=1, y=1</p>\n\n<p>xb=2, yb=1, opacity=0; value x=0, y=0</p>\n\n<p>xc=3, yc=1, opacity=0; value x=0, y=0</p>\n\n<p>(...)</p>\n\n<p>xai=7, yai=5, opacityai=0.5; value x=3.5, y=2.5</p>\n\n<p>sum(x)/count(x)=xavg<br/>\nsum(y)/count(y)=yavg</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Curious if others care about how their browser manages tabs",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
-      "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Anyone looking for frontend Software engineering jobs or related jobs",
-      "link": "https://redlib.perennialte.ch//r/cscareers/comments/1pc4hu2/anyone_looking_for_frontend_software_engineering/",
-      "guid": "https://redlib.perennialte.ch//r/cscareers/comments/1pc4hu2/anyone_looking_for_frontend_software_engineering/",
-      "pubDate": "Tue, 2 Dec 2025 09:57:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4lsl/anyone_looking_for_frontend_software_engineering/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4lsl/anyone_looking_for_frontend_software_engineering/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbxa5u/any_programs_out_there_that_will_help_me_convert/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a ton of HIS files (never seen them before), not getting much info online for how to get them into audio (they are in the audio folder of a computer game I&#39;m trying to fix audio for)</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "How to find an image on my PC with a text description?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbvc41/how_to_find_an_image_on_my_pc_with_a_text/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbvc41/how_to_find_an_image_on_my_pc_with_a_text/",
-      "pubDate": "Tue, 2 Dec 2025 01:32:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbvc41/how_to_find_an_image_on_my_pc_with_a_text/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have thousands of photos on my PC, and I want to find one of my father with his cat. Is there an app that can search my PC for it if I give a description like &quot;dad with his cat&quot;?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T19:33:47.654Z"
+  "lastFetched": "2025-12-02T20:45:12.062Z"
 }

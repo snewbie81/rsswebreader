@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Inactive time alerts",
+      "link": "https://redlib.perennialte.ch//r/androidapps/comments/1pcfo33/inactive_time_alerts/",
+      "guid": "https://redlib.perennialte.ch//r/androidapps/comments/1pcfo33/inactive_time_alerts/",
+      "pubDate": "Tue, 2 Dec 2025 20:05:33 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pciwuk/inactive_time_alerts/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pciwuk/inactive_time_alerts/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Is there a foss app like Material Capsule: Dynamic UI?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcasoy/is_there_a_foss_app_like_material_capsule_dynamic/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcasoy/is_there_a_foss_app_like_material_capsule_dynamic/",
@@ -31,21 +40,21 @@
       "thumbnail": null
     },
     {
-      "title": "Backspace to delete whole word instead of letter by letter on Heliboard?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
-      "pubDate": "Tue, 2 Dec 2025 15:01:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, I&#39;m hoping this is possible. I&#39;m finally trying to get away from Swiftkey and was wondering if this was a thing. Is there a setting somewhere that I can enable?</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "how to live with small storage phone?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/",
       "pubDate": "Tue, 2 Dec 2025 12:51:39 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hallo, i just installed Lineage OS on pixel 3XL my friend gave to me, and thinking hard to use it as my primary phone. It needs a bit of investment(glass, battery and case, so like 35€), is it worth it? Biggest concern is, that it does&#39;nt have SD card slot, and it has only 64GB of storage, so its 96GB less of what i use now, and its full. Music, maps and media(lot of videos).</p>\n\n<p>How to survive with such small storage?</p>\n\n<p>Is there some clever backup system, which will automatically move all media not marked with star to my server, or laptop?</p>\n\n<p>Im thinking about some backup tools running in termux, but i wish to keep some media on phone(important photos to show to friends).</p>\n\n<p>Is there some nice solution? How you cope with that small storage?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Backspace to delete whole word instead of letter by letter on Heliboard?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
+      "pubDate": "Tue, 2 Dec 2025 15:01:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, I&#39;m hoping this is possible. I&#39;m finally trying to get away from Swiftkey and was wondering if this was a thing. Is there a setting somewhere that I can enable?</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>How do I add swipe profile?  Complete imbecile here I get the gist of it but I&#39;m stumped. Currently using SwiftKey. 1+13</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Help needed with updating Refreezer ( newbie)",
-      "link": "https://redlib.perennialte.ch//r/opensource/comments/1p8wha4/help_needed_with_updating_refreezer_newbie/",
-      "guid": "https://redlib.perennialte.ch//r/opensource/comments/1p8wha4/help_needed_with_updating_refreezer_newbie/",
-      "pubDate": "Fri, 28 Nov 2025 14:49:53 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8woq4/help_needed_with_updating_refreezer_newbie/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8woq4/help_needed_with_updating_refreezer_newbie/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-02T19:33:29.148Z"
+  "lastFetched": "2025-12-02T20:44:55.367Z"
 }

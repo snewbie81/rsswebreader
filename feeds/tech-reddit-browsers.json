@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Which AI browser for work?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/",
+      "pubDate": "Tue, 2 Dec 2025 20:11:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Which AI browser do you use for work?</p>\n\n<p>Why?</p>\n\n<p>What do you do with it?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Achievements in fingerprinting resistance on my WebKit browser project, Pola (Cover Your Tracks results)",
       "link": "/img/ree2vfb5bo4g1.jpeg",
       "guid": "/img/ree2vfb5bo4g1.jpeg",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m the author of a library that tries to analyse the UserAgent (and related) headers of browsers. See <a href=\"https://github.com/nielsbasjes/yauaa\">https://github.com/nielsbasjes/yauaa</a> and <a href=\"https://yauaa.basjes.nl/\">https://yauaa.basjes.nl/</a>  </p>\n\n<p>I found that Samsung has recently ported their browser to Windows (<a href=\"https://browser.samsung.com/beta\">https://browser.samsung.com/beta</a>) but it can only be downloaded if you are in South Korea or in the US... and because I&#39;m in the Netherlands I cannot download and install it myself.</p>\n\n<p>Kind request to anyone who has downloaded this browser.  </p>\n\n<p>- Please visit my test site (which logs all request headers for analysis) <a href=\"https://try.yauaa.basjes.nl/\">https://try.yauaa.basjes.nl/</a> </p>\n\n<p>- Make sure you reload the page atleast once because not all request headers are sent on the first request (only the low entropy client hints are sent on the first request).</p>\n\n<p>- Ping me when you did that so I can pull the correct log entries from my server.</p>\n\n<p>Thanks!</p>\n\n<p>Niels Basjes</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Created a YouTube Content Filter to BLOCK ANYTHING based on WORDS",
-      "link": "/gallery/1paelu7",
-      "guid": "/gallery/1paelu7",
-      "pubDate": "Sun, 30 Nov 2025 09:56:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1paelu7/created_a_youtube_content_filter_to_block/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>It all started with this thread on Google&#39;s support forum: When a parent said that he is helpless and his kid is just kept crying and screaming because of the content on YouTubeKids, and he asked me if I can create a tool to block videos by keyword or tag. And when Later YouTube Forum maintainer deleted mine and other parents comments and locked the thread, I decided to create FilterTube.</p>\n\n<p><a href=\"https://support.google.com/youtubekids/thread/54509605/how-to-block-videos-by-keyword-or-tag?hl=en\">https://support.google.com/youtubekids/thread/54509605/how-to-block-videos-by-keyword-or-tag?hl=en</a></p>\n\n<p>My first version video showing its working - <a href=\"https://www.youtube.com/watch?v=c2EtLkTwqRw&amp;t=1s\">https://www.youtube.com/watch?v=c2EtLkTwqRw&amp;t=1s</a></p>\n\n<p>Right now you can install and try FilterTube on Chrome, Brave, Edge browser -</p>\n\n<p><a href=\"https://chromewebstore.google.com/detail/filtertube/cjmdggnnpmpchholgnkfokibidbbnfgc\">https://chromewebstore.google.com/detail/filtertube/cjmdggnnpmpchholgnkfokibidbbnfgc</a></p>\n\n<p>and on Firefox and Opera from the GitHub release page (still in review)-</p>\n\n<p><a href=\"https://github.com/varshneydevansh/FilterTube/releases/tag/3.0.5\">https://github.com/varshneydevansh/FilterTube/releases/tag/3.0.5</a></p>\n\n<p>I have plans to integrate local ML based solution to filter based on semantic and similar relation content so that user can be assured to never see a related concept content ever again.</p>\n\n<p>Main website - <a href=\"http://filtertube.in\">filtertube.in</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-02T19:33:43.540Z"
+  "lastFetched": "2025-12-02T20:45:09.427Z"
 }
