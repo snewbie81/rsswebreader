@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "My Microsoft account was hacked and alias was changed",
+      "link": "https://redlib.perennialte.ch//r/techsupport/comments/1pc4e1k/my_microsoft_account_was_hacked_and_alias_was/",
+      "guid": "https://redlib.perennialte.ch//r/techsupport/comments/1pc4e1k/my_microsoft_account_was_hacked_and_alias_was/",
+      "pubDate": "Tue, 2 Dec 2025 09:44:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc4epf/my_microsoft_account_was_hacked_and_alias_was/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc4epf/my_microsoft_account_was_hacked_and_alias_was/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Is there any way to customise and organise the new tab a little more?",
       "link": "/img/l1qh3f0l6r4g1.jpeg",
       "guid": "/img/l1qh3f0l6r4g1.jpeg",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m hoping some developers working on Edge read this and fix this bug. I like using Wikipedia and Reddit (and other sites too) on full-screen mode and I don&#39;t really like how attempting to do that causes the browser to crash.</p>\n\n<p>This bug is reproducible. Edge Dev crashes exactly on the third press of the <code>F11</code> key. The interval between the presses seems to be indefinite, i.e., be it half a second or 15 minutes between presses, the browser will still crash on the third press of the <code>F11</code> key. I tried it on two different PCs, and they exhibit the same bug. The action of opening the window in full-screen mode doesn&#39;t seem to cause this because interacting with some on-page component to turn on full-screen — such as a button — doesn&#39;t seem to be the cause. I tried repeatedly turning full-screen on and off on YouTube and also using my JavaScript script several times, and the browser does not crash due to those actions. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Copilot button and features missing",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/",
-      "pubDate": "Sat, 29 Nov 2025 16:46:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tjk5/copilot_button_and_features_missing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>For a few weeks, the copilot button has been missing, and I have tried my best to fix it, but I couldn&#39;t  </p>\n\n<p>Clue that might help:<br/>\n1. The AI innovations section and Ask Copilot (when reading a pdf) are also missing from the Edge settings<br/>\n2. When I installed Edge Beta, the button and AI innovations section were there at first launch, then they were gone after the second launch ( I did not log in to the same Microsoft account )<br/>\n3. Same thing as the second one, but for another pc user account<br/>\n4. Same thing as the second one, but when the edge was updated<br/>\n5. The Copilot website works completely fine, even when logged in<br/>\n6. Copilot Vision works completely fine  </p>\n\n<p>things I have tried:<br/>\n1. resetting edge settings<br/>\n2. logging out and in<br/>\n3. Turning the copilot off and on<br/>\n4. Reinstalling Edge from settings<br/>\n5. Turning everything on related to Copilot in edge://flags<br/>\n6. Forcefully deleting Edge and reinstalling it from the official webpage<br/>\n7. Removing sync data and turning sync completely off<br/>\n8. Switching Microsoft account</p>\n\n<p>Related information:<br/>\nWindows 11 Pro latest update (10.0.26200 Build 26200)<br/>\nMicrosoft Edge is updated (Version 142.0.3595.94 (Official build) (64-bit))  </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T08:58:42.610Z"
+  "lastFetched": "2025-12-02T09:51:30.742Z"
 }
