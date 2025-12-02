@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Self-hypnosis with cooling mental imagery could ease hot flashes",
+      "link": "https://www.sciencenews.org/article/self-hypnosis-hot-flashes-menopause",
+      "guid": "https://www.sciencenews.org/?p=3162880",
+      "pubDate": "Tue, 02 Dec 2025 14:00:00 +0000",
+      "description": "Postmenopausal women who listened to self-guided hypnosis recordings daily for six weeks saw meaningful improvements in hot flash symptoms.",
+      "content": "Postmenopausal women who listened to self-guided hypnosis recordings daily for six weeks saw meaningful improvements in hot flash symptoms.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112025_MG_hypnosis_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Personalized ‘prehabilitation’ helps the body brace for major surgery",
       "link": "https://www.sciencenews.org/article/prehabilitation-surgery-immune-system",
       "guid": "https://www.sciencenews.org/?p=3162605",
@@ -173,18 +182,9 @@
       "description": "Solve the math puzzle from our December 2025 issue, in which a holiday gift exchange occurs.",
       "content": "Solve the math puzzle from our December 2025 issue, in which a holiday gift exchange occurs.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_puzzle_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Here’s how Rudolph’s light-up nose might be possible",
-      "link": "https://www.sciencenews.org/article/rudolph-nose-christmas-reindeer-holiday",
-      "guid": "https://www.sciencenews.org/?p=3162585",
-      "pubDate": "Fri, 21 Nov 2025 13:00:00 +0000",
-      "description": "Simple chemistry could give the reindeer his famously bright snout. But physics would make it look different colors from the ground.",
-      "content": "Simple chemistry could give the reindeer his famously bright snout. But physics would make it look different colors from the ground.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_technically-fiction_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-02T13:50:50.292Z"
+  "lastFetched": "2025-12-02T14:52:23.891Z"
 }

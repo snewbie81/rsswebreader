@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "EyeRest – open-source tray app that reminds you to follow the 20–20–20 rule",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
+      "pubDate": "Tue, 2 Dec 2025 12:03:24 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’d like to share a small open-source Windows tray application I’ve been working on called <strong>EyeRest</strong>. It’s designed to help reduce eye strain during long screen sessions by reminding you to follow the 20–20–20 rule:</p>\n\n<p>Every 20 minutes, look at something about 20 feet (~6 meters) away for at least 20 seconds.</p>\n\n<p>I spend a lot of time in front of a monitor (coding, studying, etc.) and kept forgetting to take short eye breaks, so I ended up building a tiny tool that quietly takes care of the timing for me.</p>\n\n<p><strong>What EyeRest does</strong></p>\n\n<p>- Runs quietly in the system tray (notification area).</p>\n\n<p>- Shows a desktop notification when it’s time to rest your eyes:</p>\n\n<p>- Uses Windows 10/11 toast notifications when available,</p>\n\n<p>- Falls back to a classic tray balloon if toasts aren’t supported or fail.</p>\n\n<p>- Lets you configure the reminder interval (default is 20 minutes).</p>\n\n<p>- Optional left-click toggle on the tray icon:</p>\n\n<p>- One icon when reminders are active,</p>\n\n<p>- A “snoozed” icon when reminders are off.</p>\n\n<p>- Small Options dialog + an About window (version, author, privacy note).</p>\n\n<p>- Built with .NET Framework 4.8 / WinForms, using an ApplicationContext so it runs without a main window.</p>\n\n<p>The goal is to keep it as minimal and unobtrusive as possible: no big UI, no background services, just a tray icon and a couple of small dialogs.</p>\n\n<p><strong>Privacy</strong></p>\n\n<p>- No telemetry  </p>\n\n<p>- No accounts  </p>\n\n<p>- No network calls  </p>\n\n<p>Everything happens locally on your machine. The app only shows notifications, updates the tray icon, and opens small windows. The source code is available if you’d like to verify this or adapt it.</p>\n\n<p><strong>Download / Source</strong></p>\n\n<p>- Microsoft Store (MSIX desktop app)  </p>\n\n<p><a href=\"https://apps.microsoft.com/detail/9MW31PJW185Q\">https://apps.microsoft.com/detail/9MW31PJW185Q</a></p>\n\n<p>- GitHub (source code + MSI and MSIX installer)  </p>\n\n<p><a href=\"https://github.com/necdetsanli/EyeRest\">https://github.com/necdetsanli/EyeRest</a></p>\n\n<p><strong>Feedback / contributions</strong></p>\n\n<p>If you try <strong>EyeRest</strong> and have ideas for extra options (e.g. better persistence, snooze behavior, smarter idle detection) or run into any issues, I’d really appreciate your feedback.</p>\n\n<p>You can reply here or open an issue/PR on GitHub – I’m open to suggestions and contributions.</p>\n\n<p>Thanks for reading, and remember to give your eyes a break 🙂</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Have You Ever Bought a Cheap Tool That Ended Up Costing More?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
@@ -49,12 +58,39 @@
       "thumbnail": null
     },
     {
-      "title": "EyeRest – open-source tray app that reminds you to follow the 20–20–20 rule",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
-      "pubDate": "Tue, 2 Dec 2025 12:03:24 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’d like to share a small open-source Windows tray application I’ve been working on called <strong>EyeRest</strong>. It’s designed to help reduce eye strain during long screen sessions by reminding you to follow the 20–20–20 rule:</p>\n\n<p>Every 20 minutes, look at something about 20 feet (~6 meters) away for at least 20 seconds.</p>\n\n<p>I spend a lot of time in front of a monitor (coding, studying, etc.) and kept forgetting to take short eye breaks, so I ended up building a tiny tool that quietly takes care of the timing for me.</p>\n\n<p><strong>What EyeRest does</strong></p>\n\n<p>- Runs quietly in the system tray (notification area).</p>\n\n<p>- Shows a desktop notification when it’s time to rest your eyes:</p>\n\n<p>- Uses Windows 10/11 toast notifications when available,</p>\n\n<p>- Falls back to a classic tray balloon if toasts aren’t supported or fail.</p>\n\n<p>- Lets you configure the reminder interval (default is 20 minutes).</p>\n\n<p>- Optional left-click toggle on the tray icon:</p>\n\n<p>- One icon when reminders are active,</p>\n\n<p>- A “snoozed” icon when reminders are off.</p>\n\n<p>- Small Options dialog + an About window (version, author, privacy note).</p>\n\n<p>- Built with .NET Framework 4.8 / WinForms, using an ApplicationContext so it runs without a main window.</p>\n\n<p>The goal is to keep it as minimal and unobtrusive as possible: no big UI, no background services, just a tray icon and a couple of small dialogs.</p>\n\n<p><strong>Privacy</strong></p>\n\n<p>- No telemetry  </p>\n\n<p>- No accounts  </p>\n\n<p>- No network calls  </p>\n\n<p>Everything happens locally on your machine. The app only shows notifications, updates the tray icon, and opens small windows. The source code is available if you’d like to verify this or adapt it.</p>\n\n<p><strong>Download / Source</strong></p>\n\n<p>- Microsoft Store (MSIX desktop app)  </p>\n\n<p><a href=\"https://apps.microsoft.com/detail/9MW31PJW185Q\">https://apps.microsoft.com/detail/9MW31PJW185Q</a></p>\n\n<p>- GitHub (source code + MSI and MSIX installer)  </p>\n\n<p><a href=\"https://github.com/necdetsanli/EyeRest\">https://github.com/necdetsanli/EyeRest</a></p>\n\n<p><strong>Feedback / contributions</strong></p>\n\n<p>If you try <strong>EyeRest</strong> and have ideas for extra options (e.g. better persistence, snooze behavior, smarter idle detection) or run into any issues, I’d really appreciate your feedback.</p>\n\n<p>You can reply here or open an issue/PR on GitHub – I’m open to suggestions and contributions.</p>\n\n<p>Thanks for reading, and remember to give your eyes a break 🙂</p>\n</div><!-- SC_ON -->",
+      "title": "Best identity and access management (IAM) systems for mid-size companies?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
+      "pubDate": "Tue, 2 Dec 2025 14:46:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Seeking help finding a solid identity and access management (IAM) tool for our mid-sized US based company. I’m getting worried that my team isn’t as organized as we need to be – our account logins are being stored manually, we have a semi-configured Azure AD tenant, and we keep realizing that our manual tracking is out of date, especially when folks are offboarding, but we lack the bandwidth to manage this more diligently by hand.😏</p>\n\n<p>I finally got budget approval this quarter to standardize via an IAM platform and I’m trying to quickly make a list of IAM tools that would serve us well and solve our organization problems. We only want to have one software though, so please don’t recommend a combo of tools. </p>\n\n<p>Primary goals are straightforward: SSO and MFA across roughly 80 SaaS apps, usable audit trails and access reviews for SOC 2, automated provisioning and deprovisioning tied to updates in our HR software. </p>\n\n<p>Questions for folks in this sub: for a mid-size org, do you recommend getting IT-specific software? Any specific recommendations for an IAM? Any options that integrate well with your HR software?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any good preferably non-ai noise supression software ? WINDOWS / MIC ONLY",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9yga/any_good_preferably_nonai_noise_supression/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9yga/any_good_preferably_nonai_noise_supression/",
+      "pubDate": "Tue, 2 Dec 2025 14:32:58 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9yga/any_good_preferably_nonai_noise_supression/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>OS: windows.  </p>\n\n<p>As the title states, any good noise supression software for mic only ? I don&#39;t stream but I have a nice microphone I use for gaming and work calls/meetings.</p>\n\n<p>I don&#39;t want to pay for Krisp. Discords krisp mutes too much for me and is not customizable. I tried sonar from steel series gg, but hate the feature that splits your audio output into 3 or more channels, cannot be turned on and creates virtual sound devices I have to block in order to use my headphones normaly.</p>\n\n<p>I have come across <a href=\"/r/OnlineESLTeaching/comments/o3bul5/comment/h2b4mo7/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">this</a> comment, made me think if there are other alternatives ? Most google searches give the same results, youtube is not very helful either.</p>\n\n<p>Preferably open source, I don&#39;t want to pay subscription for some ai crap.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Video Editing Software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Thinking about release pacing after an idea I saw mentioned on FaceSeek",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9cq8/thinking_about_release_pacing_after_an_idea_i_saw/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9cq8/thinking_about_release_pacing_after_an_idea_i_saw/",
+      "pubDate": "Tue, 2 Dec 2025 14:07:55 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9cq8/thinking_about_release_pacing_after_an_idea_i_saw/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>While reviewing a small update cycle for one of my projects, I remembered a passing comment on FaceSeek about how people appreciate predictable rhythms more than fast bursts of changes. It made me rethink how frequently features should roll out, especially when users prefer stability over excitement. Adjusting pacing felt like a quiet but meaningful improvement. It reminded me that software isn’t just about adding features but about respecting how people use what already exists. These small considerations often shift the entire experience in subtle but important ways.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -191,45 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbv3da/please_help_me_with_something/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that will project the audio and picture of a PS1 onto my laptop screen through an HDMI converter and video capture card but I can&#39;t find any software that will allow me to do this, before you say to just use OBS, I can&#39;t use OBS because it won&#39;t even download on my laptop! </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I build a zero knowledge passwords manager open source and open for feedback",
-      "link": "https://eazypasswords.com",
-      "guid": "https://eazypasswords.com",
-      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "My side project just hit 80 users",
-      "link": "/gallery/1pbtay5",
-      "guid": "/gallery/1pbtay5",
-      "pubDate": "Tue, 2 Dec 2025 00:08:53 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbtebz/my_side_project_just_hit_80_users/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbtebz/my_side_project_just_hit_80_users/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "What's the smartest niche SaaS tool you've seen lately?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbtc4a/whats_the_smartest_niche_saas_tool_youve_seen/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbtc4a/whats_the_smartest_niche_saas_tool_youve_seen/",
-      "pubDate": "Tue, 2 Dec 2025 00:06:22 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbtc4a/whats_the_smartest_niche_saas_tool_youve_seen/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m a bit of a SaaS nerd, and I love finding those hyper-specific tools that solve one annoying problem incredibly well. The kind that makes you think, &quot;Why didn&#39;t I have this years ago?&quot;</p>\n\n<p>I was recently talking to an Amazon seller friend who was drowning in the manual process of reporting fake or policy-breaking reviews. It&#39;s a huge time-sink, and success is hit-or-miss. He mentioned switching to a TraceFuse review removal service, which basically uses AI to scan reviews, flag the ones that violate Amazon&#39;s ToS, and automatically file the removal cases. The &quot;pay-only-if-removed&quot; model seemed like a clever twist.</p>\n\n<p>It got me thinking: this is a perfect example of a niche SaaS. It&#39;s not trying to be everything to everyone. It&#39;s built for one vertical (Amazon sellers), automates a painful, repetitive task (manual report filing), and has a pricing model aligned with user success.</p>\n\n<p>So, my question for you all:</p>\n\n<p>What other super-niche, vertical-specific SaaS tools have you come across that genuinely impressed you with their focused approach? I&#39;m not talking about the next big CRM or project management platform. I mean the tools built for very specific professions, platforms, or problems.</p>\n\n<p>What problem does it solve?</p>\n\n<p>Why does its focus make it better than a generic tool?</p>\n\n<p>What was your &quot;aha&quot; moment with it?<br/>\nits my sport interesting:D</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Any software for windows similar to Lyric Fever for macos?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
-      "pubDate": "Mon, 1 Dec 2025 21:20:02 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>This software basically shows the lyrics of the song you&#39;re playing on Spotify on top</p>\n\n<p><a href=\"/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395\">/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T13:51:00.450Z"
+  "lastFetched": "2025-12-02T14:52:33.863Z"
 }
