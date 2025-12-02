@@ -13,15 +13,6 @@
       "thumbnail": null
     },
     {
-      "title": "TradingView Premium Lifetime Edition v2.9.6 (Windows &amp; Mac, 2025)",
-      "link": "https://redlib.perennialte.ch//r/ShitcoinTrades/comments/1oi85dc/tradingview_premium_lifetime_edition_v296_windows/",
-      "guid": "https://redlib.perennialte.ch//r/ShitcoinTrades/comments/1oi85dc/tradingview_premium_lifetime_edition_v296_windows/",
-      "pubDate": "Tue, 2 Dec 2025 17:47:37 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pcf4b5/tradingview_premium_lifetime_edition_v296_windows/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pcf4b5/tradingview_premium_lifetime_edition_v296_windows/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Super Mario 64 is technically libre software if you build the decomp, right?",
       "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
       "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
@@ -55,6 +46,15 @@
       "pubDate": "Mon, 24 Nov 2025 18:10:23 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1p5ofvf/ovnflow_opensource_linux_openvpn_client_project/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>OVN-Flow is a lightweight Open-Source VPN Client Project I have recently released.        </p>\n\n<p>This was my first publicly released Bash Scripting project. It originally started as a Script to automate the command to run my VPN config for the TryHackMe lesson VMs.       </p>\n\n<p>Over time, I decided to begin adding features to this script to continue my learning journey in bash scripting.      </p>\n\n<p>This project developed into a Lightweight VPN client with Multi-Configuration support directly from the interface, 2 Stage Connection Verification and optional Internet Connectivity checks.        </p>\n\n<p>I intend to continue working on this project and decided to release this Client as an Open-Source Project into the community. Any feedback would be greatly appreciated :)</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "ViewTouch Restaurant Point of Sale is a shining example of the promise, value, benefit and usefulness of Free Software. Licensed under the GPL, the code is available at GitHub.  In this era of Artificial Intelligence, ViewTouch presents an extraordinary opportunity for restaurateurs  and developers.",
+      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1p4a8s1/viewtouch_restaurant_point_of_sale_is_a_shining/",
+      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1p4a8s1/viewtouch_restaurant_point_of_sale_is_a_shining/",
+      "pubDate": "Sun, 23 Nov 2025 01:41:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1p4a8s1/viewtouch_restaurant_point_of_sale_is_a_shining/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I started developing restaurant point-of-sale software in 1979. I&#39;m still doing so in 2025. The Free Software License makes it possible for my 45-year-long ViewTouch software project to empower restaurant operations with unparalleled automation, efficiency, cost savings and flexibility. This year, artificial intelligence and a young new developer Ariel Brambila Pelaya, have achieved a refactoring enhancement of the entire ViewTouch codebase. ViewTouch is truly a special and unique example of the potential of free software. Restaurant operators, code developers interested in using artificial intelligence, and Free Software enthusiasts are all invited to join us in this new era!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/freesoftware.rss",
-  "lastFetched": "2025-12-02T17:48:45.891Z"
+  "lastFetched": "2025-12-02T19:00:32.543Z"
 }

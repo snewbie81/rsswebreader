@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Best identity and access management (IAM) systems for mid-size companies?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
+      "pubDate": "Tue, 2 Dec 2025 14:46:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Seeking help finding a solid identity and access management (IAM) tool for our mid-sized US based company. I’m getting worried that my team isn’t as organized as we need to be – our account logins are being stored manually, we have a semi-configured Azure AD tenant, and we keep realizing that our manual tracking is out of date, especially when folks are offboarding, but we lack the bandwidth to manage this more diligently by hand.😏</p>\n\n<p>I finally got budget approval this quarter to standardize via an IAM platform and I’m trying to quickly make a list of IAM tools that would serve us well and solve our organization problems. We only want to have one software though, so please don’t recommend a combo of tools. </p>\n\n<p>Primary goals are straightforward: SSO and MFA across roughly 80 SaaS apps, usable audit trails and access reviews for SOC 2, automated provisioning and deprovisioning tied to updates in our HR software. </p>\n\n<p>Questions for folks in this sub: for a mid-size org, do you recommend getting IT-specific software? Any specific recommendations for an IAM? Any options that integrate well with your HR software?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Thinking about release pacing after an idea I saw mentioned on FaceSeek",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc9cq8/thinking_about_release_pacing_after_an_idea_i_saw/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9cq8/thinking_about_release_pacing_after_an_idea_i_saw/",
@@ -40,12 +49,12 @@
       "thumbnail": null
     },
     {
-      "title": "EyeRest – open-source tray app that reminds you to follow the 20–20–20 rule",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
-      "pubDate": "Tue, 2 Dec 2025 12:03:24 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’d like to share a small open-source Windows tray application I’ve been working on called <strong>EyeRest</strong>. It’s designed to help reduce eye strain during long screen sessions by reminding you to follow the 20–20–20 rule:</p>\n\n<p>Every 20 minutes, look at something about 20 feet (~6 meters) away for at least 20 seconds.</p>\n\n<p>I spend a lot of time in front of a monitor (coding, studying, etc.) and kept forgetting to take short eye breaks, so I ended up building a tiny tool that quietly takes care of the timing for me.</p>\n\n<p><strong>What EyeRest does</strong></p>\n\n<p>- Runs quietly in the system tray (notification area).</p>\n\n<p>- Shows a desktop notification when it’s time to rest your eyes:</p>\n\n<p>- Uses Windows 10/11 toast notifications when available,</p>\n\n<p>- Falls back to a classic tray balloon if toasts aren’t supported or fail.</p>\n\n<p>- Lets you configure the reminder interval (default is 20 minutes).</p>\n\n<p>- Optional left-click toggle on the tray icon:</p>\n\n<p>- One icon when reminders are active,</p>\n\n<p>- A “snoozed” icon when reminders are off.</p>\n\n<p>- Small Options dialog + an About window (version, author, privacy note).</p>\n\n<p>- Built with .NET Framework 4.8 / WinForms, using an ApplicationContext so it runs without a main window.</p>\n\n<p>The goal is to keep it as minimal and unobtrusive as possible: no big UI, no background services, just a tray icon and a couple of small dialogs.</p>\n\n<p><strong>Privacy</strong></p>\n\n<p>- No telemetry  </p>\n\n<p>- No accounts  </p>\n\n<p>- No network calls  </p>\n\n<p>Everything happens locally on your machine. The app only shows notifications, updates the tray icon, and opens small windows. The source code is available if you’d like to verify this or adapt it.</p>\n\n<p><strong>Download / Source</strong></p>\n\n<p>- Microsoft Store (MSIX desktop app)  </p>\n\n<p><a href=\"https://apps.microsoft.com/detail/9MW31PJW185Q\">https://apps.microsoft.com/detail/9MW31PJW185Q</a></p>\n\n<p>- GitHub (source code + MSI and MSIX installer)  </p>\n\n<p><a href=\"https://github.com/necdetsanli/EyeRest\">https://github.com/necdetsanli/EyeRest</a></p>\n\n<p><strong>Feedback / contributions</strong></p>\n\n<p>If you try <strong>EyeRest</strong> and have ideas for extra options (e.g. better persistence, snooze behavior, smarter idle detection) or run into any issues, I’d really appreciate your feedback.</p>\n\n<p>You can reply here or open an issue/PR on GitHub – I’m open to suggestions and contributions.</p>\n\n<p>Thanks for reading, and remember to give your eyes a break 🙂</p>\n</div><!-- SC_ON -->",
+      "title": "Video Editing Software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -58,12 +67,12 @@
       "thumbnail": null
     },
     {
-      "title": "Video Editing Software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
-      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
+      "title": "EyeRest – open-source tray app that reminds you to follow the 20–20–20 rule",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/",
+      "pubDate": "Tue, 2 Dec 2025 12:03:24 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6p9y/eyerest_opensource_tray_app_that_reminds_you_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’d like to share a small open-source Windows tray application I’ve been working on called <strong>EyeRest</strong>. It’s designed to help reduce eye strain during long screen sessions by reminding you to follow the 20–20–20 rule:</p>\n\n<p>Every 20 minutes, look at something about 20 feet (~6 meters) away for at least 20 seconds.</p>\n\n<p>I spend a lot of time in front of a monitor (coding, studying, etc.) and kept forgetting to take short eye breaks, so I ended up building a tiny tool that quietly takes care of the timing for me.</p>\n\n<p><strong>What EyeRest does</strong></p>\n\n<p>- Runs quietly in the system tray (notification area).</p>\n\n<p>- Shows a desktop notification when it’s time to rest your eyes:</p>\n\n<p>- Uses Windows 10/11 toast notifications when available,</p>\n\n<p>- Falls back to a classic tray balloon if toasts aren’t supported or fail.</p>\n\n<p>- Lets you configure the reminder interval (default is 20 minutes).</p>\n\n<p>- Optional left-click toggle on the tray icon:</p>\n\n<p>- One icon when reminders are active,</p>\n\n<p>- A “snoozed” icon when reminders are off.</p>\n\n<p>- Small Options dialog + an About window (version, author, privacy note).</p>\n\n<p>- Built with .NET Framework 4.8 / WinForms, using an ApplicationContext so it runs without a main window.</p>\n\n<p>The goal is to keep it as minimal and unobtrusive as possible: no big UI, no background services, just a tray icon and a couple of small dialogs.</p>\n\n<p><strong>Privacy</strong></p>\n\n<p>- No telemetry  </p>\n\n<p>- No accounts  </p>\n\n<p>- No network calls  </p>\n\n<p>Everything happens locally on your machine. The app only shows notifications, updates the tray icon, and opens small windows. The source code is available if you’d like to verify this or adapt it.</p>\n\n<p><strong>Download / Source</strong></p>\n\n<p>- Microsoft Store (MSIX desktop app)  </p>\n\n<p><a href=\"https://apps.microsoft.com/detail/9MW31PJW185Q\">https://apps.microsoft.com/detail/9MW31PJW185Q</a></p>\n\n<p>- GitHub (source code + MSI and MSIX installer)  </p>\n\n<p><a href=\"https://github.com/necdetsanli/EyeRest\">https://github.com/necdetsanli/EyeRest</a></p>\n\n<p><strong>Feedback / contributions</strong></p>\n\n<p>If you try <strong>EyeRest</strong> and have ideas for extra options (e.g. better persistence, snooze behavior, smarter idle detection) or run into any issues, I’d really appreciate your feedback.</p>\n\n<p>You can reply here or open an issue/PR on GitHub – I’m open to suggestions and contributions.</p>\n\n<p>Thanks for reading, and remember to give your eyes a break 🙂</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -82,15 +91,6 @@
       "pubDate": "Tue, 2 Dec 2025 08:22:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Sup guys, is there any way to download a specific portion of a google drive video link. Because i have to download a 25gb video to just get a 20 sec clip and i wanna know if there’s any better way possible. For YouTube Stacher is available but I don’t know any tool if available to do so. Help a fellow out. Thanks</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Best identity and access management (IAM) systems for mid-size companies?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
-      "pubDate": "Tue, 2 Dec 2025 14:46:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Seeking help finding a solid identity and access management (IAM) tool for our mid-sized US based company. I’m getting worried that my team isn’t as organized as we need to be – our account logins are being stored manually, we have a semi-configured Azure AD tenant, and we keep realizing that our manual tracking is out of date, especially when folks are offboarding, but we lack the bandwidth to manage this more diligently by hand.😏</p>\n\n<p>I finally got budget approval this quarter to standardize via an IAM platform and I’m trying to quickly make a list of IAM tools that would serve us well and solve our organization problems. We only want to have one software though, so please don’t recommend a combo of tools. </p>\n\n<p>Primary goals are straightforward: SSO and MFA across roughly 80 SaaS apps, usable audit trails and access reviews for SOC 2, automated provisioning and deprovisioning tied to updates in our HR software. </p>\n\n<p>Questions for folks in this sub: for a mid-size org, do you recommend getting IT-specific software? Any specific recommendations for an IAM? Any options that integrate well with your HR software?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T17:48:57.326Z"
+  "lastFetched": "2025-12-02T19:00:44.025Z"
 }
