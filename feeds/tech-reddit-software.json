@@ -76,6 +76,15 @@
       "thumbnail": null
     },
     {
+      "title": "What Remote desktop software should/can I use?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pchg6d/what_remote_desktop_software_shouldcan_i_use/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pchg6d/what_remote_desktop_software_shouldcan_i_use/",
+      "pubDate": "Tue, 2 Dec 2025 19:11:25 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pchg6d/what_remote_desktop_software_shouldcan_i_use/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,\nI have a PC with an AMD gpu and a Laptop with intel integrated graphics and I want to find a way to use my PC (mostly for gaming meaning low latancy) on the go.\nUntil now, all I&#39;ve seen is Parsec, but that would need an Nvidia gpu, which i don&#39;t have.\nAny Ideas?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Time Tracking for My Team using Jibble",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/",
@@ -103,15 +112,6 @@
       "thumbnail": null
     },
     {
-      "title": "Curious if others care about how their browser manages tabs",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
-      "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Are small AI models the next big shift in software development?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc7axr/are_small_ai_models_the_next_big_shift_in/",
@@ -136,6 +136,15 @@
       "pubDate": "Tue, 2 Dec 2025 05:03:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that lets you input a transparent PNG, then calculates the &quot;center&quot; of it. Pretty much taking every pixel, and averaging their location based on opacity. So for each pixel, find the opacity and multiply both x and y coordinates by it. Then, finding the sum of the x and y values (adjusted for opacity), and dividing by the total number of pixels on each dimension.</p>\n\n<p>Eg. 5x7px png could look like this:</p>\n\n<p>xa=1, ya=1, opacitya=1; value x=1, y=1</p>\n\n<p>xb=2, yb=1, opacity=0; value x=0, y=0</p>\n\n<p>xc=3, yc=1, opacity=0; value x=0, y=0</p>\n\n<p>(...)</p>\n\n<p>xai=7, yai=5, opacityai=0.5; value x=3.5, y=2.5</p>\n\n<p>sum(x)/count(x)=xavg<br/>\nsum(y)/count(y)=yavg</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Curious if others care about how their browser manages tabs",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
+      "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbvc41/how_to_find_an_image_on_my_pc_with_a_text/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have thousands of photos on my PC, and I want to find one of my father with his cat. Is there an app that can search my PC for it if I give a description like &quot;dad with his cat&quot;?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Help needed with Patching files",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbv77k/help_needed_with_patching_files/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbv77k/help_needed_with_patching_files/",
-      "pubDate": "Tue, 2 Dec 2025 01:26:44 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbv77k/help_needed_with_patching_files/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>[Solved]\nCan anyone on here help me with this? </p>\n\n<p>I have an anime I encoded:\nV1 is the normal encoded file:\nV2 has the OPs&amp;EDs removed by splitting the files in mkvtoolnix &amp; re-appending them back together.</p>\n\n<p>What I want to do is create a patch file for the original files to patch them to make them the version without the OPs&amp;EDs. \nDoes anyone know of a patcher software that can do that? Without me having to write a CMD batch script to split them &amp; re-append them via mkvtoolnix? \n(NUPS Patcher doesn&#39;t work, the patch files are larger than the episodes themselves)\n[Solved]</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T19:00:44.025Z"
+  "lastFetched": "2025-12-02T19:33:47.654Z"
 }

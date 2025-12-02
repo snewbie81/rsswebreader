@@ -4,21 +4,21 @@
   "link": "",
   "items": [
     {
-      "title": "Edge mobile theme",
-      "link": "/img/knzfpbom1u4g1.jpeg",
-      "guid": "/img/knzfpbom1u4g1.jpeg",
-      "pubDate": "Tue, 2 Dec 2025 18:22:02 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcg2yu/edge_mobile_theme/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why edge mobile don&#39;t let user select theme like in window&#39;s edge? The picture is Gboard theme, which let use chose the color, its cool isn&#39;t it? it&#39;s so dry from default color everyday, it&#39;s 2025 yo, the world is full of art, please give some fresh to user, wish you hear me, edge mobile and chromium </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "How to Enable Workspaces on personal account in Microsoft Edge (macOS/Windows)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
       "pubDate": "Tue, 2 Dec 2025 13:37:46 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Instruction below is for macOS.</p>\n\n<p>For Windows it seems like based on the <a href=\"https://learn.microsoft.com/en-us/deployedge/microsoft-edge-browser-policies/edgeworkspacesenabled\">EdgeWorkspacesEnabled</a> you just need to instead of step 3 - add a registry key under <code>SOFTWARE\\Policies\\Microsoft\\Edge</code>, value name <code>EdgeWorkspacesEnabled</code>, type <code>REG_DWORD</code> and value <code>0x00000001</code></p>\n\n<p>Anyway, for macOS, I just tried and it worked! Not sure if that will translate to iOS (probably not)</p>\n\n<ol>\n<li>Close Edge</li>\n<li>Open Terminal</li>\n<li>Type <code>defaults write com.microsoft.edgemac EdgeWorkspacesEnabled -bool true</code> and Enter</li>\n<li>Open Edge</li>\n<li>Go to the <code>edge://settings/?search=workspaces</code></li>\n<li>Appearance &gt; Toolbar - enable <code>Workspaces</code> </li>\n</ol>\n\n<p>P.S. Not a Microsoft Edge user, just was trying to help somebody to setup <a href=\"/r/openin/comments/1pa9ygb/not_compatible_with_microsoft_edge_workspaces/\">OpenIn with Microsoft Edge Workspaces</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Edge mobile theme",
+      "link": "/img/knzfpbom1u4g1.jpeg",
+      "guid": "/img/knzfpbom1u4g1.jpeg",
+      "pubDate": "Tue, 2 Dec 2025 18:22:02 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcg2yu/edge_mobile_theme/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why edge mobile don&#39;t let user select theme like in window&#39;s edge? The picture is Gboard theme, which let use chose the color, its cool isn&#39;t it? it&#39;s so dry from default color everyday, it&#39;s 2025 yo, the world is full of art, please give some fresh to user, wish you hear me, edge mobile and chromium </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T19:00:38.925Z"
+  "lastFetched": "2025-12-02T19:33:41.149Z"
 }
