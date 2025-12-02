@@ -49,6 +49,15 @@
       "thumbnail": null
     },
     {
+      "title": "Video Editing Software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Download specific clips from a google drive video link",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
@@ -73,15 +82,6 @@
       "pubDate": "Tue, 2 Dec 2025 14:32:58 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9yga/any_good_preferably_nonai_noise_supression/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>OS: windows.  </p>\n\n<p>As the title states, any good noise supression software for mic only ? I don&#39;t stream but I have a nice microphone I use for gaming and work calls/meetings.</p>\n\n<p>I don&#39;t want to pay for Krisp. Discords krisp mutes too much for me and is not customizable. I tried sonar from steel series gg, but hate the feature that splits your audio output into 3 or more channels, cannot be turned on and creates virtual sound devices I have to block in order to use my headphones normaly.</p>\n\n<p>I have come across <a href=\"/r/OnlineESLTeaching/comments/o3bul5/comment/h2b4mo7/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">this</a> comment, made me think if there are other alternatives ? Most google searches give the same results, youtube is not very helful either.</p>\n\n<p>Preferably open source, I don&#39;t want to pay subscription for some ai crap.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Video Editing Software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
-      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T14:52:33.863Z"
+  "lastFetched": "2025-12-02T15:49:10.882Z"
 }
