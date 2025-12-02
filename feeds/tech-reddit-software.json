@@ -22,12 +22,30 @@
       "thumbnail": null
     },
     {
+      "title": "Have You Ever Bought a Cheap Tool That Ended Up Costing More?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
+      "pubDate": "Tue, 2 Dec 2025 07:22:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>A fictional client of mine wanted to save money by picking a low-cost CRM. Six months later, they’d hired two people just to customize it, spent extra on paid add-ons, and still couldn’t get basic reporting right.</p>\n\n<p>By the time we calculated everything, the “cheap” option had doubled the cost of an enterprise tool — and still wasn’t meeting their needs.</p>\n\n<p>What we tried:</p>\n\n<p>We attempted to streamline their setup with automation and removing unnecessary modules… but the foundation just wasn’t built for scale.</p>\n\n<p>Question:</p>\n\n<p>Have you ever seen a cheap tool balloon into a money-pit? What was the moment you realized the true cost?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Average Transparent png Pixel Location",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
       "pubDate": "Tue, 2 Dec 2025 05:03:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that lets you input a transparent PNG, then calculates the &quot;center&quot; of it. Pretty much taking every pixel, and averaging their location based on opacity. So for each pixel, find the opacity and multiply both x and y coordinates by it. Then, finding the sum of the x and y values (adjusted for opacity), and dividing by the total number of pixels on each dimension.</p>\n\n<p>Eg. 5x7px png could look like this:</p>\n\n<p>xa=1, ya=1, opacitya=1; value x=1, y=1</p>\n\n<p>xb=2, yb=1, opacity=0; value x=0, y=0</p>\n\n<p>xc=3, yc=1, opacity=0; value x=0, y=0</p>\n\n<p>(...)</p>\n\n<p>xai=7, yai=5, opacityai=0.5; value x=3.5, y=2.5</p>\n\n<p>sum(x)/count(x)=xavg<br/>\nsum(y)/count(y)=yavg</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Software that can control ARGB fans based on screen",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc21ik/software_that_can_control_argb_fans_based_on/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc21ik/software_that_can_control_argb_fans_based_on/",
+      "pubDate": "Tue, 2 Dec 2025 07:10:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc21ik/software_that_can_control_argb_fans_based_on/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/v62mwgz6qq4g1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=57b5784352aa286de34d7b970e1d2b42ee1391e2\">/preview/pre/v62mwgz6qq4g1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=57b5784352aa286de34d7b970e1d2b42ee1391e2</a></p>\n\n<p>This is my wallpaper, the colour changes over time. I&#39;d like to find a software that is capable of controlling my ARGB fans and change the colour based on a portion of what is displayed on the screen. Is there any free (open source even better) software that can do that?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb9jj/guidance_in_finding_a_suitable_laptop_software/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb9jj/guidance_in_finding_a_suitable_laptop_software/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Master's Thesis",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbb977/masters_thesis/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbb977/masters_thesis/",
-      "pubDate": "Mon, 1 Dec 2025 12:16:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb977/masters_thesis/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi. Me and my co-student are about to write our master&#39;s thesis and are wondering if anyone have the time to give us some input. </p>\n\n<p>We are currently concidering writing our thesis about how Generative AI is changing the way software engineers are working, but we lack an &quot;original&quot; angle. Research in this field is generally difficult because it&#39;s changing so rappidly, and the technology is evolving faster than journals can peer-review their articles. Neither of us have any real-world experience in the field and are wondering if anyone working with software have an interesting angle or idea we could do research uppon. Our current RQ is &quot;How does Generative AI affect Software Developers?&quot;, something we think is way too vague. We&#39;ve concidered changing it to just the challenges or pitfalls of adapting GenAI to an organization, but we would appreciate some feedback or some new ideas from the experts. </p>\n\n<p>Thanks in advance! </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What's a worthwhile SEO / Search software for a Wordpress travel blog?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/",
-      "pubDate": "Mon, 1 Dec 2025 11:47:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking to optimize my blog for google &amp; AI search. Which tool is actually worth investing in? Thanks!  </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T06:58:57.142Z"
+  "lastFetched": "2025-12-02T07:41:15.808Z"
 }
