@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Twisted stacks of 2-D carbon act like a weird type of superconductor",
+      "link": "https://www.sciencenews.org/article/twisted-carbon-graphene-superconductor",
+      "guid": "https://www.sciencenews.org/?p=3162952",
+      "pubDate": "Tue, 02 Dec 2025 16:00:00 +0000",
+      "description": "“Magic-angle” graphene may provide new clues into poorly understood unconventional superconductors, which operate at higher-than-normal temperatures.",
+      "content": "“Magic-angle” graphene may provide new clues into poorly understood unconventional superconductors, which operate at higher-than-normal temperatures.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112425_EC_graphenesuperconductor_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Self-hypnosis with cooling mental imagery could ease hot flashes",
       "link": "https://www.sciencenews.org/article/self-hypnosis-hot-flashes-menopause",
       "guid": "https://www.sciencenews.org/?p=3162880",
@@ -173,18 +182,9 @@
       "description": "Skin is a barrier meant to keep small invaders out. Products making their way across it should boost that mission.",
       "content": "Skin is a barrier meant to keep small invaders out. Products making their way across it should boost that mission.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111925_AG_decemberhealthcolumn_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Math puzzle: A Loopy Holiday Gift Exchange",
-      "link": "https://www.sciencenews.org/article/math-puzzle-holiday-gift",
-      "guid": "https://www.sciencenews.org/?p=3162758",
-      "pubDate": "Fri, 21 Nov 2025 13:00:00 +0000",
-      "description": "Solve the math puzzle from our December 2025 issue, in which a holiday gift exchange occurs.",
-      "content": "Solve the math puzzle from our December 2025 issue, in which a holiday gift exchange occurs.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_puzzle_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-02T15:49:00.718Z"
+  "lastFetched": "2025-12-02T16:58:45.962Z"
 }
