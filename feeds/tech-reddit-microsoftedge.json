@@ -58,15 +58,6 @@
       "thumbnail": null
     },
     {
-      "title": "I am so done...",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
-      "pubDate": "Mon, 1 Dec 2025 22:11:10 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am nearly close to dropping and maybe run some script to prevent future downloads of this browser on Windows 11. Every X amount of weeks (or weekly), the MS Edge browser shortcut (the one you click to open Edge on your desktop) keeps breaking (the icon turns white and says the app it links to has been moved or deleted). msedge.exe is inside some numbered folder (I guess current version) and that one works. Cool, I make it a shortcut. 1 week later, broken. &quot;Ok then I will use the msedge.exe file outside of the numbered folder under Applications!&quot; I spam click, never ever opens, not even a process under Task Manager. I already went back to Chrome and Mozilla, but still trying to figure this one out months after it happened.</p>\n\n<p>I already reinstalled the browser, updated Windows, updated Edge, wiped cache, saved setting/config data, nothing.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "How do I stop edge from loading/reloading every tab when opening the browser.",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb9s0m/how_do_i_stop_edge_from_loadingreloading_every/",
@@ -91,6 +82,15 @@
       "pubDate": "Mon, 1 Dec 2025 13:35:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbcxrm/cant_remove_display_on_another_screen_icon_from/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, Reddit!</p>\n\n<p>I can&#39;t seem to find a way to remove &quot;Display on another screen&quot; icon on toolbar. When I click on it, browser sends me to &quot;<a href=\"http://www.permanently-removed.invalid/\">www.permanently-removed.invalid/</a> DNS_PROBE_FINISHED_NXDOMAIN&quot;. I have tried following:</p>\n\n<p>- Resetting the Edge settings;</p>\n\n<p>- Manually deleting and installing the browser;</p>\n\n<p>- Repairing it through Settings;</p>\n\n<p>- Pin/ Unpin doesn&#39;t work.</p>\n\n<p>Is there anything else left to try to solve this? I am running W11, Edge Version 142.0.3595.94 (Official build) (64-bit).</p>\n\n<p><a href=\"/preview/pre/ct9agw77il4g1.png?width=329&amp;format=png&amp;auto=webp&amp;s=e508666e9719410a5fd26166c30fe50370b29de1\">/preview/pre/ct9agw77il4g1.png?width=329&amp;format=png&amp;auto=webp&amp;s=e508666e9719410a5fd26166c30fe50370b29de1</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I am so done...",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/",
+      "pubDate": "Mon, 1 Dec 2025 22:11:10 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pbqjk9/i_am_so_done/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am nearly close to dropping and maybe run some script to prevent future downloads of this browser on Windows 11. Every X amount of weeks (or weekly), the MS Edge browser shortcut (the one you click to open Edge on your desktop) keeps breaking (the icon turns white and says the app it links to has been moved or deleted). msedge.exe is inside some numbered folder (I guess current version) and that one works. Cool, I make it a shortcut. 1 week later, broken. &quot;Ok then I will use the msedge.exe file outside of the numbered folder under Applications!&quot; I spam click, never ever opens, not even a process under Task Manager. I already went back to Chrome and Mozilla, but still trying to figure this one out months after it happened.</p>\n\n<p>I already reinstalled the browser, updated Windows, updated Edge, wiped cache, saved setting/config data, nothing.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T05:42:45.554Z"
+  "lastFetched": "2025-12-02T06:58:51.939Z"
 }

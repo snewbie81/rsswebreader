@@ -40,15 +40,6 @@
       "thumbnail": null
     },
     {
-      "title": "Windows 11 software that can emulate a wider soundstage on closed back headphones",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
-      "pubDate": "Mon, 1 Dec 2025 20:54:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A while ago I was really into rooting / installing custom firmware on my Android phones. One of the reasons I used to do that was to get access to an app called Viper4Android. 2 of its settings were called &quot;Field surround&quot; and &quot;Headphone surround+&quot;, and both of them basically tried to emulate the soundstage of an open back pair of headphones on regular closed backs.</p>\n\n<p>Now obviously it wasn&#39;t perfect, but it went a long way to make (even cheaper) closed back headphones sound less cramped and gross, and I haven&#39;t experienced anything even close to that since. The difference it could make was actually pretty insane.</p>\n\n<p>Does anyone know where I could find something similar for Windows 11? I know there&#39;s viper4windows but it has fewer features and I couldn&#39;t get it to work on newer Windows versions.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Disk cloning software for Windows 11, for migrating storage HDD to SSD",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
@@ -64,6 +55,15 @@
       "pubDate": "Tue, 2 Dec 2025 04:28:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbz4a6/looking_for_the_name_of_the_sofware_company_that/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbz4a6/looking_for_the_name_of_the_sofware_company_that/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Windows 11 software that can emulate a wider soundstage on closed back headphones",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
+      "pubDate": "Mon, 1 Dec 2025 20:54:42 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>A while ago I was really into rooting / installing custom firmware on my Android phones. One of the reasons I used to do that was to get access to an app called Viper4Android. 2 of its settings were called &quot;Field surround&quot; and &quot;Headphone surround+&quot;, and both of them basically tried to emulate the soundstage of an open back pair of headphones on regular closed backs.</p>\n\n<p>Now obviously it wasn&#39;t perfect, but it went a long way to make (even cheaper) closed back headphones sound less cramped and gross, and I haven&#39;t experienced anything even close to that since. The difference it could make was actually pretty insane.</p>\n\n<p>Does anyone know where I could find something similar for Windows 11? I know there&#39;s viper4windows but it has fewer features and I couldn&#39;t get it to work on newer Windows versions.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -130,15 +130,6 @@
       "thumbnail": null
     },
     {
-      "title": "I build a zero knowledge passwords manager open source and open for feedback",
-      "link": "https://eazypasswords.com",
-      "guid": "https://eazypasswords.com",
-      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Any software for windows similar to Lyric Fever for macos?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
@@ -148,12 +139,12 @@
       "thumbnail": null
     },
     {
-      "title": "Which PDF Editors Support Merged Page Links",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
-      "pubDate": "Mon, 1 Dec 2025 16:27:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to merge 2 pdf files together. The first file has a number of internal page links within itself ie. click to jump to page 13, click to page 1, etc. The second file has no internal page links. Is there a (preferably free) editor that can merge to the 2 files and keep the links happy from file 1, in the new merged file? I&#39;ve built links with PDFGear but when I merge, they disappear or some jump to incorrect pages. I&#39;ve also looked at Bento, small pdf, etc. Any suggestions on a working solution for either Windows/MacOS/www?</p>\n</div><!-- SC_ON -->",
+      "title": "I build a zero knowledge passwords manager open source and open for feedback",
+      "link": "https://eazypasswords.com",
+      "guid": "https://eazypasswords.com",
+      "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -163,6 +154,15 @@
       "pubDate": "Mon, 1 Dec 2025 18:12:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbk5sm/iphone_13_mini/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbk5sm/iphone_13_mini/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Which PDF Editors Support Merged Page Links",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/",
+      "pubDate": "Mon, 1 Dec 2025 16:27:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbh9qz/which_pdf_editors_support_merged_page_links/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to merge 2 pdf files together. The first file has a number of internal page links within itself ie. click to jump to page 13, click to page 1, etc. The second file has no internal page links. Is there a (preferably free) editor that can merge to the 2 files and keep the links happy from file 1, in the new merged file? I&#39;ve built links with PDFGear but when I merge, they disappear or some jump to incorrect pages. I&#39;ve also looked at Bento, small pdf, etc. Any suggestions on a working solution for either Windows/MacOS/www?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T05:42:50.846Z"
+  "lastFetched": "2025-12-02T06:58:57.142Z"
 }
