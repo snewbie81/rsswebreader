@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Accidentally saved a client ~$30k a year just by watching how they actually worked",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/",
-      "pubDate": "Tue, 2 Dec 2025 00:15:57 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Earlier this year I was helping a small clinic that complained about “too much paperwork” and how it was slowing everything down.<br/>\nThey thought they needed some fancy AI system.<br/>\nThey didn’t.</p>\n\n<p>So instead of jumping straight into code, I hopped on a call with them for a few hours and watched what they actually did every day.<br/>\nTurned out half their “data entry” was literally just copy-pasting the same info between forms, spreadsheets, and emails.</p>\n\n<p>I built a simple workflow that:</p>\n\n<ul>\n<li>reads their intake forms</li>\n<li>fills out their spreadsheet automatically</li>\n<li>sends a summary email to the right staff</li>\n<li>stores a copy in their shared folder</li>\n</ul>\n\n<p>No fancy dashboards or complicated software to learn.<br/>\nJust connected what they were already using.</p>\n\n<p>Two weeks later, they told me it cut 10–12 hours of admin work a week.<br/>\nThat’s roughly ~$30k a year in saved time (i believe).</p>\n\n<p>The lesson for me: most businesses don’t need complicated systems, they just need less friction.<br/>\nIf you want to build automations that people actually use, start by watching what they already do instead of what they say they do.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Best open-source software that everyone needs to know about?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
       "pubDate": "Tue, 2 Dec 2025 11:40:31 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>What&#39;s one piece of open-source software that everyone should use and know about?</p>\n\n<p>Vote on the best one in the comments.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Accidentally saved a client ~$30k a year just by watching how they actually worked",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/",
+      "pubDate": "Tue, 2 Dec 2025 00:15:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Earlier this year I was helping a small clinic that complained about “too much paperwork” and how it was slowing everything down.<br/>\nThey thought they needed some fancy AI system.<br/>\nThey didn’t.</p>\n\n<p>So instead of jumping straight into code, I hopped on a call with them for a few hours and watched what they actually did every day.<br/>\nTurned out half their “data entry” was literally just copy-pasting the same info between forms, spreadsheets, and emails.</p>\n\n<p>I built a simple workflow that:</p>\n\n<ul>\n<li>reads their intake forms</li>\n<li>fills out their spreadsheet automatically</li>\n<li>sends a summary email to the right staff</li>\n<li>stores a copy in their shared folder</li>\n</ul>\n\n<p>No fancy dashboards or complicated software to learn.<br/>\nJust connected what they were already using.</p>\n\n<p>Two weeks later, they told me it cut 10–12 hours of admin work a week.<br/>\nThat’s roughly ~$30k a year in saved time (i believe).</p>\n\n<p>The lesson for me: most businesses don’t need complicated systems, they just need less friction.<br/>\nIf you want to build automations that people actually use, start by watching what they already do instead of what they say they do.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -55,6 +55,51 @@
       "pubDate": "Tue, 2 Dec 2025 20:27:20 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>37signals (the team behind Basecamp and HEY) just released Fizzy - an open source kanban tool. You can run it yourself for free or pay $20/month for hosted.\n\nI&#39;ve used Basecamp for years and took Fizzy for a spin today. What stood out wasn&#39;t just the fresh take, it&#39;s the attention to detail throughout. For anyone building software, it&#39;s worth poking around just to see how they handle the small stuff.\n\nSource code: https://github.com/basecamp/fizzy\n\nSite: https://fizzy.do\n\nAnyone else check it out? Curious what this community thinks.\n</code></pre>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Applied Systems sues Comulate for Fraud and IP Theft",
+      "link": "https://www.insurancebusinessmag.com/us/news/technology/applied-systems-sues-comulate-for-alleged-ip-theft-via-fake-agency-front-557615.aspx",
+      "guid": "https://www.insurancebusinessmag.com/us/news/technology/applied-systems-sues-comulate-for-alleged-ip-theft-via-fake-agency-front-557615.aspx",
+      "pubDate": "Tue, 2 Dec 2025 22:27:00 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmm5q/applied_systems_sues_comulate_for_fraud_and_ip/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone else heard Applied Systems is suing Comulate? According to the Applied, Comulate basically trojan horsed Applied to steal their proprietary data. Meanwhile, Comulate alleges this is just a ploy by Applied because they&#39;re butt-hurt they can&#39;t buy Comulate and because Comulate is better than them(?). </p>\n\n<p>To me, it doesn&#39;t seem possible that Comulate could source all this data through publicly accessible data. Can someone explain it to me?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Which Microphone Background Noise Removal Tool Has Least Impact on FPS in Games? Nvidia Broadcast vs OBS RNNoise Filter vs Equalizer APO Plugin",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcmm19/which_microphone_background_noise_removal_tool/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcmm19/which_microphone_background_noise_removal_tool/",
+      "pubDate": "Tue, 2 Dec 2025 22:26:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmm19/which_microphone_background_noise_removal_tool/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a lot of background noise caused by my standing fan that gets captured by my microphone. I was just wondering which noise removal tool would impact my FPS in games the most?</p>\n\n<p>I have a Ryzen 5 9600x + 5070Ti.</p>\n\n<p>The way I understand it is that Nvidia broadcast uses the GPU more, which leads me to believe that it would have the most FPS loss out of all of them?</p>\n\n<p>While OBS RNNoise Filter uses the CPU, which if most games are using only a few CPU cores, this would have no performance impact if OBS is using my other free cores?</p>\n\n<p>And Equalizer APO RNNoise plugin would seem like the most performant because it is like OBS in that it uses the CPU, but also better than OBS since the app is dedicated only to audio?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "How well does Kimi 2 hide? Stress-testing it with ZeroGPT and AI or Not",
+      "link": "https://www.dropbox.com/scl/fi/o0oll5wallvywykar7xcs/Kimi-2-Thinking-Case-Study-Sheet1.pdf?rlkey=70w7jbnwr9cwaa9pkbbwn8fm2&amp;e=3&amp;st=hqgcr22t&amp;dl=0",
+      "guid": "https://www.dropbox.com/scl/fi/o0oll5wallvywykar7xcs/Kimi-2-Thinking-Case-Study-Sheet1.pdf?rlkey=70w7jbnwr9cwaa9pkbbwn8fm2&amp;e=3&amp;st=hqgcr22t&amp;dl=0",
+      "pubDate": "Tue, 2 Dec 2025 22:24:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmjgw/how_well_does_kimi_2_hide_stresstesting_it_with/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been stress-testing the new wave of reasoning models (specifically Kimi 2 Thinking) to see if current detection tools can actually keep up. I ran a comparative case study between <strong>ZeroGPT</strong> and <a href=\"http://www.aiornot.com/\">AI or Not.</a></p>\n\n<p>The results were pretty damning for the industry standard.</p>\n\n<p><strong>The Breakdown:</strong></p>\n\n<ul>\n<li><strong>ZeroGPT (The Loser):</strong> It completely folded. The false positive rate was unacceptable, and classifications were inconsistent. It seems optimized for older GPT-3.5 patterns and fails when facing newer architectures. If you are relying on this for compliance, you are getting bad data.</li>\n<li><strong>AI or Not (The Winner):</strong> It successfully navigated the nuance of &quot;thinking&quot; model outputs without getting confused by the complex reasoning chains. It seems to analyze the <em>structure</em> of the reasoning rather than just surface-level perplexity.</li>\n</ul>\n\n<p><strong>Key Takeaway:</strong> Newer reasoning models (o1, Kimi) are bypassing perplexity-based detection. I&#39;m seeing a clear shift where structure-based analysis is required.</p>\n\n<p><strong>Data:</strong> <em>(Note: Instead of just attaching a PDF, I recommend posting a screenshot of your results table here or pasting a snippet of the text that fooled ZeroGPT. This sub prefers inline data over file downloads).</em></p>\n\n<p>Has anyone else successfully tripped up &quot;AI or Not&quot; with reasoning prompts yet?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Looking for a system-wide AI assisted spelling and grammar and rewrite tool like Galaxy AI Keyboard for Windows 11.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcmgy4/looking_for_a_systemwide_ai_assisted_spelling_and/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcmgy4/looking_for_a_systemwide_ai_assisted_spelling_and/",
+      "pubDate": "Tue, 2 Dec 2025 22:21:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmgy4/looking_for_a_systemwide_ai_assisted_spelling_and/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>What I want from this app</p>\n\n<p>It should be completely free, </p>\n\n<p>It should be AI (LLM powered), </p>\n\n<p>It should work on system-wide, not just for Word or Google Chrome etc. </p>\n\n<p>It should fix spelling and grammar and also rewrite text across any application on my computer, like Galaxy AI Keyboard. Any recommendations?</p>\n\n<p><a href=\"/preview/pre/fx03m96l8v4g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=4ee6f688239f66e792a5e2708041904cb4580d22\">/preview/pre/fx03m96l8v4g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=4ee6f688239f66e792a5e2708041904cb4580d22</a></p>\n\n<p>I literally want a app with this function. </p>\n\n<p>theJayTea&#39;s WritingTools are buggy and doesn&#39;t work well enough. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Software to quickly view and manage video files",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pclr7l/software_to_quickly_view_and_manage_video_files/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pclr7l/software_to_quickly_view_and_manage_video_files/",
+      "pubDate": "Tue, 2 Dec 2025 21:53:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pclr7l/software_to_quickly_view_and_manage_video_files/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>All - My family has some forested property some hours away from where I live.  I have several trail cams that I use to track wildlife on the property.  I&#39;ve had 3 - 4 out for many years.  Since the property is remote I typically visit the cameras, swap out the SD cards, and bring them back home to watch them.  I normally load them all up in VLC player and just let them play.</p>\n\n<p>Well, I have accumulated many gigs of video files.  Most of them are not very exciting and I do not want to keep them.  However, I have not done a good job of organizing them.  They are all just in folders that is labeled with the date I collected the cards.</p>\n\n<p>So, my question is what is a free software package that I can use to quickly view and mange these files?  I would prefer a package that lets me load entire directories or folders to a play list, navigate that playlist via keyboard shortcuts (i.e. fast forward, rewind, next video), and also delete the file I am watching.</p>\n\n<p>Any ideas?  Thanks in advance!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -182,54 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>When I run the installer it doesn&#39;t give me an error, it simply just doesn&#39;t open up or anything.</p>\n\n<p>I&#39;ve tried turning off windows defender, making the installer an exception, and turning windows features on and off. I also went and turned automatic updates on in case that was the problem (is it bad to leave it on?)</p>\n\n<p>Edit: I need dotnet 3.5 to play Arkham Asylum, but on a windows 10 laptop for some reason the game just works without even having dotnet 3.5?? I don&#39;t know why. I guess I have to make do with worse screen and graphics.</p>\n\n<p><strong>Edit 2: I made it work on the better pc. What happened is that some guy on discord I&#39;ve met a month ago while playing games while drunk, just told me to pirate the game. And that one just works. Thanks steam, I&#39;m refunding the game, and giving that guy the money instead.</strong></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Disk cloning software for Windows 11, for migrating storage HDD to SSD",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/",
-      "pubDate": "Mon, 1 Dec 2025 18:50:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbl7ae/disk_cloning_software_for_windows_11_for/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m moving about 1 TB of data from SATA HDDs to M.2 SSDs in my PC. I am not moving my Windows install/boot disk, that&#39;s already on an SSD.</p>\n\n<p>I&#39;ve heard that Windows Explorer isn&#39;t the best for transferring that much data, and was recommended to use disk cloning software instead.</p>\n\n<p>I&#39;ve looked at Clonezilla, but it seems way too powerful for what I need, and with the need to make a USB boot drive and all that.</p>\n\n<p>Any recommendations? Ideally, it should be free and open source, but it should be free at minimum.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Looking for the name of the sofware company that created the unified menu for all the restaurants at the Bangalore Airport (KIAL)?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbz4a6/looking_for_the_name_of_the_sofware_company_that/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbz4a6/looking_for_the_name_of_the_sofware_company_that/",
-      "pubDate": "Tue, 2 Dec 2025 04:28:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbz4a6/looking_for_the_name_of_the_sofware_company_that/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbz4a6/looking_for_the_name_of_the_sofware_company_that/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Windows 11 software that can emulate a wider soundstage on closed back headphones",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/",
-      "pubDate": "Mon, 1 Dec 2025 20:54:42 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbojl8/windows_11_software_that_can_emulate_a_wider/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A while ago I was really into rooting / installing custom firmware on my Android phones. One of the reasons I used to do that was to get access to an app called Viper4Android. 2 of its settings were called &quot;Field surround&quot; and &quot;Headphone surround+&quot;, and both of them basically tried to emulate the soundstage of an open back pair of headphones on regular closed backs.</p>\n\n<p>Now obviously it wasn&#39;t perfect, but it went a long way to make (even cheaper) closed back headphones sound less cramped and gross, and I haven&#39;t experienced anything even close to that since. The difference it could make was actually pretty insane.</p>\n\n<p>Does anyone know where I could find something similar for Windows 11? I know there&#39;s viper4windows but it has fewer features and I couldn&#39;t get it to work on newer Windows versions.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "A fake Olymptrade app on the Playstore?",
-      "link": "/gallery/1pbz0y5",
-      "guid": "/gallery/1pbz0y5",
-      "pubDate": "Tue, 2 Dec 2025 04:24:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbz0y5/a_fake_olymptrade_app_on_the_playstore/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I was strolling around the google playstore and i stumbled upon this.</p>\n\n<p>2 olymptrade apps, I believe one of them has to be fake but there hasnt been any action since the suspicious one has been around since 2023. Though I am not sure if it is fake, I though I&#39;d be the best to get this out before someone actually does get scammed who doesnt have any knowledge about it.</p>\n\n<p>If anyone can look into it that would be of help, I mean the fake one literally just switched up the word Olymptrade with Olymp Trading so its a minor differences many wont notice too.</p>\n\n<p>PS I am not sure if it genuinely is a scam but I just wanted to have a confirmation.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Any programs out there that will help me convert .HIS into audio?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbxa5u/any_programs_out_there_that_will_help_me_convert/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbxa5u/any_programs_out_there_that_will_help_me_convert/",
-      "pubDate": "Tue, 2 Dec 2025 03:01:47 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbxa5u/any_programs_out_there_that_will_help_me_convert/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a ton of HIS files (never seen them before), not getting much info online for how to get them into audio (they are in the audio folder of a computer game I&#39;m trying to fix audio for)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T21:33:21.593Z"
+  "lastFetched": "2025-12-02T22:37:17.658Z"
 }

@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Multilogin proxies not working for Google accounts loging – support unhelpful",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/",
+      "pubDate": "Tue, 2 Dec 2025 21:38:13 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’ve been trying to use Multilogin to create and log into Google accounts. According to their advertising, their proxies and profiles should allow you to manage multiple Google accounts without verification issues.</p>\n\n<p>However, in my experience:</p>\n\n<ul>\n<li>Creating a new Google account using Multilogin proxies <strong>requires scanning a QR code with a real device</strong>, whereas normally it only asks for phone verification.</li>\n<li>Logging into existing Google accounts also triggers <strong>phone verification or QR scanning</strong>, even after entering the correct password.</li>\n<li>When I use my <strong>default browser with my real IP</strong>, Google only asks for a <strong>simple reCAPTCHA</strong>, never phone or QR verification.</li>\n</ul>\n\n<p>I contacted Multilogin support, and their response was basically:</p>\n\n<blockquote>\n<p>“This also happens in standard browsers, it’s just a recent update to Google’s security and privacy policy. We currently don’t have a workaround.”</p>\n</blockquote>\n\n<p>So basically, <strong>the online support was not helpful at all</strong>, and the product is not functioning as advertised for Google accounts.</p>\n\n<p>Has anyone else experienced this? Are there any workarounds or settings that actually allow you to use Multilogin proxies with Google?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "How do I get this functionality?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pci182/how_do_i_get_this_functionality/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pci182/how_do_i_get_this_functionality/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pblsa3/i_built_a_floating_ai_chat_that_follows_you/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I got tired of opening sidebars or switching windows just to use ChatGPT while browsing.</p>\n\n<p>So I built a <strong>moveable, floating chat widget</strong> that stays on top of your browser window.</p>\n\n<p><strong>What makes it different:</strong></p>\n\n<ol>\n<li><strong>It Travels:</strong> It stays open as you switch tabs, keeping the conversation history alive.</li>\n<li><strong>It Sees:</strong> It reads the current tab&#39;s context instantly.</li>\n<li><strong>It Acts:</strong> You can drag it next to a form, and it will auto-fill details based on your chat history or previous tabs.</li>\n</ol>\n\n<p>No need to switch to a whole new &#39;AI Browser.&#39; This is just a fast, handy layer for Chrome.</p>\n\n<p>I’m looking for 10 beta testers who want to move fast. Comment &#39;Floating&#39; if you want this.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "User-Agent of the Samsung Internet Beta for Windows ?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/",
-      "pubDate": "Mon, 1 Dec 2025 09:22:03 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb8c2k/useragent_of_the_samsung_internet_beta_for_windows/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p>\n\n<p>I&#39;m the author of a library that tries to analyse the UserAgent (and related) headers of browsers. See <a href=\"https://github.com/nielsbasjes/yauaa\">https://github.com/nielsbasjes/yauaa</a> and <a href=\"https://yauaa.basjes.nl/\">https://yauaa.basjes.nl/</a>  </p>\n\n<p>I found that Samsung has recently ported their browser to Windows (<a href=\"https://browser.samsung.com/beta\">https://browser.samsung.com/beta</a>) but it can only be downloaded if you are in South Korea or in the US... and because I&#39;m in the Netherlands I cannot download and install it myself.</p>\n\n<p>Kind request to anyone who has downloaded this browser.  </p>\n\n<p>- Please visit my test site (which logs all request headers for analysis) <a href=\"https://try.yauaa.basjes.nl/\">https://try.yauaa.basjes.nl/</a> </p>\n\n<p>- Make sure you reload the page atleast once because not all request headers are sent on the first request (only the low entropy client hints are sent on the first request).</p>\n\n<p>- Ping me when you did that so I can pull the correct log entries from my server.</p>\n\n<p>Thanks!</p>\n\n<p>Niels Basjes</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-02T21:33:18.911Z"
+  "lastFetched": "2025-12-02T22:37:15.169Z"
 }
