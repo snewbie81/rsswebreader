@@ -27,7 +27,16 @@
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
       "pubDate": "Tue, 2 Dec 2025 07:22:50 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A fictional client of mine wanted to save money by picking a low-cost CRM. Six months later, they’d hired two people just to customize it, spent extra on paid add-ons, and still couldn’t get basic reporting right.</p>\n\n<p>By the time we calculated everything, the “cheap” option had doubled the cost of an enterprise tool — and still wasn’t meeting their needs.</p>\n\n<p>What we tried:</p>\n\n<p>We attempted to streamline their setup with automation and removing unnecessary modules… but the foundation just wasn’t built for scale.</p>\n\n<p>Question:</p>\n\n<p>Have you ever seen a cheap tool balloon into a money-pit? What was the moment you realized the true cost?</p>\n</div><!-- SC_ON -->",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>A client of mine wanted to save money by picking a low-cost CRM. Six months later, they’d hired two people just to customize it, spent extra on paid add-ons, and still couldn’t get basic reporting right.</p>\n\n<p>By the time we calculated everything, the “cheap” option had doubled the cost of an enterprise tool — and still wasn’t meeting their needs.</p>\n\n<p>What we tried:</p>\n\n<p>We attempted to streamline their setup with automation and removing unnecessary modules… but the foundation just wasn’t built for scale.</p>\n\n<p>Question:</p>\n\n<p>Have you ever seen a cheap tool balloon into a money-pit? What was the moment you realized the true cost?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Download specific clips from a google drive video link",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
+      "pubDate": "Tue, 2 Dec 2025 08:22:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Sup guys, is there any way to download a specific portion of a google drive video link. Because i have to download a 25gb video to just get a 20 sec clip and i wanna know if there’s any better way possible. For YouTube Stacher is available but I don’t know any tool if available to do so. Help a fellow out. Thanks</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -148,21 +157,21 @@
       "thumbnail": null
     },
     {
-      "title": "Any software for windows similar to Lyric Fever for macos?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
-      "pubDate": "Mon, 1 Dec 2025 21:20:02 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>This software basically shows the lyrics of the song you&#39;re playing on Spotify on top</p>\n\n<p><a href=\"/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395\">/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "I build a zero knowledge passwords manager open source and open for feedback",
       "link": "https://eazypasswords.com",
       "guid": "https://eazypasswords.com",
       "pubDate": "Mon, 1 Dec 2025 17:11:03 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbig3q/i_build_a_zero_knowledge_passwords_manager_open/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/software\">r/software</a>,</p>\n\n<p>I’m a 13 year old developer and I’ve been working on a zero knowledge password manager as a learning project. Today I’m launching the beta and would love to get feedback from experienced developers here.</p>\n\n<p>The main idea is that all encryption happens on the client side, so the server never sees plaintext passwords. The backend stores only encrypted data, handles user authentication, and enforces premium access securely.</p>\n\n<p>This project has helped me learn a lot about cryptography, secure key handling, backend design, and web security. It’s not a commercial product yet  just something I’m building to improve my skills.</p>\n\n<p>If you have a chance, I’d appreciate your thoughts on:</p>\n\n<p>Code structure and maintainability</p>\n\n<p>Security design and potential weak points</p>\n\n<p>User experience and UI flow</p>\n\n<p>Anything else you notice or think could be improved</p>\n\n<p>Since it’s still in beta, I don’t recommend storing your most important passwords here yet.</p>\n\n<p>You can check the code out here: <a href=\"https://github.com/devbytho/eazypasswords\">https://github.com/devbytho/eazypasswords</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any software for windows similar to Lyric Fever for macos?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/",
+      "pubDate": "Mon, 1 Dec 2025 21:20:02 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbp7ge/any_software_for_windows_similar_to_lyric_fever/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This software basically shows the lyrics of the song you&#39;re playing on Spotify on top</p>\n\n<p><a href=\"/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395\">/preview/pre/04qvowp3tn4g1.png?width=825&amp;format=png&amp;auto=webp&amp;s=b8f2f3a1dd2434a41a028a69b1935b41e2eb6395</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbbq54/i_built_a_full_qr_code_platform_dynamic_redirects/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p>\n\n<p>Over the past months I’ve been building a project called Code2Scan — basically a complete QR Code platform with dynamic redirects, URL safety checks, link analytics, smartlinks, and multi-language support.</p>\n\n<p>I didn’t originally plan to build something this big, but one thing led to another:</p>\n\n<p>• It started as a simple QR Code generator</p>\n\n<p>• Then I added dynamic links with redirect tracking</p>\n\n<p>• Then a full analytics dashboard (OS, country, city, time of day)</p>\n\n<p>• Then “link in bio” pages with customizable blocks</p>\n\n<p>• Then custom domains support</p>\n\n<p>• Then a URL Checker with HTTPS enforcement and blacklist</p>\n\n<p>• And now it also supports PDFs, audio files, vCards, and more</p>\n\n<p>Some technical challenges that came up:</p>\n\n<p>— **QR Code generation**</p>\n\n<p>I unified static and dynamic QR generation into a single async function that handles logos, colors, error correction, vCards, Wi-Fi codes, Pix, etc.</p>\n\n<p>— **Analytics tracking**</p>\n\n<p>I store clicks with metadata such as device, OS version, country, city, timestamp, referrer and smartlink ID.  </p>\n\n<p>The tricky part was grouping OS versions (Android 10…16, iOS 18.5…) without blowing up charts.</p>\n\n<p>— **URL safety**</p>\n\n<p>Before generating a QR Code, the system verifies:</p>\n\n<p>• HTTPS only  </p>\n\n<p>• No blacklisted domains  </p>\n\n<p>• Redirect chain is safe  </p>\n\n<p>• No malicious patterns  </p>\n\n<p>— **SmartLinks**</p>\n\n<p>The “link-in-bio” pages allow blocks with:</p>\n\n<p>• Links  </p>\n\n<p>• Images  </p>\n\n<p>• Titles/subtitles  </p>\n\n<p>• Background customization  </p>\n\n<p>• Shadows, borders and themes  </p>\n\n<p>• SEO title/description + custom OG images  </p>\n\n<p>— **Custom domains**</p>\n\n<p>Users can attach their own domain or subdomain for dynamic links.  </p>\n\n<p>The DNS + routing logic took more work than expected.</p>\n\n<p>— **Internationalization**</p>\n\n<p>The platform has complete translations (EN, PT, ES, FR, DE, IT), including SEO metadata, UI, FAQs, and feature explanations.</p>\n\n<p>If anyone here is building something similar (QR, shortlinks, analytics, SaaS tools, etc.), I&#39;m happy to share implementation details or discuss architecture decisions.</p>\n\n<p>Here&#39;s the project if you&#39;d like to explore it:</p>\n\n<p><a href=\"https://www.code2scan.com\">https://www.code2scan.com</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Guidance in finding a suitable laptop (software engineering ..)",
-      "link": "https://redlib.perennialte.ch//r/laptops/comments/1pbb8uy/guidance_in_finding_a_suitable_laptop_software/",
-      "guid": "https://redlib.perennialte.ch//r/laptops/comments/1pbb8uy/guidance_in_finding_a_suitable_laptop_software/",
-      "pubDate": "Mon, 1 Dec 2025 12:16:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb9jj/guidance_in_finding_a_suitable_laptop_software/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbb9jj/guidance_in_finding_a_suitable_laptop_software/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T07:41:15.808Z"
+  "lastFetched": "2025-12-02T08:58:47.616Z"
 }
