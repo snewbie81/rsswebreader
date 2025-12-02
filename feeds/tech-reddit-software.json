@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Average Transparent png Pixel Location",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
+      "pubDate": "Tue, 2 Dec 2025 05:03:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that lets you input a transparent PNG, then calculates the &quot;center&quot; of it. Pretty much taking every pixel, and averaging their location based on opacity. So for each pixel, find the opacity and multiply both x and y coordinates by it. Then, finding the sum of the x and y values (adjusted for opacity), and dividing by the total number of pixels on each dimension.</p>\n\n<p>Eg. 5x7px png could look like this:</p>\n\n<p>xa=1, ya=1, opacitya=1; value x=1, y=1</p>\n\n<p>xb=2, yb=1, opacity=0; value x=0, y=0</p>\n\n<p>xc=3, yc=1, opacity=0; value x=0, y=0</p>\n\n<p>(...)</p>\n\n<p>xai=7, yai=5, opacityai=0.5; value x=3.5, y=2.5</p>\n\n<p>sum(x)/count(x)=xavg<br/>\nsum(y)/count(y)=yavg</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Does anybody know how to install dotnet 3.5 on Windows 11?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbqeex/does_anybody_know_how_to_install_dotnet_35_on/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbappy/whats_a_worthwhile_seo_search_software_for_a/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking to optimize my blog for google &amp; AI search. Which tool is actually worth investing in? Thanks!  </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Yall My IDM Speed is lacking 🙏 BUT IT WAS FINE BEFORE!!!!",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pb6wwz/yall_my_idm_speed_is_lacking_but_it_was_fine/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pb6wwz/yall_my_idm_speed_is_lacking_but_it_was_fine/",
-      "pubDate": "Mon, 1 Dec 2025 07:50:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pb6wwz/yall_my_idm_speed_is_lacking_but_it_was_fine/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So Im downloading a game using IDM and for some reason....well you see my download speeds were amazing for I think a few days but then suddenly last night i was downloading a game and my speeds were amazing like usual around 70 mb/s!! but then in order to wait for the download I played a game...BUT WHEN I CLOSED THE GAME THE DOWNLAOD SPEED WENT TO 1 mb/s I called up the internet guys this morning and they said theyre are NO problems with my net and everything is in tip-top shape.     List of everything I tried:(changing my ethernet cable, changing the Preffered DNS to <a href=\"http://8.8.8.8\">8.8.8.8</a> and Alternate DNS <a href=\"http://8.8.4.4\">8.8.4.4</a> on my computer,tried connecting to normal wifi,restarting my computer, changing ethernet ports, tried downloading the game from a different website, restarted the download SEVERAL TIMES) YALL I NEED YOUR ANY and ALL TIPS YOU KNOW PLEASE TELL ME today is the last day of my break cuz then school starts, ALL HELP IS NEEDED🙏💯....</p>\n\n<p>SOLVED 🟩: turns out my net was just low at night and in the early morning it was fine later</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T04:54:46.695Z"
+  "lastFetched": "2025-12-02T05:42:50.846Z"
 }
