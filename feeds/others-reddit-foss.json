@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Is latestage capitalism resulting in corpos eating each other via FOSS? There's a pattern forming with Blender, Linux, RISK-V...",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/",
+      "pubDate": "Tue, 2 Dec 2025 10:49:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>NVidia and the US Department of Defense has started adopting RISK-V processor plans, cutting out AMD, Intel, and ARM.  </p>\n\n<p>Epic Games funded Blender, harming Autodesk/Maya.</p>\n\n<p>Valve has SteamOS, making Linux mass-market friendly and cutting out Microsoft.</p>\n\n<p>It seems like these large corporations have a strong market incentive to elevate the open projects in adjacent industries so they can de-risk hardball negotiations from the corporations they depend on, and potential suck up more of the value stream. They&#39;ve realized they can leverage tens of thousands of hours of developer time at relatively little cost to themselves, and earn good PR for it. </p>\n\n<p>I&#39;ve often watched short-term decision making bad CEO wallets while shooting a hole in the industry&#39;s foot, but if the shape of that hole is FOSS maybe it&#39;s not so bad.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Introducing Jotter: Minimalist Open-Source Notes App (Kotlin/Jetpack)",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2wx7x/news_xwiki_launches_official_newsroom_for/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2wx7x/news_xwiki_launches_official_newsroom_for/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "How secure is aurora store?",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/",
-      "pubDate": "Thu, 20 Nov 2025 22:29:55 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p2han5/how_secure_is_aurora_store/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am not sure if anyone here is familiar with aurora store which is found here:</p>\n\n<p><a href=\"https://store.auroraoss.com/\">https://store.auroraoss.com/</a></p>\n\n<p>But i was wondering from a privacy and security point of view is this app safe to use and if there are any other apps that are on the same standard as aurora?</p>\n\n<p>I use this app so I dont have to sign in via google on my android, its a great app store but sometimes I am just willing to try new things.</p>\n\n<p>I have noticed slow app updates being pushed to the store and have noticed that it can throw a few errors at times.</p>\n\n<p>Before anyone says fdroid already got it..looking for any other replacement of google playstore.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-02T10:49:32.868Z"
+  "lastFetched": "2025-12-02T11:33:54.670Z"
 }

@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "black bar on top edge mobile",
+      "link": "/gallery/1pc5zjw",
+      "guid": "/gallery/1pc5zjw",
+      "pubDate": "Tue, 2 Dec 2025 11:22:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc5zjw/black_bar_on_top_edge_mobile/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Edge mobile, chrome mobile, can you fix the black bar issue when full screen? home page didn&#39;t have issue, only when viewing web page, it&#39;s really annoyed web. Watching YouTube and movie, it&#39;s been so long, never fix this, please</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "My Microsoft account was hacked and alias was changed",
       "link": "https://redlib.perennialte.ch//r/techsupport/comments/1pc4e1k/my_microsoft_account_was_hacked_and_alias_was/",
       "guid": "https://redlib.perennialte.ch//r/techsupport/comments/1pc4e1k/my_microsoft_account_was_hacked_and_alias_was/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9vsqy/clearing_cookies_on_exit_exceptions_list/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Just noticed that Edge is back to clearing most cookies on exit including those for the sites on the exceptions list. </p>\n\n<p>Any reason for this, and is there a fix that I missed </p>\n\n<p>FYI The exceptions I added were under settings at <strong>Privacy, search, and services/Clear browsing data/Clear browsing data on close.</strong> </p>\n\n<p>i have the buttons for <strong>browsing history</strong> and <strong>cookies and other site data selected.</strong> </p>\n\n<p>The exceptions I added were at  <strong>Don&#39;t clear</strong></p>\n\n<p>Is there a particular format to use when adding to the don&#39;t clear list?   </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Edge Dev crashes on the third press of the F11 key",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/",
-      "pubDate": "Sat, 29 Nov 2025 16:53:10 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1p9tp3s/edge_dev_crashes_on_the_third_press_of_the_f11_key/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m hoping some developers working on Edge read this and fix this bug. I like using Wikipedia and Reddit (and other sites too) on full-screen mode and I don&#39;t really like how attempting to do that causes the browser to crash.</p>\n\n<p>This bug is reproducible. Edge Dev crashes exactly on the third press of the <code>F11</code> key. The interval between the presses seems to be indefinite, i.e., be it half a second or 15 minutes between presses, the browser will still crash on the third press of the <code>F11</code> key. I tried it on two different PCs, and they exhibit the same bug. The action of opening the window in full-screen mode doesn&#39;t seem to cause this because interacting with some on-page component to turn on full-screen — such as a button — doesn&#39;t seem to be the cause. I tried repeatedly turning full-screen on and off on YouTube and also using my JavaScript script several times, and the browser does not crash due to those actions. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T10:49:47.282Z"
+  "lastFetched": "2025-12-02T11:34:09.533Z"
 }

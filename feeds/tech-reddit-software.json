@@ -40,21 +40,21 @@
       "thumbnail": null
     },
     {
-      "title": "Average Transparent png Pixel Location",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
-      "pubDate": "Tue, 2 Dec 2025 05:03:08 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that lets you input a transparent PNG, then calculates the &quot;center&quot; of it. Pretty much taking every pixel, and averaging their location based on opacity. So for each pixel, find the opacity and multiply both x and y coordinates by it. Then, finding the sum of the x and y values (adjusted for opacity), and dividing by the total number of pixels on each dimension.</p>\n\n<p>Eg. 5x7px png could look like this:</p>\n\n<p>xa=1, ya=1, opacitya=1; value x=1, y=1</p>\n\n<p>xb=2, yb=1, opacity=0; value x=0, y=0</p>\n\n<p>xc=3, yc=1, opacity=0; value x=0, y=0</p>\n\n<p>(...)</p>\n\n<p>xai=7, yai=5, opacityai=0.5; value x=3.5, y=2.5</p>\n\n<p>sum(x)/count(x)=xavg<br/>\nsum(y)/count(y)=yavg</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Curious if others care about how their browser manages tabs",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/",
       "pubDate": "Tue, 2 Dec 2025 10:12:35 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc4u2w/curious_if_others_care_about_how_their_browser/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I do a lot of testing and general browsing every day, and messy tabs always slow me down. I started using Neo recently and it helped me keep things grouped in a way that feels natural. It reminded me of how much difference a simple interface change can make for productivity. I am wondering if anyone else pays attention to this or if most people just stick with whatever they have used for years.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Average Transparent png Pixel Location",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/",
+      "pubDate": "Tue, 2 Dec 2025 05:03:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pbzs72/average_transparent_png_pixel_location/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a software that lets you input a transparent PNG, then calculates the &quot;center&quot; of it. Pretty much taking every pixel, and averaging their location based on opacity. So for each pixel, find the opacity and multiply both x and y coordinates by it. Then, finding the sum of the x and y values (adjusted for opacity), and dividing by the total number of pixels on each dimension.</p>\n\n<p>Eg. 5x7px png could look like this:</p>\n\n<p>xa=1, ya=1, opacitya=1; value x=1, y=1</p>\n\n<p>xb=2, yb=1, opacity=0; value x=0, y=0</p>\n\n<p>xc=3, yc=1, opacity=0; value x=0, y=0</p>\n\n<p>(...)</p>\n\n<p>xai=7, yai=5, opacityai=0.5; value x=3.5, y=2.5</p>\n\n<p>sum(x)/count(x)=xavg<br/>\nsum(y)/count(y)=yavg</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-02T10:49:52.333Z"
+  "lastFetched": "2025-12-02T11:34:14.458Z"
 }
