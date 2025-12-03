@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Shai-Hulud 2.0 NPM malware attack last week exposed up to 400,000 dev secrets after infecting hundreds of packages in the NPM registry and publishing stolen data in 30,000 GitHub repositories.",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/",
+      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/",
+      "pubDate": "Wed, 3 Dec 2025 01:45:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcr833/shaihulud_20_npm_malware_attack_last_week_exposed/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcr833/shaihulud_20_npm_malware_attack_last_week_exposed/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "AI’s Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
       "link": "https://spectrum.ieee.org/ai-reasoning-failures",
       "guid": "https://spectrum.ieee.org/ai-reasoning-failures",
@@ -37,15 +46,6 @@
       "pubDate": "Tue, 2 Dec 2025 15:10:41 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcaw66/windows_11s_updated_file_explorer_remains/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcaw66/windows_11s_updated_file_explorer_remains/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Shai-Hulud 2.0 NPM malware attack last week exposed up to 400,000 dev secrets after infecting hundreds of packages in the NPM registry and publishing stolen data in 30,000 GitHub repositories.",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/",
-      "guid": "https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/",
-      "pubDate": "Wed, 3 Dec 2025 01:45:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcr833/shaihulud_20_npm_malware_attack_last_week_exposed/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcr833/shaihulud_20_npm_malware_attack_last_week_exposed/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -76,6 +76,15 @@
       "thumbnail": null
     },
     {
+      "title": "Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own",
+      "link": "https://www.wired.com/story/amazon-nova-forge-ai-models/",
+      "guid": "https://www.wired.com/story/amazon-nova-forge-ai-models/",
+      "pubDate": "Tue, 2 Dec 2025 16:36:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcd57k/amazon_has_new_frontier_ai_modelsand_a_way_for/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcd57k/amazon_has_new_frontier_ai_modelsand_a_way_for/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
       "guid": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
@@ -91,15 +100,6 @@
       "pubDate": "Tue, 2 Dec 2025 03:07:42 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pbxept/smarttube_youtube_app_for_android_tv_breached_to/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Amazon Has New Frontier AI Models—and a Way for Customers to Build Their Own",
-      "link": "https://www.wired.com/story/amazon-nova-forge-ai-models/",
-      "guid": "https://www.wired.com/story/amazon-nova-forge-ai-models/",
-      "pubDate": "Tue, 2 Dec 2025 16:36:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcd57k/amazon_has_new_frontier_ai_modelsand_a_way_for/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/technews/comments/1pcd57k/amazon_has_new_frontier_ai_modelsand_a_way_for/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/technews.rss",
-  "lastFetched": "2025-12-03T03:45:01.083Z"
+  "lastFetched": "2025-12-03T04:52:21.803Z"
 }

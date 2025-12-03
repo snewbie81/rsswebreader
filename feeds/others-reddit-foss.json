@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Any tools to mirror and control android phone from a win11 pc?",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1pcqra3/any_tools_to_mirror_and_control_android_phone/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pcqra3/any_tools_to_mirror_and_control_android_phone/",
-      "pubDate": "Wed, 3 Dec 2025 01:23:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pcqra3/any_tools_to_mirror_and_control_android_phone/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for an app for mirroring android on a PC that also lets you control the phone from the app. Can anyone reccomend some? Thank you</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "FOSS alternative to Windows Voice Recorder (Win10) - simple interface, autosaving as compressed audio (mp3, m4a, ogg etc)",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/",
       "pubDate": "Wed, 3 Dec 2025 03:41:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Most of the recommendations I&#39;ve found via search engine are centered around stuff like Audacity, OBS, Reaper, etc</p>\n\n<p><strong>I don&#39;t want those options.</strong> I use them for other things and want to preserve their configurations for those tasks.</p>\n\n<p>There are two reasons why I want an alternative to Windows Voice Recorder:</p>\n\n<ol>\n<li>It struggles sometimes when saving longer recordings (1+ hour)</li>\n<li>There is no easy way to make it Always on Top</li>\n</ol>\n\n<p>I found Moo0 Audio Recorder and it seems OK. But it also crashes from time to time.</p>\n\n<p>I am looking for:</p>\n\n<ol>\n<li>Simple interface</li>\n<li>Saves as compressed audio automatically after recording ends</li>\n<li>Puts date and time info in filename</li>\n<li>Always on top function OR plays nice with MenuTools for always on top functionality (something about Win Voice Recorder doesn&#39;t use the older File Menu functionality, so MenuTools doesn&#39;t work for alway on top)</li>\n</ol>\n\n<p>Nice to have:</p>\n\n<ol>\n<li>Configure file saving directory</li>\n<li>Configure which microphone to use</li>\n<li>Custom file naming format</li>\n</ol>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Any tools to mirror and control android phone from a win11 pc?",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pcqra3/any_tools_to_mirror_and_control_android_phone/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pcqra3/any_tools_to_mirror_and_control_android_phone/",
+      "pubDate": "Wed, 3 Dec 2025 01:23:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pcqra3/any_tools_to_mirror_and_control_android_phone/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Looking for an app for mirroring android on a PC that also lets you control the phone from the app. Can anyone reccomend some? Thank you</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-03T03:44:36.563Z"
+  "lastFetched": "2025-12-03T04:51:59.479Z"
 }

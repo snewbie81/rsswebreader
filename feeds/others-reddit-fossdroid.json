@@ -31,15 +31,6 @@
       "thumbnail": null
     },
     {
-      "title": "Backspace to delete whole word instead of letter by letter on Heliboard?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
-      "pubDate": "Tue, 2 Dec 2025 15:01:06 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, I&#39;m hoping this is possible. I&#39;m finally trying to get away from Swiftkey and was wondering if this was a thing. Is there a setting somewhere that I can enable?</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "how to live with small storage phone?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/",
@@ -49,12 +40,12 @@
       "thumbnail": null
     },
     {
-      "title": "Inactive time alerts",
-      "link": "https://redlib.perennialte.ch//r/androidapps/comments/1pcfo33/inactive_time_alerts/",
-      "guid": "https://redlib.perennialte.ch//r/androidapps/comments/1pcfo33/inactive_time_alerts/",
-      "pubDate": "Tue, 2 Dec 2025 20:05:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pciwuk/inactive_time_alerts/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pciwuk/inactive_time_alerts/'>Comments</a>",
+      "title": "Backspace to delete whole word instead of letter by letter on Heliboard?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
+      "pubDate": "Tue, 2 Dec 2025 15:01:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, I&#39;m hoping this is possible. I&#39;m finally trying to get away from Swiftkey and was wondering if this was a thing. Is there a setting somewhere that I can enable?</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -64,6 +55,15 @@
       "pubDate": "Tue, 2 Dec 2025 15:06:54 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcasoy/is_there_a_foss_app_like_material_capsule_dynamic/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>It is basically an app that allows you to have a dynamic island with different and customizable features. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Inactive time alerts",
+      "link": "https://redlib.perennialte.ch//r/androidapps/comments/1pcfo33/inactive_time_alerts/",
+      "guid": "https://redlib.perennialte.ch//r/androidapps/comments/1pcfo33/inactive_time_alerts/",
+      "pubDate": "Tue, 2 Dec 2025 20:05:33 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pciwuk/inactive_time_alerts/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pciwuk/inactive_time_alerts/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-03T03:44:39.141Z"
+  "lastFetched": "2025-12-03T04:52:02.077Z"
 }
