@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Ancient DNA reveals China’s first ‘pet’ cat wasn’t the house cat",
+      "link": "https://www.sciencenews.org/article/dna-china-first-cat-leopard-rodent",
+      "guid": "https://www.sciencenews.org/?p=3163126",
+      "pubDate": "Wed, 03 Dec 2025 18:00:00 +0000",
+      "description": "The modern house cat reached China in the 8th century. Before that, another cat — the leopard cat — hunted the rodents in ancient Chinese settlements.",
+      "content": "The modern house cat reached China in the 8th century. Before that, another cat — the leopard cat — hunted the rodents in ancient Chinese settlements.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120225_BB_cats_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Ancient southern Africans took genetic evolution in a new direction",
       "link": "https://www.sciencenews.org/article/ancient-southern-africa-gene-evolution",
       "guid": "https://www.sciencenews.org/?p=3163146",
@@ -173,18 +182,9 @@
       "description": "These five early- and mid-career researchers are shaking up what we know about the Arctic, black holes and beyond.",
       "content": "These five early- and mid-career researchers are shaking up what we know about the Arctic, black holes and beyond.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/2025SNToWatch_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Science has made America great. Is that era over?",
-      "link": "https://www.sciencenews.org/article/science-america-trump-administration",
-      "guid": "https://www.sciencenews.org/?p=3162614",
-      "pubDate": "Fri, 21 Nov 2025 17:00:00 +0000",
-      "description": "Expectations of continued success for American science were shaken this year when the Trump administration cut billions of dollars in funding and fired thousands of scientists.",
-      "content": "Expectations of continued success for American science were shaken this year when the Trump administration cut billions of dollars in funding and fired thousands of scientists.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_fos_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-03T17:46:46.114Z"
+  "lastFetched": "2025-12-03T18:57:01.275Z"
 }
