@@ -13,6 +13,15 @@
       "thumbnail": null
     },
     {
+      "title": "Disable Zulip Channel Events",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/",
+      "pubDate": "Wed, 3 Dec 2025 07:35:40 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Does anybody know of a way to stop the &quot;channel events&quot; topic from appearing every time I make the slightest change. I also dont just mean to mute it. I would rather disable it from appearing at all.</p>\n\n<p>I am using the free cloud tier.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "FOSS alternative to Windows Voice Recorder (Win10) - simple interface, autosaving as compressed audio (mp3, m4a, ogg etc)",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/",
@@ -28,15 +37,6 @@
       "pubDate": "Tue, 2 Dec 2025 10:49:32 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>NVidia and the US Department of Defense has started adopting RISK-V processor plans, cutting out AMD, Intel, and ARM.  </p>\n\n<p>Epic Games funded Blender, harming Autodesk/Maya.</p>\n\n<p>Valve has SteamOS, making Linux mass-market friendly and cutting out Microsoft.</p>\n\n<p>It seems like these large corporations have a strong market incentive to elevate the open projects in adjacent industries so they can de-risk hardball negotiations from the corporations they depend on, and potential suck up more of the value stream. They&#39;ve realized they can leverage tens of thousands of hours of developer time at relatively little cost to themselves, and earn good PR for it. </p>\n\n<p>I&#39;ve often watched short-term decision making bad CEO wallets while shooting a hole in the industry&#39;s foot, but if the shape of that hole is FOSS maybe it&#39;s not so bad.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Disable Zulip Channel Events",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/",
-      "pubDate": "Wed, 3 Dec 2025 07:35:40 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Does anybody know of a way to stop the &quot;channel events&quot; topic from appearing every time I make the slightest change. I also dont just mean to mute it. I would rather disable it from appearing at all.</p>\n\n<p>I am using the free cloud tier.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-03T14:51:35.273Z"
+  "lastFetched": "2025-12-03T15:46:38.442Z"
 }
