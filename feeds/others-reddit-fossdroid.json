@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "Are there any Linux builds that work for the OnePlus Nord N10 5g?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
+      "pubDate": "Wed, 3 Dec 2025 02:14:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Specifically what I mean is, is there anything I can flash to it that makes the phone behave like a tiny Linux box with full system access via the terminal? A while ago I used to have Lineage OS on it, but that is no longer supported, I tried Ubuntu Touch briefly but that is read only, and PostmarketOS currently is unfinished and not stable for that device.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Backspace to delete whole word instead of letter by letter on Heliboard?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcang8/backspace_to_delete_whole_word_instead_of_letter/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>When I add a physical keyboard to my Android tablet and switch to PC mode, Heliboard crashes. It happens within moments after I start typing. Even a Ctrl+V is enough to cause this. Is that a known issue with Heliboard? If I can&#39;t fix it, is there an alternative FOSS keyboard app that is known to work better with physical keyboards? I’d rather not have to lose Heliboard and certainly I don&#39;t want to re-activate Google’s keyboard.</p>\n\n<p>EDIT: Minutes after I posted this Heliboard 3.6 which solved the crashes and other issues associated with physical keyboard. Now it won&#39;t switch to another language. </p>\n\n<p>Lenovo Ideatab, Android 15.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Heliboard",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/",
-      "pubDate": "Fri, 28 Nov 2025 10:58:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p8s2n2/heliboard/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>How do I add swipe profile?  Complete imbecile here I get the gist of it but I&#39;m stumped. Currently using SwiftKey. 1+13</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-02T23:34:00.692Z"
+  "lastFetched": "2025-12-03T03:44:39.141Z"
 }

@@ -22,6 +22,60 @@
       "thumbnail": null
     },
     {
+      "title": "My experience with an antidetect browser AdsPower after a few months of real use",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcrwcd/my_experience_with_an_antidetect_browser_adspower/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcrwcd/my_experience_with_an_antidetect_browser_adspower/",
+      "pubDate": "Wed, 3 Dec 2025 02:16:08 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcrwcd/my_experience_with_an_antidetect_browser_adspower/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been testing different antidetect browsers lately because I needed something that could handle multiple accounts without mixing cookies, fingerprints, or browsing environments. AdsPower kept coming up, so I tried using it for a while. Here’s my honest take based on what I’ve seen while using it.</p>\n\n<p>Performance &amp; stability</p>\n\n<p>AdsPower’s whole thing is creating separate “browser profiles” that isolate cookies, local storage, fingerprints, and other identifiers. According to the official documentation, each profile runs in its own independent browser environment and generates its own device fingerprint.</p>\n\n<p>In real use, that means each profile basically behaves like a standalone Chromium instance. When I run several profiles at once, it works fine, but obviously the resource usage stacks because that’s just how multiple Chromium windows behave, not an AdsPower-specific issue.</p>\n\n<p>UI &amp; usability </p>\n\n<p>The interface matches what the website shows, including a dashboard for managing profiles, proxy management, team collaboration, automation tools, and extension settings.</p>\n\n<p>Creating a profile follows the official workflow: choose or generate a fingerprint, set up proxy info, select the browser core, and save. Nothing hidden or mysterious, just a lot of settings if you’re new to these tools. </p>\n\n<p>Features</p>\n\n<ol>\n<li><p>Fingerprint management It supports: Canvas, WebGL, AudioContext, timezone, language, font lists, geolocation and hardware info. You can either generate fingerprints automatically or import your own. </p></li>\n<li><p>Profile isolation Each profile has its own separate cookie jar and storage. AdsPower explicitly says profiles act like independent devices. </p></li>\n<li><p>Proxy integration The app supports multiple proxy types - HTTP, SOCKS5, SSH - exactly as stated on the website. </p></li>\n<li><p>Automation / RPA AdsPower includes an official “Robotic Process Automation” tool with a visual editor and support for recording actions. Their docs mention that workflows can be repeated across profiles. </p></li>\n<li><p>Team collaboration Teams can share profiles, assign roles, and set permissions. This is a documented feature.</p></li>\n<li><p>Extension support </p></li>\n</ol>\n\n<p>AdsPower supports extensions for both Chromium-based profiles and Firefox-kernel profiles. I’ve tested Chrome extensions in Chromium profiles and Firefox add-ons in the Firefox ones, both worked as expected. </p>\n\n<p><strong>Pros</strong> </p>\n\n<p>- Fingerprint control is detailed and adjustable </p>\n\n<p>- Profile isolation works as advertised </p>\n\n<p>- Built-in automation saves time for repetitive tasks </p>\n\n<p>- Chrome/Firefox extension support </p>\n\n<p>- Centralized dashboard for proxies and profiles </p>\n\n<p>- Team-friendly workflow system </p>\n\n<p><strong>Cons</strong> </p>\n\n<p>- Because each profile is a Chromium-based browser core, opening many at once consumes a lot of system resources </p>\n\n<p>- The amount of fingerprint settings can feel overwhelming for beginners, and there’s a learning curve before everything makes sense</p>\n\n<p>- Not meant for casual browsing. This is a work tool, not a replacement for your main browser</p>\n\n<p><strong>Overall</strong></p>\n\n<p>If you actually need an antidetect browser for things like multi-account workflows, AdsPower does what its documentation promises: isolated environments, fingerprint customization, automation, and team sharing. It’s not buggy or shady, just has a lot of features and settings because that’s what this kind of browser is for.</p>\n\n<p>If you’re just trying to avoid tracking in your normal daily browsing, this isn’t the right tool for that. It’s definitely more of a “professional/operations” type product.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Flakes: I'm building a keyboard-first browser",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcoxqk/flakes_im_building_a_keyboardfirst_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcoxqk/flakes_im_building_a_keyboardfirst_browser/",
+      "pubDate": "Wed, 3 Dec 2025 00:03:10 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcoxqk/flakes_im_building_a_keyboardfirst_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using Vim-style extension years for browsing. As a KISS believer, I’m inspired by simplicity design from Vim, tmux and all classic &amp; modern browsers.</p>\n\n<p>Flakes is built on Webkit and only works on macOS now. Below are the current features and cores I stick to.</p>\n\n<p>- No tracking or registration(Only auto-upgrade check).</p>\n\n<p>- Ad blocking by default using uBOL rules.</p>\n\n<p>- Command palette to do everything.</p>\n\n<p>- Vim shortcuts to work with Insert / View / Bypass modes.</p>\n\n<p>- Distraction free focus mode.</p>\n\n<p>- AI feature is disabled by default.  </p>\n\n<p><em>Processing video plhx962kmv4g1...</em></p>\n\n<p>In this 30 seconds demo, I used Vim shortcuts to perform web browsing, and use Command Center(<code>⌘ K</code>) for manage everything else. Flakes is opionated, fast, native and privacy focused. Not everyone would like it, but if you do, let me know.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Audible Web Player is not working on the main Brave browser.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pctgy2/audible_web_player_is_not_working_on_the_main/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pctgy2/audible_web_player_is_not_working_on_the_main/",
+      "pubDate": "Wed, 3 Dec 2025 03:29:18 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pctgy2/audible_web_player_is_not_working_on_the_main/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Has any Brave user managed to figure out why the Audible website does not work in the Brave browser? It works in the Brave Nightly version, but it will not work in the main version. Do you happen to have an idea on how to fix it?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "How do you change your website from www. to http.?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/",
+      "pubDate": "Wed, 3 Dec 2025 03:11:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I created a business website using squarespace. We’ll say the website is called Camaro.com. If I type “Camaro.com” into the search engine it brings up the wrong website. If I type “www.Camaro.com” into the search engine, the correct website comes up. </p>\n\n<p>How do I make it so that when someone types in “Camaro.com”, it comes up with the correct website?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Recommendations for Browser with extensions support for iOS",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcrjig/recommendations_for_browser_with_extensions/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcrjig/recommendations_for_browser_with_extensions/",
+      "pubDate": "Wed, 3 Dec 2025 01:59:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcrjig/recommendations_for_browser_with_extensions/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Someone knows a good one ? </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I need browser that has practically no features, for the purpose of consuming as little ram as possible",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcr6vm/i_need_browser_that_has_practically_no_features/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcr6vm/i_need_browser_that_has_practically_no_features/",
+      "pubDate": "Wed, 3 Dec 2025 01:43:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcr6vm/i_need_browser_that_has_practically_no_features/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>You know why.</p>\n\n<p>I know of the big ones edge is surprisingly the most lightweight, but is any more lightweight that even that? This is only for use while I&#39;m gaming so I don&#39;t give a shit about features, just need it to have a search function</p>\n\n<p>bonus points if it has tab groups but I don&#39;t really care</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "What’s the best minimal setup for private browsing in 2025?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
@@ -49,15 +103,6 @@
       "thumbnail": null
     },
     {
-      "title": "Need an alternative for brave.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
-      "pubDate": "Tue, 2 Dec 2025 12:11:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I&#39;ve been jumping browsers for a while now, (for the past couple of years) starting with edge, then opera gx, then opera, then duckduckgo, and now am at brave. My preferences are starting to kinda change and I want a more customizable browser, which i can fine tune but I do need the privacy add blocking and the &quot;brave&quot; features as well. I have also eyed the AI browsers like comet but then didnt feel like trying them.</p>\n\n<p>TLDR: I want a browser with &quot;Brave&quot; privacy features (ifykyk why) and then I want total customization. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Achievements in fingerprinting resistance on my WebKit browser project, Pola (Cover Your Tracks results)",
       "link": "/img/ree2vfb5bo4g1.jpeg",
       "guid": "/img/ree2vfb5bo4g1.jpeg",
@@ -73,6 +118,15 @@
       "pubDate": "Tue, 2 Dec 2025 12:50:11 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pc7lq8/browser_for_mac/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Hi, I’m currently searching for a good web browser for Mac 💻.</strong></p>\n\n<p><strong>Here are my requirements:</strong></p>\n\n<ol>\n<li>Must support <strong>Chrome extensions</strong></li>\n<li>Should use <strong>less RAM</strong> and be lightweight</li>\n<li>Needs to offer <strong>strong privacy protection</strong></li>\n<li>Should be <strong>battery-efficient</strong></li>\n<li>Smooth performance while multitasking</li>\n<li>No unnecessary ads or pop-ups</li>\n<li>Preferably <strong>Chromium-based</strong>, but open to others</li>\n<li>Should not break websites or video streaming</li>\n<li>Prefer HDR support on macOS (if possible)</li>\n<li>Clean UI without extra bloat</li>\n<li>No crypto-related features (or ability to turn them off)</li>\n</ol>\n\n<p><strong>Let me know which browser you recommend based on these requirements.</strong></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Need an alternative for brave.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
+      "pubDate": "Tue, 2 Dec 2025 12:11:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I&#39;ve been jumping browsers for a while now, (for the past couple of years) starting with edge, then opera gx, then opera, then duckduckgo, and now am at brave. My preferences are starting to kinda change and I want a more customizable browser, which i can fine tune but I do need the privacy add blocking and the &quot;brave&quot; features as well. I have also eyed the AI browsers like comet but then didnt feel like trying them.</p>\n\n<p>TLDR: I want a browser with &quot;Brave&quot; privacy features (ifykyk why) and then I want total customization. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -94,21 +148,21 @@
       "thumbnail": null
     },
     {
-      "title": "Which AI browser for work?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/",
-      "pubDate": "Tue, 2 Dec 2025 20:11:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Which AI browser do you use for work?</p>\n\n<p>Why?</p>\n\n<p>What do you do with it?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Most people seem to like glass and transparency, so here we go!",
       "link": "/img/cend298ufi4g1.png",
       "guid": "/img/cend298ufi4g1.png",
       "pubDate": "Mon, 1 Dec 2025 03:17:26 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb1vua/most_people_seem_to_like_glass_and_transparency/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb1vua/most_people_seem_to_like_glass_and_transparency/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Which AI browser for work?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/",
+      "pubDate": "Tue, 2 Dec 2025 20:11:21 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Which AI browser do you use for work?</p>\n\n<p>Why?</p>\n\n<p>What do you do with it?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -173,63 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6x10/where_to_check_browser_fingerprinting/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Where to check browser fingerprinting:</p>\n\n<p><a href=\"https://amiunique.org\">https://amiunique.org</a></p>\n\n<p><a href=\"https://coveryourtracks.eff.org\">https://coveryourtracks.eff.org</a></p>\n\n<p><a href=\"https://browserleaks.com\">https://browserleaks.com</a></p>\n\n<p><a href=\"https://fingerprint.com/demo\">https://fingerprint.com/demo</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Alibaba’s Quark Unveils Revamped AI Browser, Deeply Integrated with Qwen",
-      "link": "https://www.alizila.com/alibabas-quark-unveils-revamped-ai-browser-deeply-integrated-with-qwen/",
-      "guid": "https://www.alizila.com/alibabas-quark-unveils-revamped-ai-browser-deeply-integrated-with-qwen/",
-      "pubDate": "Mon, 1 Dec 2025 11:59:58 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbay0i/alibabas_quark_unveils_revamped_ai_browser_deeply/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbay0i/alibabas_quark_unveils_revamped_ai_browser_deeply/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "falkon vs ungoogled chromuim",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbrtiw/falkon_vs_ungoogled_chromuim/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbrtiw/falkon_vs_ungoogled_chromuim/",
-      "pubDate": "Mon, 1 Dec 2025 23:02:26 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbrtiw/falkon_vs_ungoogled_chromuim/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>should I use falkon or ungoogled chromeuim?</p>\n\n<p>also is their any way to customize falkon to feel smoother with animation.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Is waterfox Safe?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbaaqj/is_waterfox_safe/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbaaqj/is_waterfox_safe/",
-      "pubDate": "Mon, 1 Dec 2025 11:22:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbaaqj/is_waterfox_safe/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I think it’s a really good alternative to Firefox without the Mozilla stuff. But it doesn’t have many users afaik and is out since 2011. Is it safe to use ?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "An error message with no search results",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbjxfn/an_error_message_with_no_search_results/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbjxfn/an_error_message_with_no_search_results/",
-      "pubDate": "Mon, 1 Dec 2025 18:04:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbjxfn/an_error_message_with_no_search_results/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>My main browser is Chrome. I am\nattempting to log in to a website where I created my account through Facebook on my phone, but when I attempt to log in through a browser, the button to log in via Facebook does not appear. After a couple of times reloading the site, I saw this error message pop up for a moment:</p>\n\n<p>“Your browser or an extension is blocking the loading of Facebook / Google scripts. Disable the function in your browser to log in with Google or Facebook.”</p>\n\n<p>Attempted disabling all browser extensions, clearing the cache, and restarting the browser. No change. Also tried accessing the site through Edge. Same result. Plugged the error text into DuckDuckGo (my current go to search engine) and got literally zero results.</p>\n\n<p>Anyone run into this before / found a fix?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Role play as browsers ideas",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbavtx/role_play_as_browsers_ideas/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbavtx/role_play_as_browsers_ideas/",
-      "pubDate": "Mon, 1 Dec 2025 11:56:38 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbavtx/role_play_as_browsers_ideas/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Years ago I used to run a role-playing game of &quot;Changeling the Lost&quot; . There&#39;s a lot to explain about the game but basically you were kidnapped by fae (faeries), and they turned you into any &quot;thing&quot;  they could imagine. Animals, items, concepts, etc. </p>\n\n<p>So back then I had the idea of &quot;what if the Fae had heard about web browsers. What would their conceptualization of these things be and how would the characters be designed?&quot; </p>\n\n<p>My character was literally Firefox. A flaming Fox, named Mo, that would go out and search for anything that others needed to find. He&#39;d use his animal senses to hunt, but the flames, while useful in combat, were because the Fae just didn&#39;t understand what Firefox was when it was described.</p>\n\n<p>Others that I had conceptualized included Safari, a fellow Hunter. Chrome, at the time was a polychromatic character. And Internet Explorer was an similar to Safari, but more of a traveler.</p>\n\n<p>That said, I&#39;m curious what character idea is others could come up with though and especially today. </p>\n\n<p>What does duckduckgo become as a character? Microsoft Edge? Zen browser? Opera? Libre Wolf? The list goes on. </p>\n\n<p>(If it helps here&#39;s a list of what character types were) \n* Beast (you&#39;re an animal)\n* Darkling (you go bump in the night) \n* Elemental (you became a literal Thing)\n* Fairest (you were taken as a treasure item) \n* Ogre (you survived by becoming like your Fae captors \n* Wizened (you were good at 1 thing, and it&#39;s your identity now)</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "I built a \"floating\" AI chat that follows you across tabs (so you stop Alt-Tab-ing)",
-      "link": "/img/l3q08rb36n4g1.gif",
-      "guid": "/img/l3q08rb36n4g1.gif",
-      "pubDate": "Mon, 1 Dec 2025 19:11:18 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pblsa3/i_built_a_floating_ai_chat_that_follows_you/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got tired of opening sidebars or switching windows just to use ChatGPT while browsing.</p>\n\n<p>So I built a <strong>moveable, floating chat widget</strong> that stays on top of your browser window.</p>\n\n<p><strong>What makes it different:</strong></p>\n\n<ol>\n<li><strong>It Travels:</strong> It stays open as you switch tabs, keeping the conversation history alive.</li>\n<li><strong>It Sees:</strong> It reads the current tab&#39;s context instantly.</li>\n<li><strong>It Acts:</strong> You can drag it next to a form, and it will auto-fill details based on your chat history or previous tabs.</li>\n</ol>\n\n<p>No need to switch to a whole new &#39;AI Browser.&#39; This is just a fast, handy layer for Chrome.</p>\n\n<p>I’m looking for 10 beta testers who want to move fast. Comment &#39;Floating&#39; if you want this.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-02T23:34:15.320Z"
+  "lastFetched": "2025-12-03T03:44:56.194Z"
 }

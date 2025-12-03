@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "edge's autocomplete on search bar is just useless",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcrbil/edges_autocomplete_on_search_bar_is_just_useless/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcrbil/edges_autocomplete_on_search_bar_is_just_useless/",
+      "pubDate": "Wed, 3 Dec 2025 01:49:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcrbil/edges_autocomplete_on_search_bar_is_just_useless/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve used edge for years already and there is never once where autocomplete is giving me the right auto complete. The chance for it to be right is probably near 1 out of 1000000 suggestion so why don&#39;t just remove it.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "How to Enable Workspaces on personal account in Microsoft Edge (macOS/Windows)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pao532/ребят_помогите_плз_как_удалить_автозаполнение/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Удалил аккаунт из настроек Windows 11, не помогло</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "New computer cant browse",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/",
-      "pubDate": "Sun, 30 Nov 2025 06:35:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pabgj0/new_computer_cant_browse/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got this laptop yesterday and honestly idk what im doing with it but the browser it came with won&#39;t let me do anything it just loads blank pages whenever I try to search</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-02T23:34:12.962Z"
+  "lastFetched": "2025-12-03T03:44:51.176Z"
 }
