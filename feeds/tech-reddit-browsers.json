@@ -40,21 +40,21 @@
       "thumbnail": null
     },
     {
+      "title": "New \"feature\" on Edge Android by default",
+      "link": "/img/pyyvetntwy4g1.png",
+      "guid": "/img/pyyvetntwy4g1.png",
+      "pubDate": "Wed, 3 Dec 2025 10:41:24 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pd0wz5/new_feature_on_edge_android_by_default/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pd0wz5/new_feature_on_edge_android_by_default/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "My experience with an antidetect browser AdsPower after a few months of real use",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcrwcd/my_experience_with_an_antidetect_browser_adspower/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcrwcd/my_experience_with_an_antidetect_browser_adspower/",
       "pubDate": "Wed, 3 Dec 2025 02:16:08 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcrwcd/my_experience_with_an_antidetect_browser_adspower/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been testing different antidetect browsers lately because I needed something that could handle multiple accounts without mixing cookies, fingerprints, or browsing environments. AdsPower kept coming up, so I tried using it for a while. Here’s my honest take based on what I’ve seen while using it.</p>\n\n<p>Performance &amp; stability</p>\n\n<p>AdsPower’s whole thing is creating separate “browser profiles” that isolate cookies, local storage, fingerprints, and other identifiers. According to the official documentation, each profile runs in its own independent browser environment and generates its own device fingerprint.</p>\n\n<p>In real use, that means each profile basically behaves like a standalone Chromium instance. When I run several profiles at once, it works fine, but obviously the resource usage stacks because that’s just how multiple Chromium windows behave, not an AdsPower-specific issue.</p>\n\n<p>UI &amp; usability </p>\n\n<p>The interface matches what the website shows, including a dashboard for managing profiles, proxy management, team collaboration, automation tools, and extension settings.</p>\n\n<p>Creating a profile follows the official workflow: choose or generate a fingerprint, set up proxy info, select the browser core, and save. Nothing hidden or mysterious, just a lot of settings if you’re new to these tools. </p>\n\n<p>Features</p>\n\n<ol>\n<li><p>Fingerprint management It supports: Canvas, WebGL, AudioContext, timezone, language, font lists, geolocation and hardware info. You can either generate fingerprints automatically or import your own. </p></li>\n<li><p>Profile isolation Each profile has its own separate cookie jar and storage. AdsPower explicitly says profiles act like independent devices. </p></li>\n<li><p>Proxy integration The app supports multiple proxy types - HTTP, SOCKS5, SSH - exactly as stated on the website. </p></li>\n<li><p>Automation / RPA AdsPower includes an official “Robotic Process Automation” tool with a visual editor and support for recording actions. Their docs mention that workflows can be repeated across profiles. </p></li>\n<li><p>Team collaboration Teams can share profiles, assign roles, and set permissions. This is a documented feature.</p></li>\n<li><p>Extension support </p></li>\n</ol>\n\n<p>AdsPower supports extensions for both Chromium-based profiles and Firefox-kernel profiles. I’ve tested Chrome extensions in Chromium profiles and Firefox add-ons in the Firefox ones, both worked as expected. </p>\n\n<p><strong>Pros</strong> </p>\n\n<p>- Fingerprint control is detailed and adjustable </p>\n\n<p>- Profile isolation works as advertised </p>\n\n<p>- Built-in automation saves time for repetitive tasks </p>\n\n<p>- Chrome/Firefox extension support </p>\n\n<p>- Centralized dashboard for proxies and profiles </p>\n\n<p>- Team-friendly workflow system </p>\n\n<p><strong>Cons</strong> </p>\n\n<p>- Because each profile is a Chromium-based browser core, opening many at once consumes a lot of system resources </p>\n\n<p>- The amount of fingerprint settings can feel overwhelming for beginners, and there’s a learning curve before everything makes sense</p>\n\n<p>- Not meant for casual browsing. This is a work tool, not a replacement for your main browser</p>\n\n<p><strong>Overall</strong></p>\n\n<p>If you actually need an antidetect browser for things like multi-account workflows, AdsPower does what its documentation promises: isolated environments, fingerprint customization, automation, and team sharing. It’s not buggy or shady, just has a lot of features and settings because that’s what this kind of browser is for.</p>\n\n<p>If you’re just trying to avoid tracking in your normal daily browsing, this isn’t the right tool for that. It’s definitely more of a “professional/operations” type product.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Ugh.. Firefox is so trash nowadays. If we don't donate, mozilla is probably going bankrupt and they are the reason for it.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
-      "pubDate": "Wed, 3 Dec 2025 09:37:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>If this keeps happening i&#39;m starting a project similar to ladybird, i dont care how much time it does take.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -118,6 +118,15 @@
       "pubDate": "Wed, 3 Dec 2025 03:29:18 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pctgy2/audible_web_player_is_not_working_on_the_main/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Has any Brave user managed to figure out why the Audible website does not work in the Brave browser? It works in the Brave Nightly version, but it will not work in the main version. Do you happen to have an idea on how to fix it?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Ugh.. Firefox is so trash nowadays. If we don't donate, mozilla is probably going bankrupt and they are the reason for it.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
+      "pubDate": "Wed, 3 Dec 2025 09:37:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>If this keeps happening i&#39;m starting a project similar to ladybird, i dont care how much time it does take.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcj2f4/which_ai_browser_for_work/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Which AI browser do you use for work?</p>\n\n<p>Why?</p>\n\n<p>What do you do with it?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "My Edge isn't working anymore properly after installing an extension. Now can't fix it despite resetting and reinstalling.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pc5956/my_edge_isnt_working_anymore_properly_after/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pc5956/my_edge_isnt_working_anymore_properly_after/",
-      "pubDate": "Tue, 2 Dec 2025 10:38:43 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pc5956/my_edge_isnt_working_anymore_properly_after/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I got extension &quot;i don&#39;t care about cookies&quot; and since then, some websites don&#39;t display right. Usually numbers are missing. Sometimes the whole site has an error. Resetting and reinstalling didn&#39;t do shit. I like the browser, but Microsoft being a petty business, isn&#39;t really allowing a REAL de-installation. Deleted the Edge Folder in AppData, too. Nothing helps.<br/>\nWhat can I do to fix my Edge?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-03T09:48:30.129Z"
+  "lastFetched": "2025-12-03T10:52:22.913Z"
 }

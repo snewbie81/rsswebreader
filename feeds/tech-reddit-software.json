@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Uninstalr 3.0 Release Candidate",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/",
+      "pubDate": "Wed, 3 Dec 2025 07:26:48 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>You can download Uninstalr 3.0 second public Release Candidate from this link: <a href=\"https://uninstalr.com/private/Uninstalr_Portable_v3_RC2b.exe\">https://uninstalr.com/private/Uninstalr_Portable_v3_RC2b.exe</a></p>\n\n<p>Uninstalr is an advanced software uninstaller that can automate the uninstallation of almost all software and also uses its own custom uninstallation engine to remove any leftovers. It also supports detecting leftovers from previously uninstalled software, and a lot of other powerful features. The full list of features is available at <a href=\"https://uninstalr.com/\">https://uninstalr.com/</a></p>\n\n<p>Here are some key improvements compared to the current official version (Uninstalr 2.8):</p>\n\n<ul>\n<li>The installed apps list now shows the country of origin for all known installed apps.</li>\n<li>The listing of paths before uninstallation starts now displays checkboxes, allowing users to uncheck any paths the user doesn’t want to be removed.</li>\n<li>The program now uses less RAM and performs the scan for installed software on average 40% faster.</li>\n<li>The main window bar now includes Settings and About buttons.</li>\n</ul>\n\n<p>Please note that this is <em>not the final version</em>. It may still contain bugs, so testing it on a virtual machine is recommended. Also, please don’t share this build publicly or upload it to download sites.</p>\n\n<p>If you find any issues, please let me know so I can fix them before the official release. If you are reporting any issues relating to uninstalling any specific software, please tell me which software you were trying to uninstall when the issue occurred so I can try to reproduce the issue and fix it.</p>\n\n<p>I&#39;m the developer of Uninstalr, so you can send any feedback here as a comment or directly to me via a private message.</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Best open-source software that everyone needs to know about?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
@@ -58,21 +67,21 @@
       "thumbnail": null
     },
     {
-      "title": "Uninstalr 3.0 Release Candidate",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/",
-      "pubDate": "Wed, 3 Dec 2025 07:26:48 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>You can download Uninstalr 3.0 second public Release Candidate from this link: <a href=\"https://uninstalr.com/private/Uninstalr_Portable_v3_RC2b.exe\">https://uninstalr.com/private/Uninstalr_Portable_v3_RC2b.exe</a></p>\n\n<p>Uninstalr is an advanced software uninstaller that can automate the uninstallation of almost all software and also uses its own custom uninstallation engine to remove any leftovers. It also supports detecting leftovers from previously uninstalled software, and a lot of other powerful features. The full list of features is available at <a href=\"https://uninstalr.com/\">https://uninstalr.com/</a></p>\n\n<p>Here are some key improvements compared to the current official version (Uninstalr 2.8):</p>\n\n<ul>\n<li>The installed apps list now shows the country of origin for all known installed apps.</li>\n<li>The listing of paths before uninstallation starts now displays checkboxes, allowing users to uncheck any paths the user doesn’t want to be removed.</li>\n<li>The program now uses less RAM and performs the scan for installed software on average 40% faster.</li>\n<li>The main window bar now includes Settings and About buttons.</li>\n</ul>\n\n<p>Please note that this is <em>not the final version</em>. It may still contain bugs, so testing it on a virtual machine is recommended. Also, please don’t share this build publicly or upload it to download sites.</p>\n\n<p>If you find any issues, please let me know so I can fix them before the official release. If you are reporting any issues relating to uninstalling any specific software, please tell me which software you were trying to uninstall when the issue occurred so I can try to reproduce the issue and fix it.</p>\n\n<p>I&#39;m the developer of Uninstalr, so you can send any feedback here as a comment or directly to me via a private message.</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "idm alternatives",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
       "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I built a Windows tool that hides chosen windows from screen sharing by working at the composition layer",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/",
+      "pubDate": "Wed, 3 Dec 2025 10:37:44 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been experimenting with how Windows captures and composites windows for tools like Zoom, Teams, Google Meet and Discord. Most people assume a screen share shows everything on the monitor, but Windows actually gives apps a filtered version of the desktop via the composition layer.</p>\n\n<p>I wanted to see if it was possible to exclude a specific window from that capture. That turned into a little project called <em>Cloakly</em>. It creates an overlay window that only the user can see, while the screen sharing APIs receive a cleaned version with selected windows removed from the composition.</p>\n\n<p>I learned a lot digging through how Windows handles window surfaces, capture permissions and DWM behavior. If anyone is interested in the technical side, I’m happy to share what I found, how I avoided injecting anything into processes, and how I kept it lightweight so it works on Teams, Meet, Zoom and Discord.</p>\n\n<p>Link: <a href=\"https://www.getcloakly.com/\">https://www.getcloakly.com/</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmjgw/how_well_does_kimi_2_hide_stresstesting_it_with/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been stress-testing the new wave of reasoning models (specifically Kimi 2 Thinking) to see if current detection tools can actually keep up. I ran a comparative case study between <strong>ZeroGPT</strong> and <a href=\"http://www.aiornot.com/\">AI or Not.</a></p>\n\n<p>The results were pretty damning for the industry standard.</p>\n\n<p><strong>The Breakdown:</strong></p>\n\n<ul>\n<li><strong>ZeroGPT (The Loser):</strong> It completely folded. The false positive rate was unacceptable, and classifications were inconsistent. It seems optimized for older GPT-3.5 patterns and fails when facing newer architectures. If you are relying on this for compliance, you are getting bad data.</li>\n<li><strong>AI or Not (The Winner):</strong> It successfully navigated the nuance of &quot;thinking&quot; model outputs without getting confused by the complex reasoning chains. It seems to analyze the <em>structure</em> of the reasoning rather than just surface-level perplexity.</li>\n</ul>\n\n<p><strong>Key Takeaway:</strong> Newer reasoning models (o1, Kimi) are bypassing perplexity-based detection. I&#39;m seeing a clear shift where structure-based analysis is required.</p>\n\n<p><strong>Data:</strong> <em>(Note: Instead of just attaching a PDF, I recommend posting a screenshot of your results table here or pasting a snippet of the text that fooled ZeroGPT. This sub prefers inline data over file downloads).</em></p>\n\n<p>Has anyone else successfully tripped up &quot;AI or Not&quot; with reasoning prompts yet?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Looking for a system-wide AI assisted spelling and grammar and rewrite tool like Galaxy AI Keyboard for Windows 11.",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcmgy4/looking_for_a_systemwide_ai_assisted_spelling_and/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcmgy4/looking_for_a_systemwide_ai_assisted_spelling_and/",
-      "pubDate": "Tue, 2 Dec 2025 22:21:28 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmgy4/looking_for_a_systemwide_ai_assisted_spelling_and/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>What I want from this app</p>\n\n<p>It should be completely free, </p>\n\n<p>It should be AI (LLM powered), </p>\n\n<p>It should work on system-wide, not just for Word or Google Chrome etc. </p>\n\n<p>It should fix spelling and grammar and also rewrite text across any application on my computer, like Galaxy AI Keyboard. Any recommendations?</p>\n\n<p><a href=\"/preview/pre/fx03m96l8v4g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=4ee6f688239f66e792a5e2708041904cb4580d22\">/preview/pre/fx03m96l8v4g1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=4ee6f688239f66e792a5e2708041904cb4580d22</a></p>\n\n<p>I literally want a app with this function. </p>\n\n<p>theJayTea&#39;s WritingTools are buggy and doesn&#39;t work well enough. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-03T09:48:32.886Z"
+  "lastFetched": "2025-12-03T10:52:25.427Z"
 }
