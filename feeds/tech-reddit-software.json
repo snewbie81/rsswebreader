@@ -67,12 +67,12 @@
       "thumbnail": null
     },
     {
-      "title": "idm alternatives",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
-      "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
+      "title": "Tasket++ — simple Windows tool to automate user actions, free and open source",
+      "link": "/gallery/1pcykpz",
+      "guid": "/gallery/1pcykpz",
+      "pubDate": "Wed, 3 Dec 2025 08:10:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcykpz/tasket_simple_windows_tool_to_automate_user/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why you’ll actually use it<br/>\n- Silent, scheduled screenshots to monitor activity or create time-lapse logs.<br/>\n- Send messages from any app at a set time for reminders or coordinated notifications.<br/>\n- Replay exact mouse clicks and typed input for testing, demos, or repetitive workflows.<br/>\n- Prevent AFK detection with realistic simulated activity that looks natural.<br/>\n- Fade music and shut down the PC on a schedule to automate sleep or end-of-day routines.<br/>\n- Save automation presets and run them manually, at boot, or on a schedule.</p>\n\n<p>No scripting required. All actions run locally on your PC, can loop, trigger at startup, or follow a timetable.</p>\n\n<p>Download on Microsoft Store: <a href=\"https://apps.microsoft.com/detail/xp9cjlhwvxs49p\">https://apps.microsoft.com/detail/xp9cjlhwvxs49p</a><br/>\nSource code and issues: <a href=\"https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys\">https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -82,6 +82,15 @@
       "pubDate": "Wed, 3 Dec 2025 10:37:44 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been experimenting with how Windows captures and composites windows for tools like Zoom, Teams, Google Meet and Discord. Most people assume a screen share shows everything on the monitor, but Windows actually gives apps a filtered version of the desktop via the composition layer.</p>\n\n<p>I wanted to see if it was possible to exclude a specific window from that capture. That turned into a little project called <em>Cloakly</em>. It creates an overlay window that only the user can see, while the screen sharing APIs receive a cleaned version with selected windows removed from the composition.</p>\n\n<p>I learned a lot digging through how Windows handles window surfaces, capture permissions and DWM behavior. If anyone is interested in the technical side, I’m happy to share what I found, how I avoided injecting anything into processes, and how I kept it lightweight so it works on Teams, Meet, Zoom and Discord.</p>\n\n<p>Link: <a href=\"https://www.getcloakly.com/\">https://www.getcloakly.com/</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "In Case You Missed It - Microsoft PC Manager is your free replacement/alternative to CCleaner",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
+      "pubDate": "Wed, 3 Dec 2025 02:44:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/xlnoxrvxiw4g1.png?width=960&amp;format=png&amp;auto=webp&amp;s=5d4f988ba82d6610f179ee51d21529bd573774ef\">Screenshot of PC Manager doing a Health Check</a></p>\n\n<p>It&#39;s been 6+ months since i&#39;ve overhauled my PC from Win10 to Win11. PC Manager was just a blind background install as a backup to CCleaner. I left it running in &quot;background&quot; because it has an auto clean cache feature. FIrst time running a full &quot;Health Check&quot;. I have to say; the updated graphics is quite an improvement over CCleaner. Also i like that &quot;health check&quot; is something like an adhoc basic HWINFO screen of your PC innards.</p>\n\n<p>*(Though i still keep CCleaner around for harsher things like full Chrome/EDGE/Browser and registry cleanups).</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -103,21 +112,12 @@
       "thumbnail": null
     },
     {
-      "title": "In Case You Missed It - Microsoft PC Manager is your free replacement/alternative to CCleaner",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
-      "pubDate": "Wed, 3 Dec 2025 02:44:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/xlnoxrvxiw4g1.png?width=960&amp;format=png&amp;auto=webp&amp;s=5d4f988ba82d6610f179ee51d21529bd573774ef\">Screenshot of PC Manager doing a Health Check</a></p>\n\n<p>It&#39;s been 6+ months since i&#39;ve overhauled my PC from Win10 to Win11. PC Manager was just a blind background install as a backup to CCleaner. I left it running in &quot;background&quot; because it has an auto clean cache feature. FIrst time running a full &quot;Health Check&quot;. I have to say; the updated graphics is quite an improvement over CCleaner. Also i like that &quot;health check&quot; is something like an adhoc basic HWINFO screen of your PC innards.</p>\n\n<p>*(Though i still keep CCleaner around for harsher things like full Chrome/EDGE/Browser and registry cleanups).</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Tasket++ — simple Windows tool to automate user actions, free and open source",
-      "link": "/gallery/1pcykpz",
-      "guid": "/gallery/1pcykpz",
-      "pubDate": "Wed, 3 Dec 2025 08:10:46 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcykpz/tasket_simple_windows_tool_to_automate_user/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why you’ll actually use it<br/>\n- Silent, scheduled screenshots to monitor activity or create time-lapse logs.<br/>\n- Send messages from any app at a set time for reminders or coordinated notifications.<br/>\n- Replay exact mouse clicks and typed input for testing, demos, or repetitive workflows.<br/>\n- Prevent AFK detection with realistic simulated activity that looks natural.<br/>\n- Fade music and shut down the PC on a schedule to automate sleep or end-of-day routines.<br/>\n- Save automation presets and run them manually, at boot, or on a schedule.</p>\n\n<p>No scripting required. All actions run locally on your PC, can loop, trigger at startup, or follow a timetable.</p>\n\n<p>Download on Microsoft Store: <a href=\"https://apps.microsoft.com/detail/xp9cjlhwvxs49p\">https://apps.microsoft.com/detail/xp9cjlhwvxs49p</a><br/>\nSource code and issues: <a href=\"https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys\">https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys</a></p>\n</div><!-- SC_ON -->",
+      "title": "idm alternatives",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
+      "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-03T10:52:25.427Z"
+  "lastFetched": "2025-12-03T11:34:29.965Z"
 }

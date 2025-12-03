@@ -31,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "Are there any Linux builds that work for the OnePlus Nord N10 5g?",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
-      "pubDate": "Wed, 3 Dec 2025 02:14:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Specifically what I mean is, is there anything I can flash to it that makes the phone behave like a tiny Linux box with full system access via the terminal? A while ago I used to have Lineage OS on it, but that is no longer supported, I tried Ubuntu Touch briefly but that is read only, and PostmarketOS currently is unfinished and not stable for that device.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Im looking for a Read-it-later app that can...",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
       "pubDate": "Wed, 3 Dec 2025 07:31:14 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Im looking for a Read-it-later app that can access web pages while in offline. Ive searched in fdroid and found weread app. its simple but only has reader mode, no images. I need an app that can acces web pages without altering website&#39;s original format. For now, im using singlefile android extension in ironfox browser. any help is appreciated.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Are there any Linux builds that work for the OnePlus Nord N10 5g?",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
+      "pubDate": "Wed, 3 Dec 2025 02:14:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Specifically what I mean is, is there anything I can flash to it that makes the phone behave like a tiny Linux box with full system access via the terminal? A while ago I used to have Lineage OS on it, but that is no longer supported, I tried Ubuntu Touch briefly but that is read only, and PostmarketOS currently is unfinished and not stable for that device.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-03T10:52:08.133Z"
+  "lastFetched": "2025-12-03T11:34:12.853Z"
 }

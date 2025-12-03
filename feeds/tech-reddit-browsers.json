@@ -121,15 +121,6 @@
       "thumbnail": null
     },
     {
-      "title": "Ugh.. Firefox is so trash nowadays. If we don't donate, mozilla is probably going bankrupt and they are the reason for it.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
-      "pubDate": "Wed, 3 Dec 2025 09:37:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>If this keeps happening i&#39;m starting a project similar to ladybird, i dont care how much time it does take.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Recommendations for Browser with extensions support for iOS",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcrjig/recommendations_for_browser_with_extensions/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcrjig/recommendations_for_browser_with_extensions/",
@@ -145,6 +136,15 @@
       "pubDate": "Wed, 3 Dec 2025 01:43:59 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcr6vm/i_need_browser_that_has_practically_no_features/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>You know why.</p>\n\n<p>I know of the big ones edge is surprisingly the most lightweight, but is any more lightweight that even that? This is only for use while I&#39;m gaming so I don&#39;t give a shit about features, just need it to have a search function</p>\n\n<p>bonus points if it has tab groups but I don&#39;t really care</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Ugh.. Firefox is so trash nowadays. If we don't donate, mozilla is probably going bankrupt and they are the reason for it.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/",
+      "pubDate": "Wed, 3 Dec 2025 09:37:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pczwky/ugh_firefox_is_so_trash_nowadays_if_we_dont/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>If this keeps happening i&#39;m starting a project similar to ladybird, i dont care how much time it does take.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -184,21 +184,21 @@
       "thumbnail": null
     },
     {
-      "title": "Need an alternative for brave.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
-      "pubDate": "Tue, 2 Dec 2025 12:11:12 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I&#39;ve been jumping browsers for a while now, (for the past couple of years) starting with edge, then opera gx, then opera, then duckduckgo, and now am at brave. My preferences are starting to kinda change and I want a more customizable browser, which i can fine tune but I do need the privacy add blocking and the &quot;brave&quot; features as well. I have also eyed the AI browsers like comet but then didnt feel like trying them.</p>\n\n<p>TLDR: I want a browser with &quot;Brave&quot; privacy features (ifykyk why) and then I want total customization. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Achievements in fingerprinting resistance on my WebKit browser project, Pola (Cover Your Tracks results)",
       "link": "/img/ree2vfb5bo4g1.jpeg",
       "guid": "/img/ree2vfb5bo4g1.jpeg",
       "pubDate": "Mon, 1 Dec 2025 23:01:18 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbrsh6/achievements_in_fingerprinting_resistance_on_my/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbrsh6/achievements_in_fingerprinting_resistance_on_my/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Need an alternative for brave.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/",
+      "pubDate": "Tue, 2 Dec 2025 12:11:12 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pc6uic/need_an_alternative_for_brave/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So I&#39;ve been jumping browsers for a while now, (for the past couple of years) starting with edge, then opera gx, then opera, then duckduckgo, and now am at brave. My preferences are starting to kinda change and I want a more customizable browser, which i can fine tune but I do need the privacy add blocking and the &quot;brave&quot; features as well. I have also eyed the AI browsers like comet but then didnt feel like trying them.</p>\n\n<p>TLDR: I want a browser with &quot;Brave&quot; privacy features (ifykyk why) and then I want total customization. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-03T10:52:22.913Z"
+  "lastFetched": "2025-12-03T11:34:27.012Z"
 }
