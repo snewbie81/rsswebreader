@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Ancient southern Africans took genetic evolution in a new direction",
+      "link": "https://www.sciencenews.org/article/ancient-southern-africa-gene-evolution",
+      "guid": "https://www.sciencenews.org/?p=3163146",
+      "pubDate": "Wed, 03 Dec 2025 16:00:00 +0000",
+      "description": "An ancient, shared set of human-specific genes underwent changes in a geographically isolated population after around 300,000 years ago, scientists say.",
+      "content": "An ancient, shared set of human-specific genes underwent changes in a geographically isolated population after around 300,000 years ago, scientists say.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120325_BB_AfricaHomosapiens_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Human-caused earthquakes are real. Here’s why even stable regions can snap",
       "link": "https://www.sciencenews.org/article/human-caused-earthquakes-stable-regions",
       "guid": "https://www.sciencenews.org/?p=3162983",
@@ -173,18 +182,9 @@
       "description": "Expectations of continued success for American science were shaken this year when the Trump administration cut billions of dollars in funding and fired thousands of scientists.",
       "content": "Expectations of continued success for American science were shaken this year when the Trump administration cut billions of dollars in funding and fired thousands of scientists.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/120125_fos_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "A new dinosaur doomsday exhibit showcases survival after destruction",
-      "link": "https://www.sciencenews.org/article/dinosaur-doomsday-museum-exhibit",
-      "guid": "https://www.sciencenews.org/?p=3162827",
-      "pubDate": "Fri, 21 Nov 2025 15:45:00 +0000",
-      "description": "The American Museum of Natural History’s “Impact: The End of the Age of the Dinosaurs” examines how an asteroid impact shaped life as we know it.",
-      "content": "The American Museum of Natural History’s “Impact: The End of the Age of the Dinosaurs” examines how an asteroid impact shaped life as we know it.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112025_EG_AMNH-dino_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-03T15:46:48.019Z"
+  "lastFetched": "2025-12-03T16:59:21.764Z"
 }

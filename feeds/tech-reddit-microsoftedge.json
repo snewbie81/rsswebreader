@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "Is the \"Keep the Edge window open when closing the last tab\" option deleted?",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd7yrq/is_the_keep_the_edge_window_open_when_closing_the/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd7yrq/is_the_keep_the_edge_window_open_when_closing_the/",
+      "pubDate": "Wed, 3 Dec 2025 15:55:59 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd7yrq/is_the_keep_the_edge_window_open_when_closing_the/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Now, when I close the last tab, the window is closed, and I cannot find this option in settings.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I asked Bing why there’s cotton in pill bottles and got this AI response. ‼️",
+      "link": "/img/kmdgysw7f05g1.jpeg",
+      "guid": "/img/kmdgysw7f05g1.jpeg",
+      "pubDate": "Wed, 3 Dec 2025 15:59:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd82d7/i_asked_bing_why_theres_cotton_in_pill_bottles/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd82d7/i_asked_bing_why_theres_cotton_in_pill_bottles/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "edge canary won't open",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd0jpz/edge_canary_wont_open/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd0jpz/edge_canary_wont_open/",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb5zvb/edgewebview2_sidebyside_problems_hours_trying_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Tried opening CCleaner and was met with this. Followed every single video on youtube to fix this, nothing. Many videos and a google searches point to just &quot;easily&quot; reinstalling the edge webview program - downloading the installer and running it gets me nowhere, &quot;Edge webview is already installed&quot;. </p>\n\n<p>It says its installed, yet checking in control panel shows nothing on it. Youtube videos do show &quot;Microsoft Edge WebView2 Runtime&quot; installed on their devices, yet not on mine. I tried multiple versions of the installer, nothing.</p>\n\n<p>I get the &quot;side-by-side&quot; error randomly while doing nothing on the computer which I think means other programs are trying and failing at the same thing. </p>\n\n<p>I&#39;ve updated all my MC C++ Redis files, reinstalled every single program mentioned (bar edge webview obviously) and still come up with nothing. </p>\n\n<p>sfc /scannow in cmd - nothing and repaired a million different programs manually - nothing. Plz help </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "I would love to see the data of people that actually use Collections.",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paifeq/i_would_love_to_see_the_data_of_people_that/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paifeq/i_would_love_to_see_the_data_of_people_that/",
-      "pubDate": "Sun, 30 Nov 2025 13:35:02 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paifeq/i_would_love_to_see_the_data_of_people_that/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Collections. Tab group. Workspaces. Aren&#39;t they all redundant? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Help",
-      "link": "",
-      "guid": "",
-      "pubDate": "Mon, 1 Dec 2025 01:50:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb013n/help/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I tried to type in something in the address bar, in this case amazon, it redirects me to some website. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-03T15:46:53.225Z"
+  "lastFetched": "2025-12-03T16:59:26.731Z"
 }

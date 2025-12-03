@@ -13,6 +13,24 @@
       "thumbnail": null
     },
     {
+      "title": "Corsair: Natural language business logic built with TypeScript.",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pd9jwp/corsair_natural_language_business_logic_built/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pd9jwp/corsair_natural_language_business_logic_built/",
+      "pubDate": "Wed, 3 Dec 2025 16:54:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pd9jwp/corsair_natural_language_business_logic_built/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>const result = useCorsairMutation(&quot;create user account and notify team of signup via Slack&quot;);\n</code></pre>\n\n<p><strong>Corsair replaces inline business logic with your original prompt that preserves intent forever.</strong><br/>\nThe prompt string is mapped to an input and return type, so all code is strongly typed (no <code>any</code>). You can read and edit generated code as you wish.</p>\n\n<p><strong>Plugins are the killer feature:</strong><br/>\nBeyond database queries, you can write mutations that orchestrate across multiple services. Each plugin is strongly typed.</p>\n\n<pre><code>useCorsairMutation(&quot;create Stripe subscription and send invoice via Resend&quot;)\n\nuseCorsairQuery(&quot;fetch last 50 messages from #engineering and summarize&quot;)\n\nuseCorsairMutation(&quot;update user preferences and sync to Hubspot&quot;)\n</code></pre>\n\n<p><strong>Built for AI coding agents:</strong><br/>\nYour coding agent can use Corsair via normal bash commands:</p>\n\n<pre><code>pnpm corsair query -n &quot;published posts with comments&quot; -i &quot;fetch all published posts with authors and approved comments. return it by most recent first&quot;\n</code></pre>\n\n<p>The agent delegates to Corsair. Corsair has your full database schema and code context.</p>\n\n<p>I’ve benefitted from so many OS projects, so I&#39;m really excited to finally contribute my own. Please ask any questions or give any feedback! Thank you :)</p>\n\n<p><a href=\"https://github.com/corsairdev/corsair\">Github</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I made a simple Epic Games Launcher account switcher (Epic Switcher)",
+      "link": "https://redlib.perennialte.ch//r/opensource/comments/1pd7wug/i_made_a_simple_epic_games_launcher_account/",
+      "guid": "https://redlib.perennialte.ch//r/opensource/comments/1pd7wug/i_made_a_simple_epic_games_launcher_account/",
+      "pubDate": "Wed, 3 Dec 2025 15:57:26 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pd805w/i_made_a_simple_epic_games_launcher_account/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pd805w/i_made_a_simple_epic_games_launcher_account/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
       "title": "Disable Zulip Channel Events",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pcy0lv/disable_zulip_channel_events/",
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p6gdmo/tilbuci_version_18_comes_with_usability/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>TilBuci, a free software (MPL-2.0) focused on creating interactive content, reaches version 18: <a href=\"https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v18\">https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v18</a></p>\n\n<p><strong>Enhanced zoom and graphic elements dragging</strong><br/>\nSupport for zooming in and out of images during display has been improved, and now the instance (picture, video, spritemap) has its size changed directly in the layout, no longer being displayed in a popup. In addition, it is now possible to drag instances, as well as check the point at which they are released by visitors, in a collision check. To learn more about these features, we&#39;ve created a video tutorial showing the process of creating a photo gallery to be distributed on tablets.: <a href=\"https://youtu.be/o-fAWoBMe_M\">https://youtu.be/o-fAWoBMe_M</a></p>\n\n<p><a href=\"/preview/pre/fytg3fxoff3g1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=ec7e6c21ab020cc02b2d55cd0863bdd47c6b02ea\">/preview/pre/fytg3fxoff3g1.jpg?width=3413&amp;format=pjpg&amp;auto=webp&amp;s=ec7e6c21ab020cc02b2d55cd0863bdd47c6b02ea</a></p>\n\n<p><strong>Array manipulation</strong><br/>\nThe new array manipulation feature allows for more comprehensive data management in your creations, enabling the development of more complex products. Check item 6 of the &quot;scripting actions&quot; manual for more details about this new feature: <a href=\"https://tilbuci.com.br/files/TilBuci-ScriptingActions.pdf\">https://tilbuci.com.br/files/TilBuci-ScriptingActions.pdf</a></p>\n\n<p><a href=\"/preview/pre/0en5cwrpff3g1.jpg?width=2276&amp;format=pjpg&amp;auto=webp&amp;s=18a78dcfba2c5cf3eea51f25317a8b1c283997e4\">/preview/pre/0en5cwrpff3g1.jpg?width=2276&amp;format=pjpg&amp;auto=webp&amp;s=18a78dcfba2c5cf3eea51f25317a8b1c283997e4</a></p>\n\n<p><strong>Multiple selection and instance organization</strong><br/>\nThe &quot;instances&quot; right tab has gained several new features to simplify your content creation work.</p>\n\n<ul>\n<li>Copy/paste: it is now possible to copy one or more instances and paste them into another keyframe or scene within the movie. This feature also works between different workspaces open in the same movie.</li>\n<li>Multiple selection: by holding down the ctrl (or command) key, it is now possible to select multiple instances at once by clicking at their name on the list.</li>\n<li>Instance arrangement: with multiple selection, traditional features such as relative alignment, space distribution, and repositioning are now available.</li>\n</ul>\n\n<p><a href=\"/preview/pre/a4ype6wqff3g1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=e326045cd53f1e89458e77b0b2ae0c1b62147d78\">/preview/pre/a4ype6wqff3g1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=e326045cd53f1e89458e77b0b2ae0c1b62147d78</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Janice: App for Viewing Large JSON Files; for Developers and Data Scientists",
-      "link": "https://medevel.com/janice-json-file-viewer/",
-      "guid": "https://medevel.com/janice-json-file-viewer/",
-      "pubDate": "Sun, 23 Nov 2025 13:17:21 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4mhh3/janice_app_for_viewing_large_json_files_for/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4mhh3/janice_app_for_viewing_large_json_files_for/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
-      "title": "Guys, did you wake me up and add another application to my collection, I see that it is a scent collection",
-      "link": "/gallery/1p4izrv",
-      "guid": "/gallery/1p4izrv",
-      "pubDate": "Sun, 23 Nov 2025 09:58:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4izrv/guys_did_you_wake_me_up_and_add_another/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/foss/comments/1p4izrv/guys_did_you_wake_me_up_and_add_another/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-03T15:46:38.442Z"
+  "lastFetched": "2025-12-03T16:59:11.607Z"
 }

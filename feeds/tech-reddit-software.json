@@ -40,12 +40,30 @@
       "thumbnail": null
     },
     {
+      "title": "I've built a open source local converter app",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pd8txr/ive_built_a_open_source_local_converter_app/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pd8txr/ive_built_a_open_source_local_converter_app/",
+      "pubDate": "Wed, 3 Dec 2025 16:27:38 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd8txr/ive_built_a_open_source_local_converter_app/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi If you&#39;re like me and tired of having to wait around for ads , or not knowing where you data is being processed then you might be interested in <strong>Converti</strong> </p>\n\n<p>Converti is a 100% local conversion app that does not track any of your data , it supports multiple file formats and batch converting while being easy and intuitive to use </p>\n\n<p>You can also customize how it works in multiple ways and even archive your files</p>\n\n<p>Try it out here : <a href=\"https://github.com/YassineKh2/Converti\">https://github.com/YassineKh2/Converti</a></p>\n\n<p>Converti is an open source app that is 100% free , please give a try and give me your feedback i&#39;ll love to hear from you </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I'm building a tool that auto-generates cable management solutions for your setup",
       "link": "/gallery/1pd31nh",
       "guid": "/gallery/1pd31nh",
       "pubDate": "Wed, 3 Dec 2025 12:38:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd31nh/im_building_a_tool_that_autogenerates_cable/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! 👋</p>\n\n<p>I’m working on a tool to help simplify cable management. The goal is to eliminate the guesswork around cable lengths, product choices, and routing methods. Instead of trial and error, users get a personalized, auto-generated solution based on their desk setup and specific needs.</p>\n\n<p>The tool is currently available online at: <a href=\"https://cabletoolkit.com/\">https://cabletoolkit.com/</a></p>\n\n<p>The idea is simple:</p>\n\n<ol>\n<li>You enter info about your desk, devices, and preferences</li>\n<li>The tool generates a custom cable management solution</li>\n<li>It shows it all in a 3D model of your workspace</li>\n<li>It also gives you a list of products you can use to execute the plan</li>\n</ol>\n\n<p>For anyone who&#39;s interested, I&#39;d love it if you tried it out. This is still an early version of the tool. Any input is super appreciated!</p>\n\n<p>I&#39;m also looking for alternative use cases for this software (facility mangement for example). If anyone has any ideas, I&#39;d really like to hear it!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "GitHub - davidesantangelo/numla: The notepad that thinks in numbers.",
+      "link": "https://github.com/davidesantangelo/numla",
+      "guid": "https://github.com/davidesantangelo/numla",
+      "pubDate": "Wed, 3 Dec 2025 15:57:28 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd806q/github_davidesantangelonumla_the_notepad_that/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>The notepad that thinks in numbers.</strong></p>\n\n<p>A minimal, beautiful calculator notepad for quick math, currency conversions, and everyday calculations. Just type naturally — Numla figures out the rest.</p>\n\n<p><a href=\"https://numla.app\">https://numla.app</a></p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>37signals (the team behind Basecamp and HEY) just released Fizzy - an open source kanban tool. You can run it yourself for free or pay $20/month for hosted.\n\nI&#39;ve used Basecamp for years and took Fizzy for a spin today. What stood out wasn&#39;t just the fresh take, it&#39;s the attention to detail throughout. For anyone building software, it&#39;s worth poking around just to see how they handle the small stuff.\n\nSource code: https://github.com/basecamp/fizzy\n\nSite: https://fizzy.do\n\nAnyone else check it out? Curious what this community thinks.\n</code></pre>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Is there a free software or tool with which I can merge huge pictures together?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcjbg9/is_there_a_free_software_or_tool_with_which_i_can/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcjbg9/is_there_a_free_software_or_tool_with_which_i_can/",
-      "pubDate": "Tue, 2 Dec 2025 20:20:54 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjbg9/is_there_a_free_software_or_tool_with_which_i_can/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I merged many pictures together so I&#39;ve got 12x~120 MB pictures. Now I have to merge all of these 12 pictures to one picture. I&#39;ve used Batch Image Merger from Github but it cant merge all together using that tool because it gives out an error. Now I am looking for another tool or software with which I could merge all 12 pictures together. Do you have any suggestions?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "How to look for freelancing opportunities?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcn3ff/how_to_look_for_freelancing_opportunities/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcn3ff/how_to_look_for_freelancing_opportunities/",
-      "pubDate": "Tue, 2 Dec 2025 22:45:56 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcn3ff/how_to_look_for_freelancing_opportunities/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have around 4 years of experience in backend development, my tech stack is java with spring, mySql and MongoDb and GCP for servers. </p>\n\n<p>I’m on notice period right now and Won’t be receiving my salary for the next 1.5 months and I have bills to pay. So i am thinking of freelancing a few projects during this time to earn a few extra bucks. </p>\n\n<p>My questions are: \n1. Which platforms are best for finding such opportunities? \n2. How much money can i earn in a month, and will it be exhausting? \n3. Is freelancing and working for another company at the same time illegal? </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-03T15:46:58.748Z"
+  "lastFetched": "2025-12-03T16:59:31.929Z"
 }
