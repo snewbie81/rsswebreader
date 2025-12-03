@@ -31,21 +31,21 @@
       "thumbnail": null
     },
     {
-      "title": "Im looking for a Read-it-later app that can...",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
-      "pubDate": "Wed, 3 Dec 2025 07:31:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Im looking for a Read-it-later app that can access web pages while in offline. Ive searched in fdroid and found weread app. its simple but only has reader mode, no images. I need an app that can acces web pages without altering website&#39;s original format. For now, im using singlefile android extension in ironfox browser. any help is appreciated.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Is there a foss alternative to Assistive touch?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pd2p6j/is_there_a_foss_alternative_to_assistive_touch/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pd2p6j/is_there_a_foss_alternative_to_assistive_touch/",
       "pubDate": "Wed, 3 Dec 2025 12:21:22 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pd2p6j/is_there_a_foss_alternative_to_assistive_touch/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Like the title says. Currently on my MIUI i have the Assistive touch but it lacks a lot of customization, for example i would like to set a button that changes to the one handed mode.</p>\n\n<p>If any of you owned a recent Xiaomi phone, the best thing would be to have a mix of Assistive touch, and game advisor, but i can settle with just the first one. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Im looking for a Read-it-later app that can...",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
+      "pubDate": "Wed, 3 Dec 2025 07:31:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Im looking for a Read-it-later app that can access web pages while in offline. Ive searched in fdroid and found weread app. its simple but only has reader mode, no images. I need an app that can acces web pages without altering website&#39;s original format. For now, im using singlefile android extension in ironfox browser. any help is appreciated.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-03T13:51:19.796Z"
+  "lastFetched": "2025-12-03T14:51:39.335Z"
 }

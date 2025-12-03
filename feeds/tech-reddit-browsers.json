@@ -22,21 +22,21 @@
       "thumbnail": null
     },
     {
-      "title": "Who told Norton they had to make a browser.",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pd2qi7/who_told_norton_they_had_to_make_a_browser/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pd2qi7/who_told_norton_they_had_to_make_a_browser/",
-      "pubDate": "Wed, 3 Dec 2025 12:23:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pd2qi7/who_told_norton_they_had_to_make_a_browser/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Honestly Norton, avast and avg think they are badass publishing browsers with a flabbergasting amount of ads forced on you. Whoever is out here boosting their confidence, please stop. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "now donate right now",
       "link": "/img/mzf5jvp9cy4g1.png",
       "guid": "/img/mzf5jvp9cy4g1.png",
       "pubDate": "Wed, 3 Dec 2025 08:45:28 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcz3i6/now_donate_right_now/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcz3i6/now_donate_right_now/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Who told Norton they had to make a browser.",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pd2qi7/who_told_norton_they_had_to_make_a_browser/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pd2qi7/who_told_norton_they_had_to_make_a_browser/",
+      "pubDate": "Wed, 3 Dec 2025 12:23:19 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pd2qi7/who_told_norton_they_had_to_make_a_browser/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Honestly Norton, avast and avg think they are badass publishing browsers with a flabbergasting amount of ads forced on you. Whoever is out here boosting their confidence, please stop. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -175,15 +175,6 @@
       "thumbnail": null
     },
     {
-      "title": "How do you change your website from www. to http.?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/",
-      "pubDate": "Wed, 3 Dec 2025 03:11:04 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I created a business website using squarespace. We’ll say the website is called Camaro.com. If I type “Camaro.com” into the search engine it brings up the wrong website. If I type “www.Camaro.com” into the search engine, the correct website comes up. </p>\n\n<p>How do I make it so that when someone types in “Camaro.com”, it comes up with the correct website?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "What’s the best minimal setup for private browsing in 2025?",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
@@ -199,6 +190,15 @@
       "pubDate": "Tue, 2 Dec 2025 21:38:13 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’ve been trying to use Multilogin to create and log into Google accounts. According to their advertising, their proxies and profiles should allow you to manage multiple Google accounts without verification issues.</p>\n\n<p>However, in my experience:</p>\n\n<ul>\n<li>Creating a new Google account using Multilogin proxies <strong>requires scanning a QR code with a real device</strong>, whereas normally it only asks for phone verification.</li>\n<li>Logging into existing Google accounts also triggers <strong>phone verification or QR scanning</strong>, even after entering the correct password.</li>\n<li>When I use my <strong>default browser with my real IP</strong>, Google only asks for a <strong>simple reCAPTCHA</strong>, never phone or QR verification.</li>\n</ul>\n\n<p>I contacted Multilogin support, and their response was basically:</p>\n\n<blockquote>\n<p>“This also happens in standard browsers, it’s just a recent update to Google’s security and privacy policy. We currently don’t have a workaround.”</p>\n</blockquote>\n\n<p>So basically, <strong>the online support was not helpful at all</strong>, and the product is not functioning as advertised for Google accounts.</p>\n\n<p>Has anyone else experienced this? Are there any workarounds or settings that actually allow you to use Multilogin proxies with Google?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "How do you change your website from www. to http.?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/",
+      "pubDate": "Wed, 3 Dec 2025 03:11:04 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pct368/how_do_you_change_your_website_from_www_to_http/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I created a business website using squarespace. We’ll say the website is called Camaro.com. If I type “Camaro.com” into the search engine it brings up the wrong website. If I type “www.Camaro.com” into the search engine, the correct website comes up. </p>\n\n<p>How do I make it so that when someone types in “Camaro.com”, it comes up with the correct website?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-03T13:51:34.367Z"
+  "lastFetched": "2025-12-03T14:51:53.563Z"
 }

@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Human-caused earthquakes are real. Here’s why even stable regions can snap",
+      "link": "https://www.sciencenews.org/article/human-caused-earthquakes-stable-regions",
+      "guid": "https://www.sciencenews.org/?p=3162983",
+      "pubDate": "Wed, 03 Dec 2025 14:00:00 +0000",
+      "description": "Human activity can cause “healed” faults to release their stored strength, triggering unexpected quakes in tectonically stable regions.",
+      "content": "Human activity can cause “healed” faults to release their stored strength, triggering unexpected quakes in tectonically stable regions.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111425_RS_quakes-stable-areas_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Twisted stacks of 2-D carbon act like a weird type of superconductor",
       "link": "https://www.sciencenews.org/article/twisted-carbon-graphene-superconductor",
       "guid": "https://www.sciencenews.org/?p=3162952",
@@ -173,18 +182,9 @@
       "description": "The American Museum of Natural History’s “Impact: The End of the Age of the Dinosaurs” examines how an asteroid impact shaped life as we know it.",
       "content": "The American Museum of Natural History’s “Impact: The End of the Age of the Dinosaurs” examines how an asteroid impact shaped life as we know it.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112025_EG_AMNH-dino_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Building a better skin barrier",
-      "link": "https://www.sciencenews.org/article/skin-care-face-barrier-glossy-health",
-      "guid": "https://www.sciencenews.org/?p=3162789",
-      "pubDate": "Fri, 21 Nov 2025 14:30:00 +0000",
-      "description": "Skin is a barrier meant to keep small invaders out. Products making their way across it should boost that mission.",
-      "content": "Skin is a barrier meant to keep small invaders out. Products making their way across it should boost that mission.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111925_AG_decemberhealthcolumn_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-03T13:51:26.914Z"
+  "lastFetched": "2025-12-03T14:51:46.175Z"
 }
