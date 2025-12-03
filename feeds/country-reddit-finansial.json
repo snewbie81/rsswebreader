@@ -31,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Apa solusi bagi pengusaha/pedagang yang usahanya lesu atau bangkrut karena kalah saing sama perusahaan/importir besar?",
+      "link": "https://redlib.perennialte.ch//r/finansial/comments/1pcu371/apa_solusi_bagi_pengusahapedagang_yang_usahanya/",
+      "guid": "https://redlib.perennialte.ch//r/finansial/comments/1pcu371/apa_solusi_bagi_pengusahapedagang_yang_usahanya/",
+      "pubDate": "Wed, 3 Dec 2025 03:58:51 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1pcu371/apa_solusi_bagi_pengusahapedagang_yang_usahanya/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Khususnya bagi yang tidak punya modal banyak (ratusan juta/miliaran) untuk buka usaha baru skala sedang/besar</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Trading platform/brokerage yg ada/bisa akses API (untuk retail trader)?",
       "link": "https://redlib.perennialte.ch//r/finansial/comments/1pckn5x/trading_platformbrokerage_yg_adabisa_akses_api/",
       "guid": "https://redlib.perennialte.ch//r/finansial/comments/1pckn5x/trading_platformbrokerage_yg_adabisa_akses_api/",
@@ -55,15 +64,6 @@
       "pubDate": "Tue, 2 Dec 2025 11:37:41 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1pc6934/16m_seeking_fatal_flaws_on_my_framework/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Helping family evaluate a property investment: 2 units near universitas swasta (u alr know).</p>\n\n<p>Sub-400M per unit.</p>\n\n<p>Target : increase cashflow from current 70M/year to 110M+. This is a major decision for me, so posting for technical review before committing.</p>\n\n<p>My math ( please analyze this )</p>\n\n<ol>\n<li> Gross potential: 4M/mo × 12 = 48M/unit/year</li>\n<li> Stress-test occupancy: 85% = effective gross 40.8M/unit/year</li>\n<li> Management fee 5%: 2.04MPPh final 10% on gross rent: 4.08MNet cashflow: 40.8M − 2.04M − 4.08M = 34.68M/unit/year ( gah damn )</li>\n<li> Two units at 85%: 69.36M/year meaning total portfolio cashflow 70M + 69.36M = 139.36M/year</li>\n<li> At 70% occupancy (new supply shock): net 28.6M/unit so 57.2M from 2 units, total 127.2M/year (still above 110M target)</li>\n</ol>\n\n<p>My questions </p>\n\n<ol>\n<li><p>Oversupply Risk: Alsut delivered 2,000+ units in 2023. How do you model occupancy decay from 95% to 80% if another apart tower launches in 2026? Is there public data on net absorption rates for student housing in Tangerang? , i dont want to pay for a geodata thing because most infos are outdated.</p></li>\n<li><p>Sectors that are a good cashflow that i dont know about ( recommend something to me )</p></li>\n</ol>\n\n<p>what i&#39;ve done ( yes im nerdy )</p>\n\n<ol>\n<li>Scraped 200+ TikTok comments in rental posts for demand signals; cross-referenced with 5 agents (all gave 90-95% occupancy range).</li>\n<li>Built a Python DCF with 3 scenarios (base/bear/extreme). Break-even occupancy is 78%.</li>\n<li>Talked to 2 FAs; both pitched REITs which is clearly an f ing promosi gaje, but they couldn&#39;t even explain why their 6% yield beats my 8% gross yield net of taxes.</li>\n</ol>\n\n<p>Is the 85% occupancy stress test realistic, or am I being lied to by the agent? If you held studio units through 2020-2021, whats your actual vacancy rate?</p>\n\n<p>I&#39;ll research every data-backed comment. If you think my tax math is wrong please tell me! thanks.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Apa solusi bagi pengusaha/pedagang yang usahanya lesu atau bangkrut karena kalah saing sama perusahaan/importir besar?",
-      "link": "https://redlib.perennialte.ch//r/finansial/comments/1pcu371/apa_solusi_bagi_pengusahapedagang_yang_usahanya/",
-      "guid": "https://redlib.perennialte.ch//r/finansial/comments/1pcu371/apa_solusi_bagi_pengusahapedagang_yang_usahanya/",
-      "pubDate": "Wed, 3 Dec 2025 03:58:51 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/finansial/comments/1pcu371/apa_solusi_bagi_pengusahapedagang_yang_usahanya/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Khususnya bagi yang tidak punya modal banyak (ratusan juta/miliaran) untuk buka usaha baru skala sedang/besar</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "country",
   "url": "https://redlib.perennialte.ch/r/finansial.rss",
-  "lastFetched": "2025-12-03T06:57:49.387Z"
+  "lastFetched": "2025-12-03T07:40:04.806Z"
 }

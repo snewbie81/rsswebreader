@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Brave browser... (Claim vs reality)",
-      "link": "/gallery/1pcas9n",
-      "guid": "/gallery/1pcas9n",
-      "pubDate": "Tue, 2 Dec 2025 15:06:27 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcas9n/brave_browser_claim_vs_reality/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcas9n/brave_browser_claim_vs_reality/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "Is Edge still in the same state?",
       "link": "/img/9tgnxx4cpx4g1.jpeg",
       "guid": "/img/9tgnxx4cpx4g1.jpeg",
       "pubDate": "Wed, 3 Dec 2025 06:36:32 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcx1fs/is_edge_still_in_the_same_state/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcx1fs/is_edge_still_in_the_same_state/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Brave browser... (Claim vs reality)",
+      "link": "/gallery/1pcas9n",
+      "guid": "/gallery/1pcas9n",
+      "pubDate": "Tue, 2 Dec 2025 15:06:27 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcas9n/brave_browser_claim_vs_reality/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcas9n/brave_browser_claim_vs_reality/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -112,21 +112,21 @@
       "thumbnail": null
     },
     {
-      "title": "What’s the best minimal setup for private browsing in 2025?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
-      "pubDate": "Tue, 2 Dec 2025 17:07:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Been watching Watchman Privacy lately and trying to simplify. If you could only pick one browser, one search engine, and one VPN for private use, what combo are you using right now?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Multilogin proxies not working for Google accounts loging – support unhelpful",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/",
       "pubDate": "Tue, 2 Dec 2025 21:38:13 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcld6n/multilogin_proxies_not_working_for_google/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I’ve been trying to use Multilogin to create and log into Google accounts. According to their advertising, their proxies and profiles should allow you to manage multiple Google accounts without verification issues.</p>\n\n<p>However, in my experience:</p>\n\n<ul>\n<li>Creating a new Google account using Multilogin proxies <strong>requires scanning a QR code with a real device</strong>, whereas normally it only asks for phone verification.</li>\n<li>Logging into existing Google accounts also triggers <strong>phone verification or QR scanning</strong>, even after entering the correct password.</li>\n<li>When I use my <strong>default browser with my real IP</strong>, Google only asks for a <strong>simple reCAPTCHA</strong>, never phone or QR verification.</li>\n</ul>\n\n<p>I contacted Multilogin support, and their response was basically:</p>\n\n<blockquote>\n<p>“This also happens in standard browsers, it’s just a recent update to Google’s security and privacy policy. We currently don’t have a workaround.”</p>\n</blockquote>\n\n<p>So basically, <strong>the online support was not helpful at all</strong>, and the product is not functioning as advertised for Google accounts.</p>\n\n<p>Has anyone else experienced this? Are there any workarounds or settings that actually allow you to use Multilogin proxies with Google?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "What’s the best minimal setup for private browsing in 2025?",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/",
+      "pubDate": "Tue, 2 Dec 2025 17:07:31 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pce069/whats_the_best_minimal_setup_for_private_browsing/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Been watching Watchman Privacy lately and trying to simplify. If you could only pick one browser, one search engine, and one VPN for private use, what combo are you using right now?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-03T06:58:35.526Z"
+  "lastFetched": "2025-12-03T07:40:51.511Z"
 }

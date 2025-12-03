@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Im looking for a Read-it-later app that can...",
+      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
+      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/",
+      "pubDate": "Wed, 3 Dec 2025 07:31:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcxxzc/im_looking_for_a_readitlater_app_that_can/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Im looking for a Read-it-later app that can access web pages while in offline. Ive searched in fdroid and found weread app. its simple but only has reader mode, no images. I need an app that can acces web pages without altering website&#39;s original format. For now, im using singlefile android extension in ironfox browser. any help is appreciated.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "how to live with small storage phone?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pc7mrd/how_to_live_with_small_storage_phone/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9uud3/is_there_any_selfhosted_foss_alternative_to_otter/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9uud3/is_there_any_selfhosted_foss_alternative_to_otter/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "YT Music Player",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/",
-      "pubDate": "Sat, 29 Nov 2025 10:06:01 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find a new music streaming player, because Outertune, Vivi and Metro list all don&#39;t work for various reasons. For me, outertune keeps displaying the error that it requires my sign in, any help with this will be great too </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-03T06:58:21.542Z"
+  "lastFetched": "2025-12-03T07:40:36.557Z"
 }
