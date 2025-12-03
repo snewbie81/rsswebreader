@@ -13,21 +13,21 @@
       "thumbnail": null
     },
     {
-      "title": "Is latestage capitalism resulting in corpos eating each other via FOSS? There's a pattern forming with Blender, Linux, RISK-V...",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/",
-      "pubDate": "Tue, 2 Dec 2025 10:49:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>NVidia and the US Department of Defense has started adopting RISK-V processor plans, cutting out AMD, Intel, and ARM.  </p>\n\n<p>Epic Games funded Blender, harming Autodesk/Maya.</p>\n\n<p>Valve has SteamOS, making Linux mass-market friendly and cutting out Microsoft.</p>\n\n<p>It seems like these large corporations have a strong market incentive to elevate the open projects in adjacent industries so they can de-risk hardball negotiations from the corporations they depend on, and potential suck up more of the value stream. They&#39;ve realized they can leverage tens of thousands of hours of developer time at relatively little cost to themselves, and earn good PR for it. </p>\n\n<p>I&#39;ve often watched short-term decision making bad CEO wallets while shooting a hole in the industry&#39;s foot, but if the shape of that hole is FOSS maybe it&#39;s not so bad.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "FOSS alternative to Windows Voice Recorder (Win10) - simple interface, autosaving as compressed audio (mp3, m4a, ogg etc)",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/",
       "pubDate": "Wed, 3 Dec 2025 03:41:38 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pctqba/foss_alternative_to_windows_voice_recorder_win10/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Most of the recommendations I&#39;ve found via search engine are centered around stuff like Audacity, OBS, Reaper, etc</p>\n\n<p><strong>I don&#39;t want those options.</strong> I use them for other things and want to preserve their configurations for those tasks.</p>\n\n<p>There are two reasons why I want an alternative to Windows Voice Recorder:</p>\n\n<ol>\n<li>It struggles sometimes when saving longer recordings (1+ hour)</li>\n<li>There is no easy way to make it Always on Top</li>\n</ol>\n\n<p>I found Moo0 Audio Recorder and it seems OK. But it also crashes from time to time.</p>\n\n<p>I am looking for:</p>\n\n<ol>\n<li>Simple interface</li>\n<li>Saves as compressed audio automatically after recording ends</li>\n<li>Puts date and time info in filename</li>\n<li>Always on top function OR plays nice with MenuTools for always on top functionality (something about Win Voice Recorder doesn&#39;t use the older File Menu functionality, so MenuTools doesn&#39;t work for alway on top)</li>\n</ol>\n\n<p>Nice to have:</p>\n\n<ol>\n<li>Configure file saving directory</li>\n<li>Configure which microphone to use</li>\n<li>Custom file naming format</li>\n</ol>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Is latestage capitalism resulting in corpos eating each other via FOSS? There's a pattern forming with Blender, Linux, RISK-V...",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/",
+      "pubDate": "Tue, 2 Dec 2025 10:49:32 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc5ffd/is_latestage_capitalism_resulting_in_corpos/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>NVidia and the US Department of Defense has started adopting RISK-V processor plans, cutting out AMD, Intel, and ARM.  </p>\n\n<p>Epic Games funded Blender, harming Autodesk/Maya.</p>\n\n<p>Valve has SteamOS, making Linux mass-market friendly and cutting out Microsoft.</p>\n\n<p>It seems like these large corporations have a strong market incentive to elevate the open projects in adjacent industries so they can de-risk hardball negotiations from the corporations they depend on, and potential suck up more of the value stream. They&#39;ve realized they can leverage tens of thousands of hours of developer time at relatively little cost to themselves, and earn good PR for it. </p>\n\n<p>I&#39;ve often watched short-term decision making bad CEO wallets while shooting a hole in the industry&#39;s foot, but if the shape of that hole is FOSS maybe it&#39;s not so bad.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-03T05:41:52.979Z"
+  "lastFetched": "2025-12-03T06:58:18.958Z"
 }

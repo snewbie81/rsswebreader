@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "I have created an App Store of modded apps, meet Orion Store!",
+      "link": "https://github.com/RookieEnough/Orion-Store",
+      "guid": "https://github.com/RookieEnough/Orion-Store",
+      "pubDate": "Wed, 3 Dec 2025 06:03:43 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1pcwh4a/i_have_created_an_app_store_of_modded_apps_meet/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Orion Store is a serverless Store which beautifully follows Repo-as-backend strategy to fetch apps on the store. I would love to know your thoughts on this guys. </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Are there any Linux builds that work for the OnePlus Nord N10 5g?",
       "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
       "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1pcrv6a/are_there_any_linux_builds_that_work_for_the/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9ldp9/yt_music_player/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to find a new music streaming player, because Outertune, Vivi and Metro list all don&#39;t work for various reasons. For me, outertune keeps displaying the error that it requires my sign in, any help with this will be great too </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Heliboard crashes when a physical keyboard is connected",
-      "link": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/",
-      "guid": "https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/",
-      "pubDate": "Sat, 29 Nov 2025 13:47:00 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/fossdroid/comments/1p9pcuw/heliboard_crashes_when_a_physical_keyboard_is/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>When I add a physical keyboard to my Android tablet and switch to PC mode, Heliboard crashes. It happens within moments after I start typing. Even a Ctrl+V is enough to cause this. Is that a known issue with Heliboard? If I can&#39;t fix it, is there an alternative FOSS keyboard app that is known to work better with physical keyboards? I’d rather not have to lose Heliboard and certainly I don&#39;t want to re-activate Google’s keyboard.</p>\n\n<p>EDIT: Minutes after I posted this Heliboard 3.6 which solved the crashes and other issues associated with physical keyboard. Now it won&#39;t switch to another language. </p>\n\n<p>Lenovo Ideatab, Android 15.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/fossdroid.rss",
-  "lastFetched": "2025-12-03T05:41:55.587Z"
+  "lastFetched": "2025-12-03T06:58:21.542Z"
 }

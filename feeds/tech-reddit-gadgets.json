@@ -4,21 +4,21 @@
   "link": "",
   "items": [
     {
-      "title": "Tree-planting robot saves burned land from deforestation by putting seedlings in the ground",
-      "link": "https://www.designboom.com/technology/tree-planting-robot-saves-burned-land-deforestation-seedlings-ground-trovador-11-29-2025/",
-      "guid": "https://www.designboom.com/technology/tree-planting-robot-saves-burned-land-deforestation-seedlings-ground-trovador-11-29-2025/",
-      "pubDate": "Tue, 2 Dec 2025 12:44:14 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1pc7hhq/treeplanting_robot_saves_burned_land_from/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1pc7hhq/treeplanting_robot_saves_burned_land_from/'>Comments</a>",
-      "thumbnail": null
-    },
-    {
       "title": "RAM Costs Have Already Come for the Beloved Raspberry Pi",
       "link": "https://gizmodo.com/raspberry-pi-price-increase-ram-costs-to-blame-2000694527",
       "guid": "https://gizmodo.com/raspberry-pi-price-increase-ram-costs-to-blame-2000694527",
       "pubDate": "Wed, 3 Dec 2025 04:47:33 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1pcv20o/ram_costs_have_already_come_for_the_beloved/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1pcv20o/ram_costs_have_already_come_for_the_beloved/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "Tree-planting robot saves burned land from deforestation by putting seedlings in the ground",
+      "link": "https://www.designboom.com/technology/tree-planting-robot-saves-burned-land-deforestation-seedlings-ground-trovador-11-29-2025/",
+      "guid": "https://www.designboom.com/technology/tree-planting-robot-saves-burned-land-deforestation-seedlings-ground-trovador-11-29-2025/",
+      "pubDate": "Tue, 2 Dec 2025 12:44:14 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1pc7hhq/treeplanting_robot_saves_burned_land_from/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/gadgets/comments/1pc7hhq/treeplanting_robot_saves_burned_land_from/'>Comments</a>",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/gadgets.rss",
-  "lastFetched": "2025-12-03T05:42:05.049Z"
+  "lastFetched": "2025-12-03T06:58:30.747Z"
 }
