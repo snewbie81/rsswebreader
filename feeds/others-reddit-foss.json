@@ -49,21 +49,21 @@
       "thumbnail": null
     },
     {
-      "title": "OneUptime - Open-Source Observability Platform (Dec 2025 update)",
-      "link": "https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/",
-      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/",
-      "pubDate": "Tue, 2 Dec 2025 12:03:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>OneUptime (<a href=\"https://github.com/oneuptime/oneuptime\">https://github.com/oneuptime/oneuptime</a>) is the open-source alternative to Incident.io + StausPage.io + UptimeRobot + Loggly + PagerDuty. It&#39;s 100% free and you can self-host it on your VM / server. OneUptime has Uptime Monitoring, Logs Management, Status Pages, Tracing, On Call Software, Incident Management and more all under one platform.</p>\n\n<p><strong>Updates:</strong></p>\n\n<p><strong>Native integration with Microsoft Teams and Slack:</strong> Now you can intergrate OneUptime with Slack / Teams natively (even if you&#39;re self-hosted!). OneUptime can create new channels when incidents happen, notify slack / teams users who are on-call and even write up a draft postmortem for you based on slack channel conversation and more!</p>\n\n<p><strong>Dashboards</strong> (just like Datadog): Collect any metrics you like and build dashboard and share them with your team!</p>\n\n<p><strong>Roadmap:</strong></p>\n\n<p><strong>AI Agent:</strong> Our agent automatically detects and fixes exceptions, resolves performance issues, and optimizes your codebase. It can be fully self‑hosted, ensuring that no code is ever transmitted outside your environment.</p>\n\n<p><strong>OPEN SOURCE COMMITMENT:</strong> Unlike other companies, we will always be FOSS under Apache License. We&#39;re 100% open-source and no part of OneUptime is behind the walled garden.</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Introducing Jotter: Minimalist Open-Source Notes App (Kotlin/Jetpack)",
       "link": "https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/",
       "guid": "https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/",
       "pubDate": "Tue, 2 Dec 2025 02:12:49 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pbw7z8/introducing_jotter_minimalist_opensource_notes/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve released <strong>Jotter v1.0.0</strong> – a simple, privacy-focused note-taking app built from scratch with modern Android tech. No cloud, no trackers, just local storage under GNU GPL v3. Perfect for quick ideas, lists, or locked secrets.</p>\n\n<p><strong>Key Features:</strong></p>\n\n<ul>\n<li>Light/dark/system themes + dynamic colors</li>\n<li>Local import/export (backup anywhere)</li>\n<li>Note locking + secure screen (blocks screenshots)</li>\n<li>Tags, archive, trash for organization</li>\n<li>Multiple view modes + haptics for smooth feel</li>\n<li>Fast &amp; lightweight – offline-first​</li>\n</ul>\n\n<p>Built with Kotlin, Jetpack Compose, MVVM (Hilt/Room), targeting Android 8+. Grab the APK from GitHub Releases or clone the repo to build yourself: <a href=\"https://github.com/OpenAppsLabs/Jotter\">https://github.com/OpenAppsLabs/Jotter</a>​</p>\n\n<p>Just submitted to F-Droid – fingers crossed! Feedback welcome: bugs, features, or dev tips? Trying to grow my Open Apps suite of FOSS apps. Thanks for checking it out! 🚀</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "OneUptime - Open-Source Observability Platform (Dec 2025 update)",
+      "link": "https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/",
+      "guid": "https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/",
+      "pubDate": "Tue, 2 Dec 2025 12:03:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/foss/comments/1pc6pi8/oneuptime_opensource_observability_platform_dec/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>OneUptime (<a href=\"https://github.com/oneuptime/oneuptime\">https://github.com/oneuptime/oneuptime</a>) is the open-source alternative to Incident.io + StausPage.io + UptimeRobot + Loggly + PagerDuty. It&#39;s 100% free and you can self-host it on your VM / server. OneUptime has Uptime Monitoring, Logs Management, Status Pages, Tracing, On Call Software, Incident Management and more all under one platform.</p>\n\n<p><strong>Updates:</strong></p>\n\n<p><strong>Native integration with Microsoft Teams and Slack:</strong> Now you can intergrate OneUptime with Slack / Teams natively (even if you&#39;re self-hosted!). OneUptime can create new channels when incidents happen, notify slack / teams users who are on-call and even write up a draft postmortem for you based on slack channel conversation and more!</p>\n\n<p><strong>Dashboards</strong> (just like Datadog): Collect any metrics you like and build dashboard and share them with your team!</p>\n\n<p><strong>Roadmap:</strong></p>\n\n<p><strong>AI Agent:</strong> Our agent automatically detects and fixes exceptions, resolves performance issues, and optimizes your codebase. It can be fully self‑hosted, ensuring that no code is ever transmitted outside your environment.</p>\n\n<p><strong>OPEN SOURCE COMMITMENT:</strong> Unlike other companies, we will always be FOSS under Apache License. We&#39;re 100% open-source and no part of OneUptime is behind the walled garden.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -231,5 +231,5 @@
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/foss.rss",
-  "lastFetched": "2025-12-03T11:34:10.218Z"
+  "lastFetched": "2025-12-03T13:51:17.288Z"
 }

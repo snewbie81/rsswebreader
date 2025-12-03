@@ -40,12 +40,30 @@
       "thumbnail": null
     },
     {
+      "title": "I'm building a tool that auto-generates cable management solutions for your setup",
+      "link": "/gallery/1pd31nh",
+      "guid": "/gallery/1pd31nh",
+      "pubDate": "Wed, 3 Dec 2025 12:38:52 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd31nh/im_building_a_tool_that_autogenerates_cable/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! 👋</p>\n\n<p>I’m working on a tool to help simplify cable management. The goal is to eliminate the guesswork around cable lengths, product choices, and routing methods. Instead of trial and error, users get a personalized, auto-generated solution based on their desk setup and specific needs.</p>\n\n<p>The tool is currently available online at: <a href=\"https://cabletoolkit.com/\">https://cabletoolkit.com/</a></p>\n\n<p>The idea is simple:</p>\n\n<ol>\n<li>You enter info about your desk, devices, and preferences</li>\n<li>The tool generates a custom cable management solution</li>\n<li>It shows it all in a 3D model of your workspace</li>\n<li>It also gives you a list of products you can use to execute the plan</li>\n</ol>\n\n<p>For anyone who&#39;s interested, I&#39;d love it if you tried it out. This is still an early version of the tool. Any input is super appreciated!</p>\n\n<p>I&#39;m also looking for alternative use cases for this software (facility mangement for example). If anyone has any ideas, I&#39;d really like to hear it!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Best open-source software that everyone needs to know about?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
       "pubDate": "Tue, 2 Dec 2025 11:40:31 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>What&#39;s one piece of open-source software that everyone should use and know about?</p>\n\n<p>Vote on the best one in the comments.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "In Case You Missed It - Microsoft PC Manager is your free replacement/alternative to CCleaner",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
+      "pubDate": "Wed, 3 Dec 2025 02:44:09 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/xlnoxrvxiw4g1.png?width=960&amp;format=png&amp;auto=webp&amp;s=5d4f988ba82d6610f179ee51d21529bd573774ef\">Screenshot of PC Manager doing a Health Check</a></p>\n\n<p>It&#39;s been 6+ months since i&#39;ve overhauled my PC from Win10 to Win11. PC Manager was just a blind background install as a backup to CCleaner. I left it running in &quot;background&quot; because it has an auto clean cache feature. FIrst time running a full &quot;Health Check&quot;. I have to say; the updated graphics is quite an improvement over CCleaner. Also i like that &quot;health check&quot; is something like an adhoc basic HWINFO screen of your PC innards.</p>\n\n<p>*(Though i still keep CCleaner around for harsher things like full Chrome/EDGE/Browser and registry cleanups).</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -76,21 +94,21 @@
       "thumbnail": null
     },
     {
+      "title": "The \"Storage Full\" panic: How to deal with thousands of duplicates.",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pd1zaf/the_storage_full_panic_how_to_deal_with_thousands/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pd1zaf/the_storage_full_panic_how_to_deal_with_thousands/",
+      "pubDate": "Wed, 3 Dec 2025 11:42:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd1zaf/the_storage_full_panic_how_to_deal_with_thousands/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We all have this habit: You see something beautiful (a sunset, your pet, a group of friends), and you don&#39;t just take one photo. <strong>You take ten.</strong> Just to be safe. &quot;One of them has to be sharp,&quot; right?</p>\n\n<p>This behavior is smart in the moment - but it is a disaster for our phone storage later.</p>\n\n<p>Weeks go by, and suddenly that dreaded <strong>&quot;Storage Full&quot;</strong> notification pops up right when you want to take a video.</p>\n\n<p>The reality is: <strong>90% of your gallery consists of &quot;Safety Shots&quot; that you will never look at again.</strong> They are technically identical to the &quot;Good Shot,&quot; but they clog up your phone and force you to buy expensive cloud upgrades.</p>\n\n<p><strong>The Solution (The &quot;One Winner&quot; Rule):</strong> The only way to fix this without going crazy is to change how you view your camera roll. Treat it like a competition. For every cluster of 10 photos, there can only be <strong>one winner</strong>. The runner-ups don&#39;t get a participation trophy; they get deleted.</p>\n\n<p><strong>The Tool to make it bearable:</strong> Sorting through these duplicates manually is tedious and boring. That’s why my friends and I (we are three students) built <strong>Gallery Sort</strong>. It’s designed specifically for this &quot;Duplicate Problem.&quot;</p>\n\n<ul>\n<li><strong>Swipe Left:</strong> Delete the 9 bad &quot;safety shots.&quot;</li>\n<li><strong>Swipe Right:</strong> Keep the 1 perfect &quot;winner.&quot;</li>\n</ul>\n\n<p>It helps you clear out the junk in minutes instead of hours, saving you from that &quot;Storage Full&quot; panic without needing to upgrade your iCloud/Google Drive plan.</p>\n\n<p>We built this with 0€ budget as a passion project, so the basic cleaning features are completely free. Give it a try if your duplicates are getting out of hand!</p>\n\n<p>What are your thoughts on that? Do you also have to many photos in your gallery?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I built a Windows tool that hides chosen windows from screen sharing by working at the composition layer",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/",
       "pubDate": "Wed, 3 Dec 2025 10:37:44 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pd0us9/i_built_a_windows_tool_that_hides_chosen_windows/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I have been experimenting with how Windows captures and composites windows for tools like Zoom, Teams, Google Meet and Discord. Most people assume a screen share shows everything on the monitor, but Windows actually gives apps a filtered version of the desktop via the composition layer.</p>\n\n<p>I wanted to see if it was possible to exclude a specific window from that capture. That turned into a little project called <em>Cloakly</em>. It creates an overlay window that only the user can see, while the screen sharing APIs receive a cleaned version with selected windows removed from the composition.</p>\n\n<p>I learned a lot digging through how Windows handles window surfaces, capture permissions and DWM behavior. If anyone is interested in the technical side, I’m happy to share what I found, how I avoided injecting anything into processes, and how I kept it lightweight so it works on Teams, Meet, Zoom and Discord.</p>\n\n<p>Link: <a href=\"https://www.getcloakly.com/\">https://www.getcloakly.com/</a></p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "In Case You Missed It - Microsoft PC Manager is your free replacement/alternative to CCleaner",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
-      "pubDate": "Wed, 3 Dec 2025 02:44:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/xlnoxrvxiw4g1.png?width=960&amp;format=png&amp;auto=webp&amp;s=5d4f988ba82d6610f179ee51d21529bd573774ef\">Screenshot of PC Manager doing a Health Check</a></p>\n\n<p>It&#39;s been 6+ months since i&#39;ve overhauled my PC from Win10 to Win11. PC Manager was just a blind background install as a backup to CCleaner. I left it running in &quot;background&quot; because it has an auto clean cache feature. FIrst time running a full &quot;Health Check&quot;. I have to say; the updated graphics is quite an improvement over CCleaner. Also i like that &quot;health check&quot; is something like an adhoc basic HWINFO screen of your PC innards.</p>\n\n<p>*(Though i still keep CCleaner around for harsher things like full Chrome/EDGE/Browser and registry cleanups).</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -112,21 +130,21 @@
       "thumbnail": null
     },
     {
-      "title": "idm alternatives",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
-      "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Looking for a SAFE video downloader—please help!",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pcrboe/looking_for_a_safe_video_downloaderplease_help/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pcrboe/looking_for_a_safe_video_downloaderplease_help/",
       "pubDate": "Wed, 3 Dec 2025 01:49:52 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcrboe/looking_for_a_safe_video_downloaderplease_help/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve tried a few random tools I found online, but half of them asked for weird permissions or bombarded me with ads. I just want to download videos from social media (TikTok, Reels, YouTube Shorts) and maybe some movies—nothing fancy.</p>\n\n<p>But</p>\n\n<p>Bonus points if it lets me choose the video quality (1080p is a must!) and doesn’t make me install sketchy software (browser-based or a simple app would be ideal). Does anyone have a go-to tool that’s trustworthy and actually works? I’m tired of wasting time on duds! </p>\n\n<p>By the way, I&#39;ve found this one</p>\n\n<p><a href=\"/preview/pre/snrabio4aw4g1.png?width=748&amp;format=png&amp;auto=webp&amp;s=a17daf052edff5af2e1be03eb6ea840a59da8f52\">/preview/pre/snrabio4aw4g1.png?width=748&amp;format=png&amp;auto=webp&amp;s=a17daf052edff5af2e1be03eb6ea840a59da8f52</a></p>\n\n<p>but I’m not sure if it’s legally compliant—does anyone have insights on this or know of a fully legitimate alternative?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "idm alternatives",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
+      "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -209,27 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmm5q/applied_systems_sues_comulate_for_fraud_and_ip/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone else heard Applied Systems is suing Comulate? According to the Applied, Comulate basically trojan horsed Applied to steal their proprietary data. Meanwhile, Comulate alleges this is just a ploy by Applied because they&#39;re butt-hurt they can&#39;t buy Comulate and because Comulate is better than them(?). </p>\n\n<p>To me, it doesn&#39;t seem possible that Comulate could source all this data through publicly accessible data. Can someone explain it to me?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Which Microphone Background Noise Removal Tool Has Least Impact on FPS in Games? Nvidia Broadcast vs OBS RNNoise Filter vs Equalizer APO Plugin",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcmm19/which_microphone_background_noise_removal_tool/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcmm19/which_microphone_background_noise_removal_tool/",
-      "pubDate": "Tue, 2 Dec 2025 22:26:52 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmm19/which_microphone_background_noise_removal_tool/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I have a lot of background noise caused by my standing fan that gets captured by my microphone. I was just wondering which noise removal tool would impact my FPS in games the most?</p>\n\n<p>I have a Ryzen 5 9600x + 5070Ti.</p>\n\n<p>The way I understand it is that Nvidia broadcast uses the GPU more, which leads me to believe that it would have the most FPS loss out of all of them?</p>\n\n<p>While OBS RNNoise Filter uses the CPU, which if most games are using only a few CPU cores, this would have no performance impact if OBS is using my other free cores?</p>\n\n<p>And Equalizer APO RNNoise plugin would seem like the most performant because it is like OBS in that it uses the CPU, but also better than OBS since the app is dedicated only to audio?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "How well does Kimi 2 hide? Stress-testing it with ZeroGPT and AI or Not",
-      "link": "https://www.dropbox.com/scl/fi/o0oll5wallvywykar7xcs/Kimi-2-Thinking-Case-Study-Sheet1.pdf?rlkey=70w7jbnwr9cwaa9pkbbwn8fm2&amp;e=3&amp;st=hqgcr22t&amp;dl=0",
-      "guid": "https://www.dropbox.com/scl/fi/o0oll5wallvywykar7xcs/Kimi-2-Thinking-Case-Study-Sheet1.pdf?rlkey=70w7jbnwr9cwaa9pkbbwn8fm2&amp;e=3&amp;st=hqgcr22t&amp;dl=0",
-      "pubDate": "Tue, 2 Dec 2025 22:24:09 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcmjgw/how_well_does_kimi_2_hide_stresstesting_it_with/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been stress-testing the new wave of reasoning models (specifically Kimi 2 Thinking) to see if current detection tools can actually keep up. I ran a comparative case study between <strong>ZeroGPT</strong> and <a href=\"http://www.aiornot.com/\">AI or Not.</a></p>\n\n<p>The results were pretty damning for the industry standard.</p>\n\n<p><strong>The Breakdown:</strong></p>\n\n<ul>\n<li><strong>ZeroGPT (The Loser):</strong> It completely folded. The false positive rate was unacceptable, and classifications were inconsistent. It seems optimized for older GPT-3.5 patterns and fails when facing newer architectures. If you are relying on this for compliance, you are getting bad data.</li>\n<li><strong>AI or Not (The Winner):</strong> It successfully navigated the nuance of &quot;thinking&quot; model outputs without getting confused by the complex reasoning chains. It seems to analyze the <em>structure</em> of the reasoning rather than just surface-level perplexity.</li>\n</ul>\n\n<p><strong>Key Takeaway:</strong> Newer reasoning models (o1, Kimi) are bypassing perplexity-based detection. I&#39;m seeing a clear shift where structure-based analysis is required.</p>\n\n<p><strong>Data:</strong> <em>(Note: Instead of just attaching a PDF, I recommend posting a screenshot of your results table here or pasting a snippet of the text that fooled ZeroGPT. This sub prefers inline data over file downloads).</em></p>\n\n<p>Has anyone else successfully tripped up &quot;AI or Not&quot; with reasoning prompts yet?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-03T11:34:29.965Z"
+  "lastFetched": "2025-12-03T13:51:37.242Z"
 }

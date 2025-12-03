@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Why no way to export passwords and favorites in Edge mobile",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd3f8c/why_no_way_to_export_passwords_and_favorites_in/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd3f8c/why_no_way_to_export_passwords_and_favorites_in/",
+      "pubDate": "Wed, 3 Dec 2025 12:56:56 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd3f8c/why_no_way_to_export_passwords_and_favorites_in/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I think this is a big handicap.</p>\n\n<p>The only way seemes to be syncing with desktop or sync with Microsoft account to save them</p>\n\n<p>Many people have no pc. What should they do?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "edge canary won't open",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd0jpz/edge_canary_wont_open/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pd0jpz/edge_canary_wont_open/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pb013n/help/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Every time I tried to type in something in the address bar, in this case amazon, it redirects me to some website. </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Forcing Manifest V2 on Edge/Chrome 139+ (Registry + Target Flags)",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/",
-      "pubDate": "Sun, 30 Nov 2025 09:58:22 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1paen1u/forcing_manifest_v2_on_edgechrome_139_registry/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>If your being affected by the hard V2 disablement in Chrome/Edge 139, the standard ExtensionManifestV2Availability registry key might stop working because they deprecated the policy handler.</p>\n\n<p>I&#39;ve found that you need to pair the registry key with specific target flags to bypass the feature check.</p>\n\n<p>The Fix:\nRegistry: Still set HKCU\\Software\\Policies\\Microsoft\\Edge -&gt; ExtensionManifestV2Availability = 2 (DWORD).</p>\n\n<p>The Bypass: You must launch the browser with these flags to un-expire the support:\n--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>For Edge Target:\n&quot;C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe&quot; --disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled</p>\n\n<p>I’m running uBlock Origin (MV2) on the latest Stable build without the &#39;Unsupported&#39; banner.</p>\n\n<p>I have a .reg file that pushes the policy to all Chromium paths (Brave, Vivaldi, Edge) simultaneously. DM if you want the raw file to deploy via GPO.&quot;</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-03T11:34:24.590Z"
+  "lastFetched": "2025-12-03T13:51:31.842Z"
 }
