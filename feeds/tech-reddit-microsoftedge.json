@@ -4,6 +4,15 @@
   "link": "",
   "items": [
     {
+      "title": "Did Edge remove the \"translate selection to English\" option from the context menu (which comes upon right click)?",
+      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcyr32/did_edge_remove_the_translate_selection_to/",
+      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcyr32/did_edge_remove_the_translate_selection_to/",
+      "pubDate": "Wed, 3 Dec 2025 08:22:30 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcyr32/did_edge_remove_the_translate_selection_to/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Previously, when I used to select the text, upon right-click I used to get an option which was named something like &quot;Translate selection to English&quot; or maybe just &quot;Translate Selection&quot;. Upon clicking this option, it used to translate the selected text into English. \nNow, in place of that, there is the option named &quot;Translate selection with Bing&quot;, but instead of translating the text in-place, it open a new tab with the text. The worst part is that in the new tab it does not even translate it, instead it just does a Bing search (that&#39;s why Bug flair).</p>\n\n<p>Has anybody else faced this?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "bug with master password",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcuc0i/bug_with_master_password/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcuc0i/bug_with_master_password/",
@@ -22,6 +31,15 @@
       "thumbnail": null
     },
     {
+      "title": "Edge mobile theme",
+      "link": "/img/knzfpbom1u4g1.jpeg",
+      "guid": "/img/knzfpbom1u4g1.jpeg",
+      "pubDate": "Tue, 2 Dec 2025 18:22:02 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcg2yu/edge_mobile_theme/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why edge mobile don&#39;t let user select theme like in window&#39;s edge? The picture is Gboard theme, which let use chose the color, its cool isn&#39;t it? it&#39;s so dry from default color everyday, it&#39;s 2025 yo, the world is full of art, please give some fresh to user, wish you hear me, edge mobile and chromium </p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "How to Enable Workspaces on personal account in Microsoft Edge (macOS/Windows)",
       "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
       "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc8nah/how_to_enable_workspaces_on_personal_account_in/",
@@ -37,15 +55,6 @@
       "pubDate": "Tue, 2 Dec 2025 11:22:19 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pc5zjw/black_bar_on_top_edge_mobile/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Edge mobile, chrome mobile, can you fix the black bar issue when full screen? home page didn&#39;t have issue, only when viewing web page, it&#39;s really annoyed web. Watching YouTube and movie, it&#39;s been so long, never fix this, please</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Edge mobile theme",
-      "link": "/img/knzfpbom1u4g1.jpeg",
-      "guid": "/img/knzfpbom1u4g1.jpeg",
-      "pubDate": "Tue, 2 Dec 2025 18:22:02 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pcg2yu/edge_mobile_theme/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why edge mobile don&#39;t let user select theme like in window&#39;s edge? The picture is Gboard theme, which let use chose the color, its cool isn&#39;t it? it&#39;s so dry from default color everyday, it&#39;s 2025 yo, the world is full of art, please give some fresh to user, wish you hear me, edge mobile and chromium </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pakbjq/google_not_working_on_edge/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Guys i Bought a new laptop recently, edge was working very well and today it just refuses to open google search, i search something and google just doesn&#39;t work, it says\n&quot;Can&#39;t reach this page&quot;</p>\n\n<p>I tried everything and nothing worked </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Importing history creates shortcuts",
-      "link": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
-      "guid": "https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/",
-      "pubDate": "Sun, 30 Nov 2025 12:03:35 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/MicrosoftEdge/comments/1pagp2q/importing_history_creates_shortcuts/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, so recently I decided to migrate to Microsoft Edge due to the amount of updates Chrome has been pushing and also due to how slow it&#39;s been getting (for me) anyways when I decided to transfer over my browsing history I&#39;ve been getting all my favorites and search history as my shortcuts (some of these sites I visited a few times a couple months ago) how do I disable this? Do I just let hundreds of sites just pop up as a shortcut?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/MicrosoftEdge.rss",
-  "lastFetched": "2025-12-03T07:40:49.234Z"
+  "lastFetched": "2025-12-03T08:58:31.303Z"
 }

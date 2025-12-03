@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "What small changes improved your daily workflow",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxqpe/what_small_changes_improved_your_daily_workflow/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxqpe/what_small_changes_improved_your_daily_workflow/",
+      "pubDate": "Wed, 3 Dec 2025 07:18:45 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxqpe/what_small_changes_improved_your_daily_workflow/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Sometimes tiny changes make differences. I tried Neo out of curiosity and did not expect the layout to reduce the\nmess in my work sessions, but it did.\nWhat software choices have changed your routine in a subtle but meaningful way?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Accidentally saved a client ~$30k a year just by watching how they actually worked",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pbtkf2/accidentally_saved_a_client_30k_a_year_just_by/",
@@ -49,12 +58,30 @@
       "thumbnail": null
     },
     {
+      "title": "Tasket++ — simple Windows tool to automate user actions, free and open source",
+      "link": "/gallery/1pcykpz",
+      "guid": "/gallery/1pcykpz",
+      "pubDate": "Wed, 3 Dec 2025 08:10:46 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcykpz/tasket_simple_windows_tool_to_automate_user/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Why you’ll actually use it<br/>\n- Silent, scheduled screenshots to monitor activity or create time-lapse logs.<br/>\n- Send messages from any app at a set time for reminders or coordinated notifications.<br/>\n- Replay exact mouse clicks and typed input for testing, demos, or repetitive workflows.<br/>\n- Prevent AFK detection with realistic simulated activity that looks natural.<br/>\n- Fade music and shut down the PC on a schedule to automate sleep or end-of-day routines.<br/>\n- Save automation presets and run them manually, at boot, or on a schedule.</p>\n\n<p>No scripting required. All actions run locally on your PC, can loop, trigger at startup, or follow a timetable.</p>\n\n<p>Download on Microsoft Store: <a href=\"https://apps.microsoft.com/detail/xp9cjlhwvxs49p\">https://apps.microsoft.com/detail/xp9cjlhwvxs49p</a><br/>\nSource code and issues: <a href=\"https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys\">https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys</a></p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Uninstalr 3.0 Release Candidate",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/",
       "pubDate": "Wed, 3 Dec 2025 07:26:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxvgv/uninstalr_30_release_candidate/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>You can download Uninstalr 3.0 second public Release Candidate from this link: <a href=\"https://uninstalr.com/private/Uninstalr_Portable_v3_RC2b.exe\">https://uninstalr.com/private/Uninstalr_Portable_v3_RC2b.exe</a></p>\n\n<p>Uninstalr is an advanced software uninstaller that can automate the uninstallation of almost all software and also uses its own custom uninstallation engine to remove any leftovers. It also supports detecting leftovers from previously uninstalled software, and a lot of other powerful features. The full list of features is available at <a href=\"https://uninstalr.com/\">https://uninstalr.com/</a></p>\n\n<p>Here are some key improvements compared to the current official version (Uninstalr 2.8):</p>\n\n<ul>\n<li>The installed apps list now shows the country of origin for all known installed apps.</li>\n<li>The listing of paths before uninstallation starts now displays checkboxes, allowing users to uncheck any paths the user doesn’t want to be removed.</li>\n<li>The program now uses less RAM and performs the scan for installed software on average 40% faster.</li>\n<li>The main window bar now includes Settings and About buttons.</li>\n</ul>\n\n<p>Please note that this is <em>not the final version</em>. It may still contain bugs, so testing it on a virtual machine is recommended. Also, please don’t share this build publicly or upload it to download sites.</p>\n\n<p>If you find any issues, please let me know so I can fix them before the official release. If you are reporting any issues relating to uninstalling any specific software, please tell me which software you were trying to uninstall when the issue occurred so I can try to reproduce the issue and fix it.</p>\n\n<p>I&#39;m the developer of Uninstalr, so you can send any feedback here as a comment or directly to me via a private message.</p>\n\n<p>Thank you!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "idm alternatives",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
+      "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -73,24 +100,6 @@
       "pubDate": "Wed, 3 Dec 2025 02:44:09 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/xlnoxrvxiw4g1.png?width=960&amp;format=png&amp;auto=webp&amp;s=5d4f988ba82d6610f179ee51d21529bd573774ef\">Screenshot of PC Manager doing a Health Check</a></p>\n\n<p>It&#39;s been 6+ months since i&#39;ve overhauled my PC from Win10 to Win11. PC Manager was just a blind background install as a backup to CCleaner. I left it running in &quot;background&quot; because it has an auto clean cache feature. FIrst time running a full &quot;Health Check&quot;. I have to say; the updated graphics is quite an improvement over CCleaner. Also i like that &quot;health check&quot; is something like an adhoc basic HWINFO screen of your PC innards.</p>\n\n<p>*(Though i still keep CCleaner around for harsher things like full Chrome/EDGE/Browser and registry cleanups).</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What small changes improved your daily workflow",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxqpe/what_small_changes_improved_your_daily_workflow/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxqpe/what_small_changes_improved_your_daily_workflow/",
-      "pubDate": "Wed, 3 Dec 2025 07:18:45 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxqpe/what_small_changes_improved_your_daily_workflow/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Sometimes tiny changes make differences. I tried Neo out of curiosity and did not expect the layout to reduce the\nmess in my work sessions, but it did.\nWhat software choices have changed your routine in a subtle but meaningful way?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "idm alternatives",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/",
-      "pubDate": "Wed, 3 Dec 2025 07:10:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcxlqy/idm_alternatives/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>pretty much title. my life got amazingly easy with idm but now the 30 day trial is over. given ima brokeass college student, i cant even think about buying the lifetime supscription</p>\n\n<p>all i use it for is media downloads from many websites and grabbin whole ass videos from them somehow</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -121,15 +130,6 @@
       "thumbnail": null
     },
     {
-      "title": "37signals just open-sourced a new kanban tool (Fizzy)",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/",
-      "pubDate": "Tue, 2 Dec 2025 20:27:20 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>37signals (the team behind Basecamp and HEY) just released Fizzy - an open source kanban tool. You can run it yourself for free or pay $20/month for hosted.\n\nI&#39;ve used Basecamp for years and took Fizzy for a spin today. What stood out wasn&#39;t just the fresh take, it&#39;s the attention to detail throughout. For anyone building software, it&#39;s worth poking around just to see how they handle the small stuff.\n\nSource code: https://github.com/basecamp/fizzy\n\nSite: https://fizzy.do\n\nAnyone else check it out? Curious what this community thinks.\n</code></pre>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Software to quickly view and manage video files",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pclr7l/software_to_quickly_view_and_manage_video_files/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pclr7l/software_to_quickly_view_and_manage_video_files/",
@@ -154,6 +154,15 @@
       "pubDate": "Wed, 3 Dec 2025 00:13:25 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcp67c/how_do_i_upload_a_file_to_be_check_for_malware/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve already tried VirusTotal, but they say that they won&#39;t go above 650MB, and my file is about 2.6GB. ANy help would be appreciated</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "37signals just open-sourced a new kanban tool (Fizzy)",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/",
+      "pubDate": "Tue, 2 Dec 2025 20:27:20 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcjhr6/37signals_just_opensourced_a_new_kanban_tool_fizzy/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><pre><code>37signals (the team behind Basecamp and HEY) just released Fizzy - an open source kanban tool. You can run it yourself for free or pay $20/month for hosted.\n\nI&#39;ve used Basecamp for years and took Fizzy for a spin today. What stood out wasn&#39;t just the fresh take, it&#39;s the attention to detail throughout. For anyone building software, it&#39;s worth poking around just to see how they handle the small stuff.\n\nSource code: https://github.com/basecamp/fizzy\n\nSite: https://fizzy.do\n\nAnyone else check it out? Curious what this community thinks.\n</code></pre>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcm3zj/vendor_management_software/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>The way that we are managing our renewal in our IT team is on a spreadsheet. I need something that I can use to enter all the info and alerts me when a renewal on a specific software is upcoming. Is there any out of the box offering out there that can be used in SMB/Corporate space </p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "Time Tracking for My Team using Jibble",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/",
-      "pubDate": "Tue, 2 Dec 2025 17:16:25 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pce8xm/time_tracking_for_my_team_using_jibble/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I manage a small crew, and for the longest time our time tracking was a total mess. We used basic spreadsheets + manual entries, and every week I had to chase people to fix wrong hours, missed entries, or mixed-up project codes.</p>\n\n<p>It wasn’t anyone’s fault — the system itself was just… bad.\nWay too much manual work = way too many mistakes.</p>\n\n<p>A couple months ago I switched the team over to Jibble for proper clock-in/clock-out under specific projects, and honestly it’s made everyone’s life easier. Now the crew logs their time in the right place automatically, and I can see project hours in real time instead of waiting until Friday panic mode.</p>\n\n<p>The biggest improvement for me:\n    • no more guessing where hours went\n    • no more correcting the same mistakes\n    • workload planning actually makes sense now\n    • I can spot overruns before they blow up</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-03T07:40:54.307Z"
+  "lastFetched": "2025-12-03T08:58:36.243Z"
 }
