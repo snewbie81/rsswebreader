@@ -22,6 +22,15 @@
       "thumbnail": null
     },
     {
+      "title": "How to convert MP4 to DVD video without running into outdated tools?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcu4v8/how_to_convert_mp4_to_dvd_video_without_running/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcu4v8/how_to_convert_mp4_to_dvd_video_without_running/",
+      "pubDate": "Wed, 3 Dec 2025 04:01:05 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcu4v8/how_to_convert_mp4_to_dvd_video_without_running/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve searched around here and most of the threads are a few years old. A lot of the recommended tools are outdated, barely maintained, or don&#39;t run well on current systems anymore.</p>\n\n<p>I still need to make proper DVD-Video discs for a couple of situations—mainly sending family videos to older relatives who only have a basic DVD player. So I&#39;m trying to figure out a current workflow.</p>\n\n<p>What I&#39;m aiming for:</p>\n\n<p>A DVD-Video disc that boots in a standard DVD player (not just a data disc with an MP4 on it).</p>\n\n<p>A tool that&#39;s still maintained, installs cleanly, and works on modern macOS.</p>\n\n<p>Ability to test the ISO before burning, plus any tips on media/burn speed that actually matters.</p>\n\n<p>If you&#39;ve done this recently, I&#39;d really appreciate your workflow. And if there are any tools you&#39;d avoid (old installers or constant crashes), I&#39;d love to know that too. Thanks in advance!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Best open-source software that everyone needs to know about?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc6atl/best_opensource_software_that_everyone_needs_to/",
@@ -40,15 +49,6 @@
       "thumbnail": null
     },
     {
-      "title": "Best identity and access management (IAM) systems for mid-size companies?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
-      "pubDate": "Tue, 2 Dec 2025 14:46:41 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Seeking help finding a solid identity and access management (IAM) tool for our mid-sized US based company. I’m getting worried that my team isn’t as organized as we need to be – our account logins are being stored manually, we have a semi-configured Azure AD tenant, and we keep realizing that our manual tracking is out of date, especially when folks are offboarding, but we lack the bandwidth to manage this more diligently by hand.😏</p>\n\n<p>I finally got budget approval this quarter to standardize via an IAM platform and I’m trying to quickly make a list of IAM tools that would serve us well and solve our organization problems. We only want to have one software though, so please don’t recommend a combo of tools. </p>\n\n<p>Primary goals are straightforward: SSO and MFA across roughly 80 SaaS apps, usable audit trails and access reviews for SOC 2, automated provisioning and deprovisioning tied to updates in our HR software. </p>\n\n<p>Questions for folks in this sub: for a mid-size org, do you recommend getting IT-specific software? Any specific recommendations for an IAM? Any options that integrate well with your HR software?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "In Case You Missed It - Microsoft PC Manager is your free replacement/alternative to CCleaner",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pcsi57/in_case_you_missed_it_microsoft_pc_manager_is/",
@@ -58,21 +58,12 @@
       "thumbnail": null
     },
     {
-      "title": "How to convert MP4 to DVD video without running into outdated tools?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pcu4v8/how_to_convert_mp4_to_dvd_video_without_running/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcu4v8/how_to_convert_mp4_to_dvd_video_without_running/",
-      "pubDate": "Wed, 3 Dec 2025 04:01:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcu4v8/how_to_convert_mp4_to_dvd_video_without_running/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve searched around here and most of the threads are a few years old. A lot of the recommended tools are outdated, barely maintained, or don&#39;t run well on current systems anymore.</p>\n\n<p>I still need to make proper DVD-Video discs for a couple of situations—mainly sending family videos to older relatives who only have a basic DVD player. So I&#39;m trying to figure out a current workflow.</p>\n\n<p>What I&#39;m aiming for:</p>\n\n<p>A DVD-Video disc that boots in a standard DVD player (not just a data disc with an MP4 on it).</p>\n\n<p>A tool that&#39;s still maintained, installs cleanly, and works on modern macOS.</p>\n\n<p>Ability to test the ISO before burning, plus any tips on media/burn speed that actually matters.</p>\n\n<p>If you&#39;ve done this recently, I&#39;d really appreciate your workflow. And if there are any tools you&#39;d avoid (old installers or constant crashes), I&#39;d love to know that too. Thanks in advance!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Program to automatically apply custom folder icons (that won’t break when moved)?",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pctur4/program_to_automatically_apply_custom_folder/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pctur4/program_to_automatically_apply_custom_folder/",
-      "pubDate": "Wed, 3 Dec 2025 03:47:33 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pctur4/program_to_automatically_apply_custom_folder/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I’m looking for a solution that lets me assign custom icons to folders without losing them when I move the folders to another PC, drive, or location. Ideally, I’d like something that also keeps the icons intact when uploaded to cloud storage and downloaded again.  </p>\n\n<p>A tool that can automatically re-apply the icons using relative paths — without having to set each folder manually one by one — would also work for me.  </p>\n\n<p>Has anyone found a reliable way to do this? Thanks!</p>\n</div><!-- SC_ON -->",
+      "title": "Best identity and access management (IAM) systems for mid-size companies?",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/",
+      "pubDate": "Tue, 2 Dec 2025 14:46:41 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pcaakt/best_identity_and_access_management_iam_systems/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Seeking help finding a solid identity and access management (IAM) tool for our mid-sized US based company. I’m getting worried that my team isn’t as organized as we need to be – our account logins are being stored manually, we have a semi-configured Azure AD tenant, and we keep realizing that our manual tracking is out of date, especially when folks are offboarding, but we lack the bandwidth to manage this more diligently by hand.😏</p>\n\n<p>I finally got budget approval this quarter to standardize via an IAM platform and I’m trying to quickly make a list of IAM tools that would serve us well and solve our organization problems. We only want to have one software though, so please don’t recommend a combo of tools. </p>\n\n<p>Primary goals are straightforward: SSO and MFA across roughly 80 SaaS apps, usable audit trails and access reviews for SOC 2, automated provisioning and deprovisioning tied to updates in our HR software. </p>\n\n<p>Questions for folks in this sub: for a mid-size org, do you recommend getting IT-specific software? Any specific recommendations for an IAM? Any options that integrate well with your HR software?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -193,21 +184,21 @@
       "thumbnail": null
     },
     {
-      "title": "Video Editing Software",
-      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
-      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
-      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
       "title": "Have You Ever Bought a Cheap Tool That Ended Up Costing More?",
       "link": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
       "guid": "https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/",
       "pubDate": "Tue, 2 Dec 2025 07:22:50 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc28hf/have_you_ever_bought_a_cheap_tool_that_ended_up/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>A client of mine wanted to save money by picking a low-cost CRM. Six months later, they’d hired two people just to customize it, spent extra on paid add-ons, and still couldn’t get basic reporting right.</p>\n\n<p>By the time we calculated everything, the “cheap” option had doubled the cost of an enterprise tool — and still wasn’t meeting their needs.</p>\n\n<p>What we tried:</p>\n\n<p>We attempted to streamline their setup with automation and removing unnecessary modules… but the foundation just wasn’t built for scale.</p>\n\n<p>Question:</p>\n\n<p>Have you ever seen a cheap tool balloon into a money-pit? What was the moment you realized the true cost?</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "Video Editing Software",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/",
+      "pubDate": "Tue, 2 Dec 2025 14:15:50 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc9jbo/video_editing_software/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I’m new to video editing but I’m making a short documentary for a family reunion in a few years and I’ll be filming parts of it throughout the next two years. What software would be best to edit it all together? I’ll want to be able to put music into the background, insert audio captured by my off camera microphone, and then export it with a high enough quality that can be watched on a TV. It doesn’t need to be very fancy and I clearly have no clue what I’m doing so beginner friendly would be a plus. Thank you!</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -227,9 +218,18 @@
       "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pchg6d/what_remote_desktop_software_shouldcan_i_use/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,\nI have a PC with an AMD gpu and a Laptop with intel integrated graphics and I want to find a way to use my PC (mostly for gaming meaning low latancy) on the go.\nUntil now, all I&#39;ve seen is Parsec, but that would need an Nvidia gpu, which i don&#39;t have.\nAny Ideas?</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
+    },
+    {
+      "title": "Download specific clips from a google drive video link",
+      "link": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
+      "guid": "https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/",
+      "pubDate": "Tue, 2 Dec 2025 08:22:54 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/software/comments/1pc36cf/download_specific_clips_from_a_google_drive_video/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Sup guys, is there any way to download a specific portion of a google drive video link. Because i have to download a 25gb video to just get a 20 sec clip and i wanna know if there’s any better way possible. For YouTube Stacher is available but I don’t know any tool if available to do so. Help a fellow out. Thanks</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/software.rss",
-  "lastFetched": "2025-12-03T04:52:19.422Z"
+  "lastFetched": "2025-12-03T05:42:12.859Z"
 }

@@ -40,6 +40,15 @@
       "thumbnail": null
     },
     {
+      "title": "Mobile browser that's fast and supports extension that allows easy private browsing option",
+      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcvost/mobile_browser_thats_fast_and_supports_extension/",
+      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcvost/mobile_browser_thats_fast_and_supports_extension/",
+      "pubDate": "Wed, 3 Dec 2025 05:20:53 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pcvost/mobile_browser_thats_fast_and_supports_extension/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using iceraven for a long time now and while it&#39;s usually fine, there are many instances where links simply do not load. and there are other cases when it&#39;s just slow and doesn&#39;t support some links. the latter I assume is part of it being more secure and private, but sometimes it is frustrating when you&#39;re left wondering whether the internet is acting up or not. another issue I&#39;ve noticed is that its share screen is slow and odd to use.</p>\n\n<p>I&#39;ve used : Cromite, quetta, brave, vivaldi. I don&#39;t mind chrome or firefox based as long as its fast and supports ad block/ublock and some extensions. prefer moderate privacy too.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "Has anyone else noticed browsers slowly drifting in different directions",
       "link": "https://redlib.perennialte.ch//r/browsers/comments/1pcucrj/has_anyone_else_noticed_browsers_slowly_drifting/",
       "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pcucrj/has_anyone_else_noticed_browsers_slowly_drifting/",
@@ -218,18 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6pni/effs_coveryourtracks_test_says_that_firefox_on/'>Comments</a>",
       "content": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pb6pni/effs_coveryourtracks_test_says_that_firefox_on/'>Comments</a>",
       "thumbnail": null
-    },
-    {
-      "title": "Since privacy is a huge factor for many here, what conditions did you have before selecting a browser?",
-      "link": "https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/",
-      "guid": "https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/",
-      "pubDate": "Mon, 1 Dec 2025 12:27:19 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/browsers/comments/1pbbgy9/since_privacy_is_a_huge_factor_for_many_here_what/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people in this subreddit say that privacy is one of the biggest factors when choosing a browser.</p>\n\n<p>So I wanted to ask two things:\n1. What is the core reason of a browser storing your digital footprint that makes you uncomfortable? (E.g. password, targeted ads, etc)</p>\n\n<ol>\n<li>what conditions would you personally need before you would feel comfortable with it? (E.g. local storage of history only, no advertising, etc.)</li>\n</ol>\n\n<p>Would be great to hear the range of views from this community. </p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
     }
   ],
   "group": "tech",
   "url": "https://redlib.perennialte.ch/r/browsers.rss",
-  "lastFetched": "2025-12-03T04:52:16.806Z"
+  "lastFetched": "2025-12-03T05:42:10.024Z"
 }
