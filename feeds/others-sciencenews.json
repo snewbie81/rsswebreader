@@ -4,6 +4,33 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Chatbots spewing facts, and falsehoods, can sway voters",
+      "link": "https://www.sciencenews.org/article/chatbots-facts-falsehood-sway-voters-ai",
+      "guid": "https://www.sciencenews.org/?p=3163269",
+      "pubDate": "Thu, 04 Dec 2025 19:00:00 +0000",
+      "description": "Chatbots that dole out fact-laden arguments can sway voters. Those facts don’t have to be true.",
+      "content": "Chatbots that dole out fact-laden arguments can sway voters. Those facts don’t have to be true.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120425_SG_chatbots_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
+      "title": "How a bacterial toxin linked to colon cancer messes with DNA",
+      "link": "https://www.sciencenews.org/article/toxin-colon-cancer-dna-mutation",
+      "guid": "https://www.sciencenews.org/?p=3163261",
+      "pubDate": "Thu, 04 Dec 2025 19:00:00 +0000",
+      "description": "A closeup look at colibactin’s structure reveals chemical motifs that guide its mutation-wreaking “warheads” to specific stretches of DNA.",
+      "content": "A closeup look at colibactin’s structure reveals chemical motifs that guide its mutation-wreaking “warheads” to specific stretches of DNA.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120425_EC_colibactinwarheads_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
+      "title": "Nanotyrannus is still not a teenage T. rex",
+      "link": "https://www.sciencenews.org/article/nanotyrannus-still-no-teenage-t-rex",
+      "guid": "https://www.sciencenews.org/?p=3163231",
+      "pubDate": "Thu, 04 Dec 2025 19:00:00 +0000",
+      "description": "<em>Nanotyrannus</em> wasn’t a juvenile <em>T. rex</em> but a petite adult of a separate species, a new study of fossil hyoid bones finds, bolstering a recent report.",
+      "content": "<em>Nanotyrannus</em> wasn’t a juvenile <em>T. rex</em> but a petite adult of a separate species, a new study of fossil hyoid bones finds, bolstering a recent report.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120325_CG_nanotrex_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "A volcanic eruption might have helped bring the Black Plague to Europe",
       "link": "https://www.sciencenews.org/article/volcanic-eruption-black-plague-europe",
       "guid": "https://www.sciencenews.org/?p=3163249",
@@ -155,36 +182,9 @@
       "description": "Takanori Takebe’s strange investigation into whether humans can use the gut for breathing has surprisingly sentimental origins: helping his dad.",
       "content": "Takanori Takebe’s strange investigation into whether humans can use the gut for breathing has surprisingly sentimental origins: helping his dad.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111325_MT_buttbreathing_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Rats are snatching bats out of the air and eating them",
-      "link": "https://www.sciencenews.org/article/rats-eat-bats-conservation-air-hunting",
-      "guid": "https://www.sciencenews.org/?p=3162272",
-      "pubDate": "Mon, 24 Nov 2025 16:00:00 +0000",
-      "description": "The grisly infrared camera footage records a never-before-seen hunting tactic. It may have implications for bat conservation.",
-      "content": "The grisly infrared camera footage records a never-before-seen hunting tactic. It may have implications for bat conservation.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111025_GT_ratsbats_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "3,000 steps per day might slow Alzheimer’s disease",
-      "link": "https://www.sciencenews.org/article/steps-slow-alzheimers-walk-physical",
-      "guid": "https://www.sciencenews.org/?p=3162200",
-      "pubDate": "Mon, 24 Nov 2025 14:00:00 +0000",
-      "description": "In people at risk for Alzheimer’s disease, researchers linked minimal to moderate physical activity to a 3-to 7-year delay in cognitive symptoms.",
-      "content": "In people at risk for Alzheimer’s disease, researchers linked minimal to moderate physical activity to a 3-to 7-year delay in cognitive symptoms.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/110725_MR_alzheimers_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "A historic year for U.S. science",
-      "link": "https://www.sciencenews.org/article/ed-note-december-2025-trump",
-      "guid": "https://www.sciencenews.org/?p=3162336",
-      "pubDate": "Sat, 22 Nov 2025 12:00:00 +0000",
-      "description": "Nancy Shute, Editor in Chief, discusses big advances across science in 2025 as well as the assault on science by the Trump administration.",
-      "content": "Nancy Shute, Editor in Chief, discusses big advances across science in 2025 as well as the assault on science by the Trump administration.",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-04T18:59:08.152Z"
+  "lastFetched": "2025-12-04T19:33:13.669Z"
 }
