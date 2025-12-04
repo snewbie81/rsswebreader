@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "A volcanic eruption might have helped bring the Black Plague to Europe",
+      "link": "https://www.sciencenews.org/article/volcanic-eruption-black-plague-europe",
+      "guid": "https://www.sciencenews.org/?p=3163249",
+      "pubDate": "Thu, 04 Dec 2025 16:00:00 +0000",
+      "description": "A volcanic eruption may have triggered a deadly chain of events that brought the Black Plague to Europe in the 14th century.",
+      "content": "A volcanic eruption may have triggered a deadly chain of events that brought the Black Plague to Europe in the 14th century.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120425_CG_blackdeath_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Ancient DNA reveals China’s first ‘pet’ cat wasn’t the house cat",
       "link": "https://www.sciencenews.org/article/dna-china-first-cat-leopard-rodent",
       "guid": "https://www.sciencenews.org/?p=3163126",
@@ -173,18 +182,9 @@
       "description": "Nancy Shute, Editor in Chief, discusses big advances across science in 2025 as well as the assault on science by the Trump administration.",
       "content": "Nancy Shute, Editor in Chief, discusses big advances across science in 2025 as well as the assault on science by the Trump administration.",
       "thumbnail": null
-    },
-    {
-      "title": "Meet 5 scientists reshaping the way we understand the world",
-      "link": "https://www.sciencenews.org/article/scientists-to-watch-career-researchers",
-      "guid": "https://www.sciencenews.org/?p=3162471",
-      "pubDate": "Fri, 21 Nov 2025 18:00:00 +0000",
-      "description": "These five early- and mid-career researchers are shaking up what we know about the Arctic, black holes and beyond.",
-      "content": "These five early- and mid-career researchers are shaking up what we know about the Arctic, black holes and beyond.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/2025SNToWatch_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-04T15:46:37.002Z"
+  "lastFetched": "2025-12-04T16:58:16.480Z"
 }
