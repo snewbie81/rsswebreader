@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Big Neandertal noses weren’t made for cold",
+      "link": "https://www.sciencenews.org/article/big-neandertal-werent-nose-cold-climate",
+      "guid": "https://www.sciencenews.org/?p=3163112",
+      "pubDate": "Fri, 05 Dec 2025 16:00:00 +0000",
+      "description": "Tiny cameras threaded inside a Neandertal skull provide evidence that their big noses were not an adaptation to cold climates.",
+      "content": "Tiny cameras threaded inside a Neandertal skull provide evidence that their big noses were not an adaptation to cold climates.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120125_TS_neandertal_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "How male seahorses tap into their mothering side",
       "link": "https://www.sciencenews.org/article/male-seahorses-mothering-brood-pouch",
       "guid": "https://www.sciencenews.org/?p=3163075",
@@ -173,18 +182,9 @@
       "description": "Simulations show that subsurface oceans on small moons may hit boiling conditions, potentially creating features like Miranda’s distinctive ridges.",
       "content": "Simulations show that subsurface oceans on small moons may hit boiling conditions, potentially creating features like Miranda’s distinctive ridges.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112425_MJG_icymoons_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "This bright orange life-form could point to new dino discoveries",
-      "link": "https://www.sciencenews.org/article/lichen-dinosaur-fossils",
-      "guid": "https://www.sciencenews.org/?p=3162523",
-      "pubDate": "Tue, 25 Nov 2025 13:00:00 +0000",
-      "description": "Colorful lichen living on dinosaur bones reflect infrared light that can be detected by drones, which might lead to finds in remote areas.",
-      "content": "Colorful lichen living on dinosaur bones reflect infrared light that can be detected by drones, which might lead to finds in remote areas.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111725_TMB_lichenbones_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-05T15:44:24.150Z"
+  "lastFetched": "2025-12-05T16:54:21.767Z"
 }
