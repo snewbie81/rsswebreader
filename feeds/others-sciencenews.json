@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "How male seahorses tap into their mothering side",
+      "link": "https://www.sciencenews.org/article/male-seahorses-mothering-brood-pouch",
+      "guid": "https://www.sciencenews.org/?p=3163075",
+      "pubDate": "Fri, 05 Dec 2025 14:00:00 +0000",
+      "description": "By studying the genes responsible for the seahorse’s brood pouch, researchers uncovered a new route to “motherhood.”",
+      "content": "By studying the genes responsible for the seahorse’s brood pouch, researchers uncovered a new route to “motherhood.”",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112425_EP_maleseahorses_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Chatbots spewing facts, and falsehoods, can sway voters",
       "link": "https://www.sciencenews.org/article/chatbots-facts-falsehood-sway-voters-ai",
       "guid": "https://www.sciencenews.org/?p=3163269",
@@ -173,18 +182,9 @@
       "description": "Colorful lichen living on dinosaur bones reflect infrared light that can be detected by drones, which might lead to finds in remote areas.",
       "content": "Colorful lichen living on dinosaur bones reflect infrared light that can be detected by drones, which might lead to finds in remote areas.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111725_TMB_lichenbones_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "‘Butt breathing’ could help people who can’t get oxygen the regular way",
-      "link": "https://www.sciencenews.org/article/butt-breathing-gut-oxygen-bloodstream",
-      "guid": "https://www.sciencenews.org/?p=3162369",
-      "pubDate": "Mon, 24 Nov 2025 18:00:00 +0000",
-      "description": "Takanori Takebe’s strange investigation into whether humans can use the gut for breathing has surprisingly sentimental origins: helping his dad.",
-      "content": "Takanori Takebe’s strange investigation into whether humans can use the gut for breathing has surprisingly sentimental origins: helping his dad.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111325_MT_buttbreathing_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-05T13:46:36.669Z"
+  "lastFetched": "2025-12-05T14:44:35.548Z"
 }
