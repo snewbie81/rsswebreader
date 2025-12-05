@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "A CDC panel has struck down universal newborn hepatitis B vaccination",
+      "link": "https://www.sciencenews.org/article/hepatitis-b-vaccination-newborns-cdc-acip",
+      "guid": "https://www.sciencenews.org/?p=3163311",
+      "pubDate": "Fri, 05 Dec 2025 18:01:45 +0000",
+      "description": "A reshaped vaccine committee voted to scale back newborn hepatitis B shots despite decades of data showing the birth dose is safe, effective and vital.",
+      "content": "A reshaped vaccine committee voted to scale back newborn hepatitis B shots despite decades of data showing the birth dose is safe, effective and vital.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/120425_AC_HepBvaccination_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "Big Neandertal noses weren’t made for cold",
       "link": "https://www.sciencenews.org/article/big-neandertal-werent-nose-cold-climate",
       "guid": "https://www.sciencenews.org/?p=3163112",
@@ -173,18 +182,9 @@
       "description": "Ancient collagen preserved in the bones of extinct Australian mammals is revealing their evolutionary relationships, leading to some surprises.",
       "content": "Ancient collagen preserved in the bones of extinct Australian mammals is revealing their evolutionary relationships, leading to some surprises.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111825_JB_marsupiallions_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Boiling oceans may sculpt the surfaces of small icy moons",
-      "link": "https://www.sciencenews.org/article/boiling-oceans-icy-moons-simulations",
-      "guid": "https://www.sciencenews.org/?p=3162950",
-      "pubDate": "Tue, 25 Nov 2025 15:00:00 +0000",
-      "description": "Simulations show that subsurface oceans on small moons may hit boiling conditions, potentially creating features like Miranda’s distinctive ridges.",
-      "content": "Simulations show that subsurface oceans on small moons may hit boiling conditions, potentially creating features like Miranda’s distinctive ridges.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112425_MJG_icymoons_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-05T17:39:40.196Z"
+  "lastFetched": "2025-12-05T18:52:56.078Z"
 }
