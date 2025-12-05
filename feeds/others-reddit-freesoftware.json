@@ -4,21 +4,48 @@
   "link": "",
   "items": [
     {
+      "title": "Is Parabola GNU/Linux-libre still being updated?",
+      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1ped4nb/is_parabola_gnulinuxlibre_still_being_updated/",
+      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1ped4nb/is_parabola_gnulinuxlibre_still_being_updated/",
+      "pubDate": "Thu, 4 Dec 2025 21:57:06 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1ped4nb/is_parabola_gnulinuxlibre_still_being_updated/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/r/linux/?f=flair_name%3A%22Discussion%22\"></a>I am starting to care a lot about free software. So I decided to install Parabola on my Arch laptop, however, when I tried to download their iso&#39;s, on ALL of the mirrors, they were from 2022. What? Almost 4 years without being updated? Have they decided to abandon the project or something? I am very used to Arch so.. I thought it was my best choice for a free distro</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "I made Grex - a grep tool for Windows that also searches WSL &amp; Docker",
+      "link": "https://github.com/BornSupercharged/Grex",
+      "guid": "https://github.com/BornSupercharged/Grex",
+      "pubDate": "Thu, 4 Dec 2025 13:07:01 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pdzjby/i_made_grex_a_grep_tool_for_windows_that_also/'>Comments</a>",
+      "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pdzjby/i_made_grex_a_grep_tool_for_windows_that_also/'>Comments</a>",
+      "thumbnail": null
+    },
+    {
+      "title": "I made a free coloring book website",
+      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pdj55y/i_made_a_free_coloring_book_website/",
+      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pdj55y/i_made_a_free_coloring_book_website/",
+      "pubDate": "Wed, 3 Dec 2025 22:49:57 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pdj55y/i_made_a_free_coloring_book_website/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/preview/pre/456zta8ti25g1.png?width=737&amp;format=png&amp;auto=webp&amp;s=698c3db1ed3ac0ecc6124f3dbb4d9dd47087b5cf\">/preview/pre/456zta8ti25g1.png?width=737&amp;format=png&amp;auto=webp&amp;s=698c3db1ed3ac0ecc6124f3dbb4d9dd47087b5cf</a></p>\n\n<p><a href=\"http://www.kidscoloringgames.com\">www.kidscoloringgames.com</a>  </p>\n\n<p>Made a free online coloring game for my nephew - thought other parents might enjoy it too. No ads, no signup, No tracking, works on tablets.</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
+      "title": "A free Opensource A.I. resource of video tutorials done as an iOS app",
+      "link": "/gallery/1pdq92r",
+      "guid": "/gallery/1pdq92r",
+      "pubDate": "Thu, 4 Dec 2025 04:09:16 +0000",
+      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pdq92r/a_free_opensource_ai_resource_of_video_tutorials/'>Comments</a>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! Just wanted to reshare a project I’ve been working on for anyone—from beginners to advanced developers—who love exploring how generative AI works. I put together a free app called <strong>A.I. DelvePad</strong>, and the whole thing is completely <strong>free</strong>. It’s a <strong>free</strong> toolbox of resources for anyone curious about the nuts and bolts of generative AI.</p>\n\n<p>It includes:<br/>\n• <strong>35+ free</strong> bite-sized video tutorials (with more on the way)<br/>\n• A <strong>free</strong> glossary of key AI terms<br/>\n• A <strong>free</strong> quick intro to how LLMs are trained<br/>\n• A <strong>free</strong> tutorial-sharing feature so you can pass cool finds to friends<br/>\n• And the entire project is <strong>100% free</strong> and open source</p>\n\n<p>If you want to make your own resource app—whether it’s for YouTube tutorials, Udemy courses, or any hobby you’re into—you can dive into the repo and customize it however you like, completely <strong>for free</strong>.</p>\n\n<p>I’d really appreciate any feedback—good or bad. And if you’re building your own projects too, keep going! It’s always fun seeing what fellow hobbyists are creating.</p>\n\n<p>App Store: <a href=\"https://apps.apple.com/us/app/a-i-delvepad/id6743481267\">https://apps.apple.com/us/app/a-i-delvepad/id6743481267</a><br/>\nGitHub: <a href=\"https://github.com/leapdeck/AIDelvePad\">https://github.com/leapdeck/AIDelvePad</a><br/>\nSite: <a href=\"http://aidelvepad.com\">http://aidelvepad.com</a></p>\n\n<p>Happy coding!</p>\n</div><!-- SC_ON -->",
+      "thumbnail": null
+    },
+    {
       "title": "I built PhotoHaul: a free Windows app that auto-organizes messy photo archives",
       "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pc4o22/i_built_photohaul_a_free_windows_app_that/",
       "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pc4o22/i_built_photohaul_a_free_windows_app_that/",
       "pubDate": "Tue, 2 Dec 2025 10:01:48 +0000",
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pc4o22/i_built_photohaul_a_free_windows_app_that/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,<br/>\nI’d like to share a small free tool I built for my own photo chaos, and now I’m polishing it with community feedback.</p>\n\n<h1>- What is PhotoHaul</h1>\n\n<p>PhotoHaul is a <strong>100% local, no-cloud, no-tracking Windows app</strong> that scans any folder or drive (HDD/SSD/USB/SD), detects photos and videos, removes duplicates and reorganizes everything into <strong>clean, date-based folders</strong>.</p>\n\n<p>It’s meant for anyone who has years of scattered photos across devices and wants a simple way to consolidate them.</p>\n\n<h1>- Key features</h1>\n\n<ul>\n<li><strong>Automatic sorting</strong> into YEAR/MONTH folders</li>\n<li><strong>Duplicate detection</strong> (hash-based)</li>\n<li><strong>Safe Copy mode</strong> (never overwrites existing files)</li>\n<li><strong>Works with any source</strong>: HDD, USB sticks, SD cards, phones in MTP mode</li>\n<li><strong>Optional Android companion app</strong> to send photos via WiFi directly to your PC</li>\n<li><strong>Local-only</strong>: no cloud, no accounts, no internet required</li>\n<li><strong>Installer for Windows</strong> + <strong>APK for Android</strong></li>\n<li><strong>Lightweight</strong>, portable, no database needed</li>\n</ul>\n\n<h1>- Why it might be useful</h1>\n\n<p>If you have photos spread across old laptops, phones, memory cards or external drives, PhotoHaul creates a <strong>single organized archive</strong> without breaking file structures or touching originals unless you explicitly choose to.</p>\n\n<p>It helped me consolidate ~15 years of scattered photos, so I’m hoping it might help others too.</p>\n\n<h1>- Download + docs</h1>\n\n<p>Installer, APK, screenshots and a short explanation of how it works are here:<br/>\n-I can&#39;t post the link because they&#39;ll ban me... I&#39;ll try tomorrow - :D</p>\n\n<p>Both apps are already released and available for testing.</p>\n\n<h1>- Feedback wanted</h1>\n\n<p>I’m looking for:</p>\n\n<ul>\n<li>bug reports</li>\n<li>performance issues</li>\n<li>missing features</li>\n<li>edge cases (huge libraries, unusual formats, etc.)</li>\n</ul>\n\n<p>Thanks in advance to anyone who wants to try it!</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Super Mario 64 is technically libre software if you build the decomp, right?",
-      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
-      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/",
-      "pubDate": "Mon, 1 Dec 2025 19:19:59 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1pbm0vw/super_mario_64_is_technically_libre_software_if/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>(EDIT 4: The title of the post which I wrote is stupid. What I meant to ask was, &quot;Is using the decompilation of SM64 considered &#39;unethical&#39; by the free software foundation.&quot;)</strong></p>\n\n<p>I&#39;m thinking of getting a Thinkpad T60 with GNU Boot and Parabola GNU/Linux, mostly for programming and writing and such (I hear the keyboard is very good.)</p>\n\n<p>If I installed a libre N64 emulator like <a href=\"https://github.com/mupen64plus/mupen64plus-core\">mupen64plus</a> and built the <a href=\"https://github.com/n64decomp/sm64\">decompilation of Super Mario 64</a> it would still be free software right?</p>\n\n<p>Same thing for (nintendo 64) <a href=\"https://github.com/VetriTheRetri/ssb-decomp-re\">Super Smash Bros.</a> and <a href=\"https://github.com/zeldaret/af\">Animal Forest</a> (original Animal Crossing) which also have decompilations, and SSB even has a <a href=\"https://github.com/JSsixtyfour/smashremix\">fan-made remaster.</a></p>\n\n<p>Edit: The goal of this post is to determine whether or not running such decompiled games would result in directly taking away from the user&#39;s freedoms, as defined by the free software foundation.</p>\n\n<p>That is, whether or not it would be considered &quot;ethical&quot; by the free software foundation, as defined by the free software foundation.</p>\n\n<p>Storing, for example, a text file whose contents is a copyrighted book is not unethical, but DRM-protected media is unethical.</p>\n\n<p>Basically, the only important matter is the game&#39;s code. As illustrated by the fan-made remaster, having a decompilation does indeed provide the user the freedom to modify and distribute at least the code.</p>\n\n<p>For convenience, for software to be Free Software as defined by the FSF, it must fulfill these four freedoms:</p>\n\n<ol>\n<li><p>The freedom to use the program as you wish, for any purpose. (The source being available easily satisfies this.)</p></li>\n<li><p>The freedom to study how the program works, and change it to make it do what you wish (Smash Remix is proof that this is indeed the case)</p></li>\n<li><p>The freedom to redistribute copies so you can help others. (This is probably the most interesting part since technically, you can legally distribute both executables and source of the decompilation provided you do so without also distributing copyrighted *assets* such as artwork.)</p></li>\n<li><p>The freedom to distribute copies of your modified versions to others. (Similar to the last one. Smash Remix seems suggest that this freedom is met, just in a non straight forward way.)</p></li>\n</ol>\n\n<p>Edit 2: Note that the freedoms pertain to the program code itself, whether it is machine code or source code. Assets are, technically, not part of the program. While difficult and very not straight-forward, users CAN always re distribute their source code or machine code without the assets in question.</p>\n\n<p>Edit 3: <a href=\"https://www.gnu.org/philosophy/not-ipr.en.html\">the term &quot;intellectual property&quot; is misleading.</a> This topic is pretty technical, so I believe it is relevant to bring that up.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
     },
     {
@@ -200,36 +227,9 @@
       "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1opxyih/luanti_nonprofit_weve_joined_open_collective/'>Comments</a>",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Luanti (formerly Minetest) is a free software voxel game creation platform, licensed under LGPLv2.1 or later.</p>\n</div><!-- SC_ON -->",
       "thumbnail": null
-    },
-    {
-      "title": "P2P Whatsapp Clone",
-      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1opuusd/p2p_whatsapp_clone/",
-      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1opuusd/p2p_whatsapp_clone/",
-      "pubDate": "Thu, 6 Nov 2025 09:54:05 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1opuusd/p2p_whatsapp_clone/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Want to send E2E encrypted messages and video calls with no downloads, no sign-ups and no tracking?</p>\n\n<p>This prototype uses PeerJS to establish a secure browser-to-browser connection. Everything is ephemeral and cleared when you refresh the page—true zerodata privacy!</p>\n\n<p>Check out the pre-release <a href=\"https://p2p.positive-intentions.com/iframe.html?globals=&amp;id=demo-p2p-messaging--p-2-p-messaging&amp;viewMode=story\">demo here</a>.</p>\n\n<p>NOTE: This is still a work-in-progress and a close-source project. To view the open source version see <a href=\"https://github.com/positive-intentions/chat\">here</a>. It has NOT been audited or reviewed. For testing purposes only, not a replacement for your current messaging app.</p>\n\n<ul>\n<li>Docs: <a href=\"https://positive-intentions.com/docs/category/sparcle\">https://positive-intentions.com/docs/category/sparcle</a></li>\n<li>Reddit: <a href=\"/r/positive_intentions\">https://www.reddit.com/r/positive_intentions</a></li>\n<li>Mastodon: <a href=\"https://infosec.exchange/@xoron\">https://infosec.exchange/@xoron</a></li>\n<li>More: <a href=\"https://positive-intentions.com\">https://positive-intentions.com</a></li>\n</ul>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "What is the best app to swap faces?",
-      "link": "https://redlib.perennialte.ch//r/freesoftware/comments/1opt0ub/what_is_the_best_app_to_swap_faces/",
-      "guid": "https://redlib.perennialte.ch//r/freesoftware/comments/1opt0ub/what_is_the_best_app_to_swap_faces/",
-      "pubDate": "Thu, 6 Nov 2025 07:55:32 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1opt0ub/what_is_the_best_app_to_swap_faces/'>Comments</a>",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I tested a bunch of these but they all seem to trade realism for speed. Whats the current best app for clean, believable swaps and not the meme kind, the ones that actually look natural?</p>\n</div><!-- SC_ON -->",
-      "thumbnail": null
-    },
-    {
-      "title": "Hope this fits here. I think it can be pretty helpful",
-      "link": "https://redlib.perennialte.ch//r/selfhosted/comments/1on3gox/oss_discord_matrix_alternative/",
-      "guid": "https://redlib.perennialte.ch//r/selfhosted/comments/1on3gox/oss_discord_matrix_alternative/",
-      "pubDate": "Tue, 4 Nov 2025 12:41:31 +0000",
-      "description": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1oo614i/hope_this_fits_here_i_think_it_can_be_pretty/'>Comments</a>",
-      "content": "<a href='https://redlib.perennialte.ch//r/freesoftware/comments/1oo614i/hope_this_fits_here_i_think_it_can_be_pretty/'>Comments</a>",
-      "thumbnail": null
     }
   ],
   "group": "others",
   "url": "https://redlib.perennialte.ch/r/freesoftware.rss",
-  "lastFetched": "2025-12-03T16:59:20.207Z"
+  "lastFetched": "2025-12-05T03:45:49.349Z"
 }
