@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Drought may have doomed the ‘hobbits’ of Flores",
+      "link": "https://www.sciencenews.org/article/drought-doomed-hobbits-human-relatives",
+      "guid": "https://www.sciencenews.org/?p=3163294",
+      "pubDate": "Mon, 08 Dec 2025 10:00:00 +0000",
+      "description": "Stalagmite data suggest <em>Homo floresiensis</em> faced prolonged drought that stressed both them and their prey, contributing to their disappearance.",
+      "content": "Stalagmite data suggest <em>Homo floresiensis</em> faced prolonged drought that stressed both them and their prey, contributing to their disappearance.",
+      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/12/111425_MM_hobbit_feat.jpg?fit=800%2C450&ssl=1"
+    },
+    {
       "title": "A CDC panel has struck down universal newborn hepatitis B vaccination",
       "link": "https://www.sciencenews.org/article/hepatitis-b-vaccination-newborns-cdc-acip",
       "guid": "https://www.sciencenews.org/?p=3163311",
@@ -173,18 +182,9 @@
       "description": "Like exercise, gratitude takes many forms. Finding the right practice, research shows, is up to the individual.",
       "content": "Like exercise, gratitude takes many forms. Finding the right practice, research shows, is up to the individual.",
       "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/112125_SG_gratitude_feat.jpg?fit=800%2C450&ssl=1"
-    },
-    {
-      "title": "Cuddly koalas had a brutal, blade-toothed close cousin",
-      "link": "https://www.sciencenews.org/article/koalas-marsupials-evolution-extinct",
-      "guid": "https://www.sciencenews.org/?p=3162684",
-      "pubDate": "Tue, 25 Nov 2025 17:00:00 +0000",
-      "description": "Ancient collagen preserved in the bones of extinct Australian mammals is revealing their evolutionary relationships, leading to some surprises.",
-      "content": "Ancient collagen preserved in the bones of extinct Australian mammals is revealing their evolutionary relationships, leading to some surprises.",
-      "thumbnail": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2025/11/111825_JB_marsupiallions_feat.jpg?fit=800%2C450&ssl=1"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-08T09:52:15.670Z"
+  "lastFetched": "2025-12-08T10:50:47.776Z"
 }
