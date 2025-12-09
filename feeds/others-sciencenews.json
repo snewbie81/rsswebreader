@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "A look under the hood of DeepSeek’s AI models doesn’t provide all the answers",
+      "link": "https://www.sciencenews.org/article/ai-model-deepseek-answers-training",
+      "guid": "https://www.sciencenews.org/?p=3163278",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 +0000",
+      "description": "A peer-reviewed paper about Chinese startup DeepSeek's models explains their training approach but not how they work through intermediate steps.",
+      "content": "A peer-reviewed paper about Chinese startup DeepSeek's models explains their training approach but not how they work through intermediate steps.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120225_A_DeepSeek_feat.jpg?w=800"
+    },
+    {
       "title": "Some irritability is normal. Here’s when it’s not",
       "link": "https://www.sciencenews.org/article/irritability-mental-health-frustration",
       "guid": "https://www.sciencenews.org/?p=3163121",
@@ -173,18 +182,9 @@
       "description": "Canada has had more than a year of continuous measles transmission. The United States has until January to limit cases before losing status.",
       "content": "Canada has had more than a year of continuous measles transmission. The United States has until January to limit cases before losing status.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112425_EG_measles_feat.jpg?w=800"
-    },
-    {
-      "title": "Here are 3 big ideas to combat climate change, with or without COP",
-      "link": "https://www.sciencenews.org/article/3-ideas-combat-climate-change-cop-30-un",
-      "guid": "https://www.sciencenews.org/?p=3163020",
-      "pubDate": "Wed, 26 Nov 2025 16:59:51 +0000",
-      "description": "As action from the U.N.’s huge COP30 international meeting falls short, smaller groups are banding together to find ways to fight climate change.",
-      "content": "As action from the U.N.’s huge COP30 international meeting falls short, smaller groups are banding together to find ways to fight climate change.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112525_CMR_COP30_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-09T15:42:26.244Z"
+  "lastFetched": "2025-12-09T16:56:09.719Z"
 }
