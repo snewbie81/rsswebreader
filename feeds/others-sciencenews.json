@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Some irritability is normal. Here’s when it’s not",
+      "link": "https://www.sciencenews.org/article/irritability-mental-health-frustration",
+      "guid": "https://www.sciencenews.org/?p=3163121",
+      "pubDate": "Tue, 09 Dec 2025 14:00:00 +0000",
+      "description": "Irritability is a normal response to frustrations, but it can sometimes signal an underlying mental health disorder, like depression or anxiety.",
+      "content": "Irritability is a normal response to frustrations, but it can sometimes signal an underlying mental health disorder, like depression or anxiety.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120225_KZ_irritability_feat.jpg?w=800"
+    },
+    {
       "title": "Huge relatives of white sharks lived earlier than thought",
       "link": "https://www.sciencenews.org/article/relatives-great-white-tiger-sharks",
       "guid": "https://www.sciencenews.org/?p=3163068",
@@ -173,18 +182,9 @@
       "description": "As action from the U.N.’s huge COP30 international meeting falls short, smaller groups are banding together to find ways to fight climate change.",
       "content": "As action from the U.N.’s huge COP30 international meeting falls short, smaller groups are banding together to find ways to fight climate change.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112525_CMR_COP30_feat.jpg?w=800"
-    },
-    {
-      "title": "A foot fossil suggests a second early human relative lived alongside Lucy",
-      "link": "https://www.sciencenews.org/article/foot-fossil-early-human-relative-lucy",
-      "guid": "https://www.sciencenews.org/?p=3163056",
-      "pubDate": "Wed, 26 Nov 2025 16:00:00 +0000",
-      "description": "Foot bones and other fossils have been attributed to <em>Australopithecus deyiremeda</em>, a recently discovered species that may shake up the human family tree.",
-      "content": "Foot bones and other fossils have been attributed to <em>Australopithecus deyiremeda</em>, a recently discovered species that may shake up the human family tree.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112525_JB_hominidfoot_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-09T13:49:06.108Z"
+  "lastFetched": "2025-12-09T14:54:30.382Z"
 }
