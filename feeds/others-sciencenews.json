@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Trucked-in honeybees may edge out bigger bumblebee foragers",
+      "link": "https://www.sciencenews.org/article/honeybees-outcompete-bumblebees-hives",
+      "guid": "https://www.sciencenews.org/?p=3163453",
+      "pubDate": "Wed, 10 Dec 2025 00:01:00 +0000",
+      "description": "The finding could guide beekeepers to keep hives out of most vulnerable areas of the Irish heathlands.",
+      "content": "The finding could guide beekeepers to keep hives out of most vulnerable areas of the Irish heathlands.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120925_BB_honeybees_feat.jpg?w=800"
+    },
+    {
       "title": "A look under the hood of DeepSeek’s AI models doesn’t provide all the answers",
       "link": "https://www.sciencenews.org/article/ai-model-deepseek-answers-training",
       "guid": "https://www.sciencenews.org/?p=3163278",
@@ -173,18 +182,9 @@
       "description": "An HPV vaccine delivered into the nose can treat cervical tumors in mice. The vaccine targets a cancer protein produced by the virus.",
       "content": "An HPV vaccine delivered into the nose can treat cervical tumors in mice. The vaccine targets a cancer protein produced by the virus.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112125_MR_hpvnasalvaccine_feat.jpg?w=800"
-    },
-    {
-      "title": "Canada just lost its measles elimination status. Is the U.S. next?",
-      "link": "https://www.sciencenews.org/article/canada-measles-elimination-us-vaccine",
-      "guid": "https://www.sciencenews.org/?p=3162993",
-      "pubDate": "Fri, 28 Nov 2025 15:30:00 +0000",
-      "description": "Canada has had more than a year of continuous measles transmission. The United States has until January to limit cases before losing status.",
-      "content": "Canada has had more than a year of continuous measles transmission. The United States has until January to limit cases before losing status.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112425_EG_measles_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-09T23:32:27.571Z"
+  "lastFetched": "2025-12-10T03:51:34.959Z"
 }
