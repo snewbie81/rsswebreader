@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Neandertals mastered fire-making tools 400,000 years ago",
+      "link": "https://www.sciencenews.org/article/neandertal-fire-making-tools-flint-iron",
+      "guid": "https://www.sciencenews.org/?p=3163481",
+      "pubDate": "Wed, 10 Dec 2025 16:00:00 +0000",
+      "description": "Archaeologists found flint, iron pyrite to strike it and sediments where a fire was probably built several times at an ancient site in England.",
+      "content": "Archaeologists found flint, iron pyrite to strike it and sediments where a fire was probably built several times at an ancient site in England.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120925_JB_neandertal_feat.jpg?w=800"
+    },
+    {
       "title": "From viruses to elephants, nature thrives on tiled patterns",
       "link": "https://www.sciencenews.org/article/nature-tiles-patterns-biological",
       "guid": "https://www.sciencenews.org/?p=3163145",
@@ -173,18 +182,9 @@
       "description": "Postmenopausal women who listened to self-guided hypnosis recordings daily for six weeks saw meaningful improvements in hot flash symptoms.",
       "content": "Postmenopausal women who listened to self-guided hypnosis recordings daily for six weeks saw meaningful improvements in hot flash symptoms.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112025_MG_hypnosis_feat.jpg?w=800"
-    },
-    {
-      "title": "Personalized ‘prehabilitation’ helps the body brace for major surgery",
-      "link": "https://www.sciencenews.org/article/prehabilitation-surgery-immune-system",
-      "guid": "https://www.sciencenews.org/?p=3162605",
-      "pubDate": "Mon, 01 Dec 2025 16:00:00 +0000",
-      "description": "A small study finds that individualized prehab can dampen harmful immune responses and may reduce complications after an operation.",
-      "content": "A small study finds that individualized prehab can dampen harmful immune responses and may reduce complications after an operation.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/111725_AG_prehab_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-10T15:45:13.304Z"
+  "lastFetched": "2025-12-10T17:01:15.294Z"
 }
