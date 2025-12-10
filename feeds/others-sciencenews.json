@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Bats might be the next bird flu wild card",
+      "link": "https://www.sciencenews.org/article/vampire-bats-bird-flu-h5n1-virus",
+      "guid": "https://www.sciencenews.org/?p=3163337",
+      "pubDate": "Wed, 10 Dec 2025 18:00:00 +0000",
+      "description": "Finding that vampire bats along Peru’s coast carried H5N1 antibodies raises concerns that multiple bat species could become reservoirs for the virus.",
+      "content": "Finding that vampire bats along Peru’s coast carried H5N1 antibodies raises concerns that multiple bat species could become reservoirs for the virus.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120325_JQ_H5N1_feat.jpg?w=800"
+    },
+    {
       "title": "Neandertals mastered fire-making tools 400,000 years ago",
       "link": "https://www.sciencenews.org/article/neandertal-fire-making-tools-flint-iron",
       "guid": "https://www.sciencenews.org/?p=3163481",
@@ -173,18 +182,9 @@
       "description": "“Magic-angle” graphene may provide new clues into poorly understood unconventional superconductors, which operate at higher-than-normal temperatures.",
       "content": "“Magic-angle” graphene may provide new clues into poorly understood unconventional superconductors, which operate at higher-than-normal temperatures.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112425_EC_graphenesuperconductor_feat.jpg?w=800"
-    },
-    {
-      "title": "Self-hypnosis with cooling mental imagery could ease hot flashes",
-      "link": "https://www.sciencenews.org/article/self-hypnosis-hot-flashes-menopause",
-      "guid": "https://www.sciencenews.org/?p=3162880",
-      "pubDate": "Tue, 02 Dec 2025 14:00:00 +0000",
-      "description": "Postmenopausal women who listened to self-guided hypnosis recordings daily for six weeks saw meaningful improvements in hot flash symptoms.",
-      "content": "Postmenopausal women who listened to self-guided hypnosis recordings daily for six weeks saw meaningful improvements in hot flash symptoms.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112025_MG_hypnosis_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-10T17:48:27.997Z"
+  "lastFetched": "2025-12-10T18:56:11.258Z"
 }
