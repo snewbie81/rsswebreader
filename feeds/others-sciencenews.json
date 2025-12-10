@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "From viruses to elephants, nature thrives on tiled patterns",
+      "link": "https://www.sciencenews.org/article/nature-tiles-patterns-biological",
+      "guid": "https://www.sciencenews.org/?p=3163145",
+      "pubDate": "Wed, 10 Dec 2025 14:00:00 +0000",
+      "description": "A compilation of 100 examples of biological tilings shows how repeated natural motifs enhance strength, flexibility and other key functions.",
+      "content": "A compilation of 100 examples of biological tilings shows how repeated natural motifs enhance strength, flexibility and other key functions.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120125_NO_biologicaltilings_feat.jpg?w=800"
+    },
+    {
       "title": "Trucked-in honeybees may edge out bigger bumblebee foragers",
       "link": "https://www.sciencenews.org/article/honeybees-outcompete-bumblebees-hives",
       "guid": "https://www.sciencenews.org/?p=3163453",
@@ -173,18 +182,9 @@
       "description": "A small study finds that individualized prehab can dampen harmful immune responses and may reduce complications after an operation.",
       "content": "A small study finds that individualized prehab can dampen harmful immune responses and may reduce complications after an operation.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/111725_AG_prehab_feat.jpg?w=800"
-    },
-    {
-      "title": "A therapeutic HPV vaccine shrank cervical tumors in mice",
-      "link": "https://www.sciencenews.org/article/therapeutic-hpv-vaccine-cervical-cancer",
-      "guid": "https://www.sciencenews.org/?p=3162904",
-      "pubDate": "Mon, 01 Dec 2025 14:00:00 +0000",
-      "description": "An HPV vaccine delivered into the nose can treat cervical tumors in mice. The vaccine targets a cancer protein produced by the virus.",
-      "content": "An HPV vaccine delivered into the nose can treat cervical tumors in mice. The vaccine targets a cancer protein produced by the virus.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112125_MR_hpvnasalvaccine_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-10T13:52:32.958Z"
+  "lastFetched": "2025-12-10T14:52:52.890Z"
 }
