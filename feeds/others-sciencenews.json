@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "How these strange cells may explain the origin of complex life",
+      "link": "https://www.sciencenews.org/article/cells-origin-of-life-asgard-archaea",
+      "guid": "https://www.sciencenews.org/?p=3163428",
+      "pubDate": "Thu, 11 Dec 2025 14:00:00 +0000",
+      "description": "The tiny pantheon known as the Asgard archaea bear traits that hint at how plants, animals and fungi emerged on Earth.",
+      "content": "The tiny pantheon known as the Asgard archaea bear traits that hint at how plants, animals and fungi emerged on Earth.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/012026_archaea_feat.jpg?w=800"
+    },
+    {
       "title": "Bats might be the next bird flu wild card",
       "link": "https://www.sciencenews.org/article/vampire-bats-bird-flu-h5n1-virus",
       "guid": "https://www.sciencenews.org/?p=3163337",
@@ -173,18 +182,9 @@
       "description": "Human activity can cause “healed” faults to release their stored strength, triggering unexpected quakes in tectonically stable regions.",
       "content": "Human activity can cause “healed” faults to release their stored strength, triggering unexpected quakes in tectonically stable regions.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/111425_RS_quakes-stable-areas_feat.jpg?w=800"
-    },
-    {
-      "title": "Twisted stacks of 2-D carbon act like a weird type of superconductor",
-      "link": "https://www.sciencenews.org/article/twisted-carbon-graphene-superconductor",
-      "guid": "https://www.sciencenews.org/?p=3162952",
-      "pubDate": "Tue, 02 Dec 2025 16:00:00 +0000",
-      "description": "“Magic-angle” graphene may provide new clues into poorly understood unconventional superconductors, which operate at higher-than-normal temperatures.",
-      "content": "“Magic-angle” graphene may provide new clues into poorly understood unconventional superconductors, which operate at higher-than-normal temperatures.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/11/112425_EC_graphenesuperconductor_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-11T13:53:10.274Z"
+  "lastFetched": "2025-12-11T14:45:02.222Z"
 }
