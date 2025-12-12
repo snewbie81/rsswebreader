@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "‘Black Religion in the Madhouse’ examines psychiatry and race post-Civil War",
+      "link": "https://www.sciencenews.org/article/racism-psychiatry-black-religion-book",
+      "guid": "https://www.sciencenews.org/?p=3163513",
+      "pubDate": "Fri, 12 Dec 2025 14:00:00 +0000",
+      "description": "In the aftermath of slavery, white psychiatrists diagnosed Black people with “religious excitement” and claimed they were unfit for freedom.",
+      "content": "In the aftermath of slavery, white psychiatrists diagnosed Black people with “religious excitement” and claimed they were unfit for freedom.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/112425_AC_racepsychiatrybook_feat.jpg?w=800"
+    },
+    {
       "title": "Early Earth’s belly held onto its water",
       "link": "https://www.sciencenews.org/article/early-earth-water-maga-ocean-mantle",
       "guid": "https://www.sciencenews.org/?p=3163574",
@@ -173,18 +182,9 @@
       "description": "The modern house cat reached China in the 8th century. Before that, another cat — the leopard cat — hunted the rodents in ancient Chinese settlements.",
       "content": "The modern house cat reached China in the 8th century. Before that, another cat — the leopard cat — hunted the rodents in ancient Chinese settlements.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120225_BB_cats_feat.jpg?w=800"
-    },
-    {
-      "title": "Ancient southern Africans took genetic evolution in a new direction",
-      "link": "https://www.sciencenews.org/article/ancient-southern-africa-gene-evolution",
-      "guid": "https://www.sciencenews.org/?p=3163146",
-      "pubDate": "Wed, 03 Dec 2025 16:00:00 +0000",
-      "description": "An ancient, shared set of human-specific genes underwent changes in a geographically isolated population after around 300,000 years ago, scientists say.",
-      "content": "An ancient, shared set of human-specific genes underwent changes in a geographically isolated population after around 300,000 years ago, scientists say.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120325_BB_AfricaHomosapiens_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-12T13:48:51.383Z"
+  "lastFetched": "2025-12-12T14:38:24.402Z"
 }
