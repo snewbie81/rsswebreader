@@ -4,6 +4,15 @@
   "link": "https://www.sciencenews.org",
   "items": [
     {
+      "title": "Mosquitos use it to suck blood. Researchers used it to 3-D print",
+      "link": "https://www.sciencenews.org/article/mosquito-proboscis-3d-printing",
+      "guid": "https://www.sciencenews.org/?p=3163373",
+      "pubDate": "Fri, 12 Dec 2025 16:00:00 +0000",
+      "description": "A mosquito proboscis repurposed as a 3-D printing nozzle can print filaments around 20 micrometers wide, half the width of a fine human hair.",
+      "content": "A mosquito proboscis repurposed as a 3-D printing nozzle can print filaments around 20 micrometers wide, half the width of a fine human hair.",
+      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120325_PD_necroprinting_feat.jpg?w=800"
+    },
+    {
       "title": "‘Black Religion in the Madhouse’ examines psychiatry and race post-Civil War",
       "link": "https://www.sciencenews.org/article/racism-psychiatry-black-religion-book",
       "guid": "https://www.sciencenews.org/?p=3163513",
@@ -173,18 +182,9 @@
       "description": "A volcanic eruption may have triggered a deadly chain of events that brought the Black Plague to Europe in the 14th century.",
       "content": "A volcanic eruption may have triggered a deadly chain of events that brought the Black Plague to Europe in the 14th century.",
       "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120425_CG_blackdeath_feat.jpg?w=800"
-    },
-    {
-      "title": "Ancient DNA reveals China’s first ‘pet’ cat wasn’t the house cat",
-      "link": "https://www.sciencenews.org/article/dna-china-first-cat-leopard-rodent",
-      "guid": "https://www.sciencenews.org/?p=3163126",
-      "pubDate": "Wed, 03 Dec 2025 18:00:00 +0000",
-      "description": "The modern house cat reached China in the 8th century. Before that, another cat — the leopard cat — hunted the rodents in ancient Chinese settlements.",
-      "content": "The modern house cat reached China in the 8th century. Before that, another cat — the leopard cat — hunted the rodents in ancient Chinese settlements.",
-      "thumbnail": "https://www.sciencenews.org/wp-content/uploads/sites/2/2025/12/120225_BB_cats_feat.jpg?w=800"
     }
   ],
   "group": "others",
   "url": "https://www.sciencenews.org/feed",
-  "lastFetched": "2025-12-12T15:42:57.442Z"
+  "lastFetched": "2025-12-12T16:49:29.332Z"
 }
